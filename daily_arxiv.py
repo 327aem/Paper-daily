@@ -130,13 +130,13 @@ def get_daily_papers(topic, query="slam", max_results=2):
         abstract_html = f"<details><summary>Show Abstract</summary><p>{paper_abstract}</p></details>"
 
         if repo_url is not None:
-            content[paper_key] = "|**{}**|**{}**|{}|[{}]({})|**[link]({})**|\n".format(
-                update_time, paper_title, abstract_html, paper_key, paper_url, repo_url)
+            content[paper_key] = "|**{}**|**{}**|[{}]({})|**[link]({})**|\n".format(
+                update_time, paper_title, paper_key, paper_url, repo_url)
             content_to_web[paper_key] = "- {}, **{}**, Paper: [{}]({}), Code: **[{}]({})**".format(
                 update_time, paper_title, paper_url, paper_url, repo_url, repo_url)
         else:
-            content[paper_key] = "|**{}**|**{}**|{}|[{}]({})|null|\n".format(
-                update_time, paper_title, abstract_html, paper_key, paper_url)
+            content[paper_key] = "|**{}**|**{}**|[{}]({})|null|\n".format(
+                update_time, paper_title, paper_key, paper_url)
             content_to_web[paper_key] = "- {}, **{}**, Paper: [{}]({})".format(
                 update_time, paper_title, paper_url, paper_url)
 
