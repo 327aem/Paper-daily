@@ -5,7 +5,7 @@ repo_name: "Paper-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 200
 
 publish_readme: True
 publish_gitpage: True
@@ -23,6 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Recommendation":
-        filters: ["Recommendation"]
+        filters: ["Recommendation", "Recommend", "Recommender"]
     "Retrieval":
         filters: ["Embedding", "Retrieval", "Retrieve"]
