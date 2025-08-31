@@ -25,4 +25,6 @@ keywords:
     "Recommendation":
         filters: ["Recommendation", "Recommend", "Recommender"]
     "Retrieval":
-        filters: ["Embedding", "Retrieval", "Retrieve"]
+        filters: ["Retrieval", "Retrieve"]
+    "Multi-Modal":
+        filters: ["multimodal", "multi-modal"]
