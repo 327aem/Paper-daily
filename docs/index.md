@@ -9,6 +9,21 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-08-29**|**DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors**|[2508.21801](http://arxiv.org/abs/2508.21801)|null|
+|**2025-08-29**|**Benchmarking GPT-5 in Radiation Oncology: Measurable Gains, but Persistent Need for Expert Oversight**|[2508.21777](http://arxiv.org/abs/2508.21777)|null|
+|**2025-08-29**|**I Stolenly Swear That I Am Up to (No) Good: Design and Evaluation of Model Stealing Attacks**|[2508.21654](http://arxiv.org/abs/2508.21654)|null|
+|**2025-08-29**|**NewsReX: A More Efficient Approach to News Recommendation with Keras 3 and JAX**|[2508.21572](http://arxiv.org/abs/2508.21572)|**[link](https://github.com/igor17400/NewsReX.)**|
+|**2025-08-29**|**What Data is Really Necessary? A Feasibility Study of Inference Data Minimization for Recommender Systems**|[2508.21547](http://arxiv.org/abs/2508.21547)|null|
+|**2025-08-29**|**Triply Robust Panel Estimators**|[2508.21536](http://arxiv.org/abs/2508.21536)|null|
+|**2025-08-29**|**Diffusion-based Multi-modal Synergy Interest Network for Click-through Rate Prediction**|[2508.21460](http://arxiv.org/abs/2508.21460)|**[link](https://github.com/Cxx-0/Diff-MSIN.)**|
+|**2025-08-29**|**Automatic Reviewers Fail to Detect Faulty Reasoning in Research Papers: A New Counterfactual Evaluation Framework**|[2508.21422](http://arxiv.org/abs/2508.21422)|null|
+|**2025-08-29**|**Evaluating Recabilities of Foundation Models: A Multi-Domain, Multi-Dataset Benchmark**|[2508.21354](http://arxiv.org/abs/2508.21354)|null|
+|**2025-08-29**|**Stairway to Fairness: Connecting Group and Individual Fairness**|[2508.21334](http://arxiv.org/abs/2508.21334)|**[link](https://github.com/theresiavr/stairway-to-fairness.)**|
+|**2025-08-29**|**Project-Based Learning in Introductory Quantum Computing Courses: A Case Study on Quantum Algorithms for Medical Imaging**|[2508.21321](http://arxiv.org/abs/2508.21321)|null|
+|**2025-08-28**|**Breaking the Cold-Start Barrier: Reinforcement Learning with Double and Dueling DQNs**|[2508.21259](http://arxiv.org/abs/2508.21259)|null|
+|**2025-08-28**|**Qubit Health Analytics and Clustering for HPC-Integrated Quantum Processors**|[2508.21231](http://arxiv.org/abs/2508.21231)|null|
+|**2025-08-28**|**Designing Smarter Conversational Agents for Kids: Lessons from Cognitive Work and Means-Ends Analyses**|[2508.21209](http://arxiv.org/abs/2508.21209)|null|
+|**2025-08-28**|**The Hidden Cost of Defaults in Recommender System Evaluation**|[2508.21180](http://arxiv.org/abs/2508.21180)|null|
 |**2025-08-28**|**Efficient Large-Scale Cross-Domain Sequential Recommendation with Dynamic State Representations**|[2508.20945](http://arxiv.org/abs/2508.20945)|null|
 |**2025-08-28**|**OneRec-V2 Technical Report**|[2508.20900](http://arxiv.org/abs/2508.20900)|null|
 |**2025-08-28**|**SemSR: Semantics aware robust Session-based Recommendations**|[2508.20587](http://arxiv.org/abs/2508.20587)|null|
@@ -66,6 +81,35 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-08-29**|**DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors**|[2508.21801](http://arxiv.org/abs/2508.21801)|null|
+|**2025-08-29**|**TMUAD: Enhancing Logical Capabilities in Unified Anomaly Detection Models with a Text Memory Bank**|[2508.21795](http://arxiv.org/abs/2508.21795)|**[link](https://github.com/SIA-IDE/TMUAD.)**|
+|**2025-08-29**|**Going over Fine Web with a Fine-Tooth Comb: Technical Report of Indexing Fine Web for Problematic Content Search and Retrieval**|[2508.21788](http://arxiv.org/abs/2508.21788)|null|
+|**2025-08-29**|**Reasoning-Intensive Regression**|[2508.21762](http://arxiv.org/abs/2508.21762)|null|
+|**2025-08-29**|**Learning from Silence and Noise for Visual Sound Source Localization**|[2508.21761](http://arxiv.org/abs/2508.21761)|**[link](https://xavijuanola.github.io/SSL-SaN/.)**|
+|**2025-08-29**|**T-Retrievability: A Topic-Focused Approach to Measure Fair Document Exposure in Information Retrieval**|[2508.21704](http://arxiv.org/abs/2508.21704)|null|
+|**2025-08-29**|**Unidentified and Confounded? Understanding Two-Tower Models for Unbiased Learning to Rank (Extended Abstract)**|[2508.21698](http://arxiv.org/abs/2508.21698)|null|
+|**2025-08-29**|**QZhou-Embedding Technical Report**|[2508.21632](http://arxiv.org/abs/2508.21632)|null|
+|**2025-08-29**|**Personality Matters: User Traits Predict LLM Preferences in Multi-Turn Collaborative Tasks**|[2508.21628](http://arxiv.org/abs/2508.21628)|null|
+|**2025-08-29**|**NewsReX: A More Efficient Approach to News Recommendation with Keras 3 and JAX**|[2508.21572](http://arxiv.org/abs/2508.21572)|**[link](https://github.com/igor17400/NewsReX.)**|
+|**2025-08-29**|**What Data is Really Necessary? A Feasibility Study of Inference Data Minimization for Recommender Systems**|[2508.21547](http://arxiv.org/abs/2508.21547)|null|
+|**2025-08-29**|**HCCM: Hierarchical Cross-Granularity Contrastive and Matching Learning for Natural Language-Guided Drones**|[2508.21539](http://arxiv.org/abs/2508.21539)|null|
+|**2025-08-29**|**Discovery of 17 New GeV Blazar Candidates through Spatial Cross-Matching between Roma-BZCAT and 4FGL-Xiang-DR2**|[2508.21503](http://arxiv.org/abs/2508.21503)|null|
+|**2025-08-29**|**Geospatial Question Answering on Historical Maps Using Spatio-Temporal Knowledge Graphs and Large Language Models**|[2508.21491](http://arxiv.org/abs/2508.21491)|null|
+|**2025-08-29**|**Inverse Random Source Problem for the Helmholtz Equation from Statistical Phaseless Data**|[2508.21478](http://arxiv.org/abs/2508.21478)|null|
+|**2025-08-29**|**MMSearch-Plus: A Simple Yet Challenging Benchmark for Multimodal Browsing Agents**|[2508.21475](http://arxiv.org/abs/2508.21475)|null|
+|**2025-08-29**|**Diffusion-based Multi-modal Synergy Interest Network for Click-through Rate Prediction**|[2508.21460](http://arxiv.org/abs/2508.21460)|**[link](https://github.com/Cxx-0/Diff-MSIN.)**|
+|**2025-08-29**|**lifeXplore at the Lifelog Search Challenge 2020**|[2508.21397](http://arxiv.org/abs/2508.21397)|null|
+|**2025-08-29**|**Evaluating Recabilities of Foundation Models: A Multi-Domain, Multi-Dataset Benchmark**|[2508.21354](http://arxiv.org/abs/2508.21354)|null|
+|**2025-08-29**|**Stairway to Fairness: Connecting Group and Individual Fairness**|[2508.21334](http://arxiv.org/abs/2508.21334)|**[link](https://github.com/theresiavr/stairway-to-fairness.)**|
+|**2025-08-29**|**LLM-driven Provenance Forensics for Threat Investigation and Detection**|[2508.21323](http://arxiv.org/abs/2508.21323)|null|
+|**2025-08-29**|**Multi-Ontology Integration with Dual-Axis Propagation for Medical Concept Representation**|[2508.21320](http://arxiv.org/abs/2508.21320)|null|
+|**2025-08-29**|**Towards On-Device Personalization: Cloud-device Collaborative Data Augmentation for Efficient On-device Language Model**|[2508.21313](http://arxiv.org/abs/2508.21313)|null|
+|**2025-08-29**|**MultiFluxAI Enhancing Platform Engineering with Advanced Agent-Orchestrated Retrieval Systems**|[2508.21307](http://arxiv.org/abs/2508.21307)|null|
+|**2025-08-29**|**Efficient Code Embeddings from Code Generation Models**|[2508.21290](http://arxiv.org/abs/2508.21290)|null|
+|**2025-08-28**|**Breaking the Cold-Start Barrier: Reinforcement Learning with Double and Dueling DQNs**|[2508.21259](http://arxiv.org/abs/2508.21259)|null|
+|**2025-08-28**|**Addressing accuracy and hallucination of LLMs in Alzheimer's disease research through knowledge graphs**|[2508.21238](http://arxiv.org/abs/2508.21238)|null|
+|**2025-08-28**|**The Hidden Cost of Defaults in Recommender System Evaluation**|[2508.21180](http://arxiv.org/abs/2508.21180)|null|
+|**2025-08-28**|**Synthetic CVs To Build and Test Fairness-Aware Hiring Tools**|[2508.21179](http://arxiv.org/abs/2508.21179)|null|
 |**2025-08-28**|**Mixture of Contexts for Long Video Generation**|[2508.21058](http://arxiv.org/abs/2508.21058)|null|
 |**2025-08-28**|**Enabling Equitable Access to Trustworthy Financial Reasoning**|[2508.21051](http://arxiv.org/abs/2508.21051)|null|
 |**2025-08-28**|**On the Theoretical Limitations of Embedding-Based Retrieval**|[2508.21038](http://arxiv.org/abs/2508.21038)|null|
@@ -123,6 +167,25 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-08-29**|**DriveQA: Passing the Driving Knowledge Test**|[2508.21824](http://arxiv.org/abs/2508.21824)|null|
+|**2025-08-29**|**DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors**|[2508.21801](http://arxiv.org/abs/2508.21801)|null|
+|**2025-08-29**|**MoE-Health: A Mixture of Experts Framework for Robust Multimodal Healthcare Prediction**|[2508.21793](http://arxiv.org/abs/2508.21793)|null|
+|**2025-08-29**|**From Drone Imagery to Livability Mapping: AI-powered Environment Perception in Rural China**|[2508.21738](http://arxiv.org/abs/2508.21738)|null|
+|**2025-08-29**|**CAD2DMD-SET: Synthetic Generation Tool of Digital Measurement Device CAD Model Datasets for fine-tuning Large Vision-Language Models**|[2508.21732](http://arxiv.org/abs/2508.21732)|null|
+|**2025-08-29**|**Is this chart lying to me? Automating the detection of misleading visualizations**|[2508.21675](http://arxiv.org/abs/2508.21675)|null|
+|**2025-08-29**|**The Rosario Dataset v2: Multimodal Dataset for Agricultural Robotics**|[2508.21635](http://arxiv.org/abs/2508.21635)|**[link](https://cifasis.github.io/rosariov2/.)**|
+|**2025-08-29**|**Integrating Pathology and CT Imaging for Personalized Recurrence Risk Prediction in Renal Cancer**|[2508.21581](http://arxiv.org/abs/2508.21581)|null|
+|**2025-08-29**|**ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding**|[2508.21496](http://arxiv.org/abs/2508.21496)|null|
+|**2025-08-29**|**MMSearch-Plus: A Simple Yet Challenging Benchmark for Multimodal Browsing Agents**|[2508.21475](http://arxiv.org/abs/2508.21475)|null|
+|**2025-08-29**|**Morae: Proactively Pausing UI Agents for User Choices**|[2508.21456](http://arxiv.org/abs/2508.21456)|null|
+|**2025-08-29**|**One More Glance with Sharp Eyes: Rethinking Lightweight Captioning as a Practical Visual Specialist**|[2508.21451](http://arxiv.org/abs/2508.21451)|null|
+|**2025-08-29**|**Med-RewardBench: Benchmarking Reward Models and Judges for Medical Multimodal Large Language Models**|[2508.21430](http://arxiv.org/abs/2508.21430)|null|
+|**2025-08-29**|**AHELM: A Holistic Evaluation of Audio-Language Models**|[2508.21376](http://arxiv.org/abs/2508.21376)|**[link](https://crfm.stanford.edu/helm/audio/v1.0.0.)**|
+|**2025-08-28**|**A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers**|[2508.21148](http://arxiv.org/abs/2508.21148)|null|
+|**2025-08-28**|**Can Multimodal LLMs Solve the Basic Perception Problems of Percept-V?**|[2508.21143](http://arxiv.org/abs/2508.21143)|null|
+|**2025-08-28**|**HiddenObject: Modality-Agnostic Fusion for Multimodal Hidden Object Detection**|[2508.21135](http://arxiv.org/abs/2508.21135)|null|
+|**2025-08-28**|**R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**|[2508.21113](http://arxiv.org/abs/2508.21113)|null|
+|**2025-08-28**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
 |**2025-08-28**|**CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification**|[2508.21046](http://arxiv.org/abs/2508.21046)|**[link](https://github.com/JiuTian-VL/CogVLA.)**|
 |**2025-08-28**|**Predicting Trends in $V_{OC}$ Through Rapid, Multimodal Characterization of State-of-the-Art p-i-n Perovskite Devices**|[2508.21037](http://arxiv.org/abs/2508.21037)|null|
 |**2025-08-28**|**PathMR: Multimodal Visual Reasoning for Interpretable Pathology Diagnosis**|[2508.20851](http://arxiv.org/abs/2508.20851)|**[link](https://github.com/zhangye-zoe/PathMR.)**|
