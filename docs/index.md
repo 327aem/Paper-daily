@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.31
+## Updated on 2025.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -30,9 +30,9 @@ layout: default
 |**2025-08-27**|**Anomaly Detection in Networked Bandits**|[2508.20076](http://arxiv.org/abs/2508.20076)|null|
 |**2025-08-27**|**Using item recommendations and LLMs in marketing email titles**|[2508.20024](http://arxiv.org/abs/2508.20024)|null|
 |**2025-08-27**|**CataractSurg-80K: Knowledge-Driven Benchmarking for Structured Reasoning in Ophthalmic Surgery Planning**|[2508.20014](http://arxiv.org/abs/2508.20014)|null|
-|**2025-08-28**|**Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization**|[2508.19918](http://arxiv.org/abs/2508.19918)|**[link](https://github.com/UEC-InabaLab/Refining-LLM-Text)**|
+|**2025-08-29**|**Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization**|[2508.19918](http://arxiv.org/abs/2508.19918)|**[link](https://github.com/UEC-InabaLab/Refining-LLM-Text)**|
 |**2025-08-27**|**Design and Analysis of the Tail Sequence for Short LDPC-Coded Space Communications**|[2508.19858](http://arxiv.org/abs/2508.19858)|null|
-|**2025-08-28**|**Risky Advice and Reputational Bias**|[2508.19707](http://arxiv.org/abs/2508.19707)|null|
+|**2025-08-29**|**Risky Advice and Reputational Bias**|[2508.19707](http://arxiv.org/abs/2508.19707)|null|
 |**2025-08-27**|**A comparison study of collisions at relativistic energies involving light nuclei**|[2508.19681](http://arxiv.org/abs/2508.19681)|null|
 |**2025-08-27**|**A Scenario-Oriented Survey of Federated Recommender Systems: Techniques, Challenges, and Future Directions**|[2508.19620](http://arxiv.org/abs/2508.19620)|null|
 |**2025-08-27**|**A Model-agnostic Strategy to Mitigate Embedding Degradation in Personalized Federated Recommendation**|[2508.19591](http://arxiv.org/abs/2508.19591)|null|
@@ -60,7 +60,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## Retrieval
 
@@ -97,7 +97,7 @@ layout: default
 |**2025-08-28**|**MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers**|[2508.20453](http://arxiv.org/abs/2508.20453)|**[link](https://github.com/Accenture/mcp-bench.)**|
 |**2025-08-28**|**Rethinking Purity and Diversity in Multi-Behavior Sequential Recommendation from the Frequency Perspective**|[2508.20427](http://arxiv.org/abs/2508.20427)|null|
 |**2025-08-28**|**CAMB: A comprehensive industrial LLM benchmark on civil aviation maintenance**|[2508.20420](http://arxiv.org/abs/2508.20420)|**[link](https://github.com/CamBenchmark/cambenchmark)**|
-|**2025-08-28**|**KG-CQR: Leveraging Structured Relation Representations in Knowledge Graphs for Contextual Query Retrieval**|[2508.20417](http://arxiv.org/abs/2508.20417)|null|
+|**2025-08-29**|**KG-CQR: Leveraging Structured Relation Representations in Knowledge Graphs for Contextual Query Retrieval**|[2508.20417](http://arxiv.org/abs/2508.20417)|null|
 |**2025-08-28**|**DentalBench: Benchmarking and Advancing LLMs Capability for Bilingual Dentistry Understanding**|[2508.20416](http://arxiv.org/abs/2508.20416)|null|
 |**2025-08-28**|**Fact or Facsimile? Evaluating the Factual Robustness of Modern Retrievers**|[2508.20408](http://arxiv.org/abs/2508.20408)|null|
 |**2025-08-28**|**Revealing Potential Biases in LLM-Based Recommender Systems in the Cold Start Setting**|[2508.20401](http://arxiv.org/abs/2508.20401)|null|
@@ -117,7 +117,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -174,7 +174,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
