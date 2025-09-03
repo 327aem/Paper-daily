@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.02
+## Updated on 2025.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -75,7 +75,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 ## Retrieval
 
@@ -111,7 +111,7 @@ layout: default
 |**2025-08-28**|**The Hidden Cost of Defaults in Recommender System Evaluation**|[2508.21180](http://arxiv.org/abs/2508.21180)|null|
 |**2025-08-28**|**Synthetic CVs To Build and Test Fairness-Aware Hiring Tools**|[2508.21179](http://arxiv.org/abs/2508.21179)|null|
 |**2025-08-28**|**Mixture of Contexts for Long Video Generation**|[2508.21058](http://arxiv.org/abs/2508.21058)|null|
-|**2025-08-28**|**Enabling Equitable Access to Trustworthy Financial Reasoning**|[2508.21051](http://arxiv.org/abs/2508.21051)|null|
+|**2025-08-29**|**Language Models and Logic Programs for Trustworthy Financial Reasoning**|[2508.21051](http://arxiv.org/abs/2508.21051)|null|
 |**2025-08-28**|**On the Theoretical Limitations of Embedding-Based Retrieval**|[2508.21038](http://arxiv.org/abs/2508.21038)|null|
 |**2025-08-28**|**An Agile Method for Implementing Retrieval Augmented Generation Tools in Industrial SMEs**|[2508.21024](http://arxiv.org/abs/2508.21024)|null|
 |**2025-08-28**|**InSQuAD: In-Context Learning for Efficient Retrieval via Submodular Mutual Information to Enforce Quality and Diversity**|[2508.21003](http://arxiv.org/abs/2508.21003)|null|
@@ -123,7 +123,7 @@ layout: default
 |**2025-08-28**|**Deep Multiple Quantization Network on Long Behavior Sequence for Click-Through Rate Prediction**|[2508.20865](http://arxiv.org/abs/2508.20865)|null|
 |**2025-08-28**|**GDLLM: A Global Distance-aware Modeling Approach Based on Large Language Models for Event Temporal Relation Extraction**|[2508.20828](http://arxiv.org/abs/2508.20828)|null|
 |**2025-08-28**|**Addressing Personalized Bias for Unbiased Learning to Rank**|[2508.20798](http://arxiv.org/abs/2508.20798)|null|
-|**2025-08-28**|**SEAL: Structure and Element Aware Learning to Improve Long Structured Document Retrieval**|[2508.20778](http://arxiv.org/abs/2508.20778)|**[link](https://github.com/xinhaoH/SEAL.)**|
+|**2025-08-31**|**SEAL: Structure and Element Aware Learning to Improve Long Structured Document Retrieval**|[2508.20778](http://arxiv.org/abs/2508.20778)|**[link](https://github.com/xinhaoH/SEAL.)**|
 |**2025-08-28**|**Provable Benefits of In-Tool Learning for Large Language Models**|[2508.20755](http://arxiv.org/abs/2508.20755)|null|
 |**2025-08-28**|**Rethinking Testing for LLM Applications: Characteristics, Challenges, and a Lightweight Interaction Protocol**|[2508.20737](http://arxiv.org/abs/2508.20737)|null|
 |**2025-08-28**|**Generative Annotation for ASR Named Entity Correction**|[2508.20700](http://arxiv.org/abs/2508.20700)|null|
@@ -161,7 +161,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -185,7 +185,7 @@ layout: default
 |**2025-08-28**|**Can Multimodal LLMs Solve the Basic Perception Problems of Percept-V?**|[2508.21143](http://arxiv.org/abs/2508.21143)|null|
 |**2025-08-28**|**HiddenObject: Modality-Agnostic Fusion for Multimodal Hidden Object Detection**|[2508.21135](http://arxiv.org/abs/2508.21135)|null|
 |**2025-08-28**|**R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**|[2508.21113](http://arxiv.org/abs/2508.21113)|null|
-|**2025-08-28**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
+|**2025-09-01**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
 |**2025-08-28**|**CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification**|[2508.21046](http://arxiv.org/abs/2508.21046)|**[link](https://github.com/JiuTian-VL/CogVLA.)**|
 |**2025-08-28**|**Predicting Trends in $V_{OC}$ Through Rapid, Multimodal Characterization of State-of-the-Art p-i-n Perovskite Devices**|[2508.21037](http://arxiv.org/abs/2508.21037)|null|
 |**2025-08-28**|**PathMR: Multimodal Visual Reasoning for Interpretable Pathology Diagnosis**|[2508.20851](http://arxiv.org/abs/2508.20851)|**[link](https://github.com/zhangye-zoe/PathMR.)**|
@@ -237,7 +237,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
