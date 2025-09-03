@@ -53,7 +53,7 @@
 |**2025-08-29**|**Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization**|[2508.19918](http://arxiv.org/abs/2508.19918)|**[link](https://github.com/UEC-InabaLab/Refining-LLM-Text)**|
 |**2025-08-27**|**Design and Analysis of the Tail Sequence for Short LDPC-Coded Space Communications**|[2508.19858](http://arxiv.org/abs/2508.19858)|null|
 |**2025-08-29**|**Risky Advice and Reputational Bias**|[2508.19707](http://arxiv.org/abs/2508.19707)|null|
-|**2025-08-27**|**A comparison study of collisions at relativistic energies involving light nuclei**|[2508.19681](http://arxiv.org/abs/2508.19681)|null|
+|**2025-09-02**|**A comparison study of collisions at relativistic energies involving light nuclei**|[2508.19681](http://arxiv.org/abs/2508.19681)|null|
 |**2025-08-27**|**A Scenario-Oriented Survey of Federated Recommender Systems: Techniques, Challenges, and Future Directions**|[2508.19620](http://arxiv.org/abs/2508.19620)|null|
 |**2025-08-27**|**A Model-agnostic Strategy to Mitigate Embedding Degradation in Personalized Federated Recommendation**|[2508.19591](http://arxiv.org/abs/2508.19591)|null|
 |**2025-08-27**|**Skill-based Explanations for Serendipitous Course Recommendation**|[2508.19569](http://arxiv.org/abs/2508.19569)|null|
@@ -180,7 +180,7 @@
 |**2025-08-29**|**Is this chart lying to me? Automating the detection of misleading visualizations**|[2508.21675](http://arxiv.org/abs/2508.21675)|null|
 |**2025-08-29**|**The Rosario Dataset v2: Multimodal Dataset for Agricultural Robotics**|[2508.21635](http://arxiv.org/abs/2508.21635)|**[link](https://cifasis.github.io/rosariov2/.)**|
 |**2025-08-29**|**Integrating Pathology and CT Imaging for Personalized Recurrence Risk Prediction in Renal Cancer**|[2508.21581](http://arxiv.org/abs/2508.21581)|null|
-|**2025-08-29**|**ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding**|[2508.21496](http://arxiv.org/abs/2508.21496)|null|
+|**2025-09-02**|**ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding**|[2508.21496](http://arxiv.org/abs/2508.21496)|null|
 |**2025-08-29**|**MMSearch-Plus: A Simple Yet Challenging Benchmark for Multimodal Browsing Agents**|[2508.21475](http://arxiv.org/abs/2508.21475)|null|
 |**2025-08-29**|**Morae: Proactively Pausing UI Agents for User Choices**|[2508.21456](http://arxiv.org/abs/2508.21456)|null|
 |**2025-08-29**|**One More Glance with Sharp Eyes: Rethinking Lightweight Captioning as a Practical Visual Specialist**|[2508.21451](http://arxiv.org/abs/2508.21451)|null|
@@ -189,7 +189,7 @@
 |**2025-08-28**|**A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers**|[2508.21148](http://arxiv.org/abs/2508.21148)|null|
 |**2025-08-28**|**Can Multimodal LLMs Solve the Basic Perception Problems of Percept-V?**|[2508.21143](http://arxiv.org/abs/2508.21143)|null|
 |**2025-08-28**|**HiddenObject: Modality-Agnostic Fusion for Multimodal Hidden Object Detection**|[2508.21135](http://arxiv.org/abs/2508.21135)|null|
-|**2025-08-28**|**R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**|[2508.21113](http://arxiv.org/abs/2508.21113)|null|
+|**2025-09-02**|**R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning**|[2508.21113](http://arxiv.org/abs/2508.21113)|null|
 |**2025-09-01**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
 |**2025-08-28**|**CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification**|[2508.21046](http://arxiv.org/abs/2508.21046)|**[link](https://github.com/JiuTian-VL/CogVLA.)**|
 |**2025-08-28**|**Predicting Trends in $V_{OC}$ Through Rapid, Multimodal Characterization of State-of-the-Art p-i-n Perovskite Devices**|[2508.21037](http://arxiv.org/abs/2508.21037)|null|
