@@ -1,4 +1,4 @@
-## Updated on 2025.09.03
+## Updated on 2025.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-08-27**|**A Hybrid Recommendation Framework for Enhancing User Engagement in Local News**|[2508.19539](http://arxiv.org/abs/2508.19539)|null|
 |**2025-08-28**|**A Self-Supervised Mixture-of-Experts Framework for Multi-behavior Recommendation**|[2508.19507](http://arxiv.org/abs/2508.19507)|null|
 |**2025-08-27**|**Interactive Graph Visualization and TeamingRecommendation in an Interdisciplinary Project'sTalent Knowledge Graph**|[2508.19489](http://arxiv.org/abs/2508.19489)|**[link](https://cm4aikg.vercel.app/)**|
-|**2025-08-26**|**Infrastructure-enabled risk assessment of hazardous road conditions on rural roads during inclement weather**|[2508.19444](http://arxiv.org/abs/2508.19444)|null|
+|**2025-09-02**|**Infrastructure-enabled risk assessment of hazardous road conditions on rural roads during inclement weather**|[2508.19444](http://arxiv.org/abs/2508.19444)|null|
 |**2025-08-26**|**APS Explorer: Navigating Algorithm Performance Spaces for Informed Dataset Selection**|[2508.19399](http://arxiv.org/abs/2508.19399)|null|
 |**2025-08-26**|**Evaluating the Evaluators: Are readability metrics good measures of readability?**|[2508.19221](http://arxiv.org/abs/2508.19221)|null|
 |**2025-08-26**|**The Double-edged Sword of LLM-based Data Reconstruction: Understanding and Mitigating Contextual Vulnerability in Word-level Differential Privacy Text Sanitization**|[2508.18976](http://arxiv.org/abs/2508.18976)|null|
@@ -80,7 +80,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
 
 ## Retrieval
 
@@ -98,7 +98,7 @@
 |**2025-08-29**|**NewsReX: A More Efficient Approach to News Recommendation with Keras 3 and JAX**|[2508.21572](http://arxiv.org/abs/2508.21572)|**[link](https://github.com/igor17400/NewsReX.)**|
 |**2025-08-29**|**What Data is Really Necessary? A Feasibility Study of Inference Data Minimization for Recommender Systems**|[2508.21547](http://arxiv.org/abs/2508.21547)|null|
 |**2025-08-29**|**HCCM: Hierarchical Cross-Granularity Contrastive and Matching Learning for Natural Language-Guided Drones**|[2508.21539](http://arxiv.org/abs/2508.21539)|null|
-|**2025-08-29**|**Discovery of 17 New GeV Blazar Candidates through Spatial Cross-Matching between Roma-BZCAT and 4FGL-Xiang-DR2**|[2508.21503](http://arxiv.org/abs/2508.21503)|null|
+|**2025-09-03**|**A Novel Pipeline for the Identification of New Gamma-Ray Blazars from the 4FGL-Xiang Catalog Based on Multi-wavelength Flux Distributions**|[2508.21503](http://arxiv.org/abs/2508.21503)|null|
 |**2025-08-29**|**Geospatial Question Answering on Historical Maps Using Spatio-Temporal Knowledge Graphs and Large Language Models**|[2508.21491](http://arxiv.org/abs/2508.21491)|null|
 |**2025-08-29**|**Inverse Random Source Problem for the Helmholtz Equation from Statistical Phaseless Data**|[2508.21478](http://arxiv.org/abs/2508.21478)|null|
 |**2025-08-29**|**MMSearch-Plus: A Simple Yet Challenging Benchmark for Multimodal Browsing Agents**|[2508.21475](http://arxiv.org/abs/2508.21475)|null|
@@ -166,7 +166,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -185,7 +185,7 @@
 |**2025-08-29**|**Morae: Proactively Pausing UI Agents for User Choices**|[2508.21456](http://arxiv.org/abs/2508.21456)|null|
 |**2025-08-29**|**One More Glance with Sharp Eyes: Rethinking Lightweight Captioning as a Practical Visual Specialist**|[2508.21451](http://arxiv.org/abs/2508.21451)|null|
 |**2025-08-29**|**Med-RewardBench: Benchmarking Reward Models and Judges for Medical Multimodal Large Language Models**|[2508.21430](http://arxiv.org/abs/2508.21430)|null|
-|**2025-08-29**|**AHELM: A Holistic Evaluation of Audio-Language Models**|[2508.21376](http://arxiv.org/abs/2508.21376)|**[link](https://crfm.stanford.edu/helm/audio/v1.0.0.)**|
+|**2025-09-02**|**AHELM: A Holistic Evaluation of Audio-Language Models**|[2508.21376](http://arxiv.org/abs/2508.21376)|**[link](https://crfm.stanford.edu/helm/audio/v1.0.0.)**|
 |**2025-08-28**|**A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers**|[2508.21148](http://arxiv.org/abs/2508.21148)|null|
 |**2025-08-28**|**Can Multimodal LLMs Solve the Basic Perception Problems of Percept-V?**|[2508.21143](http://arxiv.org/abs/2508.21143)|null|
 |**2025-08-28**|**HiddenObject: Modality-Agnostic Fusion for Multimodal Hidden Object Detection**|[2508.21135](http://arxiv.org/abs/2508.21135)|null|
@@ -242,7 +242,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
