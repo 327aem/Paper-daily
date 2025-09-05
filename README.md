@@ -1,4 +1,4 @@
-## Updated on 2025.09.04
+## Updated on 2025.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2025-09-02**|**A Keyframe-Based Approach for Auditing Bias in YouTube Shorts Recommendations**|[2509.02543](http://arxiv.org/abs/2509.02543)|null|
 |**2025-09-02**|**Generative Sequential Notification Optimization via Multi-Objective Decision Transformers**|[2509.02458](http://arxiv.org/abs/2509.02458)|null|
 |**2025-09-02**|**One--Component Plasma Equation of State Revisited via Angular--Averaged Ewald Potential**|[2509.02390](http://arxiv.org/abs/2509.02390)|null|
-|**2025-09-02**|**Look: AI at Work! - Analysing Key Aspects of AI-support at the Work Place**|[2509.02274](http://arxiv.org/abs/2509.02274)|null|
+|**2025-09-02**|**Look: AI at Work! -- Analysing Key Aspects of AI-support at the Work Place**|[2509.02274](http://arxiv.org/abs/2509.02274)|null|
 |**2025-09-02**|**Leveraging Media Frames to Improve Normative Diversity in News Recommendations**|[2509.02266](http://arxiv.org/abs/2509.02266)|null|
 |**2025-09-02**|**Towards Multi-Aspect Diversification of News Recommendations Using Neuro-Symbolic AI for Individual and Societal Benefit**|[2509.02220](http://arxiv.org/abs/2509.02220)|null|
 |**2025-09-02**|**Threshold-Based Optimal Arm Selection in Monotonic Bandits: Regret Lower Bounds and Algorithms**|[2509.02119](http://arxiv.org/abs/2509.02119)|null|
@@ -130,7 +130,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 ## Retrieval
 
@@ -138,13 +138,13 @@
 |---|---|---|---|
 |**2025-09-03**|**LMEnt: A Suite for Analyzing Knowledge in Language Models from Pretraining Data to Representations**|[2509.03405](http://arxiv.org/abs/2509.03405)|null|
 |**2025-09-03**|**AI-Driven Drug Repurposing through miRNA-mRNA Relation**|[2509.03336](http://arxiv.org/abs/2509.03336)|null|
-|**2025-09-03**|**OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search**|[2509.03236](http://arxiv.org/abs/2509.03236)|null|
+|**2025-09-04**|**OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search**|[2509.03236](http://arxiv.org/abs/2509.03236)|null|
 |**2025-09-03**|**Enhancing Interpretability and Effectiveness in Recommendation with Numerical Features via Learning to Contrast the Counterfactual samples**|[2509.03187](http://arxiv.org/abs/2509.03187)|null|
 |**2025-09-03**|**Count2Density: Crowd Density Estimation without Location-level Annotations**|[2509.03170](http://arxiv.org/abs/2509.03170)|null|
 |**2025-09-03**|**RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation**|[2509.03131](http://arxiv.org/abs/2509.03131)|null|
 |**2025-09-03**|**A Plug-and-play Model-agnostic Embedding Enhancement Approach for Explainable Recommendation**|[2509.03130](http://arxiv.org/abs/2509.03130)|null|
 |**2025-09-03**|**Knowledge Integration for Physics-informed Symbolic Regression Using Pre-trained Large Language Models**|[2509.03036](http://arxiv.org/abs/2509.03036)|null|
-|**2025-09-03**|**Training LLMs to be Better Text Embedders through Bidirectional Reconstruction**|[2509.03020](http://arxiv.org/abs/2509.03020)|null|
+|**2025-09-04**|**Training LLMs to be Better Text Embedders through Bidirectional Reconstruction**|[2509.03020](http://arxiv.org/abs/2509.03020)|null|
 |**2025-09-03**|**KEPT: Knowledge-Enhanced Prediction of Trajectories from Consecutive Driving Frames with Vision-Language Models**|[2509.02966](http://arxiv.org/abs/2509.02966)|null|
 |**2025-09-03**|**Knowledge graph-based personalized multimodal recommendation fusion framework**|[2509.02943](http://arxiv.org/abs/2509.02943)|null|
 |**2025-09-03**|**RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation**|[2509.02942](http://arxiv.org/abs/2509.02942)|null|
@@ -266,7 +266,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -296,10 +296,10 @@
 |**2025-09-02**|**The Transparent Earth: A Multimodal Foundation Model for the Earth's Subsurface**|[2509.02783](http://arxiv.org/abs/2509.02783)|null|
 |**2025-09-02**|**Mix-modal Federated Learning for MRI Image Segmentation**|[2509.02541](http://arxiv.org/abs/2509.02541)|null|
 |**2025-09-02**|**LLM-Enhanced Space-Air-Ground-Sea Integrated Networks**|[2509.02540](http://arxiv.org/abs/2509.02540)|null|
-|**2025-09-02**|**Classification of Vision-Based Tactile Sensors: A Review**|[2509.02478](http://arxiv.org/abs/2509.02478)|null|
+|**2025-09-04**|**Classification of Vision-Based Tactile Sensors: A Review**|[2509.02478](http://arxiv.org/abs/2509.02478)|null|
 |**2025-09-02**|**AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent**|[2509.02444](http://arxiv.org/abs/2509.02444)|null|
 |**2025-09-02**|**Why Do MLLMs Struggle with Spatial Understanding? A Systematic Analysis from Data to Architecture**|[2509.02359](http://arxiv.org/abs/2509.02359)|null|
-|**2025-09-02**|**AudioCodecBench: A Comprehensive Benchmark for Audio Codec Evaluation**|[2509.02349](http://arxiv.org/abs/2509.02349)|null|
+|**2025-09-04**|**AudioCodecBench: A Comprehensive Benchmark for Audio Codec Evaluation**|[2509.02349](http://arxiv.org/abs/2509.02349)|null|
 |**2025-09-02**|**OmniActor: A Generalist GUI and Embodied Agent for 2D&3D Worlds**|[2509.02322](http://arxiv.org/abs/2509.02322)|null|
 |**2025-09-03**|**Balanced Multimodal Learning: An Unidirectional Dynamic Interaction Perspective**|[2509.02281](http://arxiv.org/abs/2509.02281)|null|
 |**2025-09-02**|**Think2Sing: Orchestrating Structured Motion Subtitles for Singing-Driven 3D Head Animation**|[2509.02278](http://arxiv.org/abs/2509.02278)|null|
@@ -392,7 +392,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250904>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
