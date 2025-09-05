@@ -9,6 +9,18 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-04**|**No Thoughts Just AI: Biased LLM Recommendations Limit Human Agency in Resume Screening**|[2509.04404](http://arxiv.org/abs/2509.04404)|null|
+|**2025-09-04**|**Temporal Interest-Driven Multimodal Personalized Content Generation**|[2509.04330](http://arxiv.org/abs/2509.04330)|null|
+|**2025-09-04**|**Facts Fade Fast: Evaluating Memorization of Outdated Medical Knowledge in Large Language Models**|[2509.04304](http://arxiv.org/abs/2509.04304)|null|
+|**2025-09-04**|**KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis**|[2509.04191](http://arxiv.org/abs/2509.04191)|null|
+|**2025-09-04**|**LowDiff: Efficient Frequent Checkpointing via Low-Cost Differential for High-Performance Distributed Training Systems**|[2509.04084](http://arxiv.org/abs/2509.04084)|null|
+|**2025-09-04**|**Reputational Conservatism in Expert Advice**|[2509.04036](http://arxiv.org/abs/2509.04036)|null|
+|**2025-09-04**|**Strengthening national capability in urban climate science: an Australian perspective**|[2509.03968](http://arxiv.org/abs/2509.03968)|null|
+|**2025-09-04**|**What Would an LLM Do? Evaluating Policymaking Capabilities of Large Language Models**|[2509.03827](http://arxiv.org/abs/2509.03827)|null|
+|**2025-09-03**|**Efficient Item ID Generation for Large-Scale LLM-based Recommendation**|[2509.03746](http://arxiv.org/abs/2509.03746)|**[link](https://drive.google.com/file/d/1cUMj37rV0Z1bCWMdhQ6i4q4eTRQLURtC)**|
+|**2025-09-03**|**Nearly Full-Sky Low-Multipole CMB Temperature Anisotropy: I. Foreground Cleaned Maps**|[2509.03718](http://arxiv.org/abs/2509.03718)|null|
+|**2025-09-03**|**LLMs for estimating positional bias in logged interaction data**|[2509.03696](http://arxiv.org/abs/2509.03696)|null|
+|**2025-09-03**|**ACT: Automated Constraint Targeting for Multi-Objective Recommender Systems**|[2509.03661](http://arxiv.org/abs/2509.03661)|null|
 |**2025-09-03**|**Enhancing Interpretability and Effectiveness in Recommendation with Numerical Features via Learning to Contrast the Counterfactual samples**|[2509.03187](http://arxiv.org/abs/2509.03187)|null|
 |**2025-09-03**|**RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation**|[2509.03131](http://arxiv.org/abs/2509.03131)|null|
 |**2025-09-03**|**A Plug-and-play Model-agnostic Embedding Enhancement Approach for Explainable Recommendation**|[2509.03130](http://arxiv.org/abs/2509.03130)|null|
@@ -131,6 +143,41 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-04**|**Delta Activations: A Representation for Finetuned Large Language Models**|[2509.04442](http://arxiv.org/abs/2509.04442)|**[link](https://github.com/OscarXZQ/delta_activations.)**|
+|**2025-09-04**|**ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory**|[2509.04439](http://arxiv.org/abs/2509.04439)|**[link](https://github.com/matt-seb-ho/arc_memo.)**|
+|**2025-09-04**|**Unveiling the Role of Data Uncertainty in Tabular Deep Learning**|[2509.04430](http://arxiv.org/abs/2509.04430)|null|
+|**2025-09-04**|**AnomalyLMM: Bridging Generative Knowledge and Discriminative Retrieval for Text-Based Person Anomaly Search**|[2509.04376](http://arxiv.org/abs/2509.04376)|null|
+|**2025-09-04**|**PARCO: Phoneme-Augmented Robust Contextual ASR via Contrastive Entity Disambiguation**|[2509.04357](http://arxiv.org/abs/2509.04357)|null|
+|**2025-09-04**|**Global-to-Local or Local-to-Global? Enhancing Image Retrieval with Efficient Local Search and Effective Global Re-ranking**|[2509.04351](http://arxiv.org/abs/2509.04351)|null|
+|**2025-09-04**|**Decoupled Entity Representation Learning for Pinterest Ads Ranking**|[2509.04337](http://arxiv.org/abs/2509.04337)|null|
+|**2025-09-04**|**Temporal Interest-Driven Multimodal Personalized Content Generation**|[2509.04330](http://arxiv.org/abs/2509.04330)|null|
+|**2025-09-04**|**How many patients could we save with LLM priors?**|[2509.04250](http://arxiv.org/abs/2509.04250)|null|
+|**2025-09-04**|**PianoBind: A Multimodal Joint Embedding Model for Pop-piano Music**|[2509.04215](http://arxiv.org/abs/2509.04215)|null|
+|**2025-09-04**|**DUDE: Diffusion-Based Unsupervised Cross-Domain Image Retrieval**|[2509.04193](http://arxiv.org/abs/2509.04193)|null|
+|**2025-09-04**|**Enhancing Technical Documents Retrieval for RAG**|[2509.04139](http://arxiv.org/abs/2509.04139)|null|
+|**2025-09-04**|**Improving Narrative Classification and Explanation via Fine Tuned Language Models**|[2509.04077](http://arxiv.org/abs/2509.04077)|null|
+|**2025-09-04**|**Safeguarding Patient Trust in the Age of AI: Tackling Health Misinformation with Explainable AI**|[2509.04052](http://arxiv.org/abs/2509.04052)|null|
+|**2025-09-04**|**A Re-ranking Method using K-nearest Weighted Fusion for Person Re-identification**|[2509.04050](http://arxiv.org/abs/2509.04050)|null|
+|**2025-09-04**|**NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware Embeddings**|[2509.04011](http://arxiv.org/abs/2509.04011)|**[link](https://github.com/ShacharOr100/ner_retriever)**|
+|**2025-09-04**|**Harnessing modal fields retrieved from speckle for multi-dimensional metrology**|[2509.03976](http://arxiv.org/abs/2509.03976)|null|
+|**2025-09-04**|**World Model Implanting for Test-time Adaptation of Embodied Agents**|[2509.03956](http://arxiv.org/abs/2509.03956)|null|
+|**2025-09-04**|**SelfAug: Mitigating Catastrophic Forgetting in Retrieval-Augmented Generation via Distribution Self-Alignment**|[2509.03934](http://arxiv.org/abs/2509.03934)|**[link](https://github.com/USTC-StarTeam/SelfAug.)**|
+|**2025-09-04**|**MTQA:Matrix of Thought for Enhanced Reasoning in Complex Question Answering**|[2509.03918](http://arxiv.org/abs/2509.03918)|**[link](https://github.com/lyfiter/mtqa.)**|
+|**2025-09-04**|**MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation**|[2509.03891](http://arxiv.org/abs/2509.03891)|**[link](https://github.com/liuxiaojieOutOfWorld/MobileRAG_arxiv)**|
+|**2025-09-04**|**VulRTex: A Reasoning-Guided Approach to Identify Vulnerabilities from Rich-Text Issue Report**|[2509.03875](http://arxiv.org/abs/2509.03875)|null|
+|**2025-09-04**|**Demonstrating a family of X-ray dark-field retrieval approaches on a common set of samples**|[2509.03866](http://arxiv.org/abs/2509.03866)|null|
+|**2025-09-04**|**MedVista3D: Vision-Language Modeling for Reducing Diagnostic Errors in 3D CT Disease Detection, Understanding and Reporting**|[2509.03800](http://arxiv.org/abs/2509.03800)|null|
+|**2025-09-04**|**SAMVAD: A Multi-Agent System for Simulating Judicial Deliberation Dynamics in India**|[2509.03793](http://arxiv.org/abs/2509.03793)|null|
+|**2025-09-04**|**Evaluating the Robustness of Retrieval-Augmented Generation to Adversarial Evidence in the Health Domain**|[2509.03787](http://arxiv.org/abs/2509.03787)|**[link](https://github.com/shakibaam/RAG_ROBUSTNESS_EVAL)**|
+|**2025-09-03**|**RAGuard: A Novel Approach for in-context Safe Retrieval Augmented Generation for LLMs**|[2509.03768](http://arxiv.org/abs/2509.03768)|null|
+|**2025-09-03**|**LLM-based Relevance Assessment for Web-Scale Search Evaluation at Pinterest**|[2509.03764](http://arxiv.org/abs/2509.03764)|null|
+|**2025-09-03**|**Distributed Download from an External Data Source in Asynchronous Faulty Settings**|[2509.03755](http://arxiv.org/abs/2509.03755)|null|
+|**2025-09-03**|**Efficient Item ID Generation for Large-Scale LLM-based Recommendation**|[2509.03746](http://arxiv.org/abs/2509.03746)|**[link](https://drive.google.com/file/d/1cUMj37rV0Z1bCWMdhQ6i4q4eTRQLURtC)**|
+|**2025-09-03**|**LLMs for estimating positional bias in logged interaction data**|[2509.03696](http://arxiv.org/abs/2509.03696)|null|
+|**2025-09-03**|**lifeXplore at the Lifelog Search Challenge 2021**|[2509.03692](http://arxiv.org/abs/2509.03692)|null|
+|**2025-09-03**|**ACT: Automated Constraint Targeting for Multi-Objective Recommender Systems**|[2509.03661](http://arxiv.org/abs/2509.03661)|null|
+|**2025-09-03**|**Explainable Knowledge Graph Retrieval-Augmented Generation (KG-RAG) with KG-SMILE**|[2509.03626](http://arxiv.org/abs/2509.03626)|null|
+|**2025-09-03**|**Exoplanetary atmospheres retrieval via a quantum extreme learning machine**|[2509.03617](http://arxiv.org/abs/2509.03617)|null|
 |**2025-09-03**|**LMEnt: A Suite for Analyzing Knowledge in Language Models from Pretraining Data to Representations**|[2509.03405](http://arxiv.org/abs/2509.03405)|null|
 |**2025-09-03**|**AI-Driven Drug Repurposing through miRNA-mRNA Relation**|[2509.03336](http://arxiv.org/abs/2509.03336)|null|
 |**2025-09-04**|**OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search**|[2509.03236](http://arxiv.org/abs/2509.03236)|null|
@@ -267,6 +314,35 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-04**|**TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection**|[2509.04448](http://arxiv.org/abs/2509.04448)|null|
+|**2025-09-04**|**One Flight Over the Gap: A Survey from Perspective to Panoramic Vision**|[2509.04444](http://arxiv.org/abs/2509.04444)|**[link](https://insta360-research-team.github.io/Survey-of-Panorama)**|
+|**2025-09-04**|**Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios**|[2509.04403](http://arxiv.org/abs/2509.04403)|null|
+|**2025-09-04**|**Aesthetic Image Captioning with Saliency Enhanced MLLMs**|[2509.04378](http://arxiv.org/abs/2509.04378)|null|
+|**2025-09-04**|**SRWToolkit: An Open Source Wizard of Oz Toolkit to Create Social Robotic Avatars**|[2509.04356](http://arxiv.org/abs/2509.04356)|null|
+|**2025-09-04**|**Temporal Interest-Driven Multimodal Personalized Content Generation**|[2509.04330](http://arxiv.org/abs/2509.04330)|null|
+|**2025-09-04**|**Efficient Odd-One-Out Anomaly Detection**|[2509.04326](http://arxiv.org/abs/2509.04326)|**[link](https://silviochito.github.io/EfficientOddOneOut/)**|
+|**2025-09-04**|**OVGrasp: Open-Vocabulary Grasping Assistance via Multimodal Intent Detection**|[2509.04324](http://arxiv.org/abs/2509.04324)|null|
+|**2025-09-04**|**Characteristic Energy Behavior Profiling of Non-Residential Buildings**|[2509.04322](http://arxiv.org/abs/2509.04322)|null|
+|**2025-09-04**|**TauGenNet: Plasma-Driven Tau PET Image Synthesis via Text-Guided 3D Diffusion Models**|[2509.04269](http://arxiv.org/abs/2509.04269)|null|
+|**2025-09-04**|**MuMTAffect: A Multimodal Multitask Affective Framework for Personality and Emotion Recognition from Physiological Signals**|[2509.04254](http://arxiv.org/abs/2509.04254)|null|
+|**2025-09-04**|**PianoBind: A Multimodal Joint Embedding Model for Pop-piano Music**|[2509.04215](http://arxiv.org/abs/2509.04215)|null|
+|**2025-09-04**|**COBRA: Multimodal Sensing Deep Learning Framework for Remote Chronic Obesity Management via Wrist-Worn Activity Monitoring**|[2509.04210](http://arxiv.org/abs/2509.04210)|null|
+|**2025-09-04**|**Real Time FPGA Based Transformers & VLMs for Vision Tasks: SOTA Designs and Optimizations**|[2509.04162](http://arxiv.org/abs/2509.04162)|null|
+|**2025-09-04**|**DVS-PedX: Synthetic-and-Real Event-Based Pedestrian Dataset**|[2509.04117](http://arxiv.org/abs/2509.04117)|null|
+|**2025-09-04**|**Synthesizing Sheet Music Problems for Evaluation and Reinforcement Learning**|[2509.04059](http://arxiv.org/abs/2509.04059)|null|
+|**2025-09-04**|**Odometry Calibration and Pose Estimation of a 4WIS4WID Mobile Wall Climbing Robot**|[2509.04016](http://arxiv.org/abs/2509.04016)|null|
+|**2025-09-04**|**SliceSemOcc: Vertical Slice Based Multimodal 3D Semantic Occupancy Representation**|[2509.03999](http://arxiv.org/abs/2509.03999)|null|
+|**2025-09-04**|**Meta-Policy Reflexion: Reusable Reflective Memory and Rule Admissibility for Resource-Efficient LLM Agent**|[2509.03990](http://arxiv.org/abs/2509.03990)|null|
+|**2025-09-04**|**Promptception: How Sensitive Are Large Multimodal Models to Prompts?**|[2509.03986](http://arxiv.org/abs/2509.03986)|null|
+|**2025-09-04**|**Multimodal Feature Fusion Network with Text Difference Enhancement for Remote Sensing Change Detection**|[2509.03961](http://arxiv.org/abs/2509.03961)|**[link](https://github.com/yikuizhai/MMChange.)**|
+|**2025-09-04**|**ANTS: Shaping the Adaptive Negative Textual Space by MLLM for OOD Detection**|[2509.03951](http://arxiv.org/abs/2509.03951)|null|
+|**2025-09-04**|**Focus Through Motion: RGB-Event Collaborative Token Sparsification for Efficient Object Detection**|[2509.03872](http://arxiv.org/abs/2509.03872)|**[link](https://github.com/Zizzzzzzz/FocusMamba.)**|
+|**2025-09-04**|**Vehicle-to-Infrastructure Collaborative Spatial Perception via Multimodal Large Language Models**|[2509.03837](http://arxiv.org/abs/2509.03837)|null|
+|**2025-09-04**|**A Multidimensional AI-powered Framework for Analyzing Tourist Perception in Historic Urban Quarters: A Case Study in Shanghai**|[2509.03830](http://arxiv.org/abs/2509.03830)|null|
+|**2025-09-04**|**SiLVERScore: Semantically-Aware Embeddings for Sign Language Generation Evaluation**|[2509.03791](http://arxiv.org/abs/2509.03791)|null|
+|**2025-09-03**|**Designing Gaze Analytics for ELA Instruction: A User-Centered Dashboard with Conversational AI Support**|[2509.03741](http://arxiv.org/abs/2509.03741)|null|
+|**2025-09-03**|**Reg3D: Reconstructive Geometry Instruction Tuning for 3D Scene Understanding**|[2509.03635](http://arxiv.org/abs/2509.03635)|null|
+|**2025-09-02**|**Diffusion-RL Based Air Traffic Conflict Detection and Resolution Method**|[2509.03550](http://arxiv.org/abs/2509.03550)|null|
 |**2025-09-03**|**OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation**|[2509.03498](http://arxiv.org/abs/2509.03498)|null|
 |**2025-09-03**|**Parameter-Efficient Adaptation of mPLUG-Owl2 via Pixel-Level Visual Prompts for NR-IQA**|[2509.03494](http://arxiv.org/abs/2509.03494)|null|
 |**2025-09-03**|**SafeProtein: Red-Teaming Framework and Benchmark for Protein Foundation Models**|[2509.03487](http://arxiv.org/abs/2509.03487)|**[link](https://github.com/jigang-fan/SafeProtein.)**|
