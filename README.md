@@ -14,6 +14,19 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-05**|**Deep Reinforcement Learning for Ranking Utility Tuning in the Ad Recommender System at Pinterest**|[2509.05292](http://arxiv.org/abs/2509.05292)|null|
+|**2025-09-05**|**Scaling Performance of Large Language Model Pretraining**|[2509.05258](http://arxiv.org/abs/2509.05258)|null|
+|**2025-09-05**|**Hybrid Matrix Factorization Based Graph Contrastive Learning for Recommendation System**|[2509.05115](http://arxiv.org/abs/2509.05115)|null|
+|**2025-09-05**|**Code Review Without Borders: Evaluating Synthetic vs. Real Data for Review Recommendation**|[2509.04810](http://arxiv.org/abs/2509.04810)|null|
+|**2025-09-05**|**Multimodal Foundation Model-Driven User Interest Modeling and Behavior Analysis on Short Video Platforms**|[2509.04751](http://arxiv.org/abs/2509.04751)|null|
+|**2025-09-04**|**Transforming Fashion with AI: A Comparative Study of Large Language Models in Apparel Design**|[2509.04705](http://arxiv.org/abs/2509.04705)|null|
+|**2025-09-04**|**Linguistic Hooks: Investigating The Role of Language Triggers in Phishing Emails Targeting African Refugees and Students**|[2509.04700](http://arxiv.org/abs/2509.04700)|null|
+|**2025-09-04**|**Unified Representation Learning for Multi-Intent Diversity and Behavioral Uncertainty in Recommender Systems**|[2509.04694](http://arxiv.org/abs/2509.04694)|null|
+|**2025-09-04**|**Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation**|[2509.04534](http://arxiv.org/abs/2509.04534)|null|
+|**2025-09-04**|**Ideology, institutions, and economic growth: panel evidence 1995 2022**|[2509.04532](http://arxiv.org/abs/2509.04532)|null|
+|**2025-09-03**|**Analysis and Study of Smart Growth**|[2509.04529](http://arxiv.org/abs/2509.04529)|null|
+|**2025-09-02**|**The Ethical Compass of the Machine: Evaluating Large Language Models for Decision Support in Construction Project Management**|[2509.04505](http://arxiv.org/abs/2509.04505)|null|
+|**2025-09-01**|**Where Should I Study? Biased Language Models Decide! Evaluating Fairness in LMs for Academic Recommendations**|[2509.04498](http://arxiv.org/abs/2509.04498)|null|
 |**2025-09-04**|**No Thoughts Just AI: Biased LLM Recommendations Limit Human Agency in Resume Screening**|[2509.04404](http://arxiv.org/abs/2509.04404)|null|
 |**2025-09-04**|**Temporal Interest-Driven Multimodal Personalized Content Generation**|[2509.04330](http://arxiv.org/abs/2509.04330)|null|
 |**2025-09-04**|**Facts Fade Fast: Evaluating Memorization of Outdated Medical Knowledge in Large Language Models**|[2509.04304](http://arxiv.org/abs/2509.04304)|null|
@@ -148,6 +161,32 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-05**|**Resolving Tangling in Multi-Conformer Refinement via Iterative Projections**|[2509.05189](http://arxiv.org/abs/2509.05189)|null|
+|**2025-09-05**|**Foundational Models and Federated Learning: Survey, Taxonomy, Challenges and Practical Insights**|[2509.05142](http://arxiv.org/abs/2509.05142)|null|
+|**2025-09-05**|**Hybrid Matrix Factorization Based Graph Contrastive Learning for Recommendation System**|[2509.05115](http://arxiv.org/abs/2509.05115)|null|
+|**2025-09-05**|**ICR: Iterative Clarification and Rewriting for Conversational Search**|[2509.05100](http://arxiv.org/abs/2509.05100)|null|
+|**2025-09-05**|**High-Resolution Global Land Surface Temperature Retrieval via a Coupled Mechanism-Machine Learning Framework**|[2509.04991](http://arxiv.org/abs/2509.04991)|null|
+|**2025-09-05**|**Training a Perceptual Model for Evaluating Auditory Similarity in Music Adversarial Attack**|[2509.04985](http://arxiv.org/abs/2509.04985)|null|
+|**2025-09-05**|**Optimizing Small Transformer-Based Language Models for Multi-Label Sentiment Analysis in Short Texts**|[2509.04982](http://arxiv.org/abs/2509.04982)|null|
+|**2025-09-05**|**MAIA: An Inpainting-Based Approach for Music Adversarial Attacks**|[2509.04980](http://arxiv.org/abs/2509.04980)|null|
+|**2025-09-05**|**Towards an Accurate and Effective Robot Vision (The Problem of Topological Localization for Mobile Robots)**|[2509.04948](http://arxiv.org/abs/2509.04948)|null|
+|**2025-09-05**|**UniView: Enhancing Novel View Synthesis From A Single Image By Unifying Reference Features**|[2509.04932](http://arxiv.org/abs/2509.04932)|null|
+|**2025-09-05**|**REMOTE: A Unified Multimodal Relation Extraction Framework with Multilevel Optimal Transport and Mixture-of-Experts**|[2509.04844](http://arxiv.org/abs/2509.04844)|**[link](https://github.com/Nikol-coder/REMOTE.)**|
+|**2025-09-05**|**COMMET: A System for Human-Induced Conflicts in Mobile Manipulation of Everyday Tasks**|[2509.04836](http://arxiv.org/abs/2509.04836)|null|
+|**2025-09-05**|**TemporalFlowViz: Parameter-Aware Visual Analytics for Interpreting Scramjet Combustion Evolution**|[2509.04834](http://arxiv.org/abs/2509.04834)|null|
+|**2025-09-05**|**Fishing for Answers: Exploring One-shot vs. Iterative Retrieval Strategies for Retrieval Augmented Generation**|[2509.04820](http://arxiv.org/abs/2509.04820)|null|
+|**2025-09-05**|**KGRAG-SC: Knowledge Graph RAG-Assisted Semantic Communication**|[2509.04801](http://arxiv.org/abs/2509.04801)|null|
+|**2025-09-05**|**Hybrid-Tower: Fine-grained Pseudo-query Interaction and Generation for Text-to-Video Retrieval**|[2509.04773](http://arxiv.org/abs/2509.04773)|null|
+|**2025-09-05**|**FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph**|[2509.04772](http://arxiv.org/abs/2509.04772)|null|
+|**2025-09-05**|**SePA: A Search-enhanced Predictive Agent for Personalized Health Coaching**|[2509.04752](http://arxiv.org/abs/2509.04752)|null|
+|**2025-09-05**|**Multimodal Foundation Model-Driven User Interest Modeling and Behavior Analysis on Short Video Platforms**|[2509.04751](http://arxiv.org/abs/2509.04751)|null|
+|**2025-09-05**|**KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering**|[2509.04716](http://arxiv.org/abs/2509.04716)|null|
+|**2025-09-04**|**ODKE+: Ontology-Guided Open-Domain Knowledge Extraction with LLMs**|[2509.04696](http://arxiv.org/abs/2509.04696)|**[link](https://youtu.be/UcnE3_GsTWs.)**|
+|**2025-09-04**|**Unified Representation Learning for Multi-Intent Diversity and Behavioral Uncertainty in Recommender Systems**|[2509.04694](http://arxiv.org/abs/2509.04694)|null|
+|**2025-09-04**|**Guideline-Consistent Segmentation via Multi-Agent Refinement**|[2509.04687](http://arxiv.org/abs/2509.04687)|null|
+|**2025-09-04**|**Ecologically Valid Benchmarking and Adaptive Attention: Scalable Marine Bioacoustic Monitoring**|[2509.04682](http://arxiv.org/abs/2509.04682)|null|
+|**2025-09-04**|**Sali4Vid: Saliency-Aware Video Reweighting and Adaptive Caption Retrieval for Dense Video Captioning**|[2509.04602](http://arxiv.org/abs/2509.04602)|null|
+|**2025-09-04**|**The resummation model in FLAMINGO: precisely predicting matter power suppression from observed halo baryon fractions**|[2509.04552](http://arxiv.org/abs/2509.04552)|null|
 |**2025-09-04**|**Delta Activations: A Representation for Finetuned Large Language Models**|[2509.04442](http://arxiv.org/abs/2509.04442)|**[link](https://github.com/OscarXZQ/delta_activations.)**|
 |**2025-09-04**|**ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory**|[2509.04439](http://arxiv.org/abs/2509.04439)|**[link](https://github.com/matt-seb-ho/arc_memo.)**|
 |**2025-09-04**|**Unveiling the Role of Data Uncertainty in Tabular Deep Learning**|[2509.04430](http://arxiv.org/abs/2509.04430)|null|
@@ -319,6 +358,28 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-05**|**LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation**|[2509.05263](http://arxiv.org/abs/2509.05263)|**[link](https://youtu.be/8VWZXpERR18)**|
+|**2025-09-05**|**BEDTime: A Unified Benchmark for Automatically Describing Time Series**|[2509.05215](http://arxiv.org/abs/2509.05215)|null|
+|**2025-09-05**|**Topology and criticality in non-Hermitian multimodal optical resonators through engineered losses**|[2509.05163](http://arxiv.org/abs/2509.05163)|null|
+|**2025-09-05**|**Efficient Quantum Space-Division Multiplexing Using Time-Bin and Phase Encoding in Few-Mode Fibers**|[2509.05123](http://arxiv.org/abs/2509.05123)|null|
+|**2025-09-05**|**MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading**|[2509.05080](http://arxiv.org/abs/2509.05080)|null|
+|**2025-09-05**|**ToM-SSI: Evaluating Theory of Mind in Situated Social Interactions**|[2509.05066](http://arxiv.org/abs/2509.05066)|null|
+|**2025-09-05**|**Photon Bose-Einstein Condensation in Semiconductors: A Quantum Kinetic Theory**|[2509.05062](http://arxiv.org/abs/2509.05062)|null|
+|**2025-09-05**|**MultiSurv: A Multimodal Deep Survival Framework for Prostrate and Bladder Cancer**|[2509.05037](http://arxiv.org/abs/2509.05037)|null|
+|**2025-09-05**|**An Emotion Recognition Framework via Cross-modal Alignment of EEG and Eye Movement Data**|[2509.04938](http://arxiv.org/abs/2509.04938)|null|
+|**2025-09-05**|**UniView: Enhancing Novel View Synthesis From A Single Image By Unifying Reference Features**|[2509.04932](http://arxiv.org/abs/2509.04932)|null|
+|**2025-09-05**|**SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing**|[2509.04908](http://arxiv.org/abs/2509.04908)|**[link](https://github.com/antgroup/SparkUI-Parser.)**|
+|**2025-09-05**|**REMOTE: A Unified Multimodal Relation Extraction Framework with Multilevel Optimal Transport and Mixture-of-Experts**|[2509.04844](http://arxiv.org/abs/2509.04844)|**[link](https://github.com/Nikol-coder/REMOTE.)**|
+|**2025-09-05**|**Evaluating Cognitive-Behavioral Fixation via Multimodal User Viewing Patterns on Social Media**|[2509.04823](http://arxiv.org/abs/2509.04823)|**[link](https://github.com/Liskie/cognitive-fixation-evaluation.)**|
+|**2025-09-05**|**Million-Q Dual-Polarization Micro-Fabry-Perot Resonators in Silicon Nitride Photonic Integrated Circuits**|[2509.04783](http://arxiv.org/abs/2509.04783)|null|
+|**2025-09-05**|**MCANet: A Multi-Scale Class-Specific Attention Network for Multi-Label Post-Hurricane Damage Assessment using UAV Imagery**|[2509.04757](http://arxiv.org/abs/2509.04757)|null|
+|**2025-09-05**|**Multimodal Foundation Model-Driven User Interest Modeling and Behavior Analysis on Short Video Platforms**|[2509.04751](http://arxiv.org/abs/2509.04751)|null|
+|**2025-09-05**|**WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning**|[2509.04744](http://arxiv.org/abs/2509.04744)|null|
+|**2025-09-05**|**WatchHAR: Real-time On-device Human Activity Recognition System for Smartwatches**|[2509.04736](http://arxiv.org/abs/2509.04736)|null|
+|**2025-09-04**|**Surformer v2: A Multimodal Classifier for Surface Understanding from Touch and Vision**|[2509.04658](http://arxiv.org/abs/2509.04658)|null|
+|**2025-09-04**|**Sample-efficient Integration of New Modalities into Large Language Models**|[2509.04606](http://arxiv.org/abs/2509.04606)|null|
+|**2025-09-04**|**Spoken in Jest, Detected in Earnest: A Systematic Review of Sarcasm Recognition -- Multimodal Fusion, Challenges, and Future Prospects**|[2509.04605](http://arxiv.org/abs/2509.04605)|null|
+|**2025-09-04**|**Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model**|[2509.04548](http://arxiv.org/abs/2509.04548)|null|
 |**2025-09-04**|**TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection**|[2509.04448](http://arxiv.org/abs/2509.04448)|null|
 |**2025-09-04**|**One Flight Over the Gap: A Survey from Perspective to Panoramic Vision**|[2509.04444](http://arxiv.org/abs/2509.04444)|**[link](https://insta360-research-team.github.io/Survey-of-Panorama)**|
 |**2025-09-04**|**Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios**|[2509.04403](http://arxiv.org/abs/2509.04403)|null|
