@@ -1,4 +1,4 @@
-## Updated on 2025.09.07
+## Updated on 2025.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -142,7 +142,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 ## Retrieval
 
@@ -151,9 +151,9 @@
 |**2025-09-04**|**Delta Activations: A Representation for Finetuned Large Language Models**|[2509.04442](http://arxiv.org/abs/2509.04442)|**[link](https://github.com/OscarXZQ/delta_activations.)**|
 |**2025-09-04**|**ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory**|[2509.04439](http://arxiv.org/abs/2509.04439)|**[link](https://github.com/matt-seb-ho/arc_memo.)**|
 |**2025-09-04**|**Unveiling the Role of Data Uncertainty in Tabular Deep Learning**|[2509.04430](http://arxiv.org/abs/2509.04430)|null|
-|**2025-09-04**|**AnomalyLMM: Bridging Generative Knowledge and Discriminative Retrieval for Text-Based Person Anomaly Search**|[2509.04376](http://arxiv.org/abs/2509.04376)|null|
+|**2025-09-05**|**AnomalyLMM: Bridging Generative Knowledge and Discriminative Retrieval for Text-Based Person Anomaly Search**|[2509.04376](http://arxiv.org/abs/2509.04376)|null|
 |**2025-09-04**|**PARCO: Phoneme-Augmented Robust Contextual ASR via Contrastive Entity Disambiguation**|[2509.04357](http://arxiv.org/abs/2509.04357)|null|
-|**2025-09-04**|**Global-to-Local or Local-to-Global? Enhancing Image Retrieval with Efficient Local Search and Effective Global Re-ranking**|[2509.04351](http://arxiv.org/abs/2509.04351)|null|
+|**2025-09-05**|**Global-to-Local or Local-to-Global? Enhancing Image Retrieval with Efficient Local Search and Effective Global Re-ranking**|[2509.04351](http://arxiv.org/abs/2509.04351)|null|
 |**2025-09-04**|**Decoupled Entity Representation Learning for Pinterest Ads Ranking**|[2509.04337](http://arxiv.org/abs/2509.04337)|null|
 |**2025-09-04**|**Temporal Interest-Driven Multimodal Personalized Content Generation**|[2509.04330](http://arxiv.org/abs/2509.04330)|null|
 |**2025-09-04**|**How many patients could we save with LLM priors?**|[2509.04250](http://arxiv.org/abs/2509.04250)|null|
@@ -313,7 +313,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -322,7 +322,7 @@
 |**2025-09-04**|**TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection**|[2509.04448](http://arxiv.org/abs/2509.04448)|null|
 |**2025-09-04**|**One Flight Over the Gap: A Survey from Perspective to Panoramic Vision**|[2509.04444](http://arxiv.org/abs/2509.04444)|**[link](https://insta360-research-team.github.io/Survey-of-Panorama)**|
 |**2025-09-04**|**Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios**|[2509.04403](http://arxiv.org/abs/2509.04403)|null|
-|**2025-09-04**|**Aesthetic Image Captioning with Saliency Enhanced MLLMs**|[2509.04378](http://arxiv.org/abs/2509.04378)|null|
+|**2025-09-05**|**Aesthetic Image Captioning with Saliency Enhanced MLLMs**|[2509.04378](http://arxiv.org/abs/2509.04378)|null|
 |**2025-09-04**|**SRWToolkit: An Open Source Wizard of Oz Toolkit to Create Social Robotic Avatars**|[2509.04356](http://arxiv.org/abs/2509.04356)|null|
 |**2025-09-04**|**Temporal Interest-Driven Multimodal Personalized Content Generation**|[2509.04330](http://arxiv.org/abs/2509.04330)|null|
 |**2025-09-04**|**Efficient Odd-One-Out Anomaly Detection**|[2509.04326](http://arxiv.org/abs/2509.04326)|**[link](https://silviochito.github.io/EfficientOddOneOut/)**|
@@ -468,7 +468,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
