@@ -1,4 +1,4 @@
-## Updated on 2025.09.08
+## Updated on 2025.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -155,7 +155,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
 
 ## Retrieval
 
@@ -188,7 +188,7 @@
 |**2025-09-04**|**Sali4Vid: Saliency-Aware Video Reweighting and Adaptive Caption Retrieval for Dense Video Captioning**|[2509.04602](http://arxiv.org/abs/2509.04602)|null|
 |**2025-09-04**|**The resummation model in FLAMINGO: precisely predicting matter power suppression from observed halo baryon fractions**|[2509.04552](http://arxiv.org/abs/2509.04552)|null|
 |**2025-09-04**|**Delta Activations: A Representation for Finetuned Large Language Models**|[2509.04442](http://arxiv.org/abs/2509.04442)|**[link](https://github.com/OscarXZQ/delta_activations.)**|
-|**2025-09-04**|**ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory**|[2509.04439](http://arxiv.org/abs/2509.04439)|**[link](https://github.com/matt-seb-ho/arc_memo.)**|
+|**2025-09-05**|**ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory**|[2509.04439](http://arxiv.org/abs/2509.04439)|**[link](https://github.com/matt-seb-ho/arc_memo.)**|
 |**2025-09-04**|**Unveiling the Role of Data Uncertainty in Tabular Deep Learning**|[2509.04430](http://arxiv.org/abs/2509.04430)|null|
 |**2025-09-05**|**AnomalyLMM: Bridging Generative Knowledge and Discriminative Retrieval for Text-Based Person Anomaly Search**|[2509.04376](http://arxiv.org/abs/2509.04376)|null|
 |**2025-09-04**|**PARCO: Phoneme-Augmented Robust Contextual ASR via Contrastive Entity Disambiguation**|[2509.04357](http://arxiv.org/abs/2509.04357)|null|
@@ -352,7 +352,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -365,7 +365,7 @@
 |**2025-09-05**|**MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading**|[2509.05080](http://arxiv.org/abs/2509.05080)|null|
 |**2025-09-05**|**ToM-SSI: Evaluating Theory of Mind in Situated Social Interactions**|[2509.05066](http://arxiv.org/abs/2509.05066)|null|
 |**2025-09-05**|**Photon Bose-Einstein Condensation in Semiconductors: A Quantum Kinetic Theory**|[2509.05062](http://arxiv.org/abs/2509.05062)|null|
-|**2025-09-05**|**MultiSurv: A Multimodal Deep Survival Framework for Prostrate and Bladder Cancer**|[2509.05037](http://arxiv.org/abs/2509.05037)|null|
+|**2025-09-08**|**ModalSurv: A Multimodal Deep Survival Framework for Prostrate and Bladder Cancer**|[2509.05037](http://arxiv.org/abs/2509.05037)|null|
 |**2025-09-05**|**An Emotion Recognition Framework via Cross-modal Alignment of EEG and Eye Movement Data**|[2509.04938](http://arxiv.org/abs/2509.04938)|null|
 |**2025-09-05**|**UniView: Enhancing Novel View Synthesis From A Single Image By Unifying Reference Features**|[2509.04932](http://arxiv.org/abs/2509.04932)|null|
 |**2025-09-05**|**SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing**|[2509.04908](http://arxiv.org/abs/2509.04908)|**[link](https://github.com/antgroup/SparkUI-Parser.)**|
@@ -398,7 +398,7 @@
 |**2025-09-04**|**Synthesizing Sheet Music Problems for Evaluation and Reinforcement Learning**|[2509.04059](http://arxiv.org/abs/2509.04059)|null|
 |**2025-09-04**|**Odometry Calibration and Pose Estimation of a 4WIS4WID Mobile Wall Climbing Robot**|[2509.04016](http://arxiv.org/abs/2509.04016)|null|
 |**2025-09-04**|**SliceSemOcc: Vertical Slice Based Multimodal 3D Semantic Occupancy Representation**|[2509.03999](http://arxiv.org/abs/2509.03999)|null|
-|**2025-09-04**|**Meta-Policy Reflexion: Reusable Reflective Memory and Rule Admissibility for Resource-Efficient LLM Agent**|[2509.03990](http://arxiv.org/abs/2509.03990)|null|
+|**2025-09-08**|**Meta-Policy Reflexion: Reusable Reflective Memory and Rule Admissibility for Resource-Efficient LLM Agent**|[2509.03990](http://arxiv.org/abs/2509.03990)|null|
 |**2025-09-04**|**Promptception: How Sensitive Are Large Multimodal Models to Prompts?**|[2509.03986](http://arxiv.org/abs/2509.03986)|null|
 |**2025-09-04**|**Multimodal Feature Fusion Network with Text Difference Enhancement for Remote Sensing Change Detection**|[2509.03961](http://arxiv.org/abs/2509.03961)|**[link](https://github.com/yikuizhai/MMChange.)**|
 |**2025-09-04**|**ANTS: Shaping the Adaptive Negative Textual Space by MLLM for OOD Detection**|[2509.03951](http://arxiv.org/abs/2509.03951)|null|
@@ -529,7 +529,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
