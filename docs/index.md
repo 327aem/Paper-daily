@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.09
+## Updated on 2025.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -21,7 +21,7 @@ layout: default
 |**2025-09-08**|**RecMind: LLM-Enhanced Graph Neural Networks for Personalized Consumer Recommendations**|[2509.06286](http://arxiv.org/abs/2509.06286)|null|
 |**2025-09-08**|**An Explainable Framework for Particle Swarm Optimization using Landscape Analysis and Machine Learning**|[2509.06272](http://arxiv.org/abs/2509.06272)|**[link](https://github.com/GitNitin02/ioh_pso.)**|
 |**2025-09-08**|**REMI: A Novel Causal Schema Memory Architecture for Personalized Lifestyle Recommendation Agents**|[2509.06269](http://arxiv.org/abs/2509.06269)|null|
-|**2025-09-07**|**Generalized Tensor Completion with Non-Random Missingness**|[2509.06225](http://arxiv.org/abs/2509.06225)|null|
+|**2025-09-09**|**Generalized Tensor Completion with Non-Random Missingness**|[2509.06225](http://arxiv.org/abs/2509.06225)|null|
 |**2025-09-07**|**Quantitative Evaluation of the delta-Eddington, Hapke, and Shkuratov Models for Predicting the Albedo and Inferring the Grain Radius of Ice**|[2509.06224](http://arxiv.org/abs/2509.06224)|null|
 |**2025-09-07**|**Modeling shopper interest broadness with entropy-driven dialogue policy in the context of arbitrarily large product catalogs**|[2509.06185](http://arxiv.org/abs/2509.06185)|null|
 |**2025-09-07**|**ARIES: Relation Assessment and Model Recommendation for Deep Time Series Forecasting**|[2509.06060](http://arxiv.org/abs/2509.06060)|**[link](https://github.com/blisky-li/ARIES.)**|
@@ -51,7 +51,7 @@ layout: default
 |**2025-09-03**|**Analysis and Study of Smart Growth**|[2509.04529](http://arxiv.org/abs/2509.04529)|null|
 |**2025-09-02**|**The Ethical Compass of the Machine: Evaluating Large Language Models for Decision Support in Construction Project Management**|[2509.04505](http://arxiv.org/abs/2509.04505)|null|
 |**2025-09-01**|**Where Should I Study? Biased Language Models Decide! Evaluating Fairness in LMs for Academic Recommendations**|[2509.04498](http://arxiv.org/abs/2509.04498)|null|
-|**2025-09-04**|**No Thoughts Just AI: Biased LLM Recommendations Limit Human Agency in Resume Screening**|[2509.04404](http://arxiv.org/abs/2509.04404)|null|
+|**2025-09-08**|**No Thoughts Just AI: Biased LLM Hiring Recommendations Alter Human Decision Making and Limit Human Autonomy**|[2509.04404](http://arxiv.org/abs/2509.04404)|null|
 |**2025-09-04**|**Temporal Interest-Driven Multimodal Personalized Content Generation**|[2509.04330](http://arxiv.org/abs/2509.04330)|null|
 |**2025-09-04**|**Facts Fade Fast: Evaluating Memorization of Outdated Medical Knowledge in Large Language Models**|[2509.04304](http://arxiv.org/abs/2509.04304)|null|
 |**2025-09-04**|**KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis**|[2509.04191](http://arxiv.org/abs/2509.04191)|null|
@@ -179,7 +179,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
 
 ## Retrieval
 
@@ -206,7 +206,7 @@ layout: default
 |**2025-09-08**|**WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents**|[2509.06501](http://arxiv.org/abs/2509.06501)|null|
 |**2025-09-08**|**Understanding JWST water spectra: what can thermochemical models tell us about the (cold) water in protoplanetary disks?**|[2509.06494](http://arxiv.org/abs/2509.06494)|null|
 |**2025-09-08**|**From Offline to Inline Without Pain: A Practical Framework for Translating Offline MR Reconstructions to Inline Deployment Using the Gadgetron Platform**|[2509.06473](http://arxiv.org/abs/2509.06473)|null|
-|**2025-09-08**|**Rethinking LLM Parametric Knowledge as Post-retrieval Confidence for Dynamic Retrieval and Reranking**|[2509.06472](http://arxiv.org/abs/2509.06472)|null|
+|**2025-09-09**|**Rethinking LLM Parametric Knowledge as Post-retrieval Confidence for Dynamic Retrieval and Reranking**|[2509.06472](http://arxiv.org/abs/2509.06472)|null|
 |**2025-09-08**|**AudioBoost: Increasing Audiobook Retrievability in Spotify Search with Synthetic Query Generation**|[2509.06452](http://arxiv.org/abs/2509.06452)|null|
 |**2025-09-08**|**HyFedRAG: A Federated Retrieval-Augmented Generation Framework for Heterogeneous and Privacy-Sensitive Data**|[2509.06444](http://arxiv.org/abs/2509.06444)|null|
 |**2025-09-08**|**Compare: A Framework for Scientific Comparisons**|[2509.06412](http://arxiv.org/abs/2509.06412)|null|
@@ -426,13 +426,13 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
 
 ## Multi-Modal
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
-|**2025-09-08**|**Interleaving Reasoning for Better Text-to-Image Generation**|[2509.06945](http://arxiv.org/abs/2509.06945)|**[link](https://github.com/Osilly/Interleaving-Reasoning-Generation)**|
+|**2025-09-09**|**Interleaving Reasoning for Better Text-to-Image Generation**|[2509.06945](http://arxiv.org/abs/2509.06945)|**[link](https://github.com/Osilly/Interleaving-Reasoning-Generation)**|
 |**2025-09-08**|**LLaDA-VLA: Vision Language Diffusion Action Models**|[2509.06932](http://arxiv.org/abs/2509.06932)|null|
 |**2025-09-08**|**Leveraging Generic Foundation Models for Multimodal Surgical Data Analysis**|[2509.06831](http://arxiv.org/abs/2509.06831)|**[link](https://github.com/DigitalSurgeryLab-Basel/ML-CDS-2025.)**|
 |**2025-09-08**|**Multimode Photon-Photon Coupling**|[2509.06778](http://arxiv.org/abs/2509.06778)|null|
@@ -443,7 +443,7 @@ layout: default
 |**2025-09-08**|**CogGuide: Human-Like Guidance for Zero-Shot Omni-Modal Reasoning**|[2509.06641](http://arxiv.org/abs/2509.06641)|null|
 |**2025-09-08**|**Integrating Spatial and Semantic Embeddings for Stereo Sound Event Localization in Videos**|[2509.06598](http://arxiv.org/abs/2509.06598)|null|
 |**2025-09-08**|**QualityFM: a Multimodal Physiological Signal Foundation Model with Self-Distillation for Signal Quality Challenges in Critically Ill Patients**|[2509.06516](http://arxiv.org/abs/2509.06516)|null|
-|**2025-09-08**|**CAME-AB: Cross-Modality Attention with Mixture-of-Experts for Antibody Binding Site Prediction**|[2509.06465](http://arxiv.org/abs/2509.06465)|**[link](https://anonymous.4open.science/r/CAME-AB-C525)**|
+|**2025-09-09**|**CAME-AB: Cross-Modality Attention with Mixture-of-Experts for Antibody Binding Site Prediction**|[2509.06465](http://arxiv.org/abs/2509.06465)|**[link](https://anonymous.4open.science/r/CAME-AB-C525)**|
 |**2025-09-08**|**Phantom-Insight: Adaptive Multi-cue Fusion for Video Camouflaged Object Detection with Multimodal LLM**|[2509.06422](http://arxiv.org/abs/2509.06422)|null|
 |**2025-09-08**|**MeanFlow-Accelerated Multimodal Video-to-Audio Synthesis via One-Step Generation**|[2509.06389](http://arxiv.org/abs/2509.06389)|null|
 |**2025-09-08**|**Context-Adaptive Hearing Aid Fitting Advisor through Multi-turn Multimodal LLM Conversation**|[2509.06382](http://arxiv.org/abs/2509.06382)|null|
@@ -642,7 +642,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
