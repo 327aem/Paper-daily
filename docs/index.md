@@ -9,6 +9,20 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-10**|**Extended Version: Security and Privacy Perceptions of Pakistani Facebook Matrimony Group Users**|[2509.08782](http://arxiv.org/abs/2509.08782)|null|
+|**2025-09-10**|**The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems**|[2509.08713](http://arxiv.org/abs/2509.08713)|null|
+|**2025-09-10**|**Assessing Bias in the Variable Bandpass Periodic Block Bootstrap Method**|[2509.08647](http://arxiv.org/abs/2509.08647)|null|
+|**2025-09-10**|**Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications**|[2509.08604](http://arxiv.org/abs/2509.08604)|null|
+|**2025-09-10**|**Benchmarking Optimization Algorithms for Automated Calibration of Quantum Devices**|[2509.08555](http://arxiv.org/abs/2509.08555)|null|
+|**2025-09-10**|**Heart Disease Prediction: A Comparative Study of Optimisers Performance in Deep Neural Networks**|[2509.08499](http://arxiv.org/abs/2509.08499)|null|
+|**2025-09-10**|**Benchmarking CHGNet Universal Machine Learning Interatomic Potential Against DFT and EXAFS: Case of Layered WS2 and MoS2**|[2509.08498](http://arxiv.org/abs/2509.08498)|null|
+|**2025-09-10**|**A Stochastic Programming Approach to the Railcar Maintenance Problem with Service Level and Track Capacity Considerations**|[2509.08427](http://arxiv.org/abs/2509.08427)|null|
+|**2025-09-10**|**An Iterative LLM Framework for SIBT utilizing RAG-based Adaptive Weight Optimization**|[2509.08407](http://arxiv.org/abs/2509.08407)|null|
+|**2025-09-10**|**Personalized Inhibition Training with Eye-Tracking: Enhancing Student Learning and Teacher Assessment in Educational Games**|[2509.08357](http://arxiv.org/abs/2509.08357)|null|
+|**2025-09-10**|**Soundtracks of Our Lives: How Age Influences Musical Preferences**|[2509.08337](http://arxiv.org/abs/2509.08337)|null|
+|**2025-09-10**|**Deploying Robust Decision Support Systems for Transit Headway Control: Rider Impacts, Human Factors and Recommendations for Scalability**|[2509.08231](http://arxiv.org/abs/2509.08231)|null|
+|**2025-09-09**|**OCTANE -- Optimal Control for Tensor-based Autoencoder Network Emergence: Explicit Case**|[2509.08169](http://arxiv.org/abs/2509.08169)|null|
+|**2025-09-09**|**ChatGPT for Code Refactoring: Analyzing Topics, Interaction, and Effective Prompts**|[2509.08090](http://arxiv.org/abs/2509.08090)|null|
 |**2025-09-09**|**ImportSnare: Directed "Code Manual" Hijacking in Retrieval-Augmented Code Generation**|[2509.07941](http://arxiv.org/abs/2509.07941)|**[link](https://importsnare.github.io.)**|
 |**2025-09-09**|**Bias in Gender Bias Benchmarks: How Spurious Features Distort Evaluation**|[2509.07596](http://arxiv.org/abs/2509.07596)|null|
 |**2025-09-09**|**Conv4Rec: A 1-by-1 Convolutional AutoEncoder for User Profiling through Joint Analysis of Implicit and Explicit Feedbacks**|[2509.07499](http://arxiv.org/abs/2509.07499)|null|
@@ -198,6 +212,27 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-10**|**A Benchmark Dataset for Satellite-Based Estimation and Detection of Rain**|[2509.08816](http://arxiv.org/abs/2509.08816)|null|
+|**2025-09-10**|**Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge**|[2509.08808](http://arxiv.org/abs/2509.08808)|null|
+|**2025-09-10**|**PianoVAM: A Multimodal Piano Performance Dataset**|[2509.08800](http://arxiv.org/abs/2509.08800)|null|
+|**2025-09-10**|**Do All Autoregressive Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms**|[2509.08778](http://arxiv.org/abs/2509.08778)|null|
+|**2025-09-10**|**Adaptive Quantum Computers: decoding and state preparation**|[2509.08718](http://arxiv.org/abs/2509.08718)|null|
+|**2025-09-10**|**Tokenizing Loops of Antibodies**|[2509.08707](http://arxiv.org/abs/2509.08707)|null|
+|**2025-09-10**|**LLM Ensemble for RAG: Role of Context Length in Zero-Shot Question Answering for BioASQ Challenge**|[2509.08596](http://arxiv.org/abs/2509.08596)|null|
+|**2025-09-10**|**An Iterative LLM Framework for SIBT utilizing RAG-based Adaptive Weight Optimization**|[2509.08407](http://arxiv.org/abs/2509.08407)|null|
+|**2025-09-10**|**SINDI: an Efficient Index for Approximate Maximum Inner Product Search on Sparse Vectors**|[2509.08395](http://arxiv.org/abs/2509.08395)|null|
+|**2025-09-10**|**Retrieval-Augmented VLMs for Multimodal Melanoma Diagnosis**|[2509.08338](http://arxiv.org/abs/2509.08338)|null|
+|**2025-09-10**|**Soundtracks of Our Lives: How Age Influences Musical Preferences**|[2509.08337](http://arxiv.org/abs/2509.08337)|null|
+|**2025-09-10**|**Towards Knowledge-Aware Document Systems: Modeling Semantic Coverage Relations via Answerability Detection**|[2509.08304](http://arxiv.org/abs/2509.08304)|null|
+|**2025-09-10**|**Segment Transformer: AI-Generated Music Detection via Music Structural Analysis**|[2509.08283](http://arxiv.org/abs/2509.08283)|null|
+|**2025-09-10**|**Real-world Music Plagiarism Detection With Music Segment Transcription System**|[2509.08282](http://arxiv.org/abs/2509.08282)|null|
+|**2025-09-10**|**Exploratory Retrieval-Augmented Planning For Continual Embodied Instruction Following**|[2509.08222](http://arxiv.org/abs/2509.08222)|null|
+|**2025-09-10**|**Vector embedding of multi-modal texts: a tool for discovery?**|[2509.08216](http://arxiv.org/abs/2509.08216)|null|
+|**2025-09-09**|**Continuous scanning full-field OCT for fast volumetric imaging of multi-cellular aggregates**|[2509.08101](http://arxiv.org/abs/2509.08101)|null|
+|**2025-09-09**|**Similarities in the evaporation of saturated solitons and black holes**|[2509.08049](http://arxiv.org/abs/2509.08049)|null|
+|**2025-09-09**|**spherical: A Comprehensive Database and Automated Pipeline for VLT/SPHERE High-Contrast Imaging**|[2509.08044](http://arxiv.org/abs/2509.08044)|**[link](https://github.com/m-samland/spherical),)**|
+|**2025-09-09**|**NOWJ@COLIEE 2025: A Multi-stage Framework Integrating Embedding Models and Large Language Models for Legal Retrieval and Entailment**|[2509.08025](http://arxiv.org/abs/2509.08025)|null|
+|**2025-09-09**|**Two Stage Context Learning with Large Language Models for Multimodal Stance Detection on Climate Change**|[2509.08024](http://arxiv.org/abs/2509.08024)|null|
 |**2025-09-09**|**ImportSnare: Directed "Code Manual" Hijacking in Retrieval-Augmented Code Generation**|[2509.07941](http://arxiv.org/abs/2509.07941)|**[link](https://importsnare.github.io.)**|
 |**2025-09-09**|**Smart Fast Finish: Preventing Overdelivery via Daily Budget Pacing at DoorDash**|[2509.07929](http://arxiv.org/abs/2509.07929)|null|
 |**2025-09-09**|**CP-Model-Zoo: A Natural Language Query System for Constraint Programming Models**|[2509.07867](http://arxiv.org/abs/2509.07867)|null|
@@ -478,6 +513,26 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-10**|**PianoVAM: A Multimodal Piano Performance Dataset**|[2509.08800](http://arxiv.org/abs/2509.08800)|null|
+|**2025-09-10**|**Calibrating MLLM-as-a-judge via Multimodal Bayesian Prompt Ensembles**|[2509.08777](http://arxiv.org/abs/2509.08777)|null|
+|**2025-09-10**|**Streaming Sequence-to-Sequence Learning with Delayed Streams Modeling**|[2509.08753](http://arxiv.org/abs/2509.08753)|**[link](https://github.com/kyutai-labs/delayed-streams-modeling)**|
+|**2025-09-10**|**FinZero: Launching Multi-modal Financial Time Series Forecast with Large Reasoning Model**|[2509.08742](http://arxiv.org/abs/2509.08742)|null|
+|**2025-09-10**|**BcQLM: Efficient Vision-Language Understanding with Distilled Q-Gated Cross-Modal Fusion**|[2509.08715](http://arxiv.org/abs/2509.08715)|**[link](https://github.com/thico0224/BcQLM.)**|
+|**2025-09-10**|**Tokenizing Loops of Antibodies**|[2509.08707](http://arxiv.org/abs/2509.08707)|null|
+|**2025-09-10**|**Augmenting speech transcripts of VR recordings with gaze, pointing, and visual context for multimodal coreference resolution**|[2509.08689](http://arxiv.org/abs/2509.08689)|null|
+|**2025-09-10**|**Intertwined polar, chiral, and ferro-rotational orders in a rotation-only insulator**|[2509.08650](http://arxiv.org/abs/2509.08650)|null|
+|**2025-09-10**|**UOPSL: Unpaired OCT Predilection Sites Learning for Fundus Image Diagnosis Augmentation**|[2509.08624](http://arxiv.org/abs/2509.08624)|null|
+|**2025-09-10**|**Vision-Language Semantic Aggregation Leveraging Foundation Model for Generalizable Medical Image Segmentation**|[2509.08570](http://arxiv.org/abs/2509.08570)|null|
+|**2025-09-10**|**HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning**|[2509.08519](http://arxiv.org/abs/2509.08519)|**[link](https://phantom-video.github.io/HuMo.)**|
+|**2025-09-10**|**Prompt-Driven Image Analysis with Multimodal Generative AI: Detection, Segmentation, Inpainting, and Interpretation**|[2509.08489](http://arxiv.org/abs/2509.08489)|null|
+|**2025-09-10**|**Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics**|[2509.08461](http://arxiv.org/abs/2509.08461)|null|
+|**2025-09-10**|**GlyphWeaver: Unlocking Glyph Design Creativity with Uniform Glyph DSL and AI**|[2509.08444](http://arxiv.org/abs/2509.08444)|null|
+|**2025-09-10**|**Retrieval-Augmented VLMs for Multimodal Melanoma Diagnosis**|[2509.08338](http://arxiv.org/abs/2509.08338)|null|
+|**2025-09-10**|**SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training**|[2509.08311](http://arxiv.org/abs/2509.08311)|**[link](https://github.com/ToniChopp/SimCroP.)**|
+|**2025-09-10**|**Vector embedding of multi-modal texts: a tool for discovery?**|[2509.08216](http://arxiv.org/abs/2509.08216)|null|
+|**2025-09-09**|**Comparing Machine Learning and Physics-Based Nanoparticle Geometry Determinations Using Far-Field Spectral Properties**|[2509.08174](http://arxiv.org/abs/2509.08174)|null|
+|**2025-09-09**|**Agile and Broadband All-Optical Wavelength Conversion with Multi-Wavelength Lasers**|[2509.08134](http://arxiv.org/abs/2509.08134)|null|
+|**2025-09-09**|**Two Stage Context Learning with Large Language Models for Multimodal Stance Detection on Climate Change**|[2509.08024](http://arxiv.org/abs/2509.08024)|null|
 |**2025-09-09**|**Visual Representation Alignment for Multimodal Large Language Models**|[2509.07979](http://arxiv.org/abs/2509.07979)|null|
 |**2025-09-09**|**Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search**|[2509.07969](http://arxiv.org/abs/2509.07969)|null|
 |**2025-09-09**|**Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images**|[2509.07966](http://arxiv.org/abs/2509.07966)|**[link](https://github.com/AI-4-Everyone/Visual-TableQA.)**|
