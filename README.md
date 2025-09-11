@@ -1,4 +1,4 @@
-## Updated on 2025.09.10
+## Updated on 2025.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2025-09-08**|**An on-sky investigation into factors limiting the performance of Keck-NIRC2 for conducting infrared high-contrast imaging**|[2509.07138](http://arxiv.org/abs/2509.07138)|null|
 |**2025-09-08**|**Avoiding Over-Personalization with Rule-Guided Knowledge Graph Adaptation for LLM Recommendations**|[2509.07133](http://arxiv.org/abs/2509.07133)|null|
 |**2025-09-08**|**The Signalgate Case is Waiving a Red Flag to All Organizational and Behavioral Cybersecurity Leaders, Practitioners, and Researchers: Are We Receiving the Signal Amidst the Noise?**|[2509.07053](http://arxiv.org/abs/2509.07053)|null|
-|**2025-09-08**|**UniSearch: Rethinking Search System with a Unified Generative Architecture**|[2509.06887](http://arxiv.org/abs/2509.06887)|null|
+|**2025-09-10**|**UniSearch: Rethinking Search System with a Unified Generative Architecture**|[2509.06887](http://arxiv.org/abs/2509.06887)|null|
 |**2025-09-08**|**Robustness and accuracy of mean opinion scores with hard and soft outlier detection**|[2509.06554](http://arxiv.org/abs/2509.06554)|null|
 |**2025-09-08**|**Tackling Device Data Distribution Real-time Shift via Prototype-based Parameter Editing**|[2509.06552](http://arxiv.org/abs/2509.06552)|null|
 |**2025-09-08**|**Explained, yet misunderstood: How AI Literacy shapes HR Managers' interpretation of User Interfaces in Recruiting Recommender Systems**|[2509.06475](http://arxiv.org/abs/2509.06475)|null|
@@ -197,7 +197,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
 
 ## Retrieval
 
@@ -208,8 +208,8 @@
 |**2025-09-09**|**CP-Model-Zoo: A Natural Language Query System for Constraint Programming Models**|[2509.07867](http://arxiv.org/abs/2509.07867)|null|
 |**2025-09-09**|**KLIPA: A Knowledge Graph and LLM-Driven QA Framework for IP Analysis**|[2509.07860](http://arxiv.org/abs/2509.07860)|null|
 |**2025-09-09**|**Aligning LLMs for the Classroom with Knowledge-Based Retrieval -- A Comparative RAG Study**|[2509.07846](http://arxiv.org/abs/2509.07846)|null|
-|**2025-09-09**|**Compressibility Measures and Succinct Data Structures for Piecewise Linear Approximations**|[2509.07827](http://arxiv.org/abs/2509.07827)|null|
-|**2025-09-09**|**SciNLP: A Domain-Specific Benchmark for Full-Text Scientific Entity and Relation Extraction in NLP**|[2509.07801](http://arxiv.org/abs/2509.07801)|**[link](https://github.com/AKADDC/SciNLP.)**|
+|**2025-09-10**|**Compressibility Measures and Succinct Data Structures for Piecewise Linear Approximations**|[2509.07827](http://arxiv.org/abs/2509.07827)|null|
+|**2025-09-10**|**SciNLP: A Domain-Specific Benchmark for Full-Text Scientific Entity and Relation Extraction in NLP**|[2509.07801](http://arxiv.org/abs/2509.07801)|**[link](https://github.com/AKADDC/SciNLP.)**|
 |**2025-09-09**|**Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey**|[2509.07794](http://arxiv.org/abs/2509.07794)|null|
 |**2025-09-09**|**A Survey of Long-Document Retrieval in the PLM and LLM Era**|[2509.07759](http://arxiv.org/abs/2509.07759)|null|
 |**2025-09-09**|**The Carbon Footprint Wizard: A Knowledge-Augmented AI Interface for Streamlining Food Carbon Footprint Analysis**|[2509.07733](http://arxiv.org/abs/2509.07733)|null|
@@ -220,7 +220,7 @@
 |**2025-09-09**|**BALI: Enhancing Biomedical Language Representations through Knowledge Graph and Language Model Alignment**|[2509.07588](http://arxiv.org/abs/2509.07588)|null|
 |**2025-09-09**|**Exploring System Adaptations For Minimum Latency Real-Time Piano Transcription**|[2509.07586](http://arxiv.org/abs/2509.07586)|null|
 |**2025-09-09**|**Avoiding Knowledge Edit Skipping in Multi-hop Question Answering with Guided Decomposition**|[2509.07555](http://arxiv.org/abs/2509.07555)|null|
-|**2025-09-09**|**TextlessRAG: End-to-End Visual Document RAG by Speech Without Text**|[2509.07538](http://arxiv.org/abs/2509.07538)|**[link](https://github.com/xiepeijinhit-hue/textlessrag)**|
+|**2025-09-10**|**TextlessRAG: End-to-End Visual Document RAG by Speech Without Text**|[2509.07538](http://arxiv.org/abs/2509.07538)|**[link](https://github.com/xiepeijinhit-hue/textlessrag)**|
 |**2025-09-09**|**Uncertainty-Driven Hierarchical Sampling for Unbalanced Continual Malware Detection with Time-Series Update-Based Retrieval**|[2509.07532](http://arxiv.org/abs/2509.07532)|null|
 |**2025-09-09**|**FLeW: Facet-Level and Adaptive Weighted Representation Learning of Scientific Documents**|[2509.07531](http://arxiv.org/abs/2509.07531)|null|
 |**2025-09-09**|**ALLabel: Three-stage Active Learning for LLM-based Entity Recognition using Demonstration Retrieval**|[2509.07512](http://arxiv.org/abs/2509.07512)|null|
@@ -240,7 +240,7 @@
 |**2025-09-08**|**Yet another exponential Hopfield model**|[2509.06905](http://arxiv.org/abs/2509.06905)|null|
 |**2025-09-08**|**Proof-Carrying Numbers (PCN): A Protocol for Trustworthy Numeric Answers from LLMs via Claim Verification**|[2509.06902](http://arxiv.org/abs/2509.06902)|null|
 |**2025-09-08**|**mmBERT: A Modern Multilingual Encoder with Annealed Language Learning**|[2509.06888](http://arxiv.org/abs/2509.06888)|null|
-|**2025-09-08**|**UniSearch: Rethinking Search System with a Unified Generative Architecture**|[2509.06887](http://arxiv.org/abs/2509.06887)|null|
+|**2025-09-10**|**UniSearch: Rethinking Search System with a Unified Generative Architecture**|[2509.06887](http://arxiv.org/abs/2509.06887)|null|
 |**2025-09-08**|**UNH at CheckThat! 2025: Fine-tuning Vs Prompting in Claim Extraction**|[2509.06883](http://arxiv.org/abs/2509.06883)|null|
 |**2025-09-08**|**Seeing the Forest Through the Trees: Knowledge Retrieval for Streamlining Particle Physics Analysis**|[2509.06855](http://arxiv.org/abs/2509.06855)|null|
 |**2025-09-08**|**Intelligent Manufacturing Support: Specialized LLMs for Composite Material Processing and Equipment Operation**|[2509.06734](http://arxiv.org/abs/2509.06734)|null|
@@ -477,7 +477,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -487,17 +487,17 @@
 |**2025-09-09**|**Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search**|[2509.07969](http://arxiv.org/abs/2509.07969)|null|
 |**2025-09-09**|**Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images**|[2509.07966](http://arxiv.org/abs/2509.07966)|**[link](https://github.com/AI-4-Everyone/Visual-TableQA.)**|
 |**2025-09-09**|**Multimodal Contrastive Pretraining of CBCT and IOS for Enhanced Tooth Segmentation**|[2509.07923](http://arxiv.org/abs/2509.07923)|null|
-|**2025-09-09**|**HiPhO: How Far Are (M)LLMs from Humans in the Latest High School Physics Olympiad Benchmark?**|[2509.07894](http://arxiv.org/abs/2509.07894)|**[link](https://github.com/SciYu/HiPhO.)**|
+|**2025-09-10**|**HiPhO: How Far Are (M)LLMs from Humans in the Latest High School Physics Olympiad Benchmark?**|[2509.07894](http://arxiv.org/abs/2509.07894)|**[link](https://github.com/SciYu/HiPhO.)**|
 |**2025-09-09**|**D-LEAF: Localizing and Correcting Hallucinations in Multimodal LLMs via Layer-to-head Attention Diagnostics**|[2509.07864](http://arxiv.org/abs/2509.07864)|null|
 |**2025-09-09**|**NeuroGaze: A Hybrid EEG and Eye-Tracking Brain-Computer Interface for Hands-Free Interaction in Virtual Reality**|[2509.07863](http://arxiv.org/abs/2509.07863)|null|
 |**2025-09-09**|**Dual Knowledge-Enhanced Two-Stage Reasoner for Multimodal Dialog Systems**|[2509.07817](http://arxiv.org/abs/2509.07817)|null|
 |**2025-09-09**|**XSRD-Net: EXplainable Stroke Relapse Detection**|[2509.07772](http://arxiv.org/abs/2509.07772)|null|
 |**2025-09-09**|**A Survey of Long-Document Retrieval in the PLM and LLM Era**|[2509.07759](http://arxiv.org/abs/2509.07759)|null|
 |**2025-09-09**|**Enhancing Online Learning by Integrating Biosensors and Multimodal Learning Analytics for Detecting and Predicting Student Behavior: A Review**|[2509.07742](http://arxiv.org/abs/2509.07742)|null|
-|**2025-09-09**|**Towards explainable decision support using hybrid neural models for logistic terminal automation**|[2509.07577](http://arxiv.org/abs/2509.07577)|null|
+|**2025-09-10**|**Towards explainable decision support using hybrid neural models for logistic terminal automation**|[2509.07577](http://arxiv.org/abs/2509.07577)|null|
 |**2025-09-09**|**uGMM-NN: Univariate Gaussian Mixture Model Neural Network**|[2509.07569](http://arxiv.org/abs/2509.07569)|null|
 |**2025-09-09**|**VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents**|[2509.07553](http://arxiv.org/abs/2509.07553)|**[link](https://github.com/Wuzheng02/VeriOS.)**|
-|**2025-09-09**|**TextlessRAG: End-to-End Visual Document RAG by Speech Without Text**|[2509.07538](http://arxiv.org/abs/2509.07538)|**[link](https://github.com/xiepeijinhit-hue/textlessrag)**|
+|**2025-09-10**|**TextlessRAG: End-to-End Visual Document RAG by Speech Without Text**|[2509.07538](http://arxiv.org/abs/2509.07538)|**[link](https://github.com/xiepeijinhit-hue/textlessrag)**|
 |**2025-09-09**|**EHWGesture -- A dataset for multimodal understanding of clinical gestures**|[2509.07525](http://arxiv.org/abs/2509.07525)|null|
 |**2025-09-09**|**Backdoor Attacks and Defenses in Computer Vision Domain: A Survey**|[2509.07504](http://arxiv.org/abs/2509.07504)|null|
 |**2025-09-09**|**SheetDesigner: MLLM-Powered Spreadsheet Layout Generation with Rule-Based and Vision-Based Reflection**|[2509.07473](http://arxiv.org/abs/2509.07473)|null|
@@ -511,7 +511,7 @@
 |**2025-09-08**|**XBusNet: Text-Guided Breast Ultrasound Segmentation via Multimodal Vision-Language Learning**|[2509.07213](http://arxiv.org/abs/2509.07213)|null|
 |**2025-09-08**|**Automated Evaluation of Gender Bias Across 13 Large Multimodal Models**|[2509.07050](http://arxiv.org/abs/2509.07050)|null|
 |**2025-09-09**|**Interleaving Reasoning for Better Text-to-Image Generation**|[2509.06945](http://arxiv.org/abs/2509.06945)|**[link](https://github.com/Osilly/Interleaving-Reasoning-Generation)**|
-|**2025-09-08**|**LLaDA-VLA: Vision Language Diffusion Action Models**|[2509.06932](http://arxiv.org/abs/2509.06932)|null|
+|**2025-09-10**|**LLaDA-VLA: Vision Language Diffusion Action Models**|[2509.06932](http://arxiv.org/abs/2509.06932)|null|
 |**2025-09-08**|**Leveraging Generic Foundation Models for Multimodal Surgical Data Analysis**|[2509.06831](http://arxiv.org/abs/2509.06831)|**[link](https://github.com/DigitalSurgeryLab-Basel/ML-CDS-2025.)**|
 |**2025-09-08**|**Multimode Photon-Photon Coupling**|[2509.06778](http://arxiv.org/abs/2509.06778)|null|
 |**2025-09-08**|**D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning**|[2509.06771](http://arxiv.org/abs/2509.06771)|**[link](https://github.com/Sai-Kartheek-Reddy/D-Humor-Dark-Humor-Understanding-via-Multimodal-Open-ended-Reasoning)**|
@@ -521,7 +521,7 @@
 |**2025-09-08**|**CogGuide: Human-Like Guidance for Zero-Shot Omni-Modal Reasoning**|[2509.06641](http://arxiv.org/abs/2509.06641)|null|
 |**2025-09-08**|**Integrating Spatial and Semantic Embeddings for Stereo Sound Event Localization in Videos**|[2509.06598](http://arxiv.org/abs/2509.06598)|null|
 |**2025-09-08**|**QualityFM: a Multimodal Physiological Signal Foundation Model with Self-Distillation for Signal Quality Challenges in Critically Ill Patients**|[2509.06516](http://arxiv.org/abs/2509.06516)|null|
-|**2025-09-09**|**CAME-AB: Cross-Modality Attention with Mixture-of-Experts for Antibody Binding Site Prediction**|[2509.06465](http://arxiv.org/abs/2509.06465)|**[link](https://anonymous.4open.science/r/CAME-AB-C525)**|
+|**2025-09-10**|**CAME-AB: Cross-Modality Attention with Mixture-of-Experts for Antibody Binding Site Prediction**|[2509.06465](http://arxiv.org/abs/2509.06465)|**[link](https://anonymous.4open.science/r/CAME-AB-C525)**|
 |**2025-09-08**|**Phantom-Insight: Adaptive Multi-cue Fusion for Video Camouflaged Object Detection with Multimodal LLM**|[2509.06422](http://arxiv.org/abs/2509.06422)|null|
 |**2025-09-08**|**MeanFlow-Accelerated Multimodal Video-to-Audio Synthesis via One-Step Generation**|[2509.06389](http://arxiv.org/abs/2509.06389)|null|
 |**2025-09-08**|**Context-Adaptive Hearing Aid Fitting Advisor through Multi-turn Multimodal LLM Conversation**|[2509.06382](http://arxiv.org/abs/2509.06382)|null|
@@ -720,7 +720,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
