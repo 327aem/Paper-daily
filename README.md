@@ -14,6 +14,21 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-11**|**Personality-Enhanced Social Recommendations in SAMI: Exploring the Role of Personality Detection in Matchmaking**|[2509.09583](http://arxiv.org/abs/2509.09583)|null|
+|**2025-09-11**|**Towards Explainable Job Title Matching: Leveraging Semantic Textual Relatedness and Knowledge Graphs**|[2509.09522](http://arxiv.org/abs/2509.09522)|null|
+|**2025-09-11**|**Incorporating AI Incident Reporting into Telecommunications Law and Policy: Insights from India**|[2509.09508](http://arxiv.org/abs/2509.09508)|null|
+|**2025-09-11**|**We're Still Doing It (All) Wrong: Recommender Systems, Fifteen Years Later**|[2509.09414](http://arxiv.org/abs/2509.09414)|null|
+|**2025-09-11**|**MetaLLMix : An XAI Aided LLM-Meta-learning Based Approach for Hyper-parameters Optimization**|[2509.09387](http://arxiv.org/abs/2509.09387)|null|
+|**2025-09-11**|**Smart Device Development for Gait Monitoring: Multimodal Feedback in an Interactive Foot Orthosis, Walking Aid, and Mobile Application**|[2509.09359](http://arxiv.org/abs/2509.09359)|null|
+|**2025-09-11**|**CESRec: Constructing Pseudo Interactions for Sequential Recommendation via Conversational Feedback**|[2509.09342](http://arxiv.org/abs/2509.09342)|null|
+|**2025-09-11**|**Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on Open & Industry Data**|[2509.09313](http://arxiv.org/abs/2509.09313)|null|
+|**2025-09-11**|**The Impact of Device Type, Data Practices, and Use Case Scenarios on Privacy Concerns about Eye-tracked Augmented Reality in the United States and Germany**|[2509.09285](http://arxiv.org/abs/2509.09285)|null|
+|**2025-09-11**|**Constructing a Question-Answering Simulator through the Distillation of LLMs**|[2509.09226](http://arxiv.org/abs/2509.09226)|**[link](https://anonymous.4open.science/r/LDSim-05A9.)**|
+|**2025-09-11**|**Peering Partner Recommendation for ISPs using Machine Learning**|[2509.09146](http://arxiv.org/abs/2509.09146)|null|
+|**2025-09-11**|**Modality Alignment with Multi-scale Bilateral Attention for Multimodal Recommendation**|[2509.09114](http://arxiv.org/abs/2509.09114)|**[link](https://github.com/rkl71/MambaRec.)**|
+|**2025-09-11**|**Instructional Prompt Optimization for Few-Shot LLM-Based Recommendations on Cold-Start Users**|[2509.09066](http://arxiv.org/abs/2509.09066)|null|
+|**2025-09-10**|**Envy-Free but Still Unfair: Envy-Freeness Up To One Item (EF-1) in Personalized Recommendation**|[2509.09037](http://arxiv.org/abs/2509.09037)|null|
+|**2025-09-10**|**Extended Version: It Should Be Easy but... New Users Experiences and Challenges with Secret Management Tools**|[2509.09036](http://arxiv.org/abs/2509.09036)|null|
 |**2025-09-10**|**Extended Version: Security and Privacy Perceptions of Pakistani Facebook Matrimony Group Users**|[2509.08782](http://arxiv.org/abs/2509.08782)|null|
 |**2025-09-10**|**The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems**|[2509.08713](http://arxiv.org/abs/2509.08713)|null|
 |**2025-09-10**|**Assessing Bias in the Variable Bandpass Periodic Block Bootstrap Method**|[2509.08647](http://arxiv.org/abs/2509.08647)|null|
@@ -217,6 +232,33 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-11**|**Retrieval-Augmented Generation for Reliable Interpretation of Radio Regulations**|[2509.09651](http://arxiv.org/abs/2509.09651)|**[link](https://github.com/Zakaria010/Radio-RAG.)**|
+|**2025-09-11**|**AskDoc -- Identifying Hidden Healthcare Disparities**|[2509.09622](http://arxiv.org/abs/2509.09622)|null|
+|**2025-09-11**|**Unstable entropy for Anosov diffeomorphisms on the 3-torus**|[2509.09520](http://arxiv.org/abs/2509.09520)|null|
+|**2025-09-11**|**SEDM: Scalable Self-Evolving Distributed Memory for Agents**|[2509.09498](http://arxiv.org/abs/2509.09498)|null|
+|**2025-09-11**|**In-Loop Filtering Using Learned Look-Up Tables for Video Coding**|[2509.09494](http://arxiv.org/abs/2509.09494)|null|
+|**2025-09-11**|**Boosting Data Utilization for Multilingual Dense Retrieval**|[2509.09459](http://arxiv.org/abs/2509.09459)|null|
+|**2025-09-11**|**We're Still Doing It (All) Wrong: Recommender Systems, Fifteen Years Later**|[2509.09414](http://arxiv.org/abs/2509.09414)|null|
+|**2025-09-11**|**MetaRAG: Metamorphic Testing for Hallucination Detection in RAG Systems**|[2509.09360](http://arxiv.org/abs/2509.09360)|null|
+|**2025-09-11**|**CESRec: Constructing Pseudo Interactions for Sequential Recommendation via Conversational Feedback**|[2509.09342](http://arxiv.org/abs/2509.09342)|null|
+|**2025-09-11**|**On the Security of SSH Client Signatures**|[2509.09331](http://arxiv.org/abs/2509.09331)|null|
+|**2025-09-11**|**Listening for "You": Enhancing Speech Image Retrieval via Target Speaker Extraction**|[2509.09306](http://arxiv.org/abs/2509.09306)|null|
+|**2025-09-11**|**From scratch to silver: Creating trustworthy training data for patent-SDG classification using Large Language Models**|[2509.09303](http://arxiv.org/abs/2509.09303)|null|
+|**2025-09-11**|**Fusing Knowledge and Language: A Comparative Study of Knowledge Graph-Based Question Answering with LLMs**|[2509.09272](http://arxiv.org/abs/2509.09272)|null|
+|**2025-09-11**|**DATE: Dynamic Absolute Time Enhancement for Long Video Understanding**|[2509.09263](http://arxiv.org/abs/2509.09263)|null|
+|**2025-09-11**|**Constructing a Question-Answering Simulator through the Distillation of LLMs**|[2509.09226](http://arxiv.org/abs/2509.09226)|**[link](https://anonymous.4open.science/r/LDSim-05A9.)**|
+|**2025-09-11**|**Shell or Nothing: Real-World Benchmarks and Memory-Activated Agents for Automated Penetration Testing**|[2509.09207](http://arxiv.org/abs/2509.09207)|null|
+|**2025-09-11**|**A Knowledge Noise Mitigation Framework for Knowledge-based Visual Question Answering**|[2509.09159](http://arxiv.org/abs/2509.09159)|null|
+|**2025-09-11**|**ViRanker: A BGE-M3 & Blockwise Parallel Transformer Cross-Encoder for Vietnamese Reranking**|[2509.09131](http://arxiv.org/abs/2509.09131)|null|
+|**2025-09-11**|**Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust Text-based Person Retrieval**|[2509.09118](http://arxiv.org/abs/2509.09118)|null|
+|**2025-09-11**|**Modality Alignment with Multi-scale Bilateral Attention for Multimodal Recommendation**|[2509.09114](http://arxiv.org/abs/2509.09114)|**[link](https://github.com/rkl71/MambaRec.)**|
+|**2025-09-10**|**Envy-Free but Still Unfair: Envy-Freeness Up To One Item (EF-1) in Personalized Recommendation**|[2509.09037](http://arxiv.org/abs/2509.09037)|null|
+|**2025-09-10**|**VoxelFormer: Parameter-Efficient Multi-Subject Visual Decoding from fMRI**|[2509.09015](http://arxiv.org/abs/2509.09015)|null|
+|**2025-09-10**|**A Phase-Field Approach to Fracture and Fatigue Analysis: Bridging Theory and Simulation**|[2509.08939](http://arxiv.org/abs/2509.08939)|null|
+|**2025-09-10**|**Generative Engine Optimization: How to Dominate AI Search**|[2509.08919](http://arxiv.org/abs/2509.08919)|null|
+|**2025-09-10**|**Automated Evidence Extraction and Scoring for Corporate Climate Policy Engagement: A Multilingual RAG Approach**|[2509.08907](http://arxiv.org/abs/2509.08907)|null|
+|**2025-09-10**|**Recurrence Meets Transformers for Universal Multimodal Retrieval**|[2509.08897](http://arxiv.org/abs/2509.08897)|**[link](https://github.com/aimagelab/ReT-2)**|
+|**2025-09-10**|**TraceRAG: A LLM-Based Framework for Explainable Android Malware Detection and Behavior Analysis**|[2509.08865](http://arxiv.org/abs/2509.08865)|null|
 |**2025-09-11**|**A Benchmark Dataset for Satellite-Based Estimation and Detection of Rain**|[2509.08816](http://arxiv.org/abs/2509.08816)|null|
 |**2025-09-10**|**Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge**|[2509.08808](http://arxiv.org/abs/2509.08808)|null|
 |**2025-09-10**|**PianoVAM: A Multimodal Piano Performance Dataset**|[2509.08800](http://arxiv.org/abs/2509.08800)|null|
@@ -518,6 +560,35 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-11**|**Can Understanding and Generation Truly Benefit Together -- or Just Coexist?**|[2509.09666](http://arxiv.org/abs/2509.09666)|null|
+|**2025-09-11**|**Measuring Epistemic Humility in Multimodal Large Language Models**|[2509.09658](http://arxiv.org/abs/2509.09658)|**[link](https://github.com/maifoundations/HumbleBench.)**|
+|**2025-09-11**|**Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis**|[2509.09595](http://arxiv.org/abs/2509.09595)|null|
+|**2025-09-11**|**Visual Grounding from Event Cameras**|[2509.09584](http://arxiv.org/abs/2509.09584)|null|
+|**2025-09-11**|**SMapper: A Multi-Modal Data Acquisition Platform for SLAM Benchmarking**|[2509.09509](http://arxiv.org/abs/2509.09509)|null|
+|**2025-09-11**|**Mitigating Language Barriers in Education: Developing Multilingual Digital Learning Materials with Machine Translation**|[2509.09473](http://arxiv.org/abs/2509.09473)|null|
+|**2025-09-11**|**FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution**|[2509.09427](http://arxiv.org/abs/2509.09427)|**[link](https://github.com/XylonXu01/FS-Diff.)**|
+|**2025-09-11**|**Smart Device Development for Gait Monitoring: Multimodal Feedback in an Interactive Foot Orthosis, Walking Aid, and Mobile Application**|[2509.09359](http://arxiv.org/abs/2509.09359)|null|
+|**2025-09-11**|**OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and Embodiment-aware Reasoning**|[2509.09332](http://arxiv.org/abs/2509.09332)|**[link](https://omnieva.github.io)**|
+|**2025-09-11**|**Fine-Grained Customized Fashion Design with Image-into-Prompt benchmark and dataset from LMM**|[2509.09324](http://arxiv.org/abs/2509.09324)|**[link](https://github.com/detectiveli/FashionEdit.)**|
+|**2025-09-11**|**Can Multimodal LLMs See Materials Clearly? A Multimodal Benchmark on Materials Characterization**|[2509.09307](http://arxiv.org/abs/2509.09307)|**[link](https://github.com/FreedomIntelligence/MatCha.)**|
+|**2025-09-11**|**Listening for "You": Enhancing Speech Image Retrieval via Target Speaker Extraction**|[2509.09306](http://arxiv.org/abs/2509.09306)|null|
+|**2025-09-11**|**Non-Abelian Electric Field and Zitterbewegung on a Photonic Frequency Chain**|[2509.09304](http://arxiv.org/abs/2509.09304)|null|
+|**2025-09-11**|**Modality-Agnostic Input Channels Enable Segmentation of Brain lesions in Multimodal MRI with Sequences Unavailable During Training**|[2509.09290](http://arxiv.org/abs/2509.09290)|**[link](https://github.com/Anthony-P-Addison/AGN-MOD-SEG)**|
+|**2025-09-11**|**DATE: Dynamic Absolute Time Enhancement for Long Video Understanding**|[2509.09263](http://arxiv.org/abs/2509.09263)|null|
+|**2025-09-11**|**Sensible Agent: A Framework for Unobtrusive Interaction with Proactive AR Agents**|[2509.09255](http://arxiv.org/abs/2509.09255)|null|
+|**2025-09-11**|**Towards Better Dental AI: A Multimodal Benchmark and Instruction Dataset for Panoramic X-ray Analysis**|[2509.09254](http://arxiv.org/abs/2509.09254)|**[link](https://github.com/isbrycee/OralGPT.)**|
+|**2025-09-11**|**Dynamic Structural Recovery Parameters Enhance Prediction of Visual Outcomes After Macular Hole Surgery**|[2509.09227](http://arxiv.org/abs/2509.09227)|null|
+|**2025-09-11**|**VQualA 2025 Challenge on Visual Quality Comparison for Large Multimodal Models: Methods and Results**|[2509.09190](http://arxiv.org/abs/2509.09190)|null|
+|**2025-09-11**|**CWSSNet: Hyperspectral Image Classification Enhanced by Wavelet Domain Convolution**|[2509.09163](http://arxiv.org/abs/2509.09163)|null|
+|**2025-09-11**|**Target-oriented Multimodal Sentiment Classification with Counterfactual-enhanced Debiasing**|[2509.09160](http://arxiv.org/abs/2509.09160)|null|
+|**2025-09-11**|**Mind Meets Space: Rethinking Agentic Spatial Intelligence from a Neuroscience-inspired Perspective**|[2509.09154](http://arxiv.org/abs/2509.09154)|null|
+|**2025-09-11**|**Video Understanding by Design: How Datasets Shape Architectures and Insights**|[2509.09151](http://arxiv.org/abs/2509.09151)|null|
+|**2025-09-11**|**Modality Alignment with Multi-scale Bilateral Attention for Multimodal Recommendation**|[2509.09114](http://arxiv.org/abs/2509.09114)|**[link](https://github.com/rkl71/MambaRec.)**|
+|**2025-09-11**|**Exploring Photon Blockade in Multimode Jaynes-Cummings Models with Two-Photon Dissipation**|[2509.09084](http://arxiv.org/abs/2509.09084)|null|
+|**2025-09-11**|**Enhancing 3D Medical Image Understanding with Pretraining Aided by 2D Multimodal Large Language Models**|[2509.09064](http://arxiv.org/abs/2509.09064)|**[link](https://github.com/Qybc/Med3DInsight.)**|
+|**2025-09-10**|**COCO-Urdu: A Large-Scale Urdu Image-Caption Dataset with Multimodal Quality Estimation**|[2509.09014](http://arxiv.org/abs/2509.09014)|null|
+|**2025-09-10**|**Characterizing Multimodal Interaction in Visualization Authoring Tools**|[2509.08953](http://arxiv.org/abs/2509.08953)|null|
+|**2025-09-10**|**Recurrence Meets Transformers for Universal Multimodal Retrieval**|[2509.08897](http://arxiv.org/abs/2509.08897)|**[link](https://github.com/aimagelab/ReT-2)**|
 |**2025-09-10**|**PianoVAM: A Multimodal Piano Performance Dataset**|[2509.08800](http://arxiv.org/abs/2509.08800)|null|
 |**2025-09-10**|**Calibrating MLLM-as-a-judge via Multimodal Bayesian Prompt Ensembles**|[2509.08777](http://arxiv.org/abs/2509.08777)|null|
 |**2025-09-10**|**Streaming Sequence-to-Sequence Learning with Delayed Streams Modeling**|[2509.08753](http://arxiv.org/abs/2509.08753)|**[link](https://github.com/kyutai-labs/delayed-streams-modeling)**|
