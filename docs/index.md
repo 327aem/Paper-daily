@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.11
+## Updated on 2025.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -26,7 +26,7 @@ layout: default
 |**2025-09-09**|**ImportSnare: Directed "Code Manual" Hijacking in Retrieval-Augmented Code Generation**|[2509.07941](http://arxiv.org/abs/2509.07941)|**[link](https://importsnare.github.io.)**|
 |**2025-09-09**|**Bias in Gender Bias Benchmarks: How Spurious Features Distort Evaluation**|[2509.07596](http://arxiv.org/abs/2509.07596)|null|
 |**2025-09-09**|**Conv4Rec: A 1-by-1 Convolutional AutoEncoder for User Profiling through Joint Analysis of Implicit and Explicit Feedbacks**|[2509.07499](http://arxiv.org/abs/2509.07499)|null|
-|**2025-09-09**|**Towards Postmortem Data Management Principles for Generative AI**|[2509.07375](http://arxiv.org/abs/2509.07375)|null|
+|**2025-09-10**|**Towards Post-mortem Data Management Principles for Generative AI**|[2509.07375](http://arxiv.org/abs/2509.07375)|null|
 |**2025-09-09**|**CancerGUIDE: Cancer Guideline Understanding via Internal Disagreement Estimation**|[2509.07325](http://arxiv.org/abs/2509.07325)|null|
 |**2025-09-09**|**MEGG: Replay via Maximally Extreme GGscore in Incremental Learning for Neural Recommendation Models**|[2509.07319](http://arxiv.org/abs/2509.07319)|null|
 |**2025-09-08**|**Datasets for Navigating Sensitive Topics in Recommendation Systems**|[2509.07269](http://arxiv.org/abs/2509.07269)|null|
@@ -206,13 +206,13 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250912>back to top</a>)</p>
 
 ## Retrieval
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
-|**2025-09-10**|**A Benchmark Dataset for Satellite-Based Estimation and Detection of Rain**|[2509.08816](http://arxiv.org/abs/2509.08816)|null|
+|**2025-09-11**|**A Benchmark Dataset for Satellite-Based Estimation and Detection of Rain**|[2509.08816](http://arxiv.org/abs/2509.08816)|null|
 |**2025-09-10**|**Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge**|[2509.08808](http://arxiv.org/abs/2509.08808)|null|
 |**2025-09-10**|**PianoVAM: A Multimodal Piano Performance Dataset**|[2509.08800](http://arxiv.org/abs/2509.08800)|null|
 |**2025-09-10**|**Do All Autoregressive Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms**|[2509.08778](http://arxiv.org/abs/2509.08778)|null|
@@ -238,7 +238,7 @@ layout: default
 |**2025-09-09**|**CP-Model-Zoo: A Natural Language Query System for Constraint Programming Models**|[2509.07867](http://arxiv.org/abs/2509.07867)|null|
 |**2025-09-09**|**KLIPA: A Knowledge Graph and LLM-Driven QA Framework for IP Analysis**|[2509.07860](http://arxiv.org/abs/2509.07860)|null|
 |**2025-09-09**|**Aligning LLMs for the Classroom with Knowledge-Based Retrieval -- A Comparative RAG Study**|[2509.07846](http://arxiv.org/abs/2509.07846)|null|
-|**2025-09-10**|**Compressibility Measures and Succinct Data Structures for Piecewise Linear Approximations**|[2509.07827](http://arxiv.org/abs/2509.07827)|null|
+|**2025-09-11**|**Compressibility Measures and Succinct Data Structures for Piecewise Linear Approximations**|[2509.07827](http://arxiv.org/abs/2509.07827)|null|
 |**2025-09-10**|**SciNLP: A Domain-Specific Benchmark for Full-Text Scientific Entity and Relation Extraction in NLP**|[2509.07801](http://arxiv.org/abs/2509.07801)|**[link](https://github.com/AKADDC/SciNLP.)**|
 |**2025-09-09**|**Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey**|[2509.07794](http://arxiv.org/abs/2509.07794)|null|
 |**2025-09-09**|**A Survey of Long-Document Retrieval in the PLM and LLM Era**|[2509.07759](http://arxiv.org/abs/2509.07759)|null|
@@ -507,7 +507,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250912>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -525,7 +525,7 @@ layout: default
 |**2025-09-10**|**Vision-Language Semantic Aggregation Leveraging Foundation Model for Generalizable Medical Image Segmentation**|[2509.08570](http://arxiv.org/abs/2509.08570)|null|
 |**2025-09-10**|**HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning**|[2509.08519](http://arxiv.org/abs/2509.08519)|**[link](https://phantom-video.github.io/HuMo.)**|
 |**2025-09-10**|**Prompt-Driven Image Analysis with Multimodal Generative AI: Detection, Segmentation, Inpainting, and Interpretation**|[2509.08489](http://arxiv.org/abs/2509.08489)|null|
-|**2025-09-10**|**Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics**|[2509.08461](http://arxiv.org/abs/2509.08461)|null|
+|**2025-09-11**|**Adapting Vision-Language Models for Neutrino Event Classification in High-Energy Physics**|[2509.08461](http://arxiv.org/abs/2509.08461)|null|
 |**2025-09-10**|**GlyphWeaver: Unlocking Glyph Design Creativity with Uniform Glyph DSL and AI**|[2509.08444](http://arxiv.org/abs/2509.08444)|null|
 |**2025-09-10**|**Retrieval-Augmented VLMs for Multimodal Melanoma Diagnosis**|[2509.08338](http://arxiv.org/abs/2509.08338)|null|
 |**2025-09-10**|**SimCroP: Radiograph Representation Learning with Similarity-driven Cross-granularity Pre-training**|[2509.08311](http://arxiv.org/abs/2509.08311)|**[link](https://github.com/ToniChopp/SimCroP.)**|
@@ -770,7 +770,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250912>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
