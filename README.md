@@ -1,4 +1,4 @@
-## Updated on 2025.09.14
+## Updated on 2025.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -50,7 +50,7 @@
 |**2025-09-09**|**CancerGUIDE: Cancer Guideline Understanding via Internal Disagreement Estimation**|[2509.07325](http://arxiv.org/abs/2509.07325)|null|
 |**2025-09-09**|**MEGG: Replay via Maximally Extreme GGscore in Incremental Learning for Neural Recommendation Models**|[2509.07319](http://arxiv.org/abs/2509.07319)|null|
 |**2025-09-08**|**Datasets for Navigating Sensitive Topics in Recommendation Systems**|[2509.07269](http://arxiv.org/abs/2509.07269)|null|
-|**2025-09-08**|**Fraudulent Publishing in the Mathematical Sciences**|[2509.07257](http://arxiv.org/abs/2509.07257)|null|
+|**2025-09-11**|**Fraudulent Publishing in the Mathematical Sciences**|[2509.07257](http://arxiv.org/abs/2509.07257)|null|
 |**2025-09-08**|**When (not) to trust Monte Carlo approximations for hierarchical Bayesian inference**|[2509.07221](http://arxiv.org/abs/2509.07221)|null|
 |**2025-09-08**|**Effective Atom Theory: Gradient-Driven ab initio Materials Design**|[2509.07180](http://arxiv.org/abs/2509.07180)|null|
 |**2025-09-08**|**An on-sky investigation into factors limiting the performance of Keck-NIRC2 for conducting infrared high-contrast imaging**|[2509.07138](http://arxiv.org/abs/2509.07138)|null|
@@ -226,7 +226,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
 
 ## Retrieval
 
@@ -267,7 +267,7 @@
 |**2025-09-10**|**Tokenizing Loops of Antibodies**|[2509.08707](http://arxiv.org/abs/2509.08707)|null|
 |**2025-09-10**|**LLM Ensemble for RAG: Role of Context Length in Zero-Shot Question Answering for BioASQ Challenge**|[2509.08596](http://arxiv.org/abs/2509.08596)|null|
 |**2025-09-10**|**An Iterative LLM Framework for SIBT utilizing RAG-based Adaptive Weight Optimization**|[2509.08407](http://arxiv.org/abs/2509.08407)|null|
-|**2025-09-10**|**SINDI: an Efficient Index for Approximate Maximum Inner Product Search on Sparse Vectors**|[2509.08395](http://arxiv.org/abs/2509.08395)|null|
+|**2025-09-12**|**SINDI: an Efficient Index for Approximate Maximum Inner Product Search on Sparse Vectors**|[2509.08395](http://arxiv.org/abs/2509.08395)|null|
 |**2025-09-10**|**Retrieval-Augmented VLMs for Multimodal Melanoma Diagnosis**|[2509.08338](http://arxiv.org/abs/2509.08338)|null|
 |**2025-09-10**|**Soundtracks of Our Lives: How Age Influences Musical Preferences**|[2509.08337](http://arxiv.org/abs/2509.08337)|null|
 |**2025-09-10**|**Towards Knowledge-Aware Document Systems: Modeling Semantic Coverage Relations via Answerability Detection**|[2509.08304](http://arxiv.org/abs/2509.08304)|null|
@@ -554,7 +554,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -568,7 +568,7 @@
 |**2025-09-11**|**Mitigating Language Barriers in Education: Developing Multilingual Digital Learning Materials with Machine Translation**|[2509.09473](http://arxiv.org/abs/2509.09473)|null|
 |**2025-09-11**|**FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution**|[2509.09427](http://arxiv.org/abs/2509.09427)|**[link](https://github.com/XylonXu01/FS-Diff.)**|
 |**2025-09-11**|**Smart Device Development for Gait Monitoring: Multimodal Feedback in an Interactive Foot Orthosis, Walking Aid, and Mobile Application**|[2509.09359](http://arxiv.org/abs/2509.09359)|null|
-|**2025-09-11**|**OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and Embodiment-aware Reasoning**|[2509.09332](http://arxiv.org/abs/2509.09332)|**[link](https://omnieva.github.io)**|
+|**2025-09-12**|**OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and Embodiment-aware Reasoning**|[2509.09332](http://arxiv.org/abs/2509.09332)|**[link](https://omnieva.github.io)**|
 |**2025-09-11**|**Fine-Grained Customized Fashion Design with Image-into-Prompt benchmark and dataset from LMM**|[2509.09324](http://arxiv.org/abs/2509.09324)|**[link](https://github.com/detectiveli/FashionEdit.)**|
 |**2025-09-11**|**Can Multimodal LLMs See Materials Clearly? A Multimodal Benchmark on Materials Characterization**|[2509.09307](http://arxiv.org/abs/2509.09307)|**[link](https://github.com/FreedomIntelligence/MatCha.)**|
 |**2025-09-11**|**Listening for "You": Enhancing Speech Image Retrieval via Target Speaker Extraction**|[2509.09306](http://arxiv.org/abs/2509.09306)|null|
@@ -846,7 +846,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
