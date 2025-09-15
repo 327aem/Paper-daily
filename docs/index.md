@@ -9,6 +9,17 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-12**|**RecoWorld: Building Simulated Environments for Agentic Recommender Systems**|[2509.10397](http://arxiv.org/abs/2509.10397)|null|
+|**2025-09-12**|**Diversified recommendations of cultural activities with personalized determinantal point processes**|[2509.10392](http://arxiv.org/abs/2509.10392)|null|
+|**2025-09-12**|**Characterizing the Efficiency of Distributed Training: A Power, Performance, and Thermal Perspective**|[2509.10371](http://arxiv.org/abs/2509.10371)|**[link](https://github.com/sitar-lab/CharLLM-PPT.)**|
+|**2025-09-12**|**Property prediction for ionic liquids without prior structural knowledge using limited experimental data: A data-driven neural recommender system leveraging transfer learning**|[2509.10273](http://arxiv.org/abs/2509.10273)|null|
+|**2025-09-12**|**Model-agnostic post-hoc explainability for recommender systems**|[2509.10245](http://arxiv.org/abs/2509.10245)|null|
+|**2025-09-12**|**Repulsive Monte Carlo on the sphere for the sliced Wasserstein distance**|[2509.10166](http://arxiv.org/abs/2509.10166)|null|
+|**2025-09-12**|**Arabic Large Language Models for Medical Text Generation**|[2509.10095](http://arxiv.org/abs/2509.10095)|null|
+|**2025-09-12**|**Immersive Invaders: Privacy Threats from Deceptive Design in Virtual Reality Games and Applications**|[2509.09916](http://arxiv.org/abs/2509.09916)|null|
+|**2025-09-11**|**How to Fight Fraudulent Publishing in the Mathematical Sciences: Joint Recommendations of the IMU and the ICIAM**|[2509.09877](http://arxiv.org/abs/2509.09877)|null|
+|**2025-09-11**|**The Role of Follow Networks and Twitter's Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election**|[2509.09826](http://arxiv.org/abs/2509.09826)|null|
+|**2025-09-11**|**Hybrid Adaptive Conformal Offline Reinforcement Learning for Fair Population Health Management**|[2509.09772](http://arxiv.org/abs/2509.09772)|null|
 |**2025-09-11**|**Personality-Enhanced Social Recommendations in SAMI: Exploring the Role of Personality Detection in Matchmaking**|[2509.09583](http://arxiv.org/abs/2509.09583)|null|
 |**2025-09-11**|**Towards Explainable Job Title Matching: Leveraging Semantic Textual Relatedness and Knowledge Graphs**|[2509.09522](http://arxiv.org/abs/2509.09522)|null|
 |**2025-09-11**|**Incorporating AI Incident Reporting into Telecommunications Law and Policy: Insights from India**|[2509.09508](http://arxiv.org/abs/2509.09508)|null|
@@ -227,6 +238,21 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-12**|**GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation**|[2509.10454](http://arxiv.org/abs/2509.10454)|null|
+|**2025-09-12**|**MatSKRAFT: A framework for large-scale materials knowledge extraction from scientific tables**|[2509.10448](http://arxiv.org/abs/2509.10448)|null|
+|**2025-09-12**|**RecoWorld: Building Simulated Environments for Agentic Recommender Systems**|[2509.10397](http://arxiv.org/abs/2509.10397)|null|
+|**2025-09-12**|**Diversified recommendations of cultural activities with personalized determinantal point processes**|[2509.10392](http://arxiv.org/abs/2509.10392)|null|
+|**2025-09-12**|**Near-Optimal Recovery Performance of PhaseLift for Phase Retrieval from Coded Diffraction Patterns**|[2509.10300](http://arxiv.org/abs/2509.10300)|null|
+|**2025-09-12**|**Astroclimes -- measuring the abundance of CO $_2$ and CH$_4$ in the Earth's atmosphere using astronomical observations**|[2509.10258](http://arxiv.org/abs/2509.10258)|null|
+|**2025-09-12**|**Model-agnostic post-hoc explainability for recommender systems**|[2509.10245](http://arxiv.org/abs/2509.10245)|null|
+|**2025-09-12**|**A Research Vision for Web Search on Emerging Topics**|[2509.10212](http://arxiv.org/abs/2509.10212)|null|
+|**2025-09-12**|**Towards Reliable and Interpretable Document Question Answering via VLMs**|[2509.10129](http://arxiv.org/abs/2509.10129)|null|
+|**2025-09-12**|**Querying Climate Knowledge: Semantic Retrieval for Scientific Discovery**|[2509.10087](http://arxiv.org/abs/2509.10087)|null|
+|**2025-09-12**|**The Hierarchical Morphotope Classification: A Theory-Driven Framework for Large-Scale Analysis of Built Form**|[2509.10083](http://arxiv.org/abs/2509.10083)|null|
+|**2025-09-12**|**Approximate Graph Propagation Revisited: Dynamic Parameterized Queries, Tighter Bounds and Dynamic Updates**|[2509.10036](http://arxiv.org/abs/2509.10036)|null|
+|**2025-09-11**|**Towards an AI-based knowledge assistant for goat farmers based on Retrieval-Augmented Generation**|[2509.09848](http://arxiv.org/abs/2509.09848)|null|
+|**2025-09-10**|**A Role-Aware Multi-Agent Framework for Financial Education Question Answering with LLMs**|[2509.09727](http://arxiv.org/abs/2509.09727)|null|
+|**2025-09-10**|**BIBERT-Pipe on Biomedical Nested Named Entity Linking at BioASQ 2025**|[2509.09725](http://arxiv.org/abs/2509.09725)|**[link](https://github.com/Kaggle-Competitions-Code/BioNNE-L.)**|
 |**2025-09-11**|**Retrieval-Augmented Generation for Reliable Interpretation of Radio Regulations**|[2509.09651](http://arxiv.org/abs/2509.09651)|**[link](https://github.com/Zakaria010/Radio-RAG.)**|
 |**2025-09-11**|**AskDoc -- Identifying Hidden Healthcare Disparities**|[2509.09622](http://arxiv.org/abs/2509.09622)|null|
 |**2025-09-11**|**Unstable entropy for Anosov diffeomorphisms on the 3-torus**|[2509.09520](http://arxiv.org/abs/2509.09520)|null|
@@ -555,6 +581,22 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-12**|**Standards in the Preparation of Biomedical Research Metadata: A Bridge2AI Perspective**|[2509.10432](http://arxiv.org/abs/2509.10432)|null|
+|**2025-09-12**|**Multimodal SAM-adapter for Semantic Segmentation**|[2509.10408](http://arxiv.org/abs/2509.10408)|**[link](https://github.com/iacopo97/Multimodal-SAM-Adapter.)**|
+|**2025-09-12**|**RecoWorld: Building Simulated Environments for Agentic Recommender Systems**|[2509.10397](http://arxiv.org/abs/2509.10397)|null|
+|**2025-09-12**|**Towards Understanding Visual Grounding in Visual Language Models**|[2509.10345](http://arxiv.org/abs/2509.10345)|null|
+|**2025-09-12**|**MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection**|[2509.10282](http://arxiv.org/abs/2509.10282)|null|
+|**2025-09-12**|**SignClip: Leveraging Mouthing Cues for Sign Language Translation by Multimodal Contrastive Fusion**|[2509.10266](http://arxiv.org/abs/2509.10266)|null|
+|**2025-09-12**|**VARCO-VISION-2.0 Technical Report**|[2509.10105](http://arxiv.org/abs/2509.10105)|null|
+|**2025-09-12**|**Multimodal Mathematical Reasoning Embedded in Aerial Vehicle Imagery: Benchmarking, Analysis, and Exploration**|[2509.10059](http://arxiv.org/abs/2509.10059)|**[link](https://github.com/VisionXLab/avi-math)**|
+|**2025-09-12**|**LaV-CoT: Language-Aware Visual CoT with Multi-Aspect Reward Optimization for Real-World Multilingual VQA**|[2509.10026](http://arxiv.org/abs/2509.10026)|**[link](https://github.com/HJNVR/LaV-CoT})**|
+|**2025-09-12**|**DyKen-Hyena: Dynamic Kernel Generation via Cross-Modal Attention for Multimodal Intent Recognition**|[2509.09940](http://arxiv.org/abs/2509.09940)|null|
+|**2025-09-11**|**DGFusion: Depth-Guided Sensor Fusion for Robust Semantic Perception**|[2509.09828](http://arxiv.org/abs/2509.09828)|**[link](https://github.com/timbroed/DGFusion)**|
+|**2025-09-11**|**MIMo grows! Simulating body and sensory development in a multimodal infant model**|[2509.09805](http://arxiv.org/abs/2509.09805)|**[link](https://github.com/trieschlab/MIMo).)**|
+|**2025-09-11**|**Pragmatic Frames Evoked by Gestures: A FrameNet Brasil Approach to Multimodality in Turn Organization**|[2509.09804](http://arxiv.org/abs/2509.09804)|null|
+|**2025-09-11**|**A Modular and Multimodal Generative AI Framework for Urban Building Energy Data: Generating Synthetic Homes**|[2509.09794](http://arxiv.org/abs/2509.09794)|null|
+|**2025-09-11**|**Meta-Learning Reinforcement Learning for Crypto-Return Prediction**|[2509.09751](http://arxiv.org/abs/2509.09751)|null|
+|**2025-09-11**|**AI-enabled tuberculosis screening in a high-burden setting using cough sound analysis and speech foundation models**|[2509.09746](http://arxiv.org/abs/2509.09746)|null|
 |**2025-09-11**|**Can Understanding and Generation Truly Benefit Together -- or Just Coexist?**|[2509.09666](http://arxiv.org/abs/2509.09666)|null|
 |**2025-09-11**|**Measuring Epistemic Humility in Multimodal Large Language Models**|[2509.09658](http://arxiv.org/abs/2509.09658)|**[link](https://github.com/maifoundations/HumbleBench.)**|
 |**2025-09-11**|**Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis**|[2509.09595](http://arxiv.org/abs/2509.09595)|null|
