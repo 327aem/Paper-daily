@@ -1,4 +1,4 @@
-## Updated on 2025.09.15
+## Updated on 2025.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -237,7 +237,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
 
 ## Retrieval
 
@@ -251,7 +251,7 @@
 |**2025-09-12**|**Astroclimes -- measuring the abundance of CO $_2$ and CH$_4$ in the Earth's atmosphere using astronomical observations**|[2509.10258](http://arxiv.org/abs/2509.10258)|null|
 |**2025-09-12**|**Model-agnostic post-hoc explainability for recommender systems**|[2509.10245](http://arxiv.org/abs/2509.10245)|null|
 |**2025-09-12**|**A Research Vision for Web Search on Emerging Topics**|[2509.10212](http://arxiv.org/abs/2509.10212)|null|
-|**2025-09-12**|**Towards Reliable and Interpretable Document Question Answering via VLMs**|[2509.10129](http://arxiv.org/abs/2509.10129)|null|
+|**2025-09-15**|**Towards Reliable and Interpretable Document Question Answering via VLMs**|[2509.10129](http://arxiv.org/abs/2509.10129)|null|
 |**2025-09-12**|**Querying Climate Knowledge: Semantic Retrieval for Scientific Discovery**|[2509.10087](http://arxiv.org/abs/2509.10087)|null|
 |**2025-09-12**|**The Hierarchical Morphotope Classification: A Theory-Driven Framework for Large-Scale Analysis of Built Form**|[2509.10083](http://arxiv.org/abs/2509.10083)|null|
 |**2025-09-12**|**Approximate Graph Propagation Revisited: Dynamic Parameterized Queries, Tighter Bounds and Dynamic Updates**|[2509.10036](http://arxiv.org/abs/2509.10036)|null|
@@ -580,7 +580,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -589,7 +589,7 @@
 |**2025-09-12**|**Standards in the Preparation of Biomedical Research Metadata: A Bridge2AI Perspective**|[2509.10432](http://arxiv.org/abs/2509.10432)|null|
 |**2025-09-12**|**Multimodal SAM-adapter for Semantic Segmentation**|[2509.10408](http://arxiv.org/abs/2509.10408)|**[link](https://github.com/iacopo97/Multimodal-SAM-Adapter.)**|
 |**2025-09-12**|**RecoWorld: Building Simulated Environments for Agentic Recommender Systems**|[2509.10397](http://arxiv.org/abs/2509.10397)|null|
-|**2025-09-12**|**Towards Understanding Visual Grounding in Visual Language Models**|[2509.10345](http://arxiv.org/abs/2509.10345)|null|
+|**2025-09-15**|**Towards Understanding Visual Grounding in Visual Language Models**|[2509.10345](http://arxiv.org/abs/2509.10345)|null|
 |**2025-09-12**|**MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection**|[2509.10282](http://arxiv.org/abs/2509.10282)|null|
 |**2025-09-12**|**SignClip: Leveraging Mouthing Cues for Sign Language Translation by Multimodal Contrastive Fusion**|[2509.10266](http://arxiv.org/abs/2509.10266)|null|
 |**2025-09-12**|**VARCO-VISION-2.0 Technical Report**|[2509.10105](http://arxiv.org/abs/2509.10105)|null|
@@ -888,7 +888,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
