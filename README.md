@@ -14,6 +14,35 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-15**|**Worker Discretion Advised: Co-designing Risk Disclosure in Crowdsourced Responsible AI (RAI) Content Work**|[2509.12140](http://arxiv.org/abs/2509.12140)|null|
+|**2025-09-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|[2509.12086](http://arxiv.org/abs/2509.12086)|null|
+|**2025-09-15**|**AEFS: Adaptive Early Feature Selection for Deep Recommender Systems**|[2509.12076](http://arxiv.org/abs/2509.12076)|**[link](https://github.)**|
+|**2025-09-15**|**Agentic Temporal Graph of Reasoning with Multimodal Language Models: A Potential AI Aid to Healthcare**|[2509.11944](http://arxiv.org/abs/2509.11944)|null|
+|**2025-09-15**|**Designing LLMs for cultural sensitivity: Evidence from English-Japanese translation**|[2509.11921](http://arxiv.org/abs/2509.11921)|null|
+|**2025-09-15**|**Generative AI in Game Development: A Qualitative Research Synthesis**|[2509.11898](http://arxiv.org/abs/2509.11898)|null|
+|**2025-09-15**|**Toward Greener Background Processes -- Measuring Energy Cost of Autosave Feature**|[2509.11738](http://arxiv.org/abs/2509.11738)|null|
+|**2025-09-15**|**Sustainability Assessment of Future Accelerators**|[2509.11705](http://arxiv.org/abs/2509.11705)|null|
+|**2025-09-15**|**Towards the Distributed Large-scale k-NN Graph Construction by Graph Merge**|[2509.11697](http://arxiv.org/abs/2509.11697)|null|
+|**2025-09-15**|**Decoding in Latent Spaces for Efficient Inference in LLM-based Recommendation**|[2509.11524](http://arxiv.org/abs/2509.11524)|null|
+|**2025-09-15**|**MedicalOS: An LLM Agent based Operating System for Digital Healthcare**|[2509.11507](http://arxiv.org/abs/2509.11507)|null|
+|**2025-09-15**|**Comparison of Forteo and Teriparatide on Improvements in Bone Mineral Density**|[2509.11482](http://arxiv.org/abs/2509.11482)|null|
+|**2025-09-14**|**Small Cues, Big Differences: Evaluating Interaction and Presentation for Annotation Retrieval in AR**|[2509.11401](http://arxiv.org/abs/2509.11401)|null|
+|**2025-09-14**|**The Prompt Engineering Report Distilled: Quick Start Guide for Life Sciences**|[2509.11295](http://arxiv.org/abs/2509.11295)|null|
+|**2025-09-14**|**Federated Recommender System with Data Valuation for E-commerce Platform**|[2509.11196](http://arxiv.org/abs/2509.11196)|null|
+|**2025-09-14**|**Understanding the Information Cocoon: A Multidimensional Assessment and Analysis of News Recommendation Systems**|[2509.11139](http://arxiv.org/abs/2509.11139)|null|
+|**2025-09-14**|**Rethinking User Empowerment in AI Recommender Systems: Designing through Transparency and Control**|[2509.11098](http://arxiv.org/abs/2509.11098)|null|
+|**2025-09-14**|**GCN-TULHOR: Trajectory-User Linking Leveraging GCNs and Higher-Order Spatial Representations**|[2509.11095](http://arxiv.org/abs/2509.11095)|null|
+|**2025-09-14**|**SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation**|[2509.11094](http://arxiv.org/abs/2509.11094)|**[link](https://github.com/Applied-Machine-Learning-Lab/SPARK.)**|
+|**2025-09-14**|**Membership Inference Attacks on Recommender System: A Survey**|[2509.11080](http://arxiv.org/abs/2509.11080)|null|
+|**2025-09-14**|**Deep Reinforcement Learning-Assisted Component Auto-Configuration of Differential Evolution Algorithm for Constrained Optimization: A Foundation Model**|[2509.11016](http://arxiv.org/abs/2509.11016)|null|
+|**2025-09-13**|**When Your Boss Is an AI Bot: Exploring Opportunities and Risks of Manager Clone Agents in the Future Workplace**|[2509.10993](http://arxiv.org/abs/2509.10993)|null|
+|**2025-09-13**|**Actively Learning to Coordinate in Convex Games via Approximate Correlated Equilibrium**|[2509.10989](http://arxiv.org/abs/2509.10989)|null|
+|**2025-09-13**|**Crisis Messaging Journeys: Epistemic Struggles over CDC Guidance During COVID-19**|[2509.10906](http://arxiv.org/abs/2509.10906)|null|
+|**2025-09-13**|**Evaluating Large Language Models for Evidence-Based Clinical Question Answering**|[2509.10843](http://arxiv.org/abs/2509.10843)|null|
+|**2025-09-13**|**"I thought it was my mistake, but it's really the design'': A Critical Examination of the Accessibility of User-Enacted Moderation Tools on Facebook and X**|[2509.10789](http://arxiv.org/abs/2509.10789)|null|
+|**2025-09-12**|**LLM in the Middle: A Systematic Review of Threats and Mitigations to Real-World LLM-based Systems**|[2509.10682](http://arxiv.org/abs/2509.10682)|null|
+|**2025-09-12**|**Diagonal Born-Oppenheimer Corrections in Condensed-Phase Ring Polymer Surface Hopping**|[2509.10629](http://arxiv.org/abs/2509.10629)|null|
+|**2025-09-12**|**ReCross: Efficient Embedding Reduction Scheme for In-Memory Computing using ReRAM-Based Crossbar**|[2509.10627](http://arxiv.org/abs/2509.10627)|null|
 |**2025-09-12**|**RecoWorld: Building Simulated Environments for Agentic Recommender Systems**|[2509.10397](http://arxiv.org/abs/2509.10397)|null|
 |**2025-09-12**|**Diversified recommendations of cultural activities with personalized determinantal point processes**|[2509.10392](http://arxiv.org/abs/2509.10392)|null|
 |**2025-09-12**|**Characterizing the Efficiency of Distributed Training: A Power, Performance, and Thermal Perspective**|[2509.10371](http://arxiv.org/abs/2509.10371)|**[link](https://github.com/sitar-lab/CharLLM-PPT.)**|
@@ -243,6 +272,56 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-15**|**Advancing Medical Artificial Intelligence Using a Century of Cases**|[2509.12194](http://arxiv.org/abs/2509.12194)|null|
+|**2025-09-15**|**RAGs to Riches: RAG-like Few-shot Learning for Large Language Model Role-playing**|[2509.12168](http://arxiv.org/abs/2509.12168)|null|
+|**2025-09-15**|**Multi Anatomy X-Ray Foundation Model**|[2509.12146](http://arxiv.org/abs/2509.12146)|null|
+|**2025-09-15**|**Evidence for a gap in the envelope mass fraction of sub-Saturns**|[2509.12120](http://arxiv.org/abs/2509.12120)|null|
+|**2025-09-15**|**A New Benchmark for Evaluating Code Translation with Third-Party Libraries**|[2509.12087](http://arxiv.org/abs/2509.12087)|null|
+|**2025-09-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|[2509.12086](http://arxiv.org/abs/2509.12086)|null|
+|**2025-09-15**|**Progressive Flow-inspired Unfolding for Spectral Compressive Imaging**|[2509.12079](http://arxiv.org/abs/2509.12079)|null|
+|**2025-09-15**|**AEFS: Adaptive Early Feature Selection for Deep Recommender Systems**|[2509.12076](http://arxiv.org/abs/2509.12076)|**[link](https://github.)**|
+|**2025-09-15**|**FinGEAR: Financial Mapping-Guided Enhanced Answer Retrieval**|[2509.12042](http://arxiv.org/abs/2509.12042)|null|
+|**2025-09-15**|**Results of the 2025 Video Browser Showdown**|[2509.12000](http://arxiv.org/abs/2509.12000)|null|
+|**2025-09-15**|**Lost in Embeddings: Information Loss in Vision-Language Models**|[2509.11986](http://arxiv.org/abs/2509.11986)|null|
+|**2025-09-15**|**MillStone: How Open-Minded Are LLMs?**|[2509.11967](http://arxiv.org/abs/2509.11967)|null|
+|**2025-09-15**|**A GPU-Accelerated RAG-Based Telegram Assistant for Supporting Parallel Processing Students**|[2509.11947](http://arxiv.org/abs/2509.11947)|null|
+|**2025-09-15**|**PrivWeb: Unobtrusive and Content-aware Privacy Protection For Web Agents**|[2509.11939](http://arxiv.org/abs/2509.11939)|null|
+|**2025-09-15**|**MMORE: Massive Multimodal Open RAG & Extraction**|[2509.11937](http://arxiv.org/abs/2509.11937)|**[link](https://github.com/swiss-ai/mmore.)**|
+|**2025-09-15**|**Query Answering under Volume-Based Diversity Functions**|[2509.11929](http://arxiv.org/abs/2509.11929)|null|
+|**2025-09-15**|**EgoMem: Lifelong Memory Agent for Full-duplex Omnimodal Models**|[2509.11914](http://arxiv.org/abs/2509.11914)|null|
+|**2025-09-15**|**WAFER: A new method to retrieve sun-induced fluorescence based on spectral wavelet decompositions**|[2509.11829](http://arxiv.org/abs/2509.11829)|null|
+|**2025-09-15**|**Data-Driven Analysis of Text-Conditioned AI-Generated Music: A Case Study with Suno and Udio**|[2509.11824](http://arxiv.org/abs/2509.11824)|null|
+|**2025-09-15**|**PledgeTracker: A System for Monitoring the Fulfilment of Pledges**|[2509.11804](http://arxiv.org/abs/2509.11804)|null|
+|**2025-09-15**|**From Evaluation to Enhancement: Large Language Models for Zero-Knowledge Proof Code Generation**|[2509.11708](http://arxiv.org/abs/2509.11708)|null|
+|**2025-09-15**|**Disentangling disc and atmospheric signatures of young brown dwarfs with JWST/NIRSpec**|[2509.11694](http://arxiv.org/abs/2509.11694)|null|
+|**2025-09-15**|**A Dynamic Knowledge Update-Driven Model with Large Language Models for Fake News Detection**|[2509.11687](http://arxiv.org/abs/2509.11687)|null|
+|**2025-09-15**|**Adapting and Evaluating Multimodal Large Language Models for Adolescent Idiopathic Scoliosis Self-Management: A Divide and Conquer Framework**|[2509.11645](http://arxiv.org/abs/2509.11645)|null|
+|**2025-09-15**|**Cyber Threat Hunting: Non-Parametric Mining of Attack Patterns from Cyber Threat Intelligence for Precise Threats Attribution**|[2509.11615](http://arxiv.org/abs/2509.11615)|null|
+|**2025-09-15**|**Bhaasha, Bhasa, Zaban: A Survey for Low-Resourced Languages in South Asia -- Current Stage and Challenges**|[2509.11570](http://arxiv.org/abs/2509.11570)|**[link](https://github.com/trust-nlp/LM4SouthAsia-Survey.)**|
+|**2025-09-15**|**HiChunk: Evaluating and Enhancing Retrieval-Augmented Generation with Hierarchical Chunking**|[2509.11552](http://arxiv.org/abs/2509.11552)|null|
+|**2025-09-15**|**Decoding in Latent Spaces for Efficient Inference in LLM-based Recommendation**|[2509.11524](http://arxiv.org/abs/2509.11524)|null|
+|**2025-09-15**|**MedicalOS: An LLM Agent based Operating System for Digital Healthcare**|[2509.11507](http://arxiv.org/abs/2509.11507)|null|
+|**2025-09-15**|**OASIS: A Deep Learning Framework for Universal Spectroscopic Analysis Driven by Novel Loss Functions**|[2509.11499](http://arxiv.org/abs/2509.11499)|null|
+|**2025-09-15**|**ClaimIQ at CheckThat! 2025: Comparing Prompted and Fine-Tuned Language Models for Verifying Numerical Claims**|[2509.11492](http://arxiv.org/abs/2509.11492)|null|
+|**2025-09-15**|**Preconditioned subgradient method for composite optimization: overparameterization and fast convergence**|[2509.11486](http://arxiv.org/abs/2509.11486)|null|
+|**2025-09-14**|**Acoustic Overspecification in Electronic Dance Music Taxonomy**|[2509.11474](http://arxiv.org/abs/2509.11474)|null|
+|**2025-09-14**|**CEMTM: Contextual Embedding-based Multimodal Topic Modeling**|[2509.11465](http://arxiv.org/abs/2509.11465)|null|
+|**2025-09-14**|**Long-time dynamics and universality of nonconvex gradient descent**|[2509.11426](http://arxiv.org/abs/2509.11426)|null|
+|**2025-09-14**|**Small Cues, Big Differences: Evaluating Interaction and Presentation for Annotation Retrieval in AR**|[2509.11401](http://arxiv.org/abs/2509.11401)|null|
+|**2025-09-14**|**Intelligent Reservoir Decision Support: An Integrated Framework Combining Large Language Models, Advanced Prompt Engineering, and Multimodal Data Fusion for Real-Time Petroleum Operations**|[2509.11376](http://arxiv.org/abs/2509.11376)|null|
+|**2025-09-14**|**Do Large Language Models Favor Recent Content? A Study on Recency Bias in LLM-Based Reranking**|[2509.11353](http://arxiv.org/abs/2509.11353)|null|
+|**2025-09-14**|**An Incentive-Compatible Reward Sharing Mechanism for Mitigating Mirroring Attacks in Decentralized Data-Feed Systems**|[2509.11294](http://arxiv.org/abs/2509.11294)|null|
+|**2025-09-14**|**Revisiting Meter Tracking in Carnatic Music using Deep Learning Approaches**|[2509.11241](http://arxiv.org/abs/2509.11241)|null|
+|**2025-09-14**|**RanAT4BIE: Random Adversarial Training for Biomedical Information Extraction**|[2509.11191](http://arxiv.org/abs/2509.11191)|null|
+|**2025-09-14**|**Traffic-MLLM: A Spatio-Temporal MLLM with Retrieval-Augmented Generation for Causal Inference in Traffic**|[2509.11165](http://arxiv.org/abs/2509.11165)|null|
+|**2025-09-14**|**Text2Mem: A Unified Memory Operation Language for Memory Operating System**|[2509.11145](http://arxiv.org/abs/2509.11145)|null|
+|**2025-09-14**|**Understanding the Information Cocoon: A Multidimensional Assessment and Analysis of News Recommendation Systems**|[2509.11139](http://arxiv.org/abs/2509.11139)|null|
+|**2025-09-14**|**STASE: A spatialized text-to-audio synthesis engine for music generation**|[2509.11124](http://arxiv.org/abs/2509.11124)|null|
+|**2025-09-14**|**SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation**|[2509.11094](http://arxiv.org/abs/2509.11094)|**[link](https://github.com/Applied-Machine-Learning-Lab/SPARK.)**|
+|**2025-09-14**|**Membership Inference Attacks on Recommender System: A Survey**|[2509.11080](http://arxiv.org/abs/2509.11080)|null|
+|**2025-09-14**|**Auto-Slides: An Interactive Multi-Agent System for Creating and Customizing Research Presentations**|[2509.11062](http://arxiv.org/abs/2509.11062)|null|
+|**2025-09-14**|**Rate-Distortion Limits for Multimodal Retrieval: Theory, Optimal Codes, and Finite-Sample Guarantees**|[2509.11054](http://arxiv.org/abs/2509.11054)|null|
+|**2025-09-13**|**ReFineG: Synergizing Small Supervised Models and LLMs for Low-Resource Grounded Multimodal NER**|[2509.10975](http://arxiv.org/abs/2509.10975)|null|
 |**2025-09-12**|**GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation**|[2509.10454](http://arxiv.org/abs/2509.10454)|null|
 |**2025-09-12**|**MatSKRAFT: A framework for large-scale materials knowledge extraction from scientific tables**|[2509.10448](http://arxiv.org/abs/2509.10448)|null|
 |**2025-09-12**|**RecoWorld: Building Simulated Environments for Agentic Recommender Systems**|[2509.10397](http://arxiv.org/abs/2509.10397)|null|
@@ -586,6 +665,56 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-15**|**OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling**|[2509.12201](http://arxiv.org/abs/2509.12201)|null|
+|**2025-09-15**|**Advancing Medical Artificial Intelligence Using a Century of Cases**|[2509.12194](http://arxiv.org/abs/2509.12194)|null|
+|**2025-09-15**|**EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression**|[2509.12159](http://arxiv.org/abs/2509.12159)|**[link](https://github.com/WebPAI/EfficientUICoder.)**|
+|**2025-09-15**|**Embodied Navigation Foundation Model**|[2509.12129](http://arxiv.org/abs/2509.12129)|null|
+|**2025-09-15**|**SENSE models: an open source solution for multilingual and multimodal semantic-based tasks**|[2509.12093](http://arxiv.org/abs/2509.12093)|null|
+|**2025-09-15**|**When Safe Unimodal Inputs Collide: Optimizing Reasoning Chains for Cross-Modal Safety in Multimodal Large Language Models**|[2509.12060](http://arxiv.org/abs/2509.12060)|null|
+|**2025-09-15**|**RJD-BASE: Multi-Modal Spectral Clustering via Randomized Joint Diagonalization**|[2509.11981](http://arxiv.org/abs/2509.11981)|null|
+|**2025-09-15**|**PoolingVQ: A VQVAE Variant for Reducing Audio Redundancy and Boosting Multi-Modal Fusion in Music Emotion Analysis**|[2509.11976](http://arxiv.org/abs/2509.11976)|null|
+|**2025-09-15**|**Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding**|[2509.11961](http://arxiv.org/abs/2509.11961)|null|
+|**2025-09-15**|**Agentic Temporal Graph of Reasoning with Multimodal Language Models: A Potential AI Aid to Healthcare**|[2509.11944](http://arxiv.org/abs/2509.11944)|null|
+|**2025-09-15**|**MMORE: Massive Multimodal Open RAG & Extraction**|[2509.11937](http://arxiv.org/abs/2509.11937)|**[link](https://github.com/swiss-ai/mmore.)**|
+|**2025-09-15**|**Enriched text-guided variational multimodal knowledge distillation network (VMD) for automated diagnosis of plaque vulnerability in 3D carotid artery MRI**|[2509.11924](http://arxiv.org/abs/2509.11924)|null|
+|**2025-09-15**|**Lost in Data: How Older Adults Perceive and Navigate Health Data Representations**|[2509.11876](http://arxiv.org/abs/2509.11876)|null|
+|**2025-09-15**|**Tenma: Robust Cross-Embodiment Robot Manipulation with Diffusion Transformer**|[2509.11865](http://arxiv.org/abs/2509.11865)|null|
+|**2025-09-15**|**NeuroStrike: Neuron-Level Attacks on Aligned LLMs**|[2509.11864](http://arxiv.org/abs/2509.11864)|null|
+|**2025-09-15**|**FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning**|[2509.11796](http://arxiv.org/abs/2509.11796)|null|
+|**2025-09-15**|**Multimodal Regression for Enzyme Turnover Rates Prediction**|[2509.11782](http://arxiv.org/abs/2509.11782)|null|
+|**2025-09-15**|**Igniting VLMs toward the Embodied Space**|[2509.11766](http://arxiv.org/abs/2509.11766)|null|
+|**2025-09-15**|**Beyond Regularity: Modeling Chaotic Mobility Patterns for Next Location Prediction**|[2509.11713](http://arxiv.org/abs/2509.11713)|**[link](https://github.com/yuqian2003/CANOE.)**|
+|**2025-09-15**|**CoachMe: Decoding Sport Elements with a Reference-Based Coaching Instruction Generation Model**|[2509.11698](http://arxiv.org/abs/2509.11698)|**[link](https://motionxperts.github.io/)**|
+|**2025-09-15**|**MindVL: Towards Efficient and Effective Training of Multimodal Large Language Models on Ascend NPUs**|[2509.11662](http://arxiv.org/abs/2509.11662)|null|
+|**2025-09-15**|**Adapting and Evaluating Multimodal Large Language Models for Adolescent Idiopathic Scoliosis Self-Management: A Divide and Conquer Framework**|[2509.11645](http://arxiv.org/abs/2509.11645)|null|
+|**2025-09-15**|**AesBiasBench: Evaluating Bias and Alignment in Multimodal Language Models for Personalized Image Aesthetic Assessment**|[2509.11620](http://arxiv.org/abs/2509.11620)|null|
+|**2025-09-15**|**Scaling to Multimodal and Multichannel Heart Sound Classification: Fine-Tuning Wav2Vec 2.0 with Synthetic and Augmented Biosignals**|[2509.11606](http://arxiv.org/abs/2509.11606)|null|
+|**2025-09-15**|**MVQA-68K: A Multi-dimensional and Causally-annotated Dataset with Quality Interpretability for Video Assessment**|[2509.11589](http://arxiv.org/abs/2509.11589)|**[link](https://github.com/Controller01-ai/MVQA-68K)**|
+|**2025-09-15**|**A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models**|[2509.11575](http://arxiv.org/abs/2509.11575)|**[link](https://github.com/blacksnail789521/Time-Series-Reasoning-Survey).)**|
+|**2025-09-15**|**PaiP: An Operational Aware Interactive Planner for Unknown Cabinet Environments**|[2509.11516](http://arxiv.org/abs/2509.11516)|null|
+|**2025-09-15**|**SafeDiver: Cooperative AUV-USV Assisted Diver Communication via Multi-agent Reinforcement Learning Approach**|[2509.11508](http://arxiv.org/abs/2509.11508)|null|
+|**2025-09-14**|**CEMTM: Contextual Embedding-based Multimodal Topic Modeling**|[2509.11465](http://arxiv.org/abs/2509.11465)|null|
+|**2025-09-14**|**Knowledge-Guided Adaptive Mixture of Experts for Precipitation Prediction**|[2509.11459](http://arxiv.org/abs/2509.11459)|null|
+|**2025-09-14**|**Optimal single-mode squeezing for beam displacement sensing**|[2509.11457](http://arxiv.org/abs/2509.11457)|null|
+|**2025-09-14**|**Intelligent Reservoir Decision Support: An Integrated Framework Combining Large Language Models, Advanced Prompt Engineering, and Multimodal Data Fusion for Real-Time Petroleum Operations**|[2509.11376](http://arxiv.org/abs/2509.11376)|null|
+|**2025-09-14**|**PersonaX: Multimodal Datasets with LLM-Inferred Behavior Traits**|[2509.11362](http://arxiv.org/abs/2509.11362)|null|
+|**2025-09-14**|**Embodied Intelligence in Disassembly: Multimodal Perception Cross-validation and Continual Learning in Neuro-Symbolic TAMP**|[2509.11270](http://arxiv.org/abs/2509.11270)|null|
+|**2025-09-14**|**VideoAgent: Personalized Synthesis of Scientific Videos**|[2509.11253](http://arxiv.org/abs/2509.11253)|null|
+|**2025-09-14**|**Contextualized Multimodal Lifelong Person Re-Identification in Hybrid Clothing States**|[2509.11247](http://arxiv.org/abs/2509.11247)|null|
+|**2025-09-14**|**MIS-LSTM: Multichannel Image-Sequence LSTM for Sleep Quality and Stress Prediction**|[2509.11232](http://arxiv.org/abs/2509.11232)|null|
+|**2025-09-14**|**DMLDroid: Deep Multimodal Fusion Framework for Android Malware Detection with Resilience to Code Obfuscation and Adversarial Perturbations**|[2509.11187](http://arxiv.org/abs/2509.11187)|null|
+|**2025-09-14**|**WeaveMuse: An Open Agentic System for Multimodal Music Understanding and Generation**|[2509.11183](http://arxiv.org/abs/2509.11183)|null|
+|**2025-09-14**|**Traffic-MLLM: A Spatio-Temporal MLLM with Retrieval-Augmented Generation for Causal Inference in Traffic**|[2509.11165](http://arxiv.org/abs/2509.11165)|null|
+|**2025-09-14**|**Agentic Username Suggestion and Multimodal Gender Detection in Online Platforms: Introducing the PNGT-26K Dataset**|[2509.11136](http://arxiv.org/abs/2509.11136)|null|
+|**2025-09-14**|**Multi-Modal Sensing Aided mmWave Beamforming for V2V Communications with Transformers**|[2509.11112](http://arxiv.org/abs/2509.11112)|null|
+|**2025-09-14**|**Filling the Gaps: A Multitask Hybrid Multiscale Generative Framework for Missing Modality in Remote Sensing Semantic Segmentation**|[2509.11102](http://arxiv.org/abs/2509.11102)|null|
+|**2025-09-14**|**EmoBench-Reddit: A Hierarchical Benchmark for Evaluating the Emotional Intelligence of Multimodal Large Language Models**|[2509.11101](http://arxiv.org/abs/2509.11101)|null|
+|**2025-09-14**|**ViScratch: Using Large Language Models and Gameplay Videos for Automated Feedback in Scratch**|[2509.11065](http://arxiv.org/abs/2509.11065)|null|
+|**2025-09-14**|**Auto-Slides: An Interactive Multi-Agent System for Creating and Customizing Research Presentations**|[2509.11062](http://arxiv.org/abs/2509.11062)|null|
+|**2025-09-14**|**Rate-Distortion Limits for Multimodal Retrieval: Theory, Optimal Codes, and Finite-Sample Guarantees**|[2509.11054](http://arxiv.org/abs/2509.11054)|null|
+|**2025-09-13**|**TrueSkin: Towards Fair and Accurate Skin Tone Recognition and Generation**|[2509.10980](http://arxiv.org/abs/2509.10980)|null|
+|**2025-09-13**|**ReFineG: Synergizing Small Supervised Models and LLMs for Low-Resource Grounded Multimodal NER**|[2509.10975](http://arxiv.org/abs/2509.10975)|null|
+|**2025-09-13**|**Automated Radiology Report Generation Based on Topic-Keyword Semantic Guidance**|[2509.10873](http://arxiv.org/abs/2509.10873)|**[link](https://github.com/SCNU203/TKSG.)**|
 |**2025-09-12**|**Standards in the Preparation of Biomedical Research Metadata: A Bridge2AI Perspective**|[2509.10432](http://arxiv.org/abs/2509.10432)|null|
 |**2025-09-12**|**Multimodal SAM-adapter for Semantic Segmentation**|[2509.10408](http://arxiv.org/abs/2509.10408)|**[link](https://github.com/iacopo97/Multimodal-SAM-Adapter.)**|
 |**2025-09-12**|**RecoWorld: Building Simulated Environments for Agentic Recommender Systems**|[2509.10397](http://arxiv.org/abs/2509.10397)|null|
