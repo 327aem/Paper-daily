@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.16
+## Updated on 2025.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -53,7 +53,7 @@ layout: default
 |**2025-09-11**|**Towards Explainable Job Title Matching: Leveraging Semantic Textual Relatedness and Knowledge Graphs**|[2509.09522](http://arxiv.org/abs/2509.09522)|null|
 |**2025-09-11**|**Incorporating AI Incident Reporting into Telecommunications Law and Policy: Insights from India**|[2509.09508](http://arxiv.org/abs/2509.09508)|null|
 |**2025-09-11**|**We're Still Doing It (All) Wrong: Recommender Systems, Fifteen Years Later**|[2509.09414](http://arxiv.org/abs/2509.09414)|null|
-|**2025-09-11**|**MetaLLMix : An XAI Aided LLM-Meta-learning Based Approach for Hyper-parameters Optimization**|[2509.09387](http://arxiv.org/abs/2509.09387)|null|
+|**2025-09-15**|**MetaLLMix : An XAI Aided LLM-Meta-learning Based Approach for Hyper-parameters Optimization**|[2509.09387](http://arxiv.org/abs/2509.09387)|null|
 |**2025-09-11**|**Smart Device Development for Gait Monitoring: Multimodal Feedback in an Interactive Foot Orthosis, Walking Aid, and Mobile Application**|[2509.09359](http://arxiv.org/abs/2509.09359)|null|
 |**2025-09-11**|**CESRec: Constructing Pseudo Interactions for Sequential Recommendation via Conversational Feedback**|[2509.09342](http://arxiv.org/abs/2509.09342)|null|
 |**2025-09-11**|**Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on Open & Industry Data**|[2509.09313](http://arxiv.org/abs/2509.09313)|null|
@@ -261,7 +261,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 ## Retrieval
 
@@ -278,7 +278,7 @@ layout: default
 |**2025-09-15**|**FinGEAR: Financial Mapping-Guided Enhanced Answer Retrieval**|[2509.12042](http://arxiv.org/abs/2509.12042)|null|
 |**2025-09-15**|**Results of the 2025 Video Browser Showdown**|[2509.12000](http://arxiv.org/abs/2509.12000)|null|
 |**2025-09-15**|**Lost in Embeddings: Information Loss in Vision-Language Models**|[2509.11986](http://arxiv.org/abs/2509.11986)|null|
-|**2025-09-15**|**MillStone: How Open-Minded Are LLMs?**|[2509.11967](http://arxiv.org/abs/2509.11967)|null|
+|**2025-09-16**|**MillStone: How Open-Minded Are LLMs?**|[2509.11967](http://arxiv.org/abs/2509.11967)|null|
 |**2025-09-15**|**A GPU-Accelerated RAG-Based Telegram Assistant for Supporting Parallel Processing Students**|[2509.11947](http://arxiv.org/abs/2509.11947)|null|
 |**2025-09-15**|**PrivWeb: Unobtrusive and Content-aware Privacy Protection For Web Agents**|[2509.11939](http://arxiv.org/abs/2509.11939)|null|
 |**2025-09-15**|**MMORE: Massive Multimodal Open RAG & Extraction**|[2509.11937](http://arxiv.org/abs/2509.11937)|**[link](https://github.com/swiss-ai/mmore.)**|
@@ -293,7 +293,7 @@ layout: default
 |**2025-09-15**|**Adapting and Evaluating Multimodal Large Language Models for Adolescent Idiopathic Scoliosis Self-Management: A Divide and Conquer Framework**|[2509.11645](http://arxiv.org/abs/2509.11645)|null|
 |**2025-09-15**|**Cyber Threat Hunting: Non-Parametric Mining of Attack Patterns from Cyber Threat Intelligence for Precise Threats Attribution**|[2509.11615](http://arxiv.org/abs/2509.11615)|null|
 |**2025-09-15**|**Bhaasha, Bhasa, Zaban: A Survey for Low-Resourced Languages in South Asia -- Current Stage and Challenges**|[2509.11570](http://arxiv.org/abs/2509.11570)|**[link](https://github.com/trust-nlp/LM4SouthAsia-Survey.)**|
-|**2025-09-15**|**HiChunk: Evaluating and Enhancing Retrieval-Augmented Generation with Hierarchical Chunking**|[2509.11552](http://arxiv.org/abs/2509.11552)|null|
+|**2025-09-16**|**HiChunk: Evaluating and Enhancing Retrieval-Augmented Generation with Hierarchical Chunking**|[2509.11552](http://arxiv.org/abs/2509.11552)|null|
 |**2025-09-15**|**Decoding in Latent Spaces for Efficient Inference in LLM-based Recommendation**|[2509.11524](http://arxiv.org/abs/2509.11524)|null|
 |**2025-09-15**|**MedicalOS: An LLM Agent based Operating System for Digital Healthcare**|[2509.11507](http://arxiv.org/abs/2509.11507)|null|
 |**2025-09-15**|**OASIS: A Deep Learning Framework for Universal Spectroscopic Analysis Driven by Novel Loss Functions**|[2509.11499](http://arxiv.org/abs/2509.11499)|null|
@@ -654,7 +654,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -665,13 +665,13 @@ layout: default
 |**2025-09-15**|**EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression**|[2509.12159](http://arxiv.org/abs/2509.12159)|**[link](https://github.com/WebPAI/EfficientUICoder.)**|
 |**2025-09-15**|**Embodied Navigation Foundation Model**|[2509.12129](http://arxiv.org/abs/2509.12129)|null|
 |**2025-09-15**|**SENSE models: an open source solution for multilingual and multimodal semantic-based tasks**|[2509.12093](http://arxiv.org/abs/2509.12093)|null|
-|**2025-09-15**|**When Safe Unimodal Inputs Collide: Optimizing Reasoning Chains for Cross-Modal Safety in Multimodal Large Language Models**|[2509.12060](http://arxiv.org/abs/2509.12060)|null|
+|**2025-09-16**|**When Safe Unimodal Inputs Collide: Optimizing Reasoning Chains for Cross-Modal Safety in Multimodal Large Language Models**|[2509.12060](http://arxiv.org/abs/2509.12060)|null|
 |**2025-09-15**|**RJD-BASE: Multi-Modal Spectral Clustering via Randomized Joint Diagonalization**|[2509.11981](http://arxiv.org/abs/2509.11981)|null|
 |**2025-09-15**|**PoolingVQ: A VQVAE Variant for Reducing Audio Redundancy and Boosting Multi-Modal Fusion in Music Emotion Analysis**|[2509.11976](http://arxiv.org/abs/2509.11976)|null|
 |**2025-09-15**|**Spec-LLaVA: Accelerating Vision-Language Models with Dynamic Tree-Based Speculative Decoding**|[2509.11961](http://arxiv.org/abs/2509.11961)|null|
 |**2025-09-15**|**Agentic Temporal Graph of Reasoning with Multimodal Language Models: A Potential AI Aid to Healthcare**|[2509.11944](http://arxiv.org/abs/2509.11944)|null|
 |**2025-09-15**|**MMORE: Massive Multimodal Open RAG & Extraction**|[2509.11937](http://arxiv.org/abs/2509.11937)|**[link](https://github.com/swiss-ai/mmore.)**|
-|**2025-09-15**|**Enriched text-guided variational multimodal knowledge distillation network (VMD) for automated diagnosis of plaque vulnerability in 3D carotid artery MRI**|[2509.11924](http://arxiv.org/abs/2509.11924)|null|
+|**2025-09-16**|**Enriched text-guided variational multimodal knowledge distillation network (VMD) for automated diagnosis of plaque vulnerability in 3D carotid artery MRI**|[2509.11924](http://arxiv.org/abs/2509.11924)|null|
 |**2025-09-15**|**Lost in Data: How Older Adults Perceive and Navigate Health Data Representations**|[2509.11876](http://arxiv.org/abs/2509.11876)|null|
 |**2025-09-15**|**Tenma: Robust Cross-Embodiment Robot Manipulation with Diffusion Transformer**|[2509.11865](http://arxiv.org/abs/2509.11865)|null|
 |**2025-09-15**|**NeuroStrike: Neuron-Level Attacks on Aligned LLMs**|[2509.11864](http://arxiv.org/abs/2509.11864)|null|
@@ -1012,7 +1012,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
