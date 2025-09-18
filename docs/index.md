@@ -9,6 +9,17 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-17**|**AI For Privacy in Smart Homes: Exploring How Leveraging AI-Powered Smart Devices Enhances Privacy Protection**|[2509.14050](http://arxiv.org/abs/2509.14050)|null|
+|**2025-09-17**|**Sample Size Calculations for the Development of Risk Prediction Models that Account for Performance Variability**|[2509.14028](http://arxiv.org/abs/2509.14028)|null|
+|**2025-09-17**|**Enhancing Time Awareness in Generative Recommendation**|[2509.13957](http://arxiv.org/abs/2509.13957)|**[link](https://github.com/skleee/GRUT.)**|
+|**2025-09-17**|**Bridging Control Variates and Regression Adjustment in A/B Testing: From Design-Based to Model-Based Frameworks**|[2509.13944](http://arxiv.org/abs/2509.13944)|null|
+|**2025-09-17**|**MIRA: Empowering One-Touch AI Services on Smartphones with MLLM-based Instruction Recommendation**|[2509.13773](http://arxiv.org/abs/2509.13773)|null|
+|**2025-09-17**|**Sequential Data Augmentation for Generative Recommendation**|[2509.13648](http://arxiv.org/abs/2509.13648)|null|
+|**2025-09-16**|**GuardianPWA: Enhancing Security Throughout the Progressive Web App Installation Lifecycle**|[2509.13561](http://arxiv.org/abs/2509.13561)|null|
+|**2025-09-16**|**Practitioners' Perspectives on a Differential Privacy Deployment Registry**|[2509.13509](http://arxiv.org/abs/2509.13509)|null|
+|**2025-09-16**|**Strategic Pricing and Ranking in Recommendation Systems with Seller Competition**|[2509.13462](http://arxiv.org/abs/2509.13462)|null|
+|**2025-09-16**|**Vehicle-to-Grid Integration: Ensuring Grid Stability, Strengthening Cybersecurity, and Advancing Energy Market Dynamics**|[2509.13393](http://arxiv.org/abs/2509.13393)|null|
+|**2025-09-14**|**Agentic UAVs: LLM-Driven Autonomy with Integrated Tool-Calling and Cognitive Reasoning**|[2509.13352](http://arxiv.org/abs/2509.13352)|null|
 |**2025-09-16**|**Beyond Private or Public: Large Language Models as Quasi-Public Goods in the AI Economy**|[2509.13265](http://arxiv.org/abs/2509.13265)|null|
 |**2025-09-16**|**Evolution of Programmers' Trust in Generative AI Programming Assistants**|[2509.13253](http://arxiv.org/abs/2509.13253)|null|
 |**2025-09-16**|**Efficient Cold-Start Recommendation via BPE Token-Level Embedding Initialization with LLM**|[2509.13179](http://arxiv.org/abs/2509.13179)|null|
@@ -281,6 +292,32 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-17**|**GEM-Bench: A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing**|[2509.14221](http://arxiv.org/abs/2509.14221)|null|
+|**2025-09-17**|**Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra-I cluster IV. A study of the Globular Cluster population in four UDGs**|[2509.14206](http://arxiv.org/abs/2509.14206)|null|
+|**2025-09-17**|**AI and the Future of Academic Peer Review**|[2509.14189](http://arxiv.org/abs/2509.14189)|null|
+|**2025-09-17**|**CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts**|[2509.14104](http://arxiv.org/abs/2509.14104)|**[link](https://git.tu-berlin.de/rsim/csmoe.)**|
+|**2025-09-17**|**LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology**|[2509.13978](http://arxiv.org/abs/2509.13978)|null|
+|**2025-09-17**|**Split Lemma and First Isomorphism Theorem for groupoids**|[2509.13973](http://arxiv.org/abs/2509.13973)|null|
+|**2025-09-17**|**Enhancing Time Awareness in Generative Recommendation**|[2509.13957](http://arxiv.org/abs/2509.13957)|**[link](https://github.com/skleee/GRUT.)**|
+|**2025-09-17**|**Investigating aerosols as a reconciliation mechanism for K2-18 b JWST MIRI and NIRISS/NIRSpec observations**|[2509.13932](http://arxiv.org/abs/2509.13932)|null|
+|**2025-09-17**|**Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG**|[2509.13930](http://arxiv.org/abs/2509.13930)|null|
+|**2025-09-17**|**Mind the Ethics! The Overlooked Ethical Dimensions of GenAI in Software Modeling Education**|[2509.13896](http://arxiv.org/abs/2509.13896)|null|
+|**2025-09-17**|**Combating Biomedical Misinformation through Multi-modal Claim Detection and Evidence-based Verification**|[2509.13888](http://arxiv.org/abs/2509.13888)|**[link](https://github.com/PRAISELab-PicusLab/CER)**|
+|**2025-09-17**|**Combining Evidence and Reasoning for Biomedical Fact-Checking**|[2509.13879](http://arxiv.org/abs/2509.13879)|null|
+|**2025-09-17**|**SWA-PF: Semantic-Weighted Adaptive Particle Filter for Memory-Efficient 4-DoF UAV Localization in GNSS-Denied Environments**|[2509.13795](http://arxiv.org/abs/2509.13795)|**[link](https://github.com/YuanJiayuuu/SWA-PF.)**|
+|**2025-09-17**|**MIRA: Empowering One-Touch AI Services on Smartphones with MLLM-based Instruction Recommendation**|[2509.13773](http://arxiv.org/abs/2509.13773)|null|
+|**2025-09-17**|**Who Taught the Lie? Responsibility Attribution for Poisoned Knowledge in Retrieval-Augmented Generation**|[2509.13772](http://arxiv.org/abs/2509.13772)|null|
+|**2025-09-17**|**Cross-modal Full-mode Fine-grained Alignment for Text-to-Image Person Retrieval**|[2509.13754](http://arxiv.org/abs/2509.13754)|**[link](https://github.com/yinhao1102/FMFA.)**|
+|**2025-09-17**|**ST-LINK: Spatially-Aware Large Language Models for Spatio-Temporal Forecasting**|[2509.13753](http://arxiv.org/abs/2509.13753)|null|
+|**2025-09-17**|**FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph**|[2509.13733](http://arxiv.org/abs/2509.13733)|null|
+|**2025-09-17**|**DSCC-HS: A Dynamic Self-Reinforcing Framework for Hallucination Suppression in Large Language Models**|[2509.13702](http://arxiv.org/abs/2509.13702)|null|
+|**2025-09-17**|**Publicly Verifiable Private Information Retrieval Protocols Based on Function Secret Sharing**|[2509.13684](http://arxiv.org/abs/2509.13684)|null|
+|**2025-09-17**|**Improving Context Fidelity via Native Retrieval-Augmented Reasoning**|[2509.13683](http://arxiv.org/abs/2509.13683)|null|
+|**2025-09-17**|**Sequential Data Augmentation for Generative Recommendation**|[2509.13648](http://arxiv.org/abs/2509.13648)|null|
+|**2025-09-17**|**Mind the Gap: Aligning Knowledge Bases with User Needs to Enhance Mental Health Retrieval**|[2509.13626](http://arxiv.org/abs/2509.13626)|null|
+|**2025-09-17**|**Modernizing Facebook Scoped Search: Keyword and Embedding Hybrid Retrieval with LLM Evaluation**|[2509.13603](http://arxiv.org/abs/2509.13603)|null|
+|**2025-09-16**|**Annotating Satellite Images of Forests with Keywords from a Specialized Corpus in the Context of Change Detection**|[2509.13586](http://arxiv.org/abs/2509.13586)|null|
+|**2025-09-16**|**MA-DPR: Manifold-aware Distance Metrics for Dense Passage Retrieval**|[2509.13562](http://arxiv.org/abs/2509.13562)|null|
 |**2025-09-16**|**WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research**|[2509.13312](http://arxiv.org/abs/2509.13312)|null|
 |**2025-09-16**|**Contrastive timbre representations for musical instrument and synthesizer retrieval**|[2509.13285](http://arxiv.org/abs/2509.13285)|null|
 |**2025-09-16**|**ResidualViT for Efficient Temporally Dense Video Encoding**|[2509.13255](http://arxiv.org/abs/2509.13255)|null|
@@ -715,6 +752,31 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-17**|**AssoCiAm: A Benchmark for Evaluating Association Thinking while Circumventing Ambiguity**|[2509.14171](http://arxiv.org/abs/2509.14171)|null|
+|**2025-09-17**|**MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods, Results, Discussion, and Outlook**|[2509.14142](http://arxiv.org/abs/2509.14142)|**[link](https://github.com/mars2workshop/,)**|
+|**2025-09-17**|**AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration**|[2509.14084](http://arxiv.org/abs/2509.14084)|null|
+|**2025-09-17**|**Language Conditioning Improves Accuracy of Aircraft Goal Prediction in Untowered Airspace**|[2509.14063](http://arxiv.org/abs/2509.14063)|null|
+|**2025-09-17**|**Queen Detection in Beehives via Environmental Sensor Fusion for Low-Power Edge Computing**|[2509.14061](http://arxiv.org/abs/2509.14061)|null|
+|**2025-09-17**|**SSL-SSAW: Self-Supervised Learning with Sigmoid Self-Attention Weighting for Question-Based Sign Language Translation**|[2509.14036](http://arxiv.org/abs/2509.14036)|null|
+|**2025-09-17**|**SAIL-VL2 Technical Report**|[2509.14033](http://arxiv.org/abs/2509.14033)|null|
+|**2025-09-17**|**CrowdAgent: Multi-Agent Managed Multi-Source Annotation System**|[2509.14030](http://arxiv.org/abs/2509.14030)|**[link](https://github.com/QMMMS/CrowdAgent.)**|
+|**2025-09-17**|**Audio-Based Crowd-Sourced Evaluation of Machine Translation Quality**|[2509.14023](http://arxiv.org/abs/2509.14023)|null|
+|**2025-09-17**|**MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment**|[2509.14001](http://arxiv.org/abs/2509.14001)|null|
+|**2025-09-17**|**Higher-order Network phenomena of cascading failures in resilient cities**|[2509.13808](http://arxiv.org/abs/2509.13808)|null|
+|**2025-09-17**|**MIRA: Empowering One-Touch AI Services on Smartphones with MLLM-based Instruction Recommendation**|[2509.13773](http://arxiv.org/abs/2509.13773)|null|
+|**2025-09-17**|**VocSegMRI: Multimodal Learning for Precise Vocal Tract Segmentation in Real-time MRI**|[2509.13767](http://arxiv.org/abs/2509.13767)|null|
+|**2025-09-17**|**Integrating Text and Time-Series into (Large) Language Models to Predict Medical Outcomes**|[2509.13696](http://arxiv.org/abs/2509.13696)|null|
+|**2025-09-17**|**Re-purposing SAM into Efficient Visual Projectors for MLLM-Based Referring Image Segmentation**|[2509.13676](http://arxiv.org/abs/2509.13676)|null|
+|**2025-09-17**|**Vistoria: A Multimodal System to Support Fictional Story Writing through Instrumental Text-Image Co-Editing**|[2509.13646](http://arxiv.org/abs/2509.13646)|null|
+|**2025-09-17**|**LLM-I: LLMs are Naturally Interleaved Multimodal Creators**|[2509.13642](http://arxiv.org/abs/2509.13642)|**[link](https://github.com/ByteDance-BandAI/LLM-I.)**|
+|**2025-09-17**|**Multimodal signal fusion for stress detection using deep neural networks: a novel approach for converting 1D signals to unified 2D images**|[2509.13636](http://arxiv.org/abs/2509.13636)|null|
+|**2025-09-17**|**See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles**|[2509.13615](http://arxiv.org/abs/2509.13615)|**[link](https://github.com/ZrW00/StaR.)**|
+|**2025-09-17**|**Is GPT-4o mini Blinded by its Own Safety Filters? Exposing the Multimodal-to-Unimodal Bottleneck in Hate Speech Detection**|[2509.13608](http://arxiv.org/abs/2509.13608)|null|
+|**2025-09-16**|**Intelligent Healthcare Imaging Platform An VLM-Based Framework for Automated Medical Image Analysis and Clinical Report Generation**|[2509.13590](http://arxiv.org/abs/2509.13590)|null|
+|**2025-09-16**|**Py maidr: Bridging Visual and Non-Visual Data Experiences Through a Unified Python Framework**|[2509.13532](http://arxiv.org/abs/2509.13532)|null|
+|**2025-09-16**|**Multimodal Hate Detection Using Dual-Stream Graph Neural Networks**|[2509.13515](http://arxiv.org/abs/2509.13515)|**[link](https://github.com/Multimodal-Intelligence-Lab-MIL/MultiHateGNN.)**|
+|**2025-09-16**|**TICL: Text-Embedding KNN For Speech In-Context Learning Unlocks Speech Recognition Abilities of Large Multimodal Models**|[2509.13395](http://arxiv.org/abs/2509.13395)|null|
+|**2025-09-16**|**The Art of Saying "Maybe": A Conformal Lens for Uncertainty Benchmarking in VLMs**|[2509.13379](http://arxiv.org/abs/2509.13379)|null|
 |**2025-09-16**|**Image Realness Assessment and Localization with Multimodal Features**|[2509.13289](http://arxiv.org/abs/2509.13289)|null|
 |**2025-09-16**|**A Scenario-Driven Cognitive Approach to Next-Generation AI Memory**|[2509.13235](http://arxiv.org/abs/2509.13235)|null|
 |**2025-09-16**|**Simulating Clinical AI Assistance using Multimodal LLMs: A Case Study in Diabetic Retinopathy**|[2509.13234](http://arxiv.org/abs/2509.13234)|null|
