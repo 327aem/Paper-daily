@@ -1,4 +1,4 @@
-## Updated on 2025.09.17
+## Updated on 2025.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -280,7 +280,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250918>back to top</a>)</p>
 
 ## Retrieval
 
@@ -291,7 +291,7 @@
 |**2025-09-16**|**ResidualViT for Efficient Temporally Dense Video Encoding**|[2509.13255](http://arxiv.org/abs/2509.13255)|null|
 |**2025-09-16**|**Efficient Cold-Start Recommendation via BPE Token-Level Embedding Initialization with LLM**|[2509.13179](http://arxiv.org/abs/2509.13179)|null|
 |**2025-09-16**|**More performant and scalable: Rethinking contrastive vision-language pre-training of radiology in the LLM era**|[2509.13175](http://arxiv.org/abs/2509.13175)|**[link](https://github.com/SadVoxel/More-performant-and-scalable.)**|
-|**2025-09-16**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|[2509.13164](http://arxiv.org/abs/2509.13164)|null|
+|**2025-09-17**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|[2509.13164](http://arxiv.org/abs/2509.13164)|**[link](https://wjiawei.com/terasim-world-web/)**|
 |**2025-09-16**|**Towards the Next Generation of Software: Insights from Grey Literature on AI-Native Applications**|[2509.13144](http://arxiv.org/abs/2509.13144)|null|
 |**2025-09-16**|**Accelerating Discovery: Rapid Literature Screening with LLMs**|[2509.13103](http://arxiv.org/abs/2509.13103)|null|
 |**2025-09-16**|**Green Recommender Systems: Understanding and Minimizing the Carbon Footprint of AI-Powered Personalization**|[2509.13001](http://arxiv.org/abs/2509.13001)|null|
@@ -303,7 +303,7 @@
 |**2025-09-16**|**Conan-Embedding-v2: Training an LLM from Scratch for Text Embeddings**|[2509.12892](http://arxiv.org/abs/2509.12892)|null|
 |**2025-09-16**|**Attosecond-resolved probing of recolliding electron wave packets in liquids and aqueous solutions**|[2509.12872](http://arxiv.org/abs/2509.12872)|null|
 |**2025-09-16**|**Multi-Robot Task Planning for Multi-Object Retrieval Tasks with Distributed On-Site Knowledge via Large Language Models**|[2509.12838](http://arxiv.org/abs/2509.12838)|null|
-|**2025-09-16**|**DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval**|[2509.12824](http://arxiv.org/abs/2509.12824)|null|
+|**2025-09-17**|**DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval**|[2509.12824](http://arxiv.org/abs/2509.12824)|null|
 |**2025-09-16**|**ConvergeWriter: Data-Driven Bottom-Up Article Construction**|[2509.12811](http://arxiv.org/abs/2509.12811)|null|
 |**2025-09-16**|**H $^2$ R: Hierarchical Hindsight Reflection for Multi-Task LLM Agents**|[2509.12810](http://arxiv.org/abs/2509.12810)|null|
 |**2025-09-16**|**InfoGain-RAG: Boosting Retrieval-Augmented Generation via Document Information Gain-based Reranking and Filtering**|[2509.12765](http://arxiv.org/abs/2509.12765)|null|
@@ -714,7 +714,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250918>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -723,7 +723,7 @@
 |**2025-09-16**|**Image Realness Assessment and Localization with Multimodal Features**|[2509.13289](http://arxiv.org/abs/2509.13289)|null|
 |**2025-09-16**|**A Scenario-Driven Cognitive Approach to Next-Generation AI Memory**|[2509.13235](http://arxiv.org/abs/2509.13235)|null|
 |**2025-09-16**|**Simulating Clinical AI Assistance using Multimodal LLMs: A Case Study in Diabetic Retinopathy**|[2509.13234](http://arxiv.org/abs/2509.13234)|null|
-|**2025-09-16**|**Rich Vehicle Routing Problem with diverse Vertices allowing Hierarchical and Multimodal Time-Dependant Transhipment of multiple Node- Vehicle- compatible Cargo with Cascaded Time-Minimization Objective for Emergency Decision Support Systems**|[2509.13227](http://arxiv.org/abs/2509.13227)|null|
+|**2025-09-17**|**Rich Vehicle Routing Problem in Disaster Management enabling Temporally-causal Transhipments across Multi-Modal Transportation Network**|[2509.13227](http://arxiv.org/abs/2509.13227)|null|
 |**2025-09-16**|**UTI-LLM: A Personalized Articulatory-Speech Therapy Assistance System Based on Multimodal Large Language Model**|[2509.13145](http://arxiv.org/abs/2509.13145)|null|
 |**2025-09-16**|**TFANet: Three-Stage Image-Text Feature Alignment Network for Robust Referring Image Segmentation**|[2509.13070](http://arxiv.org/abs/2509.13070)|null|
 |**2025-09-16**|**Patient Perspectives on Telemonitoring during Colorectal Cancer Surgery Prehabilitation**|[2509.13064](http://arxiv.org/abs/2509.13064)|null|
@@ -733,7 +733,7 @@
 |**2025-09-16**|**MEJO: MLLM-Engaged Surgical Triplet Recognition via Inter- and Intra-Task Joint Optimization**|[2509.12893](http://arxiv.org/abs/2509.12893)|null|
 |**2025-09-16**|**Runge-Kutta Approximation and Decoupled Attention for Rectified Flow Inversion and Semantic Editing**|[2509.12888](http://arxiv.org/abs/2509.12888)|**[link](https://github.com/wmchen/RKSovler_DDTA.)**|
 |**2025-09-16**|**The LLM Already Knows: Estimating LLM-Perceived Question Difficulty via Hidden Representations**|[2509.12886](http://arxiv.org/abs/2509.12886)|null|
-|**2025-09-16**|**DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval**|[2509.12824](http://arxiv.org/abs/2509.12824)|null|
+|**2025-09-17**|**DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval**|[2509.12824](http://arxiv.org/abs/2509.12824)|null|
 |**2025-09-16**|**Gesture Evaluation in Virtual Reality**|[2509.12816](http://arxiv.org/abs/2509.12816)|null|
 |**2025-09-16**|**What Makes a Good Generated Image? Investigating Human and Multimodal LLM Image Preference Alignment**|[2509.12750](http://arxiv.org/abs/2509.12750)|null|
 |**2025-09-16**|**AsyMoE: Leveraging Modal Asymmetry for Enhanced Expert Specialization in Large Vision-Language Models**|[2509.12715](http://arxiv.org/abs/2509.12715)|null|
@@ -748,7 +748,7 @@
 |**2025-09-15**|**OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling**|[2509.12201](http://arxiv.org/abs/2509.12201)|null|
 |**2025-09-15**|**Advancing Medical Artificial Intelligence Using a Century of Cases**|[2509.12194](http://arxiv.org/abs/2509.12194)|null|
 |**2025-09-15**|**EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression**|[2509.12159](http://arxiv.org/abs/2509.12159)|**[link](https://github.com/WebPAI/EfficientUICoder.)**|
-|**2025-09-15**|**Embodied Navigation Foundation Model**|[2509.12129](http://arxiv.org/abs/2509.12129)|null|
+|**2025-09-16**|**Embodied Navigation Foundation Model**|[2509.12129](http://arxiv.org/abs/2509.12129)|null|
 |**2025-09-15**|**SENSE models: an open source solution for multilingual and multimodal semantic-based tasks**|[2509.12093](http://arxiv.org/abs/2509.12093)|null|
 |**2025-09-16**|**When Safe Unimodal Inputs Collide: Optimizing Reasoning Chains for Cross-Modal Safety in Multimodal Large Language Models**|[2509.12060](http://arxiv.org/abs/2509.12060)|null|
 |**2025-09-15**|**RJD-BASE: Multi-Modal Spectral Clustering via Randomized Joint Diagonalization**|[2509.11981](http://arxiv.org/abs/2509.11981)|null|
@@ -1097,7 +1097,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250918>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
