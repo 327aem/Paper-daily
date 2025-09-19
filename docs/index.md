@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.18
+## Updated on 2025.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -286,7 +286,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250919>back to top</a>)</p>
 
 ## Retrieval
 
@@ -294,7 +294,7 @@ layout: default
 |:---------|:-----------------------|:------|:------|
 |**2025-09-17**|**GEM-Bench: A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing**|[2509.14221](http://arxiv.org/abs/2509.14221)|null|
 |**2025-09-17**|**Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra-I cluster IV. A study of the Globular Cluster population in four UDGs**|[2509.14206](http://arxiv.org/abs/2509.14206)|null|
-|**2025-09-17**|**AI and the Future of Academic Peer Review**|[2509.14189](http://arxiv.org/abs/2509.14189)|null|
+|**2025-09-18**|**AI and the Future of Academic Peer Review**|[2509.14189](http://arxiv.org/abs/2509.14189)|null|
 |**2025-09-17**|**CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts**|[2509.14104](http://arxiv.org/abs/2509.14104)|**[link](https://git.tu-berlin.de/rsim/csmoe.)**|
 |**2025-09-17**|**LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology**|[2509.13978](http://arxiv.org/abs/2509.13978)|null|
 |**2025-09-17**|**Split Lemma and First Isomorphism Theorem for groupoids**|[2509.13973](http://arxiv.org/abs/2509.13973)|null|
@@ -746,15 +746,15 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250919>back to top</a>)</p>
 
 ## Multi-Modal
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
-|**2025-09-17**|**AssoCiAm: A Benchmark for Evaluating Association Thinking while Circumventing Ambiguity**|[2509.14171](http://arxiv.org/abs/2509.14171)|null|
+|**2025-09-18**|**AssoCiAm: A Benchmark for Evaluating Association Thinking while Circumventing Ambiguity**|[2509.14171](http://arxiv.org/abs/2509.14171)|null|
 |**2025-09-17**|**MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods, Results, Discussion, and Outlook**|[2509.14142](http://arxiv.org/abs/2509.14142)|**[link](https://github.com/mars2workshop/,)**|
-|**2025-09-17**|**AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration**|[2509.14084](http://arxiv.org/abs/2509.14084)|null|
+|**2025-09-18**|**AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration**|[2509.14084](http://arxiv.org/abs/2509.14084)|**[link](https://github.com/Kaisor-Yuan/AD-DINOv3.)**|
 |**2025-09-17**|**Language Conditioning Improves Accuracy of Aircraft Goal Prediction in Untowered Airspace**|[2509.14063](http://arxiv.org/abs/2509.14063)|null|
 |**2025-09-17**|**Queen Detection in Beehives via Environmental Sensor Fusion for Low-Power Edge Computing**|[2509.14061](http://arxiv.org/abs/2509.14061)|null|
 |**2025-09-17**|**SSL-SSAW: Self-Supervised Learning with Sigmoid Self-Attention Weighting for Question-Based Sign Language Translation**|[2509.14036](http://arxiv.org/abs/2509.14036)|null|
@@ -767,7 +767,7 @@ layout: default
 |**2025-09-17**|**VocSegMRI: Multimodal Learning for Precise Vocal Tract Segmentation in Real-time MRI**|[2509.13767](http://arxiv.org/abs/2509.13767)|null|
 |**2025-09-17**|**Integrating Text and Time-Series into (Large) Language Models to Predict Medical Outcomes**|[2509.13696](http://arxiv.org/abs/2509.13696)|null|
 |**2025-09-17**|**Re-purposing SAM into Efficient Visual Projectors for MLLM-Based Referring Image Segmentation**|[2509.13676](http://arxiv.org/abs/2509.13676)|null|
-|**2025-09-17**|**Vistoria: A Multimodal System to Support Fictional Story Writing through Instrumental Text-Image Co-Editing**|[2509.13646](http://arxiv.org/abs/2509.13646)|null|
+|**2025-09-18**|**Vistoria: A Multimodal System to Support Fictional Story Writing through Instrumental Text-Image Co-Editing**|[2509.13646](http://arxiv.org/abs/2509.13646)|null|
 |**2025-09-17**|**LLM-I: LLMs are Naturally Interleaved Multimodal Creators**|[2509.13642](http://arxiv.org/abs/2509.13642)|**[link](https://github.com/ByteDance-BandAI/LLM-I.)**|
 |**2025-09-17**|**Multimodal signal fusion for stress detection using deep neural networks: a novel approach for converting 1D signals to unified 2D images**|[2509.13636](http://arxiv.org/abs/2509.13636)|null|
 |**2025-09-17**|**See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles**|[2509.13615](http://arxiv.org/abs/2509.13615)|**[link](https://github.com/ZrW00/StaR.)**|
@@ -776,7 +776,7 @@ layout: default
 |**2025-09-16**|**Py maidr: Bridging Visual and Non-Visual Data Experiences Through a Unified Python Framework**|[2509.13532](http://arxiv.org/abs/2509.13532)|null|
 |**2025-09-16**|**Multimodal Hate Detection Using Dual-Stream Graph Neural Networks**|[2509.13515](http://arxiv.org/abs/2509.13515)|**[link](https://github.com/Multimodal-Intelligence-Lab-MIL/MultiHateGNN.)**|
 |**2025-09-16**|**TICL: Text-Embedding KNN For Speech In-Context Learning Unlocks Speech Recognition Abilities of Large Multimodal Models**|[2509.13395](http://arxiv.org/abs/2509.13395)|null|
-|**2025-09-16**|**The Art of Saying "Maybe": A Conformal Lens for Uncertainty Benchmarking in VLMs**|[2509.13379](http://arxiv.org/abs/2509.13379)|null|
+|**2025-09-18**|**The Art of Saying "Maybe": A Conformal Lens for Uncertainty Benchmarking in VLMs**|[2509.13379](http://arxiv.org/abs/2509.13379)|null|
 |**2025-09-16**|**Image Realness Assessment and Localization with Multimodal Features**|[2509.13289](http://arxiv.org/abs/2509.13289)|null|
 |**2025-09-16**|**A Scenario-Driven Cognitive Approach to Next-Generation AI Memory**|[2509.13235](http://arxiv.org/abs/2509.13235)|null|
 |**2025-09-16**|**Simulating Clinical AI Assistance using Multimodal LLMs: A Case Study in Diabetic Retinopathy**|[2509.13234](http://arxiv.org/abs/2509.13234)|null|
@@ -1154,7 +1154,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250919>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
