@@ -14,6 +14,16 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-18**|**Mind the Gap: A Closer Look at Tokenization for Multiple-Choice Question Answering with LLMs**|[2509.15020](http://arxiv.org/abs/2509.15020)|null|
+|**2025-09-18**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
+|**2025-09-18**|**Set Contribution Functions for Quantitative Bipolar Argumentation and their Principles**|[2509.14963](http://arxiv.org/abs/2509.14963)|null|
+|**2025-09-18**|**Music4All A+A: A Multimodal Dataset for Music Information Retrieval Tasks**|[2509.14891](http://arxiv.org/abs/2509.14891)|**[link](https://github.com/hcai-mms/Music4All-A-A,)**|
+|**2025-09-18**|**MapAnything: Mapping Urban Assets using Single Street-View Images**|[2509.14839](http://arxiv.org/abs/2509.14839)|null|
+|**2025-09-18**|**Randomization inference for stepped-wedge designs with noncompliance with application to a palliative care pragmatic trial**|[2509.14598](http://arxiv.org/abs/2509.14598)|null|
+|**2025-09-18**|**S1-MatAgent: A planner driven multi-agent system for material discovery**|[2509.14542](http://arxiv.org/abs/2509.14542)|null|
+|**2025-09-17**|**Beyond the high score: Prosocial ability profiles of multi-agent populations**|[2509.14485](http://arxiv.org/abs/2509.14485)|null|
+|**2025-09-17**|**A Systematic Review of FAIR-compliant Big Data Software Reference Architectures**|[2509.14370](http://arxiv.org/abs/2509.14370)|null|
+|**2025-09-17**|**Monitoring Machine Learning Systems: A Multivocal Literature Review**|[2509.14294](http://arxiv.org/abs/2509.14294)|null|
 |**2025-09-17**|**AI For Privacy in Smart Homes: Exploring How Leveraging AI-Powered Smart Devices Enhances Privacy Protection**|[2509.14050](http://arxiv.org/abs/2509.14050)|null|
 |**2025-09-17**|**Sample Size Calculations for the Development of Risk Prediction Models that Account for Performance Variability**|[2509.14028](http://arxiv.org/abs/2509.14028)|null|
 |**2025-09-17**|**Enhancing Time Awareness in Generative Recommendation**|[2509.13957](http://arxiv.org/abs/2509.13957)|**[link](https://github.com/skleee/GRUT.)**|
@@ -297,6 +307,34 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-18**|**Two Web Toolkits for Multimodal Piano Performance Dataset Acquisition and Fingering Annotation**|[2509.15222](http://arxiv.org/abs/2509.15222)|null|
+|**2025-09-18**|**What's the Best Way to Retrieve Slides? A Comparative Study of Multimodal, Caption-Based, and Hybrid Retrieval Techniques**|[2509.15211](http://arxiv.org/abs/2509.15211)|null|
+|**2025-09-18**|**AIP: Subverting Retrieval-Augmented Generation via Adversarial Instructional Prompt**|[2509.15159](http://arxiv.org/abs/2509.15159)|null|
+|**2025-09-18**|**Real-Time Streaming Mel Vocoding with Generative Flow Matching**|[2509.15085](http://arxiv.org/abs/2509.15085)|null|
+|**2025-09-18**|**Undersampled Phase Retrieval with Image Priors**|[2509.15026](http://arxiv.org/abs/2509.15026)|null|
+|**2025-09-18**|**PRISM: Product Retrieval In Shopping Carts using Hybrid Matching**|[2509.14985](http://arxiv.org/abs/2509.14985)|null|
+|**2025-09-18**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
+|**2025-09-18**|**RoboEye: Enhancing 2D Robotic Object Identification with Selective 3D Geometric Keypoint Matching**|[2509.14966](http://arxiv.org/abs/2509.14966)|**[link](https://github.com/longkukuhi/RoboEye.)**|
+|**2025-09-18**|**Sentinel Agents for Secure and Trustworthy Agentic AI in Multi-Agent Systems**|[2509.14956](http://arxiv.org/abs/2509.14956)|null|
+|**2025-09-18**|**Music4All A+A: A Multimodal Dataset for Music Information Retrieval Tasks**|[2509.14891](http://arxiv.org/abs/2509.14891)|**[link](https://github.com/hcai-mms/Music4All-A-A,)**|
+|**2025-09-18**|**Ultrafast optically induced tunneling in narrow metallic gaps from the time dependent density functional perspective**|[2509.14802](http://arxiv.org/abs/2509.14802)|null|
+|**2025-09-18**|**UMind: A Unified Multitask Network for Zero-Shot M/EEG Visual Decoding**|[2509.14772](http://arxiv.org/abs/2509.14772)|null|
+|**2025-09-18**|**Enhancing Retrieval Augmentation via Adversarial Collaboration**|[2509.14750](http://arxiv.org/abs/2509.14750)|null|
+|**2025-09-18**|**Evaluating Large Language Models for Cross-Lingual Retrieval**|[2509.14749](http://arxiv.org/abs/2509.14749)|null|
+|**2025-09-18**|**Chain-of-Thought Re-ranking for Image Retrieval Tasks**|[2509.14746](http://arxiv.org/abs/2509.14746)|**[link](https://github.com/freshfish15/CoTRR)**|
+|**2025-09-18**|**Automating Modelica Module Generation Using Large Language Models: A Case Study on Building Control Description Language**|[2509.14623](http://arxiv.org/abs/2509.14623)|null|
+|**2025-09-18**|**Adversarial Distilled Retrieval-Augmented Guarding Model for Online Malicious Intent Detection**|[2509.14622](http://arxiv.org/abs/2509.14622)|null|
+|**2025-09-18**|**Enterprise AI Must Enforce Participant-Aware Access Control**|[2509.14608](http://arxiv.org/abs/2509.14608)|null|
+|**2025-09-18**|**Learning to Retrieve for Environmental Knowledge Discovery: An Augmentation-Adaptive Self-Supervised Learning Framework**|[2509.14563](http://arxiv.org/abs/2509.14563)|null|
+|**2025-09-18**|**DeKeyNLU: Enhancing Natural Language to SQL Generation through Task Decomposition and Keyword Extraction**|[2509.14507](http://arxiv.org/abs/2509.14507)|null|
+|**2025-09-17**|**AToken: A Unified Tokenizer for Vision**|[2509.14476](http://arxiv.org/abs/2509.14476)|null|
+|**2025-09-17**|**Keywords are not always the key: A metadata field analysis for natural language search on open data portals**|[2509.14457](http://arxiv.org/abs/2509.14457)|null|
+|**2025-09-17**|**When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine**|[2509.14436](http://arxiv.org/abs/2509.14436)|null|
+|**2025-09-17**|**Causal-Counterfactual RAG: The Integration of Causal-Counterfactual Reasoning into RAG**|[2509.14435](http://arxiv.org/abs/2509.14435)|null|
+|**2025-09-17**|**Hashing-Baseline: Rethinking Hashing in the Age of Pretrained Models**|[2509.14427](http://arxiv.org/abs/2509.14427)|null|
+|**2025-09-17**|**A Systematic Review of FAIR-compliant Big Data Software Reference Architectures**|[2509.14370](http://arxiv.org/abs/2509.14370)|null|
+|**2025-09-17**|**Overview of the TREC 2024 NeuCLIR Track**|[2509.14355](http://arxiv.org/abs/2509.14355)|null|
+|**2025-09-17**|**Spezi Data Pipeline: Streamlining FHIR-based Interoperable Digital Health Data Workflows**|[2509.14296](http://arxiv.org/abs/2509.14296)|null|
 |**2025-09-17**|**GEM-Bench: A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing**|[2509.14221](http://arxiv.org/abs/2509.14221)|null|
 |**2025-09-17**|**Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra-I cluster IV. A study of the Globular Cluster population in four UDGs**|[2509.14206](http://arxiv.org/abs/2509.14206)|null|
 |**2025-09-18**|**AI and the Future of Academic Peer Review**|[2509.14189](http://arxiv.org/abs/2509.14189)|null|
@@ -757,6 +795,29 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-18**|**Calibration-Aware Prompt Learning for Medical Vision-Language Models**|[2509.15226](http://arxiv.org/abs/2509.15226)|**[link](https://github.com/iabh1shekbasu/CalibPrompt.)**|
+|**2025-09-18**|**Two Web Toolkits for Multimodal Piano Performance Dataset Acquisition and Fingering Annotation**|[2509.15222](http://arxiv.org/abs/2509.15222)|null|
+|**2025-09-18**|**Generalizable Geometric Image Caption Synthesis**|[2509.15217](http://arxiv.org/abs/2509.15217)|null|
+|**2025-09-18**|**What's the Best Way to Retrieve Slides? A Comparative Study of Multimodal, Caption-Based, and Hybrid Retrieval Techniques**|[2509.15211](http://arxiv.org/abs/2509.15211)|null|
+|**2025-09-18**|**Unleashing the Potential of Multimodal LLMs for Zero-Shot Spatio-Temporal Video Grounding**|[2509.15178](http://arxiv.org/abs/2509.15178)|**[link](https://github.com/zaiquanyang/LLaVA_Next_STVG.)**|
+|**2025-09-18**|**Exploring How Audio Effects Alter Emotion with Foundation Models**|[2509.15151](http://arxiv.org/abs/2509.15151)|null|
+|**2025-09-18**|**From Pixels to Urban Policy-Intelligence: Recovering Legacy Effects of Redlining with a Multimodal LLM**|[2509.15132](http://arxiv.org/abs/2509.15132)|null|
+|**2025-09-18**|**Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery**|[2509.14967](http://arxiv.org/abs/2509.14967)|null|
+|**2025-09-18**|**Temporally Heterogeneous Graph Contrastive Learning for Multimodal Acoustic event Classification**|[2509.14893](http://arxiv.org/abs/2509.14893)|null|
+|**2025-09-18**|**Music4All A+A: A Multimodal Dataset for Music Information Retrieval Tasks**|[2509.14891](http://arxiv.org/abs/2509.14891)|**[link](https://github.com/hcai-mms/Music4All-A-A,)**|
+|**2025-09-18**|**V-SEAM: Visual Semantic Editing and Attention Modulating for Causal Interpretability of Vision-Language Models**|[2509.14837](http://arxiv.org/abs/2509.14837)|**[link](https://github.com/petergit1/V-SEAM.)**|
+|**2025-09-18**|**UMind: A Unified Multitask Network for Zero-Shot M/EEG Visual Decoding**|[2509.14772](http://arxiv.org/abs/2509.14772)|null|
+|**2025-09-18**|**Chain-of-Thought Re-ranking for Image Retrieval Tasks**|[2509.14746](http://arxiv.org/abs/2509.14746)|**[link](https://github.com/freshfish15/CoTRR)**|
+|**2025-09-18**|**UnifiedVisual: A Framework for Constructing Unified Vision-Language Datasets**|[2509.14738](http://arxiv.org/abs/2509.14738)|**[link](https://github.com/fnlp-vision/UnifiedVisual.)**|
+|**2025-09-18**|**Decoupled Proxy Alignment: Mitigating Language Prior Conflict for Multimodal Alignment in MLLM**|[2509.14735](http://arxiv.org/abs/2509.14735)|**[link](https://github.com/fnlp-vision/DPA.)**|
+|**2025-09-18**|**TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding**|[2509.14671](http://arxiv.org/abs/2509.14671)|**[link](https://anonymous.4open.science/r/TableDART-C52B)**|
+|**2025-09-18**|**Towards Human-like Multimodal Conversational Agent by Generating Engaging Speech**|[2509.14627](http://arxiv.org/abs/2509.14627)|**[link](https://github.com/kimtaesu24/MSenC)**|
+|**2025-09-18**|**MMED: A Multimodal Micro-Expression Dataset based on Audio-Visual Fusion**|[2509.14592](http://arxiv.org/abs/2509.14592)|null|
+|**2025-09-18**|**Data-Driven Contextual Optimization with Gaussian Mixtures: Flow-Based Generalization, Robust Models, and Multistage Extensions**|[2509.14557](http://arxiv.org/abs/2509.14557)|null|
+|**2025-09-17**|**Process-Supervised Reinforcement Learning for Interactive Multimodal Tool-Use Agents**|[2509.14480](http://arxiv.org/abs/2509.14480)|null|
+|**2025-09-17**|**AToken: A Unified Tokenizer for Vision**|[2509.14476](http://arxiv.org/abs/2509.14476)|null|
+|**2025-09-17**|**Mouse vs. AI: A Neuroethological Benchmark for Visual Robustness and Neural Alignment**|[2509.14446](http://arxiv.org/abs/2509.14446)|null|
+|**2025-09-17**|**FlowDrive: Energy Flow Field for End-to-End Autonomous Driving**|[2509.14303](http://arxiv.org/abs/2509.14303)|**[link](https://astrixdrive.github.io/FlowDrive.github.io/.)**|
 |**2025-09-18**|**AssoCiAm: A Benchmark for Evaluating Association Thinking while Circumventing Ambiguity**|[2509.14171](http://arxiv.org/abs/2509.14171)|null|
 |**2025-09-17**|**MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods, Results, Discussion, and Outlook**|[2509.14142](http://arxiv.org/abs/2509.14142)|**[link](https://github.com/mars2workshop/,)**|
 |**2025-09-18**|**AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration**|[2509.14084](http://arxiv.org/abs/2509.14084)|**[link](https://github.com/Kaisor-Yuan/AD-DINOv3.)**|
