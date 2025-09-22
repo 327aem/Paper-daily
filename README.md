@@ -14,6 +14,17 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-19**|**Designing Culturally Aligned AI Systems For Social Good in Non-Western Contexts**|[2509.16158](http://arxiv.org/abs/2509.16158)|null|
+|**2025-09-19**|**Automated Model Tuning for Multifidelity Uncertainty Propagation in Trajectory Simulation**|[2509.16007](http://arxiv.org/abs/2509.16007)|null|
+|**2025-09-19**|**Effects of energy levels on the double-differential cross sections of outgoing charged particles for the n+19F reaction below 20 MeV**|[2509.15897](http://arxiv.org/abs/2509.15897)|null|
+|**2025-09-19**|**Building Data-Driven Occupation Taxonomies: A Bottom-Up Multi-Stage Approach via Semantic Clustering and Multi-Agent Collaboration**|[2509.15786](http://arxiv.org/abs/2509.15786)|**[link](https://anonymous.4open.science/r/CLIMB.)**|
+|**2025-09-19**|**Understanding Embedding Scaling in Collaborative Filtering**|[2509.15709](http://arxiv.org/abs/2509.15709)|null|
+|**2025-09-19**|**Designing with Culture: How Social Norms Shape Trust and Preference in Health Chatbots**|[2509.15575](http://arxiv.org/abs/2509.15575)|null|
+|**2025-09-19**|**From Service-Oriented Computing to Metaverse Services: A Framework for Inclusive and Immersive Learning for Neurodivergent Students**|[2509.15545](http://arxiv.org/abs/2509.15545)|null|
+|**2025-09-19**|**Optimization techniques for SQL+ML queries: A performance analysis of real-time feature computation in OpenMLDB**|[2509.15529](http://arxiv.org/abs/2509.15529)|null|
+|**2025-09-18**|**Where Do I 'Add the Egg'?: Exploring Agency and Ownership in AI Creative Co-Writing Systems**|[2509.15440](http://arxiv.org/abs/2509.15440)|null|
+|**2025-09-18**|**Diagnostics of cognitive failures in multi-agent expert systems using dynamic evaluation protocols and subsequent mutation of the processing context**|[2509.15366](http://arxiv.org/abs/2509.15366)|null|
+|**2025-09-18**|**Subject Matter Expertise vs Professional Management in Collective Sequential Decision Making**|[2509.15263](http://arxiv.org/abs/2509.15263)|null|
 |**2025-09-18**|**Mind the Gap: A Closer Look at Tokenization for Multiple-Choice Question Answering with LLMs**|[2509.15020](http://arxiv.org/abs/2509.15020)|null|
 |**2025-09-19**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
 |**2025-09-18**|**Set Contribution Functions for Quantitative Bipolar Argumentation and their Principles**|[2509.14963](http://arxiv.org/abs/2509.14963)|null|
@@ -307,6 +318,44 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-19**|**Latent learning: episodic memory complements parametric learning by enabling flexible reuse of experiences**|[2509.16189](http://arxiv.org/abs/2509.16189)|null|
+|**2025-09-19**|**Agentic Aerial Cinematography: From Dialogue Cues to Cinematic Trajectories**|[2509.16176](http://arxiv.org/abs/2509.16176)|null|
+|**2025-09-19**|**AnchoredAI: Contextual Anchoring of AI Comments Improves Writer Agency and Ownership**|[2509.16128](http://arxiv.org/abs/2509.16128)|null|
+|**2025-09-19**|**CodeRAG: Finding Relevant and Necessary Knowledge for Retrieval-Augmented Repository-Level Code Completion**|[2509.16112](http://arxiv.org/abs/2509.16112)|**[link](https://github.com/KDEGroup/CodeRAG.)**|
+|**2025-09-19**|**SegDINO3D: 3D Instance Segmentation Empowered by Both Image-Level and Object-Level 2D Features**|[2509.16098](http://arxiv.org/abs/2509.16098)|null|
+|**2025-09-19**|**JWST-TST DREAMS: Sulfur dioxide in the atmosphere of the Neptune-mass planet HAT-P-26 b from NIRSpec G395H transmission spectroscopy**|[2509.16082](http://arxiv.org/abs/2509.16082)|null|
+|**2025-09-19**|**Communications to Circulations: 3D Wind Field Retrieval and Real-Time Prediction Using 5G GNSS Signals and Deep Learning**|[2509.16068](http://arxiv.org/abs/2509.16068)|null|
+|**2025-09-19**|**EmoHeal: An End-to-End System for Personalized Therapeutic Music Retrieval from Fine-grained Emotions**|[2509.15986](http://arxiv.org/abs/2509.15986)|null|
+|**2025-09-19**|**The new architecture design of the Science Alert Generation pipeline of the Cherenkov Telescope Array Observatory**|[2509.15970](http://arxiv.org/abs/2509.15970)|null|
+|**2025-09-19**|**EHR-MCP: Real-world Evaluation of Clinical Information Retrieval by Large Language Models via Model Context Protocol**|[2509.15957](http://arxiv.org/abs/2509.15957)|null|
+|**2025-09-19**|**An Equivariant Graph Network for Interpretable Nanoporous Materials Design**|[2509.15908](http://arxiv.org/abs/2509.15908)|null|
+|**2025-09-19**|**RACap: Relation-Aware Prompting for Lightweight Retrieval-Augmented Image Captioning**|[2509.15883](http://arxiv.org/abs/2509.15883)|null|
+|**2025-09-19**|**Zero-Shot Visual Grounding in 3D Gaussians via View Retrieval**|[2509.15871](http://arxiv.org/abs/2509.15871)|**[link](https://github.com/leviome/GVR_demos.)**|
+|**2025-09-19**|**PoliTok-DE: A Multimodal Dataset of Political TikToks and Deletions From Germany**|[2509.15860](http://arxiv.org/abs/2509.15860)|null|
+|**2025-09-19**|**Optimizing Product Deduplication in E-Commerce with Multimodal Embeddings**|[2509.15858](http://arxiv.org/abs/2509.15858)|null|
+|**2025-09-19**|**Escaping saddle points without Lipschitz smoothness: the power of nonlinear preconditioning**|[2509.15817](http://arxiv.org/abs/2509.15817)|null|
+|**2025-09-19**|**RAVE: Retrieval and Scoring Aware Verifiable Claim Detection**|[2509.15793](http://arxiv.org/abs/2509.15793)|null|
+|**2025-09-19**|**Building Data-Driven Occupation Taxonomies: A Bottom-Up Multi-Stage Approach via Semantic Clustering and Multi-Agent Collaboration**|[2509.15786](http://arxiv.org/abs/2509.15786)|**[link](https://anonymous.4open.science/r/CLIMB.)**|
+|**2025-09-19**|**Toward Medical Deepfake Detection: A Comprehensive Dataset and Novel Method**|[2509.15711](http://arxiv.org/abs/2509.15711)|null|
+|**2025-09-19**|**Understanding Embedding Scaling in Collaborative Filtering**|[2509.15709](http://arxiv.org/abs/2509.15709)|null|
+|**2025-09-19**|**SGMAGNet: A Baseline Model for 3D Cloud Phase Structure Reconstruction on a New Passive Active Satellite Benchmark**|[2509.15706](http://arxiv.org/abs/2509.15706)|null|
+|**2025-09-19**|**SCENEFORGE: Enhancing 3D-text alignment with Structured Scene Compositions**|[2509.15693](http://arxiv.org/abs/2509.15693)|null|
+|**2025-09-19**|**KITE: Kernelized and Information Theoretic Exemplars for In-Context Learning**|[2509.15676](http://arxiv.org/abs/2509.15676)|null|
+|**2025-09-19**|**Jamendo-QA: A Large-Scale Music Question Answering Dataset**|[2509.15662](http://arxiv.org/abs/2509.15662)|null|
+|**2025-09-19**|**Chunk Knowledge Generation Model for Enhanced Information Retrieval: A Multi-task Learning Approach**|[2509.15658](http://arxiv.org/abs/2509.15658)|null|
+|**2025-09-19**|**Multilingual LLM Prompting Strategies for Medical English-Vietnamese Machine Translation**|[2509.15640](http://arxiv.org/abs/2509.15640)|null|
+|**2025-09-19**|**PCSR: Pseudo-label Consistency-Guided Sample Refinement for Noisy Correspondence Learning**|[2509.15623](http://arxiv.org/abs/2509.15623)|null|
+|**2025-09-19**|**Ranks of Checkered Pattern Matrices with Applications to Information Embedding and Retrieving**|[2509.15605](http://arxiv.org/abs/2509.15605)|null|
+|**2025-09-19**|**ORB: Operating Room Bot, Automating Operating Room Logistics through Mobile Manipulation**|[2509.15600](http://arxiv.org/abs/2509.15600)|null|
+|**2025-09-19**|**CFDA & CLIP at TREC iKAT 2025: Enhancing Personalized Conversational Search via Query Reformulation and Rank Fusion**|[2509.15588](http://arxiv.org/abs/2509.15588)|null|
+|**2025-09-19**|**Relevance to Utility: Process-Supervised Rewrite for RAG**|[2509.15577](http://arxiv.org/abs/2509.15577)|null|
+|**2025-09-19**|**LiteLong: Resource-Efficient Long-Context Data Synthesis for LLMs**|[2509.15568](http://arxiv.org/abs/2509.15568)|null|
+|**2025-09-19**|**Graph-Based Approximate Nearest Neighbor Search Revisited: Theoretical Analysis and Optimization**|[2509.15531](http://arxiv.org/abs/2509.15531)|null|
+|**2025-09-18**|**Efficient Multimodal Dataset Distillation via Generative Models**|[2509.15472](http://arxiv.org/abs/2509.15472)|null|
+|**2025-09-18**|**Dual-Mode Visual System for Brain-Computer Interfaces: Integrating SSVEP and P300 Responses**|[2509.15439](http://arxiv.org/abs/2509.15439)|null|
+|**2025-09-18**|**SERVAL: Surprisingly Effective Zero-Shot Visual Document Retrieval Powered by Large Vision and Language Models**|[2509.15432](http://arxiv.org/abs/2509.15432)|null|
+|**2025-09-18**|**OSI-flex: Optimization-Based Shearing Interferometry for Joint Phase and Shear Estimation Using a Flexible Open-Source Framework**|[2509.15382](http://arxiv.org/abs/2509.15382)|null|
+|**2025-09-18**|**Efficient and Versatile Model for Multilingual Information Retrieval of Islamic Text: Development and Deployment in Real-World Scenarios**|[2509.15380](http://arxiv.org/abs/2509.15380)|null|
 |**2025-09-18**|**Two Web Toolkits for Multimodal Piano Performance Dataset Acquisition and Fingering Annotation**|[2509.15222](http://arxiv.org/abs/2509.15222)|null|
 |**2025-09-18**|**What's the Best Way to Retrieve Slides? A Comparative Study of Multimodal, Caption-Based, and Hybrid Retrieval Techniques**|[2509.15211](http://arxiv.org/abs/2509.15211)|null|
 |**2025-09-18**|**AIP: Subverting Retrieval-Augmented Generation via Adversarial Instructional Prompt**|[2509.15159](http://arxiv.org/abs/2509.15159)|null|
@@ -795,6 +844,48 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-09-19**|**MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer**|[2509.16197](http://arxiv.org/abs/2509.16197)|null|
+|**2025-09-19**|**Are Multimodal Foundation Models All That Is Needed for Emofake Detection?**|[2509.16193](http://arxiv.org/abs/2509.16193)|null|
+|**2025-09-19**|**Robust Vision-Language Models via Tensor Decomposition: A Defense Against Adversarial Attacks**|[2509.16163](http://arxiv.org/abs/2509.16163)|null|
+|**2025-09-19**|**Pointing to a Llama and Call it a Camel: On the Sycophancy of Multimodal Large Language Models**|[2509.16149](http://arxiv.org/abs/2509.16149)|null|
+|**2025-09-19**|**BaseReward: A Strong Baseline for Multimodal Reward Model**|[2509.16127](http://arxiv.org/abs/2509.16127)|null|
+|**2025-09-19**|**See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model**|[2509.16087](http://arxiv.org/abs/2509.16087)|null|
+|**2025-09-19**|**Language-Instructed Reasoning for Group Activity Detection via Multimodal Large Language Model**|[2509.16054](http://arxiv.org/abs/2509.16054)|null|
+|**2025-09-19**|**Session-Level Spoken Language Assessment with a Multimodal Foundation Model via Multi-Target Learning**|[2509.16025](http://arxiv.org/abs/2509.16025)|null|
+|**2025-09-19**|**DistillMatch: Leveraging Knowledge Distillation from Vision Foundation Model for Multimodal Image Matching**|[2509.16017](http://arxiv.org/abs/2509.16017)|null|
+|**2025-09-19**|**DAFTED: Decoupled Asymmetric Fusion of Tabular and Echocardiographic Data for Cardiac Hypertension Diagnosis**|[2509.15990](http://arxiv.org/abs/2509.15990)|null|
+|**2025-09-19**|**RangeSAM: Leveraging Visual Foundation Models for Range-View repesented LiDAR segmentation**|[2509.15886](http://arxiv.org/abs/2509.15886)|null|
+|**2025-09-19**|**ENSAM: an efficient foundation model for interactive segmentation of 3D medical images**|[2509.15874](http://arxiv.org/abs/2509.15874)|null|
+|**2025-09-19**|**PoliTok-DE: A Multimodal Dataset of Political TikToks and Deletions From Germany**|[2509.15860](http://arxiv.org/abs/2509.15860)|null|
+|**2025-09-19**|**Optimizing Product Deduplication in E-Commerce with Multimodal Embeddings**|[2509.15858](http://arxiv.org/abs/2509.15858)|null|
+|**2025-09-19**|**Multi-Physics: A Comprehensive Benchmark for Multimodal LLMs Reasoning on Chinese Multi-Subject Physics Problems**|[2509.15839](http://arxiv.org/abs/2509.15839)|**[link](https://github.com/luozhongze/Multi-Physics.)**|
+|**2025-09-19**|**EmoQ: Speech Emotion Recognition via Speech-Aware Q-Former and Large Language Model**|[2509.15775](http://arxiv.org/abs/2509.15775)|null|
+|**2025-09-19**|**SGMAGNet: A Baseline Model for 3D Cloud Phase Structure Reconstruction on a New Passive Active Satellite Benchmark**|[2509.15706](http://arxiv.org/abs/2509.15706)|null|
+|**2025-09-19**|**Training-Free Pyramid Token Pruning for Efficient Large Vision-Language Models via Region, Token, and Instruction-Guided Importance**|[2509.15704](http://arxiv.org/abs/2509.15704)|null|
+|**2025-09-19**|**Fine-Tuning Large Multimodal Models for Automatic Pronunciation Assessment**|[2509.15701](http://arxiv.org/abs/2509.15701)|null|
+|**2025-09-19**|**VOX-KRIKRI: Unifying Speech and Language through Continuous Fusion**|[2509.15667](http://arxiv.org/abs/2509.15667)|null|
+|**2025-09-19**|**Jamendo-QA: A Large-Scale Music Question Answering Dataset**|[2509.15662](http://arxiv.org/abs/2509.15662)|null|
+|**2025-09-19**|**UNIV: Unified Foundation Model for Infrared and Visible Modalities**|[2509.15642](http://arxiv.org/abs/2509.15642)|**[link](https://github.com/fangyuanmao/UNIV.)**|
+|**2025-09-19**|**MicroRCA-Agent: Microservice Root Cause Analysis Method Based on Large Language Model Agents**|[2509.15635](http://arxiv.org/abs/2509.15635)|**[link](https://github.com/tangpan360/MicroRCA-Agent.)**|
+|**2025-09-19**|**PRIMT: Preference-based Reinforcement Learning with Multimodal Feedback and Trajectory Synthesis from Foundation Models**|[2509.15607](http://arxiv.org/abs/2509.15607)|null|
+|**2025-09-19**|**TennisTV: Do Multimodal Large Language Models Understand Tennis Rallies?**|[2509.15602](http://arxiv.org/abs/2509.15602)|null|
+|**2025-09-19**|**EyePCR: A Comprehensive Benchmark for Fine-Grained Perception, Knowledge Comprehension and Clinical Reasoning in Ophthalmic Surgery**|[2509.15596](http://arxiv.org/abs/2509.15596)|null|
+|**2025-09-19**|**Multimodal Learning for Fake News Detection in Short Videos Using Linguistically Verified Data and Heterogeneous Modality Fusion**|[2509.15578](http://arxiv.org/abs/2509.15578)|null|
+|**2025-09-19**|**BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent**|[2509.15566](http://arxiv.org/abs/2509.15566)|null|
+|**2025-09-19**|**Distribution Estimation for Global Data Association via Approximate Bayesian Inference**|[2509.15565](http://arxiv.org/abs/2509.15565)|null|
+|**2025-09-19**|**From Service-Oriented Computing to Metaverse Services: A Framework for Inclusive and Immersive Learning for Neurodivergent Students**|[2509.15545](http://arxiv.org/abs/2509.15545)|null|
+|**2025-09-19**|**Beyond Words: Enhancing Desire, Emotion, and Sentiment Recognition with Non-Verbal Cues**|[2509.15540](http://arxiv.org/abs/2509.15540)|**[link](https://github.com/especiallyW/SyDES.)**|
+|**2025-09-18**|**SmolRGPT: Efficient Spatial Reasoning for Warehouse Environments with 600M Parameters**|[2509.15490](http://arxiv.org/abs/2509.15490)|**[link](https://github.com/abtraore/SmolRGPT)**|
+|**2025-09-18**|**Solar Forecasting with Causality: A Graph-Transformer Approach to Spatiotemporal Dependencies**|[2509.15481](http://arxiv.org/abs/2509.15481)|null|
+|**2025-09-18**|**Red Teaming Multimodal Language Models: Evaluating Harm Across Prompt Modalities and Models**|[2509.15478](http://arxiv.org/abs/2509.15478)|null|
+|**2025-09-18**|**Evaluating Multimodal Large Language Models on Spoken Sarcasm Understanding**|[2509.15476](http://arxiv.org/abs/2509.15476)|null|
+|**2025-09-18**|**Efficient Multimodal Dataset Distillation via Generative Models**|[2509.15472](http://arxiv.org/abs/2509.15472)|null|
+|**2025-09-18**|**Self-supervised learning of imaging and clinical signatures using a multimodal joint-embedding predictive architecture**|[2509.15470](http://arxiv.org/abs/2509.15470)|null|
+|**2025-09-18**|**ORCA: Agentic Reasoning For Hallucination and Adversarial Robustness in Vision-Language Models**|[2509.15435](http://arxiv.org/abs/2509.15435)|null|
+|**2025-09-18**|**Exploring multimodal implicit behavior learning for vehicle navigation in simulated cities**|[2509.15400](http://arxiv.org/abs/2509.15400)|null|
+|**2025-09-18**|**Beyond Spurious Signals: Debiasing Multimodal Large Language Models via Counterfactual Inference and Adaptive Expert Routing**|[2509.15361](http://arxiv.org/abs/2509.15361)|null|
+|**2025-09-18**|**How Good are Foundation Models in Step-by-Step Embodied Reasoning?**|[2509.15293](http://arxiv.org/abs/2509.15293)|null|
+|**2025-09-18**|**Copycat vs. Original: Multi-modal Pretraining and Variable Importance in Box-office Prediction**|[2509.15277](http://arxiv.org/abs/2509.15277)|null|
 |**2025-09-18**|**Calibration-Aware Prompt Learning for Medical Vision-Language Models**|[2509.15226](http://arxiv.org/abs/2509.15226)|**[link](https://github.com/iabh1shekbasu/CalibPrompt.)**|
 |**2025-09-18**|**Two Web Toolkits for Multimodal Piano Performance Dataset Acquisition and Fingering Annotation**|[2509.15222](http://arxiv.org/abs/2509.15222)|null|
 |**2025-09-18**|**Generalizable Geometric Image Caption Synthesis**|[2509.15217](http://arxiv.org/abs/2509.15217)|null|
