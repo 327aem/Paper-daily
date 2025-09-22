@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.21
+## Updated on 2025.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
 |**2025-09-18**|**Mind the Gap: A Closer Look at Tokenization for Multiple-Choice Question Answering with LLMs**|[2509.15020](http://arxiv.org/abs/2509.15020)|null|
-|**2025-09-18**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
+|**2025-09-19**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
 |**2025-09-18**|**Set Contribution Functions for Quantitative Bipolar Argumentation and their Principles**|[2509.14963](http://arxiv.org/abs/2509.14963)|null|
 |**2025-09-18**|**Music4All A+A: A Multimodal Dataset for Music Information Retrieval Tasks**|[2509.14891](http://arxiv.org/abs/2509.14891)|**[link](https://github.com/hcai-mms/Music4All-A-A,)**|
 |**2025-09-18**|**MapAnything: Mapping Urban Assets using Single Street-View Images**|[2509.14839](http://arxiv.org/abs/2509.14839)|null|
@@ -296,7 +296,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
 
 ## Retrieval
 
@@ -308,7 +308,7 @@ layout: default
 |**2025-09-18**|**Real-Time Streaming Mel Vocoding with Generative Flow Matching**|[2509.15085](http://arxiv.org/abs/2509.15085)|null|
 |**2025-09-18**|**Undersampled Phase Retrieval with Image Priors**|[2509.15026](http://arxiv.org/abs/2509.15026)|null|
 |**2025-09-18**|**PRISM: Product Retrieval In Shopping Carts using Hybrid Matching**|[2509.14985](http://arxiv.org/abs/2509.14985)|null|
-|**2025-09-18**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
+|**2025-09-19**|**What Matters in LLM-Based Feature Extractor for Recommender? A Systematic Analysis of Prompts, Models, and Adaptation**|[2509.14979](http://arxiv.org/abs/2509.14979)|null|
 |**2025-09-18**|**RoboEye: Enhancing 2D Robotic Object Identification with Selective 3D Geometric Keypoint Matching**|[2509.14966](http://arxiv.org/abs/2509.14966)|**[link](https://github.com/longkukuhi/RoboEye.)**|
 |**2025-09-18**|**Sentinel Agents for Secure and Trustworthy Agentic AI in Multi-Agent Systems**|[2509.14956](http://arxiv.org/abs/2509.14956)|null|
 |**2025-09-18**|**Music4All A+A: A Multimodal Dataset for Music Information Retrieval Tasks**|[2509.14891](http://arxiv.org/abs/2509.14891)|**[link](https://github.com/hcai-mms/Music4All-A-A,)**|
@@ -322,7 +322,7 @@ layout: default
 |**2025-09-18**|**Enterprise AI Must Enforce Participant-Aware Access Control**|[2509.14608](http://arxiv.org/abs/2509.14608)|null|
 |**2025-09-18**|**Learning to Retrieve for Environmental Knowledge Discovery: An Augmentation-Adaptive Self-Supervised Learning Framework**|[2509.14563](http://arxiv.org/abs/2509.14563)|null|
 |**2025-09-18**|**DeKeyNLU: Enhancing Natural Language to SQL Generation through Task Decomposition and Keyword Extraction**|[2509.14507](http://arxiv.org/abs/2509.14507)|null|
-|**2025-09-17**|**AToken: A Unified Tokenizer for Vision**|[2509.14476](http://arxiv.org/abs/2509.14476)|null|
+|**2025-09-19**|**AToken: A Unified Tokenizer for Vision**|[2509.14476](http://arxiv.org/abs/2509.14476)|null|
 |**2025-09-17**|**Keywords are not always the key: A metadata field analysis for natural language search on open data portals**|[2509.14457](http://arxiv.org/abs/2509.14457)|null|
 |**2025-09-17**|**When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine**|[2509.14436](http://arxiv.org/abs/2509.14436)|null|
 |**2025-09-17**|**Causal-Counterfactual RAG: The Integration of Causal-Counterfactual Reasoning into RAG**|[2509.14435](http://arxiv.org/abs/2509.14435)|null|
@@ -784,7 +784,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -797,7 +797,7 @@ layout: default
 |**2025-09-18**|**Unleashing the Potential of Multimodal LLMs for Zero-Shot Spatio-Temporal Video Grounding**|[2509.15178](http://arxiv.org/abs/2509.15178)|**[link](https://github.com/zaiquanyang/LLaVA_Next_STVG.)**|
 |**2025-09-18**|**Exploring How Audio Effects Alter Emotion with Foundation Models**|[2509.15151](http://arxiv.org/abs/2509.15151)|null|
 |**2025-09-18**|**From Pixels to Urban Policy-Intelligence: Recovering Legacy Effects of Redlining with a Multimodal LLM**|[2509.15132](http://arxiv.org/abs/2509.15132)|null|
-|**2025-09-18**|**Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery**|[2509.14967](http://arxiv.org/abs/2509.14967)|null|
+|**2025-09-19**|**Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery**|[2509.14967](http://arxiv.org/abs/2509.14967)|null|
 |**2025-09-18**|**Temporally Heterogeneous Graph Contrastive Learning for Multimodal Acoustic event Classification**|[2509.14893](http://arxiv.org/abs/2509.14893)|null|
 |**2025-09-18**|**Music4All A+A: A Multimodal Dataset for Music Information Retrieval Tasks**|[2509.14891](http://arxiv.org/abs/2509.14891)|**[link](https://github.com/hcai-mms/Music4All-A-A,)**|
 |**2025-09-18**|**V-SEAM: Visual Semantic Editing and Attention Modulating for Causal Interpretability of Vision-Language Models**|[2509.14837](http://arxiv.org/abs/2509.14837)|**[link](https://github.com/petergit1/V-SEAM.)**|
@@ -810,7 +810,7 @@ layout: default
 |**2025-09-18**|**MMED: A Multimodal Micro-Expression Dataset based on Audio-Visual Fusion**|[2509.14592](http://arxiv.org/abs/2509.14592)|null|
 |**2025-09-18**|**Data-Driven Contextual Optimization with Gaussian Mixtures: Flow-Based Generalization, Robust Models, and Multistage Extensions**|[2509.14557](http://arxiv.org/abs/2509.14557)|null|
 |**2025-09-17**|**Process-Supervised Reinforcement Learning for Interactive Multimodal Tool-Use Agents**|[2509.14480](http://arxiv.org/abs/2509.14480)|null|
-|**2025-09-17**|**AToken: A Unified Tokenizer for Vision**|[2509.14476](http://arxiv.org/abs/2509.14476)|null|
+|**2025-09-19**|**AToken: A Unified Tokenizer for Vision**|[2509.14476](http://arxiv.org/abs/2509.14476)|null|
 |**2025-09-17**|**Mouse vs. AI: A Neuroethological Benchmark for Visual Robustness and Neural Alignment**|[2509.14446](http://arxiv.org/abs/2509.14446)|null|
 |**2025-09-17**|**FlowDrive: Energy Flow Field for End-to-End Autonomous Driving**|[2509.14303](http://arxiv.org/abs/2509.14303)|**[link](https://astrixdrive.github.io/FlowDrive.github.io/.)**|
 |**2025-09-18**|**AssoCiAm: A Benchmark for Evaluating Association Thinking while Circumventing Ambiguity**|[2509.14171](http://arxiv.org/abs/2509.14171)|null|
@@ -819,7 +819,7 @@ layout: default
 |**2025-09-17**|**Language Conditioning Improves Accuracy of Aircraft Goal Prediction in Untowered Airspace**|[2509.14063](http://arxiv.org/abs/2509.14063)|null|
 |**2025-09-17**|**Queen Detection in Beehives via Environmental Sensor Fusion for Low-Power Edge Computing**|[2509.14061](http://arxiv.org/abs/2509.14061)|null|
 |**2025-09-17**|**SSL-SSAW: Self-Supervised Learning with Sigmoid Self-Attention Weighting for Question-Based Sign Language Translation**|[2509.14036](http://arxiv.org/abs/2509.14036)|null|
-|**2025-09-17**|**SAIL-VL2 Technical Report**|[2509.14033](http://arxiv.org/abs/2509.14033)|null|
+|**2025-09-18**|**SAIL-VL2 Technical Report**|[2509.14033](http://arxiv.org/abs/2509.14033)|null|
 |**2025-09-17**|**CrowdAgent: Multi-Agent Managed Multi-Source Annotation System**|[2509.14030](http://arxiv.org/abs/2509.14030)|**[link](https://github.com/QMMMS/CrowdAgent.)**|
 |**2025-09-17**|**Audio-Based Crowd-Sourced Evaluation of Machine Translation Quality**|[2509.14023](http://arxiv.org/abs/2509.14023)|null|
 |**2025-09-17**|**MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment**|[2509.14001](http://arxiv.org/abs/2509.14001)|null|
@@ -1215,7 +1215,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
