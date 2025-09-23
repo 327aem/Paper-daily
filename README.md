@@ -1,4 +1,4 @@
-## Updated on 2025.09.22
+## Updated on 2025.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -312,7 +312,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
 
 ## Retrieval
 
@@ -838,7 +838,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -871,7 +871,7 @@
 |**2025-09-19**|**TennisTV: Do Multimodal Large Language Models Understand Tennis Rallies?**|[2509.15602](http://arxiv.org/abs/2509.15602)|null|
 |**2025-09-19**|**EyePCR: A Comprehensive Benchmark for Fine-Grained Perception, Knowledge Comprehension and Clinical Reasoning in Ophthalmic Surgery**|[2509.15596](http://arxiv.org/abs/2509.15596)|null|
 |**2025-09-19**|**Multimodal Learning for Fake News Detection in Short Videos Using Linguistically Verified Data and Heterogeneous Modality Fusion**|[2509.15578](http://arxiv.org/abs/2509.15578)|null|
-|**2025-09-19**|**BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent**|[2509.15566](http://arxiv.org/abs/2509.15566)|null|
+|**2025-09-22**|**BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent**|[2509.15566](http://arxiv.org/abs/2509.15566)|null|
 |**2025-09-19**|**Distribution Estimation for Global Data Association via Approximate Bayesian Inference**|[2509.15565](http://arxiv.org/abs/2509.15565)|null|
 |**2025-09-19**|**From Service-Oriented Computing to Metaverse Services: A Framework for Inclusive and Immersive Learning for Neurodivergent Students**|[2509.15545](http://arxiv.org/abs/2509.15545)|null|
 |**2025-09-19**|**Beyond Words: Enhancing Desire, Emotion, and Sentiment Recognition with Non-Verbal Cues**|[2509.15540](http://arxiv.org/abs/2509.15540)|**[link](https://github.com/especiallyW/SyDES.)**|
@@ -891,7 +891,7 @@
 |**2025-09-18**|**Generalizable Geometric Image Caption Synthesis**|[2509.15217](http://arxiv.org/abs/2509.15217)|null|
 |**2025-09-18**|**What's the Best Way to Retrieve Slides? A Comparative Study of Multimodal, Caption-Based, and Hybrid Retrieval Techniques**|[2509.15211](http://arxiv.org/abs/2509.15211)|null|
 |**2025-09-18**|**Unleashing the Potential of Multimodal LLMs for Zero-Shot Spatio-Temporal Video Grounding**|[2509.15178](http://arxiv.org/abs/2509.15178)|**[link](https://github.com/zaiquanyang/LLaVA_Next_STVG.)**|
-|**2025-09-18**|**Exploring How Audio Effects Alter Emotion with Foundation Models**|[2509.15151](http://arxiv.org/abs/2509.15151)|null|
+|**2025-09-20**|**Exploring How Audio Effects Alter Emotion with Foundation Models**|[2509.15151](http://arxiv.org/abs/2509.15151)|null|
 |**2025-09-18**|**From Pixels to Urban Policy-Intelligence: Recovering Legacy Effects of Redlining with a Multimodal LLM**|[2509.15132](http://arxiv.org/abs/2509.15132)|null|
 |**2025-09-19**|**Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery**|[2509.14967](http://arxiv.org/abs/2509.14967)|null|
 |**2025-09-18**|**Temporally Heterogeneous Graph Contrastive Learning for Multimodal Acoustic event Classification**|[2509.14893](http://arxiv.org/abs/2509.14893)|null|
@@ -1311,7 +1311,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
