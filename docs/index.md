@@ -9,6 +9,22 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-23**|**FedFiTS: Fitness-Selected, Slotted Client Scheduling for Trustworthy Federated Learning in Healthcare AI**|[2509.19120](http://arxiv.org/abs/2509.19120)|null|
+|**2025-09-23**|**LLM-based Vulnerability Discovery through the Lens of Code Metrics**|[2509.19117](http://arxiv.org/abs/2509.19117)|null|
+|**2025-09-23**|**VIR-Bench: Evaluating Geospatial and Temporal Understanding of MLLMs via Travel Video Itinerary Reconstruction**|[2509.19002](http://arxiv.org/abs/2509.19002)|null|
+|**2025-09-23**|**Digital Twins of Mechanically Ventilated Preterm Neonates with Respiratory Distress Syndrome**|[2509.18999](http://arxiv.org/abs/2509.18999)|null|
+|**2025-09-23**|**From latent factors to language: a user study on LLM-generated explanations for an inherently interpretable matrix-based recommender system**|[2509.18980](http://arxiv.org/abs/2509.18980)|null|
+|**2025-09-23**|**Single-Branch Network Architectures to Close the Modality Gap in Multimodal Recommendation**|[2509.18807](http://arxiv.org/abs/2509.18807)|**[link](https://github.com/hcai-mms/single-branch-networks.)**|
+|**2025-09-23**|**Robust Denoising Neural Reranker for Recommender Systems**|[2509.18736](http://arxiv.org/abs/2509.18736)|null|
+|**2025-09-23**|**Learning neuroimaging models from health system-scale data**|[2509.18638](http://arxiv.org/abs/2509.18638)|null|
+|**2025-09-23**|**Solving Math Word Problems Using Estimation Verification and Equation Generation**|[2509.18565](http://arxiv.org/abs/2509.18565)|null|
+|**2025-09-23**|**Understand your Users, An Ensemble Learning Framework for Natural Noise Filtering in Recommender Systems**|[2509.18560](http://arxiv.org/abs/2509.18560)|null|
+|**2025-09-23**|**Actions Speak Louder than Prompts: A Large-Scale Study of LLMs for Graph Inference**|[2509.18487](http://arxiv.org/abs/2509.18487)|null|
+|**2025-09-22**|**Fast Linear Solvers via AI-Tuned Markov Chain Monte Carlo-based Matrix Inversion**|[2509.18452](http://arxiv.org/abs/2509.18452)|null|
+|**2025-09-22**|**VoxGuard: Evaluating User and Attribute Privacy in Speech via Membership Inference Attacks**|[2509.18413](http://arxiv.org/abs/2509.18413)|null|
+|**2025-09-22**|**Kinematics of synthetically observed high- $z$ rotating disks: reliability and biases of 3D fitting tools**|[2509.18328](http://arxiv.org/abs/2509.18328)|null|
+|**2025-09-22**|**An N-Plus-1 GPT Agency for Critical Solution of Mechanical Engineering Analysis Problems**|[2509.18229](http://arxiv.org/abs/2509.18229)|null|
+|**2025-09-22**|**From "What to Eat?" to Perfect Recipe: ChefMind's Chain-of-Exploration for Ambiguous User Intent in Recipe Recommendation**|[2509.18226](http://arxiv.org/abs/2509.18226)|null|
 |**2025-09-22**|**OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System**|[2509.18091](http://arxiv.org/abs/2509.18091)|null|
 |**2025-09-22**|**A Knowledge Graph-based Retrieval-Augmented Generation Framework for Algorithm Selection in the Facility Layout Problem**|[2509.18054](http://arxiv.org/abs/2509.18054)|null|
 |**2025-09-22**|**Core-elements Subsampling for Alternating Least Squares**|[2509.18024](http://arxiv.org/abs/2509.18024)|null|
@@ -338,6 +354,49 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-23**|**ConViS-Bench: Estimating Video Similarity Through Semantic Concepts**|[2509.19245](http://arxiv.org/abs/2509.19245)|null|
+|**2025-09-23**|**HyKid: An Open MRI Dataset with Expert-Annotated Multi-Structure and Choroid Plexus in Pediatric Hydrocephalus**|[2509.19218](http://arxiv.org/abs/2509.19218)|**[link](https://www.synapse.org/Synapse:syn68544889.)**|
+|**2025-09-23**|**A Knowledge Graph and a Tripartite Evaluation Framework Make Retrieval-Augmented Generation Scalable and Transparent**|[2509.19209](http://arxiv.org/abs/2509.19209)|null|
+|**2025-09-23**|**Long Story Short: Disentangling Compositionality and Long-Caption Understanding in VLMs**|[2509.19207](http://arxiv.org/abs/2509.19207)|null|
+|**2025-09-23**|**Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**|[2509.19203](http://arxiv.org/abs/2509.19203)|**[link](https://github.com/IoannaNti/LexiCLIP)**|
+|**2025-09-23**|**Pathways of Thoughts: Multi-Directional Thinking for Long-form Personalized Question Answering**|[2509.19094](http://arxiv.org/abs/2509.19094)|null|
+|**2025-09-23**|**RELATE: Relation Extraction in Biomedical Abstracts with LLMs and Ontology Constraints**|[2509.19057](http://arxiv.org/abs/2509.19057)|null|
+|**2025-09-23**|**OmniBridge: Unified Multimodal Understanding, Generation, and Retrieval via Latent Space Alignment**|[2509.19018](http://arxiv.org/abs/2509.19018)|**[link](https://github.com/xiao-xt/OmniBridge.)**|
+|**2025-09-23**|**From latent factors to language: a user study on LLM-generated explanations for an inherently interpretable matrix-based recommender system**|[2509.18980](http://arxiv.org/abs/2509.18980)|null|
+|**2025-09-23**|**On The Reproducibility Limitations of RAG Systems**|[2509.18869](http://arxiv.org/abs/2509.18869)|null|
+|**2025-09-23**|**Memory in Large Language Models: Mechanisms, Evaluation and Evolution**|[2509.18868](http://arxiv.org/abs/2509.18868)|null|
+|**2025-09-23**|**Sub-nanosecond heat-based logic, writing and reset in an antiferromagnetic magnetoresistive memory**|[2509.18855](http://arxiv.org/abs/2509.18855)|null|
+|**2025-09-23**|**Are Smaller Open-Weight LLMs Closing the Gap to Proprietary Models for Biomedical Question Answering?**|[2509.18843](http://arxiv.org/abs/2509.18843)|**[link](https://github.com/evidenceprime/BioASQ-13b.)**|
+|**2025-09-23**|**Quantum-memory-assisted on-demand microwave-optical transduction**|[2509.18834](http://arxiv.org/abs/2509.18834)|null|
+|**2025-09-23**|**Single-Branch Network Architectures to Close the Modality Gap in Multimodal Recommendation**|[2509.18807](http://arxiv.org/abs/2509.18807)|**[link](https://github.com/hcai-mms/single-branch-networks.)**|
+|**2025-09-23**|**AECBench: A Hierarchical Benchmark for Knowledge Evaluation of Large Language Models in the AEC Field**|[2509.18776](http://arxiv.org/abs/2509.18776)|null|
+|**2025-09-23**|**Global-Recent Semantic Reasoning on Dynamic Text-Attributed Graphs with Large Language Models**|[2509.18742](http://arxiv.org/abs/2509.18742)|null|
+|**2025-09-23**|**Robust Denoising Neural Reranker for Recommender Systems**|[2509.18736](http://arxiv.org/abs/2509.18736)|null|
+|**2025-09-23**|**A multi-object approach for studying exoplanet atmospheres using high-resolution spectrographs**|[2509.18721](http://arxiv.org/abs/2509.18721)|null|
+|**2025-09-23**|**MemOrb: A Plug-and-Play Verbal-Reinforcement Memory Layer for E-Commerce Customer Service**|[2509.18713](http://arxiv.org/abs/2509.18713)|null|
+|**2025-09-23**|**Autonomous Data Agents: A New Opportunity for Smart Data**|[2509.18710](http://arxiv.org/abs/2509.18710)|null|
+|**2025-09-23**|**Enhancing Automatic Chord Recognition through LLM Chain-of-Thought Reasoning**|[2509.18700](http://arxiv.org/abs/2509.18700)|null|
+|**2025-09-23**|**Quantifying the Effect of a Parallax Correcting Algorithm for Passive Microwave Satellite Precipitation Retrievals across the Continental United States**|[2509.18695](http://arxiv.org/abs/2509.18695)|null|
+|**2025-09-23**|**Harnessing Multimodal Large Language Models for Personalized Product Search with Query-aware Refinement**|[2509.18682](http://arxiv.org/abs/2509.18682)|null|
+|**2025-09-23**|**NaviSense: A Multimodal Assistive Mobile application for Object Retrieval by Persons with Visual Impairment**|[2509.18672](http://arxiv.org/abs/2509.18672)|null|
+|**2025-09-23**|**CALL: Context-Aware Low-Latency Retrieval in Disk-Based Vector Databases**|[2509.18670](http://arxiv.org/abs/2509.18670)|null|
+|**2025-09-23**|**TERAG: Token-Efficient Graph-Based Retrieval-Augmented Generation**|[2509.18667](http://arxiv.org/abs/2509.18667)|null|
+|**2025-09-23**|**Agentic AutoSurvey: Let LLMs Survey LLMs**|[2509.18661](http://arxiv.org/abs/2509.18661)|null|
+|**2025-09-23**|**Consistency-Aware Parameter-Preserving Knowledge Editing Framework for Multi-Hop Question Answering**|[2509.18655](http://arxiv.org/abs/2509.18655)|null|
+|**2025-09-23**|**BloomIntent: Automating Search Evaluation with LLM-Generated Fine-Grained User Intents**|[2509.18641](http://arxiv.org/abs/2509.18641)|null|
+|**2025-09-23**|**The Case for Negative Data: From Crash Reports to Counterfactuals for Reasonable Driving**|[2509.18626](http://arxiv.org/abs/2509.18626)|null|
+|**2025-09-23**|**Scalable Evaluation for Audio Identification via Synthetic Latent Fingerprint Generation**|[2509.18620](http://arxiv.org/abs/2509.18620)|null|
+|**2025-09-23**|**Growing with Your Embodied Agent: A Human-in-the-Loop Lifelong Code Generation Framework for Long-Horizon Manipulation Skills**|[2509.18597](http://arxiv.org/abs/2509.18597)|null|
+|**2025-09-23**|**The Ranking Blind Spot: Decision Hijacking in LLM-based Text Ranking**|[2509.18575](http://arxiv.org/abs/2509.18575)|**[link](https://github.com/blindspotorg/RankingBlindSpot)**|
+|**2025-09-23**|**Understand your Users, An Ensemble Learning Framework for Natural Noise Filtering in Recommender Systems**|[2509.18560](http://arxiv.org/abs/2509.18560)|null|
+|**2025-09-23**|**Global Minimizers of Sigmoid Contrastive Loss**|[2509.18552](http://arxiv.org/abs/2509.18552)|null|
+|**2025-09-22**|**Individualized non-uniform quantization for vector search**|[2509.18471](http://arxiv.org/abs/2509.18471)|null|
+|**2025-09-22**|**LAWCAT: Efficient Distillation from Quadratic to Linear Attention with Convolution across Tokens for Long Context Modeling**|[2509.18467](http://arxiv.org/abs/2509.18467)|null|
+|**2025-09-22**|**Memory-QA: Answering Recall Questions Based on Multimodal Memories**|[2509.18436](http://arxiv.org/abs/2509.18436)|null|
+|**2025-09-22**|**ATLAS: Benchmarking and Adapting LLMs for Global Trade via Harmonized Tariff Code Classification**|[2509.18400](http://arxiv.org/abs/2509.18400)|null|
+|**2025-09-22**|**OrthoLoC: UAV 6-DoF Localization and Calibration Using Orthographic Geodata**|[2509.18350](http://arxiv.org/abs/2509.18350)|**[link](https://deepscenario.github.io/OrthoLoC.)**|
+|**2025-09-22**|**CoRaCMG: Contextual Retrieval-Augmented Framework for Commit Message Generation**|[2509.18337](http://arxiv.org/abs/2509.18337)|null|
+|**2025-09-22**|**Brittleness and Promise: Knowledge Graph Based Reward Modeling for Diagnostic Reasoning**|[2509.18316](http://arxiv.org/abs/2509.18316)|null|
 |**2025-09-22**|**MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late Interaction**|[2509.18095](http://arxiv.org/abs/2509.18095)|null|
 |**2025-09-22**|**OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System**|[2509.18091](http://arxiv.org/abs/2509.18091)|null|
 |**2025-09-22**|**A Knowledge Graph-based Retrieval-Augmented Generation Framework for Algorithm Selection in the Facility Layout Problem**|[2509.18054](http://arxiv.org/abs/2509.18054)|null|
@@ -914,6 +973,48 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-09-23**|**DRISHTIKON: A Multimodal Multilingual Benchmark for Testing Language Models' Understanding on Indian Culture**|[2509.19274](http://arxiv.org/abs/2509.19274)|null|
+|**2025-09-23**|**ConViS-Bench: Estimating Video Similarity Through Semantic Concepts**|[2509.19245](http://arxiv.org/abs/2509.19245)|null|
+|**2025-09-23**|**Lavida-O: Elastic Masked Diffusion Models for Unified Multimodal Understanding and Generation**|[2509.19244](http://arxiv.org/abs/2509.19244)|null|
+|**2025-09-23**|**Steering Multimodal Large Language Models Decoding for Context-Aware Safety**|[2509.19212](http://arxiv.org/abs/2509.19212)|null|
+|**2025-09-23**|**Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**|[2509.19203](http://arxiv.org/abs/2509.19203)|**[link](https://github.com/IoannaNti/LexiCLIP)**|
+|**2025-09-23**|**A Multimodal Stochastic Planning Approach for Navigation and Multi-Robot Coordination**|[2509.19168](http://arxiv.org/abs/2509.19168)|null|
+|**2025-09-23**|**Investigating Traffic Accident Detection Using Multimodal Large Language Models**|[2509.19096](http://arxiv.org/abs/2509.19096)|null|
+|**2025-09-23**|**Data-Free Knowledge Distillation for LiDAR-Aided Beam Tracking in MmWave Systems**|[2509.19092](http://arxiv.org/abs/2509.19092)|null|
+|**2025-09-23**|**Citrus-V: Advancing Medical Foundation Models with Unified Medical Image Grounding for Clinical Reasoning**|[2509.19090](http://arxiv.org/abs/2509.19090)|null|
+|**2025-09-23**|**Zero-Shot Multi-Spectral Learning: Reimagining a Generalist Multimodal Gemini 2.5 Model for Remote Sensing Applications**|[2509.19087](http://arxiv.org/abs/2509.19087)|null|
+|**2025-09-23**|**ManipForce: Force-Guided Policy Learning with Frequency-Aware Representation for Contact-Rich Manipulation**|[2509.19047](http://arxiv.org/abs/2509.19047)|null|
+|**2025-09-23**|**Charting a Decade of Computational Linguistics in Italy: The CLiC-it Corpus**|[2509.19033](http://arxiv.org/abs/2509.19033)|null|
+|**2025-09-23**|**OmniBridge: Unified Multimodal Understanding, Generation, and Retrieval via Latent Space Alignment**|[2509.19018](http://arxiv.org/abs/2509.19018)|**[link](https://github.com/xiao-xt/OmniBridge.)**|
+|**2025-09-23**|**Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Rewards**|[2509.19003](http://arxiv.org/abs/2509.19003)|**[link](https://github.com/baaivision/CoS.)**|
+|**2025-09-23**|**VIR-Bench: Evaluating Geospatial and Temporal Understanding of MLLMs via Travel Video Itinerary Reconstruction**|[2509.19002](http://arxiv.org/abs/2509.19002)|null|
+|**2025-09-23**|**Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation**|[2509.18912](http://arxiv.org/abs/2509.18912)|null|
+|**2025-09-23**|**RS3DBench: A Comprehensive Benchmark for 3D Spatial Perception in Remote Sensing**|[2509.18897](http://arxiv.org/abs/2509.18897)|**[link](https://rs3dbench.github.io.)**|
+|**2025-09-23**|**SmartWilds: Multimodal Wildlife Monitoring Dataset**|[2509.18894](http://arxiv.org/abs/2509.18894)|null|
+|**2025-09-23**|**When Ads Become Profiles: Large-Scale Audit of Algorithmic Biases and LLM Profiling Risks**|[2509.18874](http://arxiv.org/abs/2509.18874)|null|
+|**2025-09-23**|**Benchmarking Vision-Language and Multimodal Large Language Models in Zero-shot and Few-shot Scenarios: A study on Christian Iconography**|[2509.18839](http://arxiv.org/abs/2509.18839)|null|
+|**2025-09-23**|**Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation**|[2509.18824](http://arxiv.org/abs/2509.18824)|null|
+|**2025-09-23**|**Single-Branch Network Architectures to Close the Modality Gap in Multimodal Recommendation**|[2509.18807](http://arxiv.org/abs/2509.18807)|**[link](https://github.com/hcai-mms/single-branch-networks.)**|
+|**2025-09-23**|**Spin defects in hexagonal boron nitride as two-dimensional strain sensors**|[2509.18745](http://arxiv.org/abs/2509.18745)|null|
+|**2025-09-23**|**TriFusion-AE: Language-Guided Depth and LiDAR Fusion for Robust Point Cloud Processing**|[2509.18743](http://arxiv.org/abs/2509.18743)|null|
+|**2025-09-23**|**MECap-R1: Emotion-aware Policy with Reinforcement Learning for Multimodal Emotion Captioning**|[2509.18729](http://arxiv.org/abs/2509.18729)|null|
+|**2025-09-23**|**M4SER: Multimodal, Multirepresentation, Multitask, and Multistrategy Learning for Speech Emotion Recognition**|[2509.18706](http://arxiv.org/abs/2509.18706)|null|
+|**2025-09-23**|**OSDA: A Framework for Open-Set Discovery and Automatic Interpretation of Land-cover in Remote Sensing Imagery**|[2509.18693](http://arxiv.org/abs/2509.18693)|null|
+|**2025-09-23**|**Harnessing Multimodal Large Language Models for Personalized Product Search with Query-aware Refinement**|[2509.18682](http://arxiv.org/abs/2509.18682)|null|
+|**2025-09-23**|**NaviSense: A Multimodal Assistive Mobile application for Object Retrieval by Persons with Visual Impairment**|[2509.18672](http://arxiv.org/abs/2509.18672)|null|
+|**2025-09-23**|**PIE: Perception and Interaction Enhanced End-to-End Motion Planning for Autonomous Driving**|[2509.18609](http://arxiv.org/abs/2509.18609)|null|
+|**2025-09-23**|**From Noise to Insight: Visualizing Neural Dynamics with Segmented SNR Topographies for Improved EEG-BCI Performance**|[2509.18599](http://arxiv.org/abs/2509.18599)|null|
+|**2025-09-23**|**The Photographer Eye: Teaching Multimodal Large Language Models to See and Critique like Photographers**|[2509.18582](http://arxiv.org/abs/2509.18582)|null|
+|**2025-09-23**|**LCMF: Lightweight Cross-Modality Mambaformer for Embodied Robotics VQA**|[2509.18576](http://arxiv.org/abs/2509.18576)|null|
+|**2025-09-22**|**Zero-Shot Visual Deepfake Detection: Can AI Predict and Prevent Fake Content Before It's Created?**|[2509.18461](http://arxiv.org/abs/2509.18461)|null|
+|**2025-09-22**|**GluMind: Multimodal Parallel Attention and Knowledge Retention for Robust Cross-Population Blood Glucose Forecasting**|[2509.18457](http://arxiv.org/abs/2509.18457)|null|
+|**2025-09-22**|**Memory-QA: Answering Recall Questions Based on Multimodal Memories**|[2509.18436](http://arxiv.org/abs/2509.18436)|null|
+|**2025-09-22**|**Check Field Detection Agent (CFD-Agent) using Multimodal Large Language and Vision Language Models**|[2509.18405](http://arxiv.org/abs/2509.18405)|null|
+|**2025-09-22**|**Towards RGB Combiner for AR/VR applications on AlOx**|[2509.18373](http://arxiv.org/abs/2509.18373)|null|
+|**2025-09-22**|**Sequential Design for the Efficient Estimation of Offshore Structure Failure Probability**|[2509.18319](http://arxiv.org/abs/2509.18319)|null|
+|**2025-09-22**|**Crank-rocker optical fiber mode scrambler prototype for the GMT-Consortium Large Earth Finder (G-CLEF)**|[2509.18306](http://arxiv.org/abs/2509.18306)|null|
+|**2025-09-22**|**Learning Contrastive Multimodal Fusion with Improved Modality Dropout for Disease Detection and Prediction**|[2509.18284](http://arxiv.org/abs/2509.18284)|**[link](https://github.com/omron-sinicx/medical-modality-dropout.)**|
+|**2025-09-22**|**The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks**|[2509.18234](http://arxiv.org/abs/2509.18234)|null|
 |**2025-09-22**|**MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late Interaction**|[2509.18095](http://arxiv.org/abs/2509.18095)|null|
 |**2025-09-22**|**TempSamp-R1: Effective Temporal Sampling with Reinforcement Fine-Tuning for Video LLMs**|[2509.18056](http://arxiv.org/abs/2509.18056)|**[link](https://github.com/HVision-NKU/TempSamp-R1)**|
 |**2025-09-23**|**V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts**|[2509.18053](http://arxiv.org/abs/2509.18053)|**[link](https://eddyhkchiu.github.io/v2vgot.github.io/)**|
