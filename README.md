@@ -1,4 +1,4 @@
-## Updated on 2025.09.23
+## Updated on 2025.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -337,7 +337,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250924>back to top</a>)</p>
 
 ## Retrieval
 
@@ -349,13 +349,13 @@
 |**2025-09-22**|**RadEval: A framework for radiology text evaluation**|[2509.18030](http://arxiv.org/abs/2509.18030)|null|
 |**2025-09-22**|**Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles**|[2509.17918](http://arxiv.org/abs/2509.17918)|null|
 |**2025-09-22**|**Neural-MMGS: Multi-modal Neural Gaussian Splats for Large-Scale Scene Reconstruction**|[2509.17762](http://arxiv.org/abs/2509.17762)|null|
-|**2025-09-22**|**A Generative Framework for Personalized Sticker Retrieval**|[2509.17749](http://arxiv.org/abs/2509.17749)|null|
+|**2025-09-23**|**A Generative Framework for Personalized Sticker Retrieval**|[2509.17749](http://arxiv.org/abs/2509.17749)|null|
 |**2025-09-22**|**Single-shot pulse retrieval of femtosecond bright squeezed vacuum**|[2509.17746](http://arxiv.org/abs/2509.17746)|null|
-|**2025-09-22**|**Adaptive Fast-and-Slow Visual Program Reasoning for Long-Form VideoQA**|[2509.17743](http://arxiv.org/abs/2509.17743)|null|
+|**2025-09-23**|**Adaptive Fast-and-Slow Visual Program Reasoning for Long-Form VideoQA**|[2509.17743](http://arxiv.org/abs/2509.17743)|null|
 |**2025-09-22**|**EngiBench: A Benchmark for Evaluating Large Language Models on Engineering Problem Solving**|[2509.17677](http://arxiv.org/abs/2509.17677)|**[link](https://github.com/EngiBench/EngiBench.)**|
 |**2025-09-22**|**Turk-LettuceDetect: A Hallucination Detection Models for Turkish RAG Applications**|[2509.17671](http://arxiv.org/abs/2509.17671)|null|
 |**2025-09-22**|**Human vs. Agent in Task-Oriented Conversations**|[2509.17619](http://arxiv.org/abs/2509.17619)|null|
-|**2025-09-22**|**A Multimodal Conversational Assistant for the Characterization of Agricultural Plots from Geospatial Open Data**|[2509.17544](http://arxiv.org/abs/2509.17544)|null|
+|**2025-09-23**|**A Multimodal Conversational Assistant for the Characterization of Agricultural Plots from Geospatial Open Data**|[2509.17544](http://arxiv.org/abs/2509.17544)|null|
 |**2025-09-22**|**MapCoder-Lite: Squeezing Multi-Agent Coding into a Single Small LLM**|[2509.17489](http://arxiv.org/abs/2509.17489)|null|
 |**2025-09-22**|**AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation**|[2509.17486](http://arxiv.org/abs/2509.17486)|null|
 |**2025-09-22**|**Transformer-Gather, Fuzzy-Reconsider: A Scalable Hybrid Framework for Entity Resolution**|[2509.17470](http://arxiv.org/abs/2509.17470)|null|
@@ -913,7 +913,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250924>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -921,7 +921,7 @@
 |---|---|---|---|
 |**2025-09-22**|**MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late Interaction**|[2509.18095](http://arxiv.org/abs/2509.18095)|null|
 |**2025-09-22**|**TempSamp-R1: Effective Temporal Sampling with Reinforcement Fine-Tuning for Video LLMs**|[2509.18056](http://arxiv.org/abs/2509.18056)|**[link](https://github.com/HVision-NKU/TempSamp-R1)**|
-|**2025-09-22**|**V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts**|[2509.18053](http://arxiv.org/abs/2509.18053)|null|
+|**2025-09-23**|**V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts**|[2509.18053](http://arxiv.org/abs/2509.18053)|**[link](https://eddyhkchiu.github.io/v2vgot.github.io/)**|
 |**2025-09-22**|**ClassMind: Scaling Classroom Observation and Instructional Feedback with Multimodal AI**|[2509.18020](http://arxiv.org/abs/2509.18020)|null|
 |**2025-09-22**|**Beyond Diagnosis: Evaluating Multimodal LLMs for Pathology Localization in Chest Radiographs**|[2509.18015](http://arxiv.org/abs/2509.18015)|null|
 |**2025-09-22**|**M3ET: Efficient Vision-Language Learning for Robotics based on Multimodal Mamba-Enhanced Transformer**|[2509.18005](http://arxiv.org/abs/2509.18005)|null|
@@ -936,12 +936,12 @@
 |**2025-09-22**|**DA-Mamba: Dialogue-aware selective state-space model for multimodal engagement estimation**|[2509.17711](http://arxiv.org/abs/2509.17711)|**[link](https://github.com/kksssssss-ssda/MMEA.)**|
 |**2025-09-22**|**AuditoryBench++: Can Language Models Understand Auditory Knowledge without Hearing?**|[2509.17641](http://arxiv.org/abs/2509.17641)|**[link](https://auditorybenchpp.github.io.)**|
 |**2025-09-22**|**Table2LaTeX-RL: High-Fidelity LaTeX Code Generation from Table Images via Reinforced Multimodal Language Models**|[2509.17589](http://arxiv.org/abs/2509.17589)|null|
-|**2025-09-22**|**A Multimodal Conversational Assistant for the Characterization of Agricultural Plots from Geospatial Open Data**|[2509.17544](http://arxiv.org/abs/2509.17544)|null|
-|**2025-09-22**|**SimToken: A Simple Baseline for Referring Audio-Visual Segmentation**|[2509.17537](http://arxiv.org/abs/2509.17537)|**[link](https://github.com/DianJin-HFUT/SimToken)**|
+|**2025-09-23**|**A Multimodal Conversational Assistant for the Characterization of Agricultural Plots from Geospatial Open Data**|[2509.17544](http://arxiv.org/abs/2509.17544)|null|
+|**2025-09-23**|**SimToken: A Simple Baseline for Referring Audio-Visual Segmentation**|[2509.17537](http://arxiv.org/abs/2509.17537)|null|
 |**2025-09-22**|**Unified Multimodal Coherent Field: Synchronous Semantic-Spatial-Vision Fusion for Brain Tumor Segmentation**|[2509.17520](http://arxiv.org/abs/2509.17520)|null|
-|**2025-09-22**|**Multimodal Medical Image Classification via Synergistic Learning Pre-training**|[2509.17492](http://arxiv.org/abs/2509.17492)|**[link](https://github.com/LQH89757/MICS.)**|
+|**2025-09-23**|**Multimodal Medical Image Classification via Synergistic Learning Pre-training**|[2509.17492](http://arxiv.org/abs/2509.17492)|**[link](https://github.com/LQH89757/MICS.)**|
 |**2025-09-22**|**Autiverse: Eliciting Autistic Adolescents' Daily Narratives through AI-guided Multimodal Journaling**|[2509.17466](http://arxiv.org/abs/2509.17466)|null|
-|**2025-09-22**|**MVCL-DAF++: Enhancing Multimodal Intent Recognition via Prototype-Aware Contrastive Alignment and Coarse-to-Fine Dynamic Attention Fusion**|[2509.17446](http://arxiv.org/abs/2509.17446)|**[link](https://github.com/chr1s623/MVCL-DAF-PlusPlus.)**|
+|**2025-09-23**|**MVCL-DAF++: Enhancing Multimodal Intent Recognition via Prototype-Aware Contrastive Alignment and Coarse-to-Fine Dynamic Attention Fusion**|[2509.17446](http://arxiv.org/abs/2509.17446)|**[link](https://github.com/chr1s623/MVCL-DAF-PlusPlus.)**|
 |**2025-09-22**|**GeoPQA: Bridging the Visual Perception Gap in MLLMs for Geometric Reasoning**|[2509.17437](http://arxiv.org/abs/2509.17437)|null|
 |**2025-09-22**|**Evaluating Multimodal Large Language Models with Daily Composite Tasks in Home Environments**|[2509.17425](http://arxiv.org/abs/2509.17425)|null|
 |**2025-09-22**|**RealBench: A Chinese Multi-image Understanding Benchmark Close to Real-world Scenarios**|[2509.17421](http://arxiv.org/abs/2509.17421)|null|
@@ -1436,7 +1436,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250924>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
