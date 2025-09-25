@@ -1,4 +1,4 @@
-## Updated on 2025.09.24
+## Updated on 2025.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2025-09-22**|**A Knowledge Graph-based Retrieval-Augmented Generation Framework for Algorithm Selection in the Facility Layout Problem**|[2509.18054](http://arxiv.org/abs/2509.18054)|null|
 |**2025-09-22**|**Core-elements Subsampling for Alternating Least Squares**|[2509.18024](http://arxiv.org/abs/2509.18024)|null|
 |**2025-09-22**|**Improving Neutrino-Nuclei Interaction Models: Recommendations and Case Studies on Peelle's Pertinent Puzzle**|[2509.17945](http://arxiv.org/abs/2509.17945)|null|
-|**2025-09-22**|**Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles**|[2509.17918](http://arxiv.org/abs/2509.17918)|null|
+|**2025-09-24**|**Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles**|[2509.17918](http://arxiv.org/abs/2509.17918)|null|
 |**2025-09-22**|**AEAS: Actionable Exploit Assessment System**|[2509.17832](http://arxiv.org/abs/2509.17832)|null|
 |**2025-09-22**|**FinDebate: Multi-Agent Collaborative Intelligence for Financial Analysis**|[2509.17395](http://arxiv.org/abs/2509.17395)|null|
 |**2025-09-22**|**SeqUDA-Rec: Sequential User Behavior Enhanced Recommendation via Global Unsupervised Data Augmentation for Personalized Content Marketing**|[2509.17361](http://arxiv.org/abs/2509.17361)|null|
@@ -44,7 +44,7 @@
 |**2025-09-21**|**The SAGES Critical View of Safety Challenge: A Global Benchmark for AI-Assisted Surgical Quality Assessment**|[2509.17100](http://arxiv.org/abs/2509.17100)|null|
 |**2025-09-21**|**Governing Automated Strategic Intelligence**|[2509.17087](http://arxiv.org/abs/2509.17087)|null|
 |**2025-09-21**|**RALLM-POI: Retrieval-Augmented LLM for Zero-shot Next POI Recommendation with Geographical Reranking**|[2509.17066](http://arxiv.org/abs/2509.17066)|**[link](https://github.com/LKRcrocodile/RALLM-POI.)**|
-|**2025-09-21**|**Equip Pre-ranking with Target Attention by Residual Quantization**|[2509.16931](http://arxiv.org/abs/2509.16931)|null|
+|**2025-09-24**|**Equip Pre-ranking with Target Attention by Residual Quantization**|[2509.16931](http://arxiv.org/abs/2509.16931)|null|
 |**2025-09-21**|**Temporal-Aware User Behaviour Simulation with Large Language Models for Recommender Systems**|[2509.16895](http://arxiv.org/abs/2509.16895)|null|
 |**2025-09-20**|**Semi-Supervised Synthetic Data Generation with Fine-Grained Relevance Control for Short Video Search Relevance Modeling**|[2509.16717](http://arxiv.org/abs/2509.16717)|null|
 |**2025-09-20**|**Optimal and Efficient Sample Size Re-estimation: A Dynamic Cost Framework**|[2509.16636](http://arxiv.org/abs/2509.16636)|null|
@@ -353,7 +353,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
 
 ## Retrieval
 
@@ -406,7 +406,7 @@
 |**2025-09-22**|**OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System**|[2509.18091](http://arxiv.org/abs/2509.18091)|null|
 |**2025-09-22**|**A Knowledge Graph-based Retrieval-Augmented Generation Framework for Algorithm Selection in the Facility Layout Problem**|[2509.18054](http://arxiv.org/abs/2509.18054)|null|
 |**2025-09-22**|**RadEval: A framework for radiology text evaluation**|[2509.18030](http://arxiv.org/abs/2509.18030)|null|
-|**2025-09-22**|**Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles**|[2509.17918](http://arxiv.org/abs/2509.17918)|null|
+|**2025-09-24**|**Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles**|[2509.17918](http://arxiv.org/abs/2509.17918)|null|
 |**2025-09-22**|**Neural-MMGS: Multi-modal Neural Gaussian Splats for Large-Scale Scene Reconstruction**|[2509.17762](http://arxiv.org/abs/2509.17762)|null|
 |**2025-09-23**|**A Generative Framework for Personalized Sticker Retrieval**|[2509.17749](http://arxiv.org/abs/2509.17749)|null|
 |**2025-09-22**|**Single-shot pulse retrieval of femtosecond bright squeezed vacuum**|[2509.17746](http://arxiv.org/abs/2509.17746)|null|
@@ -972,7 +972,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -980,16 +980,16 @@
 |---|---|---|---|
 |**2025-09-23**|**DRISHTIKON: A Multimodal Multilingual Benchmark for Testing Language Models' Understanding on Indian Culture**|[2509.19274](http://arxiv.org/abs/2509.19274)|null|
 |**2025-09-23**|**ConViS-Bench: Estimating Video Similarity Through Semantic Concepts**|[2509.19245](http://arxiv.org/abs/2509.19245)|null|
-|**2025-09-23**|**Lavida-O: Elastic Masked Diffusion Models for Unified Multimodal Understanding and Generation**|[2509.19244](http://arxiv.org/abs/2509.19244)|null|
+|**2025-09-24**|**Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation**|[2509.19244](http://arxiv.org/abs/2509.19244)|null|
 |**2025-09-23**|**Steering Multimodal Large Language Models Decoding for Context-Aware Safety**|[2509.19212](http://arxiv.org/abs/2509.19212)|null|
 |**2025-09-23**|**Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**|[2509.19203](http://arxiv.org/abs/2509.19203)|**[link](https://github.com/IoannaNti/LexiCLIP)**|
 |**2025-09-23**|**A Multimodal Stochastic Planning Approach for Navigation and Multi-Robot Coordination**|[2509.19168](http://arxiv.org/abs/2509.19168)|null|
-|**2025-09-23**|**Investigating Traffic Accident Detection Using Multimodal Large Language Models**|[2509.19096](http://arxiv.org/abs/2509.19096)|null|
+|**2025-09-24**|**Investigating Traffic Accident Detection Using Multimodal Large Language Models**|[2509.19096](http://arxiv.org/abs/2509.19096)|null|
 |**2025-09-23**|**Data-Free Knowledge Distillation for LiDAR-Aided Beam Tracking in MmWave Systems**|[2509.19092](http://arxiv.org/abs/2509.19092)|null|
-|**2025-09-23**|**Citrus-V: Advancing Medical Foundation Models with Unified Medical Image Grounding for Clinical Reasoning**|[2509.19090](http://arxiv.org/abs/2509.19090)|null|
+|**2025-09-24**|**Citrus-V: Advancing Medical Foundation Models with Unified Medical Image Grounding for Clinical Reasoning**|[2509.19090](http://arxiv.org/abs/2509.19090)|null|
 |**2025-09-23**|**Zero-Shot Multi-Spectral Learning: Reimagining a Generalist Multimodal Gemini 2.5 Model for Remote Sensing Applications**|[2509.19087](http://arxiv.org/abs/2509.19087)|null|
 |**2025-09-23**|**ManipForce: Force-Guided Policy Learning with Frequency-Aware Representation for Contact-Rich Manipulation**|[2509.19047](http://arxiv.org/abs/2509.19047)|null|
-|**2025-09-23**|**Charting a Decade of Computational Linguistics in Italy: The CLiC-it Corpus**|[2509.19033](http://arxiv.org/abs/2509.19033)|null|
+|**2025-09-24**|**Charting a Decade of Computational Linguistics in Italy: The CLiC-it Corpus**|[2509.19033](http://arxiv.org/abs/2509.19033)|null|
 |**2025-09-23**|**OmniBridge: Unified Multimodal Understanding, Generation, and Retrieval via Latent Space Alignment**|[2509.19018](http://arxiv.org/abs/2509.19018)|**[link](https://github.com/xiao-xt/OmniBridge.)**|
 |**2025-09-23**|**Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Rewards**|[2509.19003](http://arxiv.org/abs/2509.19003)|**[link](https://github.com/baaivision/CoS.)**|
 |**2025-09-23**|**VIR-Bench: Evaluating Geospatial and Temporal Understanding of MLLMs via Travel Video Itinerary Reconstruction**|[2509.19002](http://arxiv.org/abs/2509.19002)|null|
@@ -1537,7 +1537,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
