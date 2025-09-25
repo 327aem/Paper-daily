@@ -28,3 +28,5 @@ keywords:
         filters: ["Retrieval", "Retrieve"]
     "Multi-Modal":
         filters: ["multimodal", "multi-modal"]
+    "Reinforcement Learning":
+        filters: ["reinforcement", "dpo", "ppo", "grpo", "reward"]
