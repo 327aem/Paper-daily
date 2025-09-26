@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.25
+## Updated on 2025.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -14,7 +14,7 @@ layout: default
 |**2025-09-24**|**Healthy diets are affordable but often displaced by other foods in Indonesia**|[2509.20203](http://arxiv.org/abs/2509.20203)|null|
 |**2025-09-24**|**Intelligent Algorithm Selection for Recommender Systems: Meta-Learning via in-depth algorithm feature engineering**|[2509.20134](http://arxiv.org/abs/2509.20134)|null|
 |**2025-09-24**|**Comparative Study of Subjective Video Quality Assessment Test Methods in Crowdsourcing for Varied Use Cases**|[2509.20118](http://arxiv.org/abs/2509.20118)|null|
-|**2025-09-24**|**Cascade! Human in the loop shortcomings can increase the risk of failures in recommender systems**|[2509.20099](http://arxiv.org/abs/2509.20099)|null|
+|**2025-09-25**|**Cascade! Human in the loop shortcomings can increase the risk of failures in recommender systems**|[2509.20099](http://arxiv.org/abs/2509.20099)|null|
 |**2025-09-24**|**Multimodal-enhanced Federated Recommendation: A Group-wise Fusion Approach**|[2509.19955](http://arxiv.org/abs/2509.19955)|null|
 |**2025-09-24**|**Report on LEO satellite impacts on ground-based optical astronomy for the Rubin Observatory LSST**|[2509.19758](http://arxiv.org/abs/2509.19758)|null|
 |**2025-09-24**|**Learning to Stop: Reinforcement Learning for Efficient Patient-Level Echocardiographic Classification**|[2509.19694](http://arxiv.org/abs/2509.19694)|null|
@@ -359,7 +359,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250926>back to top</a>)</p>
 
 ## Retrieval
 
@@ -376,7 +376,7 @@ layout: default
 |**2025-09-24**|**How People Manage Knowledge in their "Second Brains"- A Case Study with Industry Researchers Using Obsidian**|[2509.20187](http://arxiv.org/abs/2509.20187)|null|
 |**2025-09-24**|**Digital Signal Processing from Classical Coherent Systems to Continuous-Variable QKD: A Review of Cross-Domain Techniques, Applications, and Challenges**|[2509.20141](http://arxiv.org/abs/2509.20141)|null|
 |**2025-09-24**|**Intelligent Algorithm Selection for Recommender Systems: Meta-Learning via in-depth algorithm feature engineering**|[2509.20134](http://arxiv.org/abs/2509.20134)|null|
-|**2025-09-24**|**Cascade! Human in the loop shortcomings can increase the risk of failures in recommender systems**|[2509.20099](http://arxiv.org/abs/2509.20099)|null|
+|**2025-09-25**|**Cascade! Human in the loop shortcomings can increase the risk of failures in recommender systems**|[2509.20099](http://arxiv.org/abs/2509.20099)|null|
 |**2025-09-24**|**Queryable 3D Scene Representation: A Multi-Modal Framework for Semantic Reasoning and Robotic Task Planning**|[2509.20077](http://arxiv.org/abs/2509.20077)|null|
 |**2025-09-24**|**DiffNator: Generating Structured Explanations of Time-Series Differences**|[2509.20007](http://arxiv.org/abs/2509.20007)|null|
 |**2025-09-24**|**RAD: Towards Trustworthy Retrieval-Augmented Multi-modal Clinical Diagnosis**|[2509.19980](http://arxiv.org/abs/2509.19980)|**[link](https://github.com/tdlhl/RAD.)**|
@@ -1013,7 +1013,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250926>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -1027,13 +1027,13 @@ layout: default
 |**2025-09-24**|**A Simple Data Augmentation Strategy for Text-in-Image Scientific VQA**|[2509.20119](http://arxiv.org/abs/2509.20119)|null|
 |**2025-09-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|[2509.20109](http://arxiv.org/abs/2509.20109)|null|
 |**2025-09-24**|**Queryable 3D Scene Representation: A Multi-Modal Framework for Semantic Reasoning and Robotic Task Planning**|[2509.20077](http://arxiv.org/abs/2509.20077)|null|
-|**2025-09-24**|**From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training**|[2509.20072](http://arxiv.org/abs/2509.20072)|null|
+|**2025-09-25**|**From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training**|[2509.20072](http://arxiv.org/abs/2509.20072)|null|
 |**2025-09-24**|**PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction**|[2509.20022](http://arxiv.org/abs/2509.20022)|**[link](https://github.com/manahilr/PS3.)**|
 |**2025-09-24**|**Embodied AI: From LLMs to World Models**|[2509.20021](http://arxiv.org/abs/2509.20021)|null|
 |**2025-09-24**|**Improving Generalizability and Undetectability for Targeted Adversarial Attacks on Multimodal Pre-trained Models**|[2509.19994](http://arxiv.org/abs/2509.19994)|null|
 |**2025-09-24**|**BioBO: Biology-informed Bayesian Optimization for Perturbation Design**|[2509.19988](http://arxiv.org/abs/2509.19988)|null|
 |**2025-09-24**|**RAD: Towards Trustworthy Retrieval-Augmented Multi-modal Clinical Diagnosis**|[2509.19980](http://arxiv.org/abs/2509.19980)|**[link](https://github.com/tdlhl/RAD.)**|
-|**2025-09-24**|**OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving**|[2509.19973](http://arxiv.org/abs/2509.19973)|null|
+|**2025-09-25**|**OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving**|[2509.19973](http://arxiv.org/abs/2509.19973)|null|
 |**2025-09-24**|**Multimodal-enhanced Federated Recommendation: A Group-wise Fusion Approach**|[2509.19955](http://arxiv.org/abs/2509.19955)|null|
 |**2025-09-24**|**Robot Trajectron V2: A Probabilistic Shared Control Framework for Navigation**|[2509.19954](http://arxiv.org/abs/2509.19954)|null|
 |**2025-09-24**|**When Words Can't Capture It All: Towards Video-Based User Complaint Text Generation with Multimodal Video Complaint Dataset**|[2509.19952](http://arxiv.org/abs/2509.19952)|**[link](https://github.com/sarmistha-D/CoD-V.)**|
@@ -1612,7 +1612,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250926>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -1637,7 +1637,7 @@ layout: default
 |**2025-09-24**|**MultiSoundGen: Video-to-Audio Generation for Multi-Event Scenarios via SlowFast Contrastive Audio-Visual Pretraining and Direct Preference Optimization**|[2509.19999](http://arxiv.org/abs/2509.19999)|null|
 |**2025-09-24**|**An effective control of large systems of active particles: An application to evacuation problem**|[2509.19972](http://arxiv.org/abs/2509.19972)|**[link](https://github.com/cinemere/evacuation.)**|
 |**2025-09-24**|**Robot Trajectron V2: A Probabilistic Shared Control Framework for Navigation**|[2509.19954](http://arxiv.org/abs/2509.19954)|null|
-|**2025-09-24**|**Measuring Prosody Diversity in Zero-Shot TTS: A New Metric, Benchmark, and Exploration**|[2509.19928](http://arxiv.org/abs/2509.19928)|**[link](https://prosodyeval.github.io.)**|
+|**2025-09-25**|**Measuring Prosody Diversity in Zero-Shot TTS: A New Metric, Benchmark, and Exploration**|[2509.19928](http://arxiv.org/abs/2509.19928)|**[link](https://prosodyeval.github.io.)**|
 |**2025-09-24**|**Exploration with Foundation Models: Capabilities, Limitations, and Hybrid Approaches**|[2509.19924](http://arxiv.org/abs/2509.19924)|null|
 |**2025-09-24**|**Future Policy Aware Preference Learning for Mathematical Reasoning**|[2509.19893](http://arxiv.org/abs/2509.19893)|null|
 |**2025-09-24**|**D3Grasp: Diverse and Deformable Dexterous Grasping for General Objects**|[2509.19892](http://arxiv.org/abs/2509.19892)|null|
@@ -1651,7 +1651,7 @@ layout: default
 |**2025-09-24**|**Analysis of approximate linear programming solution to Markov decision problem with log barrier function**|[2509.19800](http://arxiv.org/abs/2509.19800)|null|
 |**2025-09-24**|**RDAR: Reward-Driven Agent Relevance Estimation for Autonomous Driving**|[2509.19789](http://arxiv.org/abs/2509.19789)|null|
 |**2025-09-24**|**bi-GRPO: Bidirectional Optimization for Jailbreak Backdoor Injection on LLMs**|[2509.19775](http://arxiv.org/abs/2509.19775)|null|
-|**2025-09-24**|**Frictional Q-Learning**|[2509.19771](http://arxiv.org/abs/2509.19771)|null|
+|**2025-09-25**|**Frictional Q-Learning**|[2509.19771](http://arxiv.org/abs/2509.19771)|null|
 |**2025-09-24**|**Logics-Parsing Technical Report**|[2509.19760](http://arxiv.org/abs/2509.19760)|**[link](https://github.com/alibaba/Logics-Parsing)**|
 |**2025-09-24**|**Timeliness-Aware Joint Source and Channel Coding for Adaptive Image Transmission**|[2509.19754](http://arxiv.org/abs/2509.19754)|null|
 |**2025-09-24**|**Beyond Human Demonstrations: Diffusion-Based Reinforcement Learning to Generate Data for VLA Training**|[2509.19752](http://arxiv.org/abs/2509.19752)|null|
@@ -1669,7 +1669,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
