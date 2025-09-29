@@ -1,4 +1,4 @@
-## Updated on 2025.09.28
+## Updated on 2025.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,12 +18,12 @@
 |**2025-09-25**|**Interactive Recommendation Agent with Active User Commands**|[2509.21317](http://arxiv.org/abs/2509.21317)|null|
 |**2025-09-25**|**Optimal Robust Recourse with $L^p$ -Bounded Model Change**|[2509.21293](http://arxiv.org/abs/2509.21293)|null|
 |**2025-09-25**|**Adoption, usability and perceived clinical value of a UK AI clinical reference platform (iatroX): a mixed-methods formative evaluation of real-world usage and a 1,223-respondent user survey**|[2509.21188](http://arxiv.org/abs/2509.21188)|null|
-|**2025-09-25**|**IntSR: An Integrated Generative Framework for Search and Recommendation**|[2509.21179](http://arxiv.org/abs/2509.21179)|null|
+|**2025-09-26**|**IntSR: An Integrated Generative Framework for Search and Recommendation**|[2509.21179](http://arxiv.org/abs/2509.21179)|null|
 |**2025-09-25**|**Overidentification testing with weak instruments and heteroskedasticity**|[2509.21096](http://arxiv.org/abs/2509.21096)|null|
 |**2025-09-25**|**Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems**|[2509.20989](http://arxiv.org/abs/2509.20989)|**[link](https://anonymous.4open.science/r/RCE-KD.)**|
 |**2025-09-25**|**Toward Robust and Efficient ML-Based GPU Caching for Modern Inference**|[2509.20979](http://arxiv.org/abs/2509.20979)|null|
 |**2025-09-25**|**Markup Language Modeling for Web Document Understanding**|[2509.20940](http://arxiv.org/abs/2509.20940)|null|
-|**2025-09-25**|**FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets**|[2509.20904](http://arxiv.org/abs/2509.20904)|**[link](https://github.com/selous123/al_sid.)**|
+|**2025-09-26**|**FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets**|[2509.20904](http://arxiv.org/abs/2509.20904)|**[link](https://github.com/selous123/al_sid.)**|
 |**2025-09-25**|**RecIS: Sparse to Dense, A Unified Training Framework for Recommendation Models**|[2509.20883](http://arxiv.org/abs/2509.20883)|null|
 |**2025-09-25**|**Exploring Engagement in Hybrid Meetings**|[2509.20780](http://arxiv.org/abs/2509.20780)|null|
 |**2025-09-24**|**Integrated analysis of informality, minimum wage, and monopsony power: A synthesis of meta-analyses with unified theoretical underpinnings**|[2509.20465](http://arxiv.org/abs/2509.20465)|null|
@@ -377,7 +377,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## Retrieval
 
@@ -392,7 +392,7 @@
 |**2025-09-25**|**CLaw: Benchmarking Chinese Legal Knowledge in Large Language Models - A Fine-grained Corpus and Reasoning Analysis**|[2509.21208](http://arxiv.org/abs/2509.21208)|null|
 |**2025-09-25**|**Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for Scientific Reasoning**|[2509.21193](http://arxiv.org/abs/2509.21193)|**[link](https://github.com/tangxiangru/Eigen-1.)**|
 |**2025-09-25**|**Adoption, usability and perceived clinical value of a UK AI clinical reference platform (iatroX): a mixed-methods formative evaluation of real-world usage and a 1,223-respondent user survey**|[2509.21188](http://arxiv.org/abs/2509.21188)|null|
-|**2025-09-25**|**IntSR: An Integrated Generative Framework for Search and Recommendation**|[2509.21179](http://arxiv.org/abs/2509.21179)|null|
+|**2025-09-26**|**IntSR: An Integrated Generative Framework for Search and Recommendation**|[2509.21179](http://arxiv.org/abs/2509.21179)|null|
 |**2025-09-25**|**Retrieval over Classification: Integrating Relation Semantics for Multimodal Relation Extraction**|[2509.21151](http://arxiv.org/abs/2509.21151)|null|
 |**2025-09-25**|**BESPOKE: Benchmark for Search-Augmented Large Language Model Personalization via Diagnostic Feedback**|[2509.21106](http://arxiv.org/abs/2509.21106)|**[link](https://augustinlib.github.io/BESPOKE/.)**|
 |**2025-09-25**|**CLAUSE: Agentic Neuro-Symbolic Knowledge Graph Reasoning via Dynamic Learnable Context Engineering**|[2509.21035](http://arxiv.org/abs/2509.21035)|null|
@@ -404,7 +404,7 @@
 |**2025-09-25**|**Unlocking Financial Insights: An advanced Multimodal Summarization with Multimodal Output Framework for Financial Advisory Videos**|[2509.20961](http://arxiv.org/abs/2509.20961)|**[link](https://github.com/sarmistha-D/FASTER)**|
 |**2025-09-25**|**Beyond Stars: Bridging the Gap Between Ratings and Review Sentiment with LLM**|[2509.20953](http://arxiv.org/abs/2509.20953)|null|
 |**2025-09-25**|**Markup Language Modeling for Web Document Understanding**|[2509.20940](http://arxiv.org/abs/2509.20940)|null|
-|**2025-09-25**|**FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets**|[2509.20904](http://arxiv.org/abs/2509.20904)|**[link](https://github.com/selous123/al_sid.)**|
+|**2025-09-26**|**FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets**|[2509.20904](http://arxiv.org/abs/2509.20904)|**[link](https://github.com/selous123/al_sid.)**|
 |**2025-09-25**|**RecIS: Sparse to Dense, A Unified Training Framework for Recommendation Models**|[2509.20883](http://arxiv.org/abs/2509.20883)|null|
 |**2025-09-25**|**PseudoBridge: Pseudo Code as the Bridge for Better Semantic and Logic Alignment in Code Retrieval**|[2509.20881](http://arxiv.org/abs/2509.20881)|null|
 |**2025-09-25**|**Concise and Sufficient Sub-Sentence Citations for Retrieval-Augmented Generation**|[2509.20859](http://arxiv.org/abs/2509.20859)|null|
@@ -1072,7 +1072,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -1085,18 +1085,18 @@
 |**2025-09-25**|**Retrieval over Classification: Integrating Relation Semantics for Multimodal Relation Extraction**|[2509.21151](http://arxiv.org/abs/2509.21151)|null|
 |**2025-09-25**|**CAD-Tokenizer: Towards Text-based CAD Prototyping via Modality-Specific Tokenization**|[2509.21150](http://arxiv.org/abs/2509.21150)|null|
 |**2025-09-25**|**Automotive-ENV: Benchmarking Multimodal Agents in Vehicle Interface Systems**|[2509.21143](http://arxiv.org/abs/2509.21143)|null|
-|**2025-09-25**|**MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for Video Temporal Reasoning**|[2509.21113](http://arxiv.org/abs/2509.21113)|null|
+|**2025-09-26**|**MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for Video Temporal Reasoning**|[2509.21113](http://arxiv.org/abs/2509.21113)|null|
 |**2025-09-25**|**VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception**|[2509.21100](http://arxiv.org/abs/2509.21100)|null|
 |**2025-09-25**|**SoM-1K: A Thousand-Problem Benchmark Dataset for Strength of Materials**|[2509.21079](http://arxiv.org/abs/2509.21079)|null|
 |**2025-09-25**|**Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution**|[2509.21072](http://arxiv.org/abs/2509.21072)|null|
-|**2025-09-25**|**Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models**|[2509.21060](http://arxiv.org/abs/2509.21060)|null|
+|**2025-09-26**|**Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models**|[2509.21060](http://arxiv.org/abs/2509.21060)|null|
 |**2025-09-25**|**Harnessing optical disorder for Bell inequalities violation**|[2509.21052](http://arxiv.org/abs/2509.21052)|null|
 |**2025-09-25**|**GeoRef: Referring Expressions in Geometry via Task Formulation, Synthetic Supervision, and Reinforced MLLM-based Solutions**|[2509.21050](http://arxiv.org/abs/2509.21050)|null|
 |**2025-09-25**|**SupCLAP: Controlling Optimization Trajectory Drift in Audio-Text Contrastive Learning with Support Vector Regularization**|[2509.21033](http://arxiv.org/abs/2509.21033)|null|
-|**2025-09-25**|**FORCE: Transferable Visual Jailbreaking Attacks via Feature Over-Reliance CorrEction**|[2509.21029](http://arxiv.org/abs/2509.21029)|null|
+|**2025-09-26**|**FORCE: Transferable Visual Jailbreaking Attacks via Feature Over-Reliance CorrEction**|[2509.21029](http://arxiv.org/abs/2509.21029)|null|
 |**2025-09-25**|**Unlocking Financial Insights: An advanced Multimodal Summarization with Multimodal Output Framework for Financial Advisory Videos**|[2509.20961](http://arxiv.org/abs/2509.20961)|**[link](https://github.com/sarmistha-D/FASTER)**|
 |**2025-09-25**|**DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning**|[2509.20912](http://arxiv.org/abs/2509.20912)|null|
-|**2025-09-25**|**FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets**|[2509.20904](http://arxiv.org/abs/2509.20904)|**[link](https://github.com/selous123/al_sid.)**|
+|**2025-09-26**|**FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets**|[2509.20904](http://arxiv.org/abs/2509.20904)|**[link](https://github.com/selous123/al_sid.)**|
 |**2025-09-25**|**ArchGPT: Understanding the World's Architectures with Large Multimodal Models**|[2509.20858](http://arxiv.org/abs/2509.20858)|null|
 |**2025-09-25**|**Intelligent Mode Sorting in Turbulence with Task-Dependent Optical Neural Networks**|[2509.20818](http://arxiv.org/abs/2509.20818)|null|
 |**2025-09-25**|**Revolutionizing Precise Low Back Pain Diagnosis via Contrastive Learning**|[2509.20813](http://arxiv.org/abs/2509.20813)|null|
@@ -1704,7 +1704,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -1727,13 +1727,13 @@
 |**2025-09-25**|**ToMPO: Training LLM Strategic Decision Making from a Multi-Agent Perspective**|[2509.21134](http://arxiv.org/abs/2509.21134)|null|
 |**2025-09-25**|**RL Squeezes, SFT Expands: A Comparative Study of Reasoning LLMs**|[2509.21128](http://arxiv.org/abs/2509.21128)|null|
 |**2025-09-25**|**Teaching RL Agents to Act Better: VLM as Action Advisor for Online Reinforcement Learning**|[2509.21126](http://arxiv.org/abs/2509.21126)|null|
-|**2025-09-25**|**Expanding Reasoning Potential in Foundation Model by Learning Diverse Chains of Thought Patterns**|[2509.21124](http://arxiv.org/abs/2509.21124)|null|
+|**2025-09-26**|**Expanding Reasoning Potential in Foundation Model by Learning Diverse Chains of Thought Patterns**|[2509.21124](http://arxiv.org/abs/2509.21124)|null|
 |**2025-09-25**|**Rich State Observations Empower Reinforcement Learning to Surpass PID: A Drone Ball Balancing Study**|[2509.21122](http://arxiv.org/abs/2509.21122)|null|
-|**2025-09-25**|**MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for Video Temporal Reasoning**|[2509.21113](http://arxiv.org/abs/2509.21113)|null|
+|**2025-09-26**|**MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for Video Temporal Reasoning**|[2509.21113](http://arxiv.org/abs/2509.21113)|null|
 |**2025-09-25**|**Cross-Modal Instructions for Robot Motion Generation**|[2509.21107](http://arxiv.org/abs/2509.21107)|null|
 |**2025-09-25**|**VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception**|[2509.21100](http://arxiv.org/abs/2509.21100)|null|
 |**2025-09-25**|**Task-Oriented Computation Offloading for Edge Inference: An Integrated Bayesian Optimization and Deep Reinforcement Learning Framework**|[2509.21090](http://arxiv.org/abs/2509.21090)|null|
-|**2025-09-25**|**Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models**|[2509.21060](http://arxiv.org/abs/2509.21060)|null|
+|**2025-09-26**|**Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models**|[2509.21060](http://arxiv.org/abs/2509.21060)|null|
 |**2025-09-25**|**GeoRef: Referring Expressions in Geometry via Task Formulation, Synthetic Supervision, and Reinforced MLLM-based Solutions**|[2509.21050](http://arxiv.org/abs/2509.21050)|null|
 |**2025-09-25**|**Physics of Learning: A Lagrangian perspective to different learning paradigms**|[2509.21049](http://arxiv.org/abs/2509.21049)|null|
 |**2025-09-25**|**MPC-based Deep Reinforcement Learning Method for Space Robotic Control with Fuel Sloshing Mitigation**|[2509.21045](http://arxiv.org/abs/2509.21045)|null|
@@ -1755,7 +1755,7 @@
 |**2025-09-25**|**Zero-Shot Privacy-Aware Text Rewriting via Iterative Tree Search**|[2509.20838](http://arxiv.org/abs/2509.20838)|null|
 |**2025-09-25**|**Leveraging Temporally Extended Behavior Sharing for Multi-task Reinforcement Learning**|[2509.20766](http://arxiv.org/abs/2509.20766)|null|
 |**2025-09-25**|**SLAM-Free Visual Navigation with Hierarchical Vision-Language Perception and Coarse-to-Fine Semantic Topological Planning**|[2509.20739](http://arxiv.org/abs/2509.20739)|null|
-|**2025-09-25**|**SeamCrafte: Enhancing Mesh Seam Generation for Artist UV Unwrapping via Reinforcement Learning**|[2509.20725](http://arxiv.org/abs/2509.20725)|null|
+|**2025-09-26**|**SeamCrafter: Enhancing Mesh Seam Generation for Artist UV Unwrapping via Reinforcement Learning**|[2509.20725](http://arxiv.org/abs/2509.20725)|null|
 |**2025-09-25**|**RobotDancing: Residual-Action Reinforcement Learning Enables Robust Long-Horizon Humanoid Motion Tracking**|[2509.20717](http://arxiv.org/abs/2509.20717)|null|
 |**2025-09-25**|**CE-GPPO: Controlling Entropy via Gradient-Preserving Clipping Policy Optimization in Reinforcement Learning**|[2509.20712](http://arxiv.org/abs/2509.20712)|null|
 |**2025-09-25**|**RuN: Residual Policy for Natural Humanoid Locomotion**|[2509.20696](http://arxiv.org/abs/2509.20696)|null|
@@ -1811,7 +1811,7 @@
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
