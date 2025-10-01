@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.30
+## Updated on 2025.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -415,7 +415,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
 
 ## Retrieval
 
@@ -459,7 +459,7 @@ layout: default
 |**2025-09-29**|**LLUAD: Low-Latency User-Anonymized DNS**|[2509.24174](http://arxiv.org/abs/2509.24174)|null|
 |**2025-09-29**|**Memory Transfer Planning: LLM-driven Context-Aware Code Adaptation for Robot Manipulation**|[2509.24160](http://arxiv.org/abs/2509.24160)|null|
 |**2025-09-29**|**Reasoning or Retrieval? A Study of Answer Attribution on Large Reasoning Models**|[2509.24156](http://arxiv.org/abs/2509.24156)|null|
-|**2025-09-29**|**TENET: Leveraging Tests Beyond Validation for Code Generation**|[2509.24148](http://arxiv.org/abs/2509.24148)|null|
+|**2025-09-30**|**TENET: Leveraging Tests Beyond Validation for Code Generation**|[2509.24148](http://arxiv.org/abs/2509.24148)|null|
 |**2025-09-28**|**Transparent, Evaluable, and Accessible Data Agents: A Proof-of-Concept Framework**|[2509.24127](http://arxiv.org/abs/2509.24127)|null|
 |**2025-09-28**|**The Impossibility of Inverse Permutation Learning in Transformer Models**|[2509.24125](http://arxiv.org/abs/2509.24125)|null|
 |**2025-09-28**|**Fathom-DeepResearch: Unlocking Long Horizon Information Retrieval and Synthesis for SLMs**|[2509.24107](http://arxiv.org/abs/2509.24107)|null|
@@ -1206,7 +1206,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -1248,7 +1248,7 @@ layout: default
 |**2025-09-29**|**Vid-LLM: A Compact Video-based 3D Multimodal LLM with Reconstruction-Reasoning Synergy**|[2509.24385](http://arxiv.org/abs/2509.24385)|null|
 |**2025-09-29**|**RServe: Overlapping Encoding and Prefill for Efficient LMM Inference**|[2509.24381](http://arxiv.org/abs/2509.24381)|null|
 |**2025-09-29**|**Uni-X: Mitigating Modality Conflict with a Two-End-Separated Architecture for Unified Multimodal Models**|[2509.24365](http://arxiv.org/abs/2509.24365)|**[link](https://github.com/CURRENTF/Uni-X)**|
-|**2025-09-29**|**UI-UG: A Unified MLLM for UI Understanding and Generation**|[2509.24361](http://arxiv.org/abs/2509.24361)|null|
+|**2025-09-30**|**UI-UG: A Unified MLLM for UI Understanding and Generation**|[2509.24361](http://arxiv.org/abs/2509.24361)|**[link](https://github.com/neovateai/UI-UG)**|
 |**2025-09-29**|**Multimodal Large Language Models Meet Multimodal Emotion Recognition and Reasoning: A Survey**|[2509.24322](http://arxiv.org/abs/2509.24322)|**[link](https://github.com/yuntaoshou/Awesome-Emotion-Reasoning}{https://github.com/yuntaoshou/Awesome-Emotion-Reasoning}.)**|
 |**2025-09-29**|**MedMMV: A Controllable Multimodal Multi-Agent Framework for Reliable and Verifiable Clinical Reasoning**|[2509.24314](http://arxiv.org/abs/2509.24314)|null|
 |**2025-09-29**|**SVGThinker: Instruction-Aligned and Reasoning-Driven Text-to-SVG Generation**|[2509.24299](http://arxiv.org/abs/2509.24299)|null|
@@ -1938,7 +1938,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -1948,8 +1948,8 @@ layout: default
 |**2025-09-29**|**The Era of Real-World Human Interaction: RL from User Conversations**|[2509.25137](http://arxiv.org/abs/2509.25137)|null|
 |**2025-09-29**|**Learning in an Echo Chamber: Online Learning with Replay Adversary**|[2509.25135](http://arxiv.org/abs/2509.25135)|null|
 |**2025-09-29**|**Rethinking Entropy Regularization in Large Reasoning Models**|[2509.25133](http://arxiv.org/abs/2509.25133)|null|
-|**2025-09-29**|**BRIDGE -- Building Reinforcement-Learning Depth-to-Image Data Generation Engine for Monocular Depth Estimation**|[2509.25077](http://arxiv.org/abs/2509.25077)|**[link](https://dingning-liu.github.io/bridge.github.io/.)**|
-|**2025-09-29**|**AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets for Robust Exploration**|[2509.25055](http://arxiv.org/abs/2509.25055)|**[link](https://github.com/BerkinChen/AlphaSAGE.)**|
+|**2025-09-30**|**BRIDGE -- Building Reinforcement-Learning Depth-to-Image Data Generation Engine for Monocular Depth Estimation**|[2509.25077](http://arxiv.org/abs/2509.25077)|**[link](https://dingning-liu.github.io/bridge.github.io/.)**|
+|**2025-09-30**|**AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets for Robust Exploration**|[2509.25055](http://arxiv.org/abs/2509.25055)|**[link](https://github.com/BerkinChen/AlphaSAGE.)**|
 |**2025-09-29**|**Cogito, Ergo Ludo: An Agent that Learns to Play by Reasoning and Planning**|[2509.25052](http://arxiv.org/abs/2509.25052)|null|
 |**2025-09-29**|**Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models**|[2509.25050](http://arxiv.org/abs/2509.25050)|**[link](https://github.com/scxue/advantage_weighted_matching.)**|
 |**2025-09-29**|**Scaling Synthetic Task Generation for Agents via Exploration**|[2509.25047](http://arxiv.org/abs/2509.25047)|null|
@@ -1970,7 +1970,7 @@ layout: default
 |**2025-09-29**|**JuggleRL: Mastering Ball Juggling with a Quadrotor via Deep Reinforcement Learning**|[2509.24892](http://arxiv.org/abs/2509.24892)|null|
 |**2025-09-29**|**Pixels to Prices: Visual Traits, Market Cycles, and the Economics of NFT Valuation**|[2509.24879](http://arxiv.org/abs/2509.24879)|null|
 |**2025-09-29**|**Retro*: Optimizing LLMs for Reasoning-Intensive Document Retrieval**|[2509.24869](http://arxiv.org/abs/2509.24869)|null|
-|**2025-09-29**|**Pushing LLMs to Their Logical Reasoning Bound: The Role of Data Reasoning Intensity**|[2509.24836](http://arxiv.org/abs/2509.24836)|null|
+|**2025-09-30**|**Pushing LLMs to Their Logical Reasoning Bound: The Role of Data Reasoning Intensity**|[2509.24836](http://arxiv.org/abs/2509.24836)|null|
 |**2025-09-29**|**Intelligent Optimization of Wireless Access Point Deployment for Communication-Based Train Control Systems Using Deep Reinforcement Learning**|[2509.24819](http://arxiv.org/abs/2509.24819)|null|
 |**2025-09-29**|**DyMoDreamer: World Modeling with Dynamic Modulation**|[2509.24804](http://arxiv.org/abs/2509.24804)|**[link](https://github.com/Ultraman-Tiga1/DyMoDreamer.)**|
 |**2025-09-29**|**TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models**|[2509.24803](http://arxiv.org/abs/2509.24803)|null|
@@ -1985,7 +1985,7 @@ layout: default
 |**2025-09-29**|**T-POP: Test-Time Personalization with Online Preference Feedback**|[2509.24696](http://arxiv.org/abs/2509.24696)|null|
 |**2025-09-29**|**Automated Discovery of Gadgets in Quantum Circuits for Efficient Reinforcement Learning**|[2509.24666](http://arxiv.org/abs/2509.24666)|null|
 |**2025-09-29**|**Successful Misunderstandings: Learning to Coordinate Without Being Understood**|[2509.24660](http://arxiv.org/abs/2509.24660)|null|
-|**2025-09-29**|**OrthAlign: Orthogonal Subspace Decomposition for Non-Interfering Multi-Objective Alignment**|[2509.24610](http://arxiv.org/abs/2509.24610)|null|
+|**2025-09-30**|**OrthAlign: Orthogonal Subspace Decomposition for Non-Interfering Multi-Objective Alignment**|[2509.24610](http://arxiv.org/abs/2509.24610)|null|
 |**2025-09-29**|**Bandits roaming Hilbert space**|[2509.24569](http://arxiv.org/abs/2509.24569)|null|
 |**2025-09-29**|**Emergent World Representations in OpenVLA**|[2509.24559](http://arxiv.org/abs/2509.24559)|null|
 |**2025-09-29**|**Deep Reinforcement Learning in Action: Real-Time Control of Vortex-Induced Vibrations**|[2509.24556](http://arxiv.org/abs/2509.24556)|null|
@@ -2145,7 +2145,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
