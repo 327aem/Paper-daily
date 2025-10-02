@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.01
+## Updated on 2025.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -17,7 +17,7 @@ layout: default
 |**2025-09-30**|**Temperature Optimisation in Data Centres**|[2509.26163](http://arxiv.org/abs/2509.26163)|null|
 |**2025-09-30**|**MEDAKA: Construction of Biomedical Knowledge Graphs Using Large Language Models**|[2509.26128](http://arxiv.org/abs/2509.26128)|**[link](https://github.com/medakakg/medaka.)**|
 |**2025-09-30**|**Items Proxy Bridging: Enabling Frictionless Critiquing in Knowledge Graph Recommendations**|[2509.26107](http://arxiv.org/abs/2509.26107)|null|
-|**2025-09-30**|**Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts**|[2509.26093](http://arxiv.org/abs/2509.26093)|null|
+|**2025-10-01**|**Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts**|[2509.26093](http://arxiv.org/abs/2509.26093)|null|
 |**2025-09-30**|**Fading to Grow: Growing Preference Ratios via Preference Fading Discrete Diffusion for Recommendation**|[2509.26063](http://arxiv.org/abs/2509.26063)|null|
 |**2025-09-30**|**MHINDR -- a DSM5 based mental health diagnosis and recommendation framework using LLM**|[2509.25992](http://arxiv.org/abs/2509.25992)|null|
 |**2025-09-30**|**Quantitative Evaluation of KIRETT Wearable Demonstrator for Rescue Operations**|[2509.25928](http://arxiv.org/abs/2509.25928)|null|
@@ -441,7 +441,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
 
 ## Retrieval
 
@@ -454,14 +454,14 @@ layout: default
 |**2025-09-30**|**Informed Dataset Selection**|[2509.26448](http://arxiv.org/abs/2509.26448)|null|
 |**2025-09-30**|**MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation**|[2509.26391](http://arxiv.org/abs/2509.26391)|null|
 |**2025-09-30**|**PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer**|[2509.26386](http://arxiv.org/abs/2509.26386)|**[link](https://github.com/showlab/PANDA.)**|
-|**2025-09-30**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|[2509.26383](http://arxiv.org/abs/2509.26383)|**[link](https://github.com/Jinyeop3110/KG-R1.)**|
+|**2025-10-01**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|[2509.26383](http://arxiv.org/abs/2509.26383)|**[link](https://github.com/Jinyeop3110/KG-R1.)**|
 |**2025-09-30**|**MR $^2$ -Bench: Going Beyond Matching to Reasoning in Multimodal Retrieval**|[2509.26378](http://arxiv.org/abs/2509.26378)|**[link](https://github.com/VectorSpaceLab/MR2-Bench.)**|
 |**2025-09-30**|**SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval**|[2509.26330](http://arxiv.org/abs/2509.26330)|null|
 |**2025-09-30**|**Analyzing BEV Suitability and Charging Strategies Using Italian Driving Data**|[2509.26262](http://arxiv.org/abs/2509.26262)|null|
 |**2025-09-30**|**Human-Centered Evaluation of RAG outputs: a framework and questionnaire for human-AI collaboration**|[2509.26205](http://arxiv.org/abs/2509.26205)|null|
 |**2025-09-30**|**Self-supervised learning for phase retrieval**|[2509.26203](http://arxiv.org/abs/2509.26203)|null|
 |**2025-09-30**|**Toward an Unbiased Collective Memory for Efficient LLM-Based Agentic 6G Cross-Domain Management**|[2509.26200](http://arxiv.org/abs/2509.26200)|**[link](https://github.com/HatimChergui/unbiased-collective-memory).)**|
-|**2025-09-30**|**Auto-ARGUE: LLM-Based Report Generation Evaluation**|[2509.26184](http://arxiv.org/abs/2509.26184)|null|
+|**2025-10-01**|**Auto-ARGUE: LLM-Based Report Generation Evaluation**|[2509.26184](http://arxiv.org/abs/2509.26184)|null|
 |**2025-09-30**|**Leveraging Scene Context with Dual Networks for Sequential User Behavior Modeling**|[2509.26172](http://arxiv.org/abs/2509.26172)|**[link](https://anonymous.4open.science/r/DSPNet-ForPublish-2506/}.)**|
 |**2025-09-30**|**CliniBench: A Clinical Outcome Prediction Benchmark for Generative and Encoder-Based Language Models**|[2509.26136](http://arxiv.org/abs/2509.26136)|null|
 |**2025-09-30**|**Items Proxy Bridging: Enabling Frictionless Critiquing in Knowledge Graph Recommendations**|[2509.26107](http://arxiv.org/abs/2509.26107)|null|
@@ -1282,7 +1282,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -1302,7 +1302,7 @@ layout: default
 |**2025-09-30**|**TAU: A Benchmark for Cultural Sound Understanding Beyond Semantics**|[2509.26329](http://arxiv.org/abs/2509.26329)|null|
 |**2025-09-30**|**LLM-MCoX: Large Language Model-based Multi-robot Coordinated Exploration and Search**|[2509.26324](http://arxiv.org/abs/2509.26324)|null|
 |**2025-09-30**|**Anomaly detection for generic failure monitoring in robotic assembly, screwing and manipulation**|[2509.26308](http://arxiv.org/abs/2509.26308)|null|
-|**2025-09-30**|**PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection**|[2509.26272](http://arxiv.org/abs/2509.26272)|null|
+|**2025-10-01**|**PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection**|[2509.26272](http://arxiv.org/abs/2509.26272)|null|
 |**2025-09-30**|**IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance**|[2509.26231](http://arxiv.org/abs/2509.26231)|**[link](https://github.com/SHI-Labs/IMG-Multimodal-Diffusion-Alignment.)**|
 |**2025-09-30**|**An Experimental Study on Generating Plausible Textual Explanations for Video Summarization**|[2509.26225](http://arxiv.org/abs/2509.26225)|null|
 |**2025-09-30**|**Nephrobase Cell+: Multimodal Single-Cell Foundation Model for Decoding Kidney Biology**|[2509.26223](http://arxiv.org/abs/2509.26223)|null|
@@ -1315,7 +1315,7 @@ layout: default
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
 |**2025-09-30**|**Boosting Process-Correct CoT Reasoning by Modeling Solvability of Multiple-Choice QA**|[2509.25941](http://arxiv.org/abs/2509.25941)|null|
 |**2025-09-30**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|[2509.25896](http://arxiv.org/abs/2509.25896)|null|
-|**2025-09-30**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|[2509.25889](http://arxiv.org/abs/2509.25889)|null|
+|**2025-10-01**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|[2509.25889](http://arxiv.org/abs/2509.25889)|null|
 |**2025-09-30**|**SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents**|[2509.25885](http://arxiv.org/abs/2509.25885)|null|
 |**2025-09-30**|**DeepSketcher: Internalizing Visual Manipulation for Multimodal Reasoning**|[2509.25866](http://arxiv.org/abs/2509.25866)|null|
 |**2025-09-30**|**MuSLR: Multimodal Symbolic Logical Reasoning**|[2509.25851](http://arxiv.org/abs/2509.25851)|**[link](https://llm-symbol.github.io/MuSLR.)**|
@@ -1327,7 +1327,7 @@ layout: default
 |**2025-09-30**|**Personalized Scientific Figure Caption Generation: An Empirical Study on Author-Specific Writing Style Transfer**|[2509.25817](http://arxiv.org/abs/2509.25817)|null|
 |**2025-09-30**|**Logo-VGR: Visual Grounded Reasoning for Open-world Logo Recognition**|[2509.25811](http://arxiv.org/abs/2509.25811)|null|
 |**2025-09-30**|**V-HUB: A Visual-Centric Humor Understanding Benchmark for Video LLMs**|[2509.25773](http://arxiv.org/abs/2509.25773)|null|
-|**2025-09-30**|**Dolphin v1.0 Technical Report**|[2509.25748](http://arxiv.org/abs/2509.25748)|null|
+|**2025-10-01**|**Dolphin v1.0 Technical Report**|[2509.25748](http://arxiv.org/abs/2509.25748)|null|
 |**2025-09-30**|**FinCap: Topic-Aligned Captions for Short-Form Financial YouTube Videos**|[2509.25745](http://arxiv.org/abs/2509.25745)|null|
 |**2025-09-30**|**LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing**|[2509.25731](http://arxiv.org/abs/2509.25731)|null|
 |**2025-09-30**|**Importance Sampling for Multi-Negative Multimodal Direct Preference Optimization**|[2509.25717](http://arxiv.org/abs/2509.25717)|null|
@@ -2064,7 +2064,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -2083,15 +2083,15 @@ layout: default
 |**2025-09-30**|**Topology of the Aharonov-Bohm effect in different reference frames**|[2509.26533](http://arxiv.org/abs/2509.26533)|null|
 |**2025-09-30**|**Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning**|[2509.26442](http://arxiv.org/abs/2509.26442)|null|
 |**2025-09-30**|**Institutional Policy Pathways for Supporting Research Software: Global Trends and Local Practices**|[2509.26422](http://arxiv.org/abs/2509.26422)|null|
-|**2025-09-30**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|[2509.26383](http://arxiv.org/abs/2509.26383)|**[link](https://github.com/Jinyeop3110/KG-R1.)**|
+|**2025-10-01**|**Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning**|[2509.26383](http://arxiv.org/abs/2509.26383)|**[link](https://github.com/Jinyeop3110/KG-R1.)**|
 |**2025-09-30**|**Go with Your Gut: Scaling Confidence for Autoregressive Image Generation**|[2509.26376](http://arxiv.org/abs/2509.26376)|null|
 |**2025-09-30**|**Data-to-Energy Stochastic Dynamics**|[2509.26364](http://arxiv.org/abs/2509.26364)|**[link](https://github.com/mmacosha/d2e-stochastic-dynamics)**|
 |**2025-09-30**|**EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing**|[2509.26346](http://arxiv.org/abs/2509.26346)|null|
 |**2025-09-30**|**Memory-Driven Self-Improvement for Decision Making with Large Language Models**|[2509.26340](http://arxiv.org/abs/2509.26340)|null|
 |**2025-09-30**|**Latent Thinking Optimization: Your Latent Reasoning Language Model Secretly Encodes Reward Signals in its Latent Thoughts**|[2509.26314](http://arxiv.org/abs/2509.26314)|null|
 |**2025-09-30**|**One-Token Rollout: Guiding Supervised Fine-Tuning of LLMs with Policy Gradient**|[2509.26313](http://arxiv.org/abs/2509.26313)|null|
-|**2025-09-30**|**Interactive Learning for LLM Reasoning**|[2509.26306](http://arxiv.org/abs/2509.26306)|null|
-|**2025-09-30**|**PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection**|[2509.26272](http://arxiv.org/abs/2509.26272)|null|
+|**2025-10-01**|**Interactive Learning for LLM Reasoning**|[2509.26306](http://arxiv.org/abs/2509.26306)|null|
+|**2025-10-01**|**PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection**|[2509.26272](http://arxiv.org/abs/2509.26272)|null|
 |**2025-09-30**|**ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm**|[2509.26236](http://arxiv.org/abs/2509.26236)|null|
 |**2025-09-30**|**IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance**|[2509.26231](http://arxiv.org/abs/2509.26231)|**[link](https://github.com/SHI-Labs/IMG-Multimodal-Diffusion-Alignment.)**|
 |**2025-09-30**|**Thinking-Free Policy Initialization Makes Distilled Reasoning Models More Effective and Efficient Reasoners**|[2509.26226](http://arxiv.org/abs/2509.26226)|null|
@@ -2099,7 +2099,7 @@ layout: default
 |**2025-09-30**|**Alignment-Aware Decoding**|[2509.26169](http://arxiv.org/abs/2509.26169)|null|
 |**2025-09-30**|**Accelerating Transformers in Online RL**|[2509.26137](http://arxiv.org/abs/2509.26137)|null|
 |**2025-09-30**|**Clip-Low Increases Entropy and Clip-High Decreases Entropy in Reinforcement Learning of Large Language Models**|[2509.26114](http://arxiv.org/abs/2509.26114)|null|
-|**2025-09-30**|**Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts**|[2509.26093](http://arxiv.org/abs/2509.26093)|null|
+|**2025-10-01**|**Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts**|[2509.26093](http://arxiv.org/abs/2509.26093)|null|
 |**2025-09-30**|**Evolutionary Continuous Adaptive RL-Powered Co-Design for Humanoid Chin-Up Performance**|[2509.26082](http://arxiv.org/abs/2509.26082)|null|
 |**2025-09-30**|**Knowledge Defined Networking for 6G: A Reinforcement Learning Example for Resource Management**|[2509.26075](http://arxiv.org/abs/2509.26075)|null|
 |**2025-09-30**|**Limited Preference Data? Learning Better Reward Model with Latent Space Synthesis**|[2509.26074](http://arxiv.org/abs/2509.26074)|**[link](https://github.com/deeplearning-wisc/lens)**|
@@ -2321,7 +2321,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
