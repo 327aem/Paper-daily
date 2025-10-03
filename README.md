@@ -15,6 +15,38 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-10-02**|**Drawing Conclusions from Draws: Rethinking Preference Semantics in Arena-Style LLM Evaluation**|[2510.02306](http://arxiv.org/abs/2510.02306)|null|
+|**2025-10-02**|**C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems**|[2510.02215](http://arxiv.org/abs/2510.02215)|null|
+|**2025-10-02**|**When Tracking Fails: Analyzing Failure Modes of SAM2 for Point-Based Tracking in Surgical Videos**|[2510.02100](http://arxiv.org/abs/2510.02100)|null|
+|**2025-10-02**|**Investigating the need for a robust ultraviolet filter set aboard the Habitable Worlds Observatory**|[2510.02054](http://arxiv.org/abs/2510.02054)|null|
+|**2025-10-02**|**Ranking Items from Discrete Ratings: The Cost of Unknown User Thresholds**|[2510.01871](http://arxiv.org/abs/2510.01871)|null|
+|**2025-10-02**|**Human-AI Teaming Co-Learning in Military Operations**|[2510.01815](http://arxiv.org/abs/2510.01815)|null|
+|**2025-10-02**|**TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling**|[2510.01698](http://arxiv.org/abs/2510.01698)|null|
+|**2025-10-02**|**LLM4Rec: Large Language Models for Multimodal Generative Recommendation with Causal Debiasing**|[2510.01622](http://arxiv.org/abs/2510.01622)|null|
+|**2025-10-02**|**Learning to Decide with Just Enough: Information-Theoretic Context Summarization for CDMPs**|[2510.01620](http://arxiv.org/abs/2510.01620)|null|
+|**2025-10-02**|**Automated Genomic Interpretation via Concept Bottleneck Models for Medical Robotics**|[2510.01618](http://arxiv.org/abs/2510.01618)|null|
+|**2025-10-02**|**AgentRec: Next-Generation LLM-Powered Multi-Agent Collaborative Recommendation with Adaptive Intelligence**|[2510.01609](http://arxiv.org/abs/2510.01609)|null|
+|**2025-10-02**|**Bridging Collaborative Filtering and Large Language Models with Dynamic Alignment, Multimodal Fusion and Evidence-grounded Explanations**|[2510.01606](http://arxiv.org/abs/2510.01606)|null|
+|**2025-10-02**|**Synthetic Prefixes to Mitigate Bias in Real-Time Neural Query Autocomplete**|[2510.01574](http://arxiv.org/abs/2510.01574)|null|
+|**2025-10-01**|**MetaSynth: Multi-Agent Metadata Generation from Implicit Feedback in Black-Box Systems**|[2510.01523](http://arxiv.org/abs/2510.01523)|null|
+|**2025-10-01**|**Retrieval-Augmented Framework for LLM-Based Clinical Decision Support**|[2510.01363](http://arxiv.org/abs/2510.01363)|null|
+|**2025-09-30**|**An Analysis of the New EU AI Act and A Proposed Standardization Framework for Machine Learning Fairness**|[2510.01281](http://arxiv.org/abs/2510.01281)|null|
+|**2025-10-01**|**When Shared Worlds Break: Demystifying Defects in Multi-User Extended Reality Software Systems**|[2510.01182](http://arxiv.org/abs/2510.01182)|null|
+|**2025-10-01**|**Automatic Speech Recognition (ASR) for African Low-Resource Languages: A Systematic Literature Review**|[2510.01145](http://arxiv.org/abs/2510.01145)|null|
+|**2025-10-01**|**Evaluating Informative Cluster Size in Cluster Randomized Trials**|[2510.01127](http://arxiv.org/abs/2510.01127)|null|
+|**2025-10-01**|**Strategic Fusion of Vision Language Models: Shapley-Credited Context-Aware Dawid-Skene for Multi-Label Tasks in Autonomous Driving**|[2510.01126](http://arxiv.org/abs/2510.01126)|null|
+|**2025-10-01**|**Developers' Perspectives on Software Licensing: Current Practices, Challenges, and Tools**|[2510.01096](http://arxiv.org/abs/2510.01096)|null|
+|**2025-10-01**|**ChatGPT in Introductory Programming: Counterbalanced Evaluation of Code Quality, Conceptual Learning, and Student Perceptions**|[2510.00946](http://arxiv.org/abs/2510.00946)|null|
+|**2025-10-02**|**Mechanistic Interpretability as Statistical Estimation: A Variance Analysis of EAP-IG**|[2510.00845](http://arxiv.org/abs/2510.00845)|null|
+|**2025-10-01**|**What You See is What You Ask: Evaluating Audio Descriptions**|[2510.00808](http://arxiv.org/abs/2510.00808)|null|
+|**2025-10-01**|**Multi-Agent Stage-wise Conservative Linear Bandits**|[2510.00602](http://arxiv.org/abs/2510.00602)|null|
+|**2025-10-01**|**Panorama: Fast-Track Nearest Neighbors**|[2510.00566](http://arxiv.org/abs/2510.00566)|null|
+|**2025-10-01**|**Face2Feel: Emotion-Aware Adaptive User Interface**|[2510.00489](http://arxiv.org/abs/2510.00489)|null|
+|**2025-10-01**|**Investigating Encoding and Perspective for Augmented Reality**|[2510.00407](http://arxiv.org/abs/2510.00407)|null|
+|**2025-09-30**|**A Framework for Selection of Machine Learning Algorithms Based on Performance Metrices and Akaike Information Criteria in Healthcare, Telecommunication, and Marketing Sector**|[2510.00321](http://arxiv.org/abs/2510.00321)|null|
+|**2025-09-30**|**Bayesian Model Comparison and Significance: Widespread Errors and how to Correct Them**|[2510.00169](http://arxiv.org/abs/2510.00169)|null|
+|**2025-09-30**|**What's in Your Transit? Towards Reliably Getting $5\times$ More Science from Exoplanet Transit Data**|[2510.00124](http://arxiv.org/abs/2510.00124)|null|
+|**2025-09-30**|**SoREX: Towards Self-Explainable Social Recommendation with Relevant Ego-Path Extraction**|[2510.00080](http://arxiv.org/abs/2510.00080)|**[link](https://github.com/antman9914/SoREX.)**|
 |**2025-09-30**|**Are Robust LLM Fingerprints Adversarially Robust?**|[2509.26598](http://arxiv.org/abs/2509.26598)|null|
 |**2025-09-30**|**The Invisible Mentor: Inferring User Actions from Screen Recordings to Recommend Better Workflows**|[2509.26557](http://arxiv.org/abs/2509.26557)|null|
 |**2025-09-30**|**"Rich-Get-Richer"? Analyzing Content Creator Earnings Across Large Social Media Platforms**|[2509.26523](http://arxiv.org/abs/2509.26523)|null|
@@ -453,6 +485,56 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-10-02**|**AccurateRAG: A Framework for Building Accurate Retrieval-Augmented Question-Answering Applications**|[2510.02243](http://arxiv.org/abs/2510.02243)|null|
+|**2025-10-02**|**Study on LLMs for Promptagator-Style Dense Retriever Training**|[2510.02241](http://arxiv.org/abs/2510.02241)|null|
+|**2025-10-02**|**Contrastive Retrieval Heads Improve Attention-Based Re-Ranking**|[2510.02219](http://arxiv.org/abs/2510.02219)|null|
+|**2025-10-02**|**A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports**|[2510.02190](http://arxiv.org/abs/2510.02190)|null|
+|**2025-10-02**|**Comparing Contrastive and Triplet Loss in Audio-Visual Embedding: Intra-Class Variance and Greediness Analysis**|[2510.02161](http://arxiv.org/abs/2510.02161)|null|
+|**2025-10-02**|**Demystifying the Roles of LLM Layers in Retrieval, Knowledge, and Reasoning**|[2510.02091](http://arxiv.org/abs/2510.02091)|null|
+|**2025-10-02**|**Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage**|[2510.02044](http://arxiv.org/abs/2510.02044)|null|
+|**2025-10-02**|**Exploring Database Normalization Effects on SQL Generation**|[2510.01989](http://arxiv.org/abs/2510.01989)|null|
+|**2025-10-02**|**Veri-R1: Toward Precise and Faithful Claim Verification via Online Reinforcement Learning**|[2510.01932](http://arxiv.org/abs/2510.01932)|null|
+|**2025-10-02**|**Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement**|[2510.01910](http://arxiv.org/abs/2510.01910)|null|
+|**2025-10-02**|**Signal-to-noise and spatial resolution in in-line imaging. 3. Optimization using a simple model**|[2510.01892](http://arxiv.org/abs/2510.01892)|null|
+|**2025-10-02**|**Ranking Items from Discrete Ratings: The Cost of Unknown User Thresholds**|[2510.01871](http://arxiv.org/abs/2510.01871)|null|
+|**2025-10-02**|**Fisher information and trajectorial interpretation to the Itô--Langevin relative entropy dissipation**|[2510.01870](http://arxiv.org/abs/2510.01870)|null|
+|**2025-10-02**|**Learning Representations Through Contrastive Neural Model Checking**|[2510.01853](http://arxiv.org/abs/2510.01853)|null|
+|**2025-10-02**|**Topological Hall effect in nonlinear optics**|[2510.01820](http://arxiv.org/abs/2510.01820)|null|
+|**2025-10-02**|**REBot: From RAG to CatRAG with Semantic Enrichment and Graph Routing**|[2510.01800](http://arxiv.org/abs/2510.01800)|null|
+|**2025-10-02**|**Comparison of Unsupervised Metrics for Evaluating Judicial Decision Extraction**|[2510.01792](http://arxiv.org/abs/2510.01792)|null|
+|**2025-10-02**|**Pack and Force Your Memory: Long-form and Consistent Video Generation**|[2510.01784](http://arxiv.org/abs/2510.01784)|null|
+|**2025-10-02**|**PreprintToPaper dataset: connecting bioRxiv preprints with journal publications**|[2510.01783](http://arxiv.org/abs/2510.01783)|null|
+|**2025-10-02**|**MetaboT: AI-based agent for natural language-based interaction with metabolomics knowledge graphs**|[2510.01724](http://arxiv.org/abs/2510.01724)|**[link](https://metabot.holobiomicslab.eu/],)**|
+|**2025-10-02**|**TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling**|[2510.01698](http://arxiv.org/abs/2510.01698)|null|
+|**2025-10-02**|**LLM4Rec: Large Language Models for Multimodal Generative Recommendation with Causal Debiasing**|[2510.01622](http://arxiv.org/abs/2510.01622)|null|
+|**2025-10-02**|**RAG-BioQA Retrieval-Augmented Generation for Long-Form Biomedical Question Answering**|[2510.01612](http://arxiv.org/abs/2510.01612)|null|
+|**2025-10-02**|**Bridging Collaborative Filtering and Large Language Models with Dynamic Alignment, Multimodal Fusion and Evidence-grounded Explanations**|[2510.01606](http://arxiv.org/abs/2510.01606)|null|
+|**2025-10-02**|**A Comparison of Independent and Joint Fine-tuning Strategies for Retrieval-Augmented Generation**|[2510.01600](http://arxiv.org/abs/2510.01600)|null|
+|**2025-10-02**|**Synthetic Prefixes to Mitigate Bias in Real-Time Neural Query Autocomplete**|[2510.01574](http://arxiv.org/abs/2510.01574)|null|
+|**2025-10-02**|**CardioRAG: A Retrieval-Augmented Generation Framework for Multimodal Chagas Disease Detection**|[2510.01558](http://arxiv.org/abs/2510.01558)|null|
+|**2025-10-02**|**IoDResearch: Deep Research on Private Heterogeneous Data via the Internet of Data**|[2510.01553](http://arxiv.org/abs/2510.01553)|null|
+|**2025-10-01**|**MetaSynth: Multi-Agent Metadata Generation from Implicit Feedback in Black-Box Systems**|[2510.01523](http://arxiv.org/abs/2510.01523)|null|
+|**2025-10-01**|**From Videos to Indexed Knowledge Graphs -- Framework to Marry Methods for Multimodal Content Analysis and Understanding**|[2510.01513](http://arxiv.org/abs/2510.01513)|null|
+|**2025-10-01**|**OntoLogX: Ontology-Guided Knowledge Graph Extraction from Cybersecurity Logs with Large Language Models**|[2510.01409](http://arxiv.org/abs/2510.01409)|null|
+|**2025-10-01**|**Fine-tuning with RAG for Improving LLM Learning of New Skills**|[2510.01375](http://arxiv.org/abs/2510.01375)|null|
+|**2025-10-01**|**Retrieval-Augmented Framework for LLM-Based Clinical Decision Support**|[2510.01363](http://arxiv.org/abs/2510.01363)|null|
+|**2025-10-01**|**GRAD: Generative Retrieval-Aligned Demonstration Sampler for Efficient Few-Shot Reasoning**|[2510.01165](http://arxiv.org/abs/2510.01165)|null|
+|**2025-10-01**|**How Does the Pretraining Distribution Shape In-Context Learning? Task Selection, Generalization, and Robustness**|[2510.01163](http://arxiv.org/abs/2510.01163)|null|
+|**2025-10-01**|**ModernVBERT: Towards Smaller Visual Document Retrievers**|[2510.01149](http://arxiv.org/abs/2510.01149)|**[link](https://huggingface.co/ModernVBERT.)**|
+|**2025-10-01**|**Exploring Network-Knowledge Graph Duality: A Case Study in Agentic Supply Chain Risk Analysis**|[2510.01115](http://arxiv.org/abs/2510.01115)|null|
+|**2025-10-01**|**CodeGenLink: A Tool to Find the Likely Origin and License of Automatically Generated Code**|[2510.01077](http://arxiv.org/abs/2510.01077)|**[link](https://github.com/danielebifolco/CodeGenLink)**|
+|**2025-10-01**|**KeySG: Hierarchical Keyframe-Based 3D Scene Graphs**|[2510.01049](http://arxiv.org/abs/2510.01049)|null|
+|**2025-10-01**|**Improving Code Localization with Repository Memory**|[2510.01003](http://arxiv.org/abs/2510.01003)|null|
+|**2025-10-01**|**A Scene is Worth a Thousand Features: Feed-Forward Camera Localization from a Collection of Image Features**|[2510.00978](http://arxiv.org/abs/2510.00978)|null|
+|**2025-10-01**|**Deep Learning-Based Approach for Improving Relational Aggregated Search**|[2510.00966](http://arxiv.org/abs/2510.00966)|null|
+|**2025-10-02**|**Benchmarking Foundation Models with Retrieval-Augmented Generation in Olympic-Level Physics Problem Solving**|[2510.00919](http://arxiv.org/abs/2510.00919)|null|
+|**2025-10-01**|**Bridging Language Gaps: Advances in Cross-Lingual Information Retrieval with Multilingual LLMs**|[2510.00908](http://arxiv.org/abs/2510.00908)|null|
+|**2025-10-01**|**On Listwise Reranking for Corpus Feedback**|[2510.00887](http://arxiv.org/abs/2510.00887)|null|
+|**2025-10-01**|**HalluGuard: Evidence-Grounded Small Reasoning Models to Mitigate Hallucinations in Retrieval-Augmented Generation**|[2510.00880](http://arxiv.org/abs/2510.00880)|null|
+|**2025-10-01**|**Erase to Improve: Erasable Reinforcement Learning for Search-Augmented LLMs**|[2510.00861](http://arxiv.org/abs/2510.00861)|null|
+|**2025-10-01**|**Exposing the Cracks: Vulnerabilities of Retrieval-Augmented LLM-based Machine Translation**|[2510.00829](http://arxiv.org/abs/2510.00829)|null|
+|**2025-10-01**|**AttentionDep: Domain-Aware Attention for Explainable Depression Severity Assessment**|[2510.00706](http://arxiv.org/abs/2510.00706)|null|
+|**2025-10-01**|**ALARB: An Arabic Legal Argument Reasoning Benchmark**|[2510.00694](http://arxiv.org/abs/2510.00694)|null|
 |**2025-09-30**|**Fairness Testing in Retrieval-Augmented Generation: How Small Perturbations Reveal Bias in Small Language Models**|[2509.26584](http://arxiv.org/abs/2509.26584)|null|
 |**2025-09-30**|**Private Information Retrieval over Graphs**|[2509.26512](http://arxiv.org/abs/2509.26512)|null|
 |**2025-09-30**|**SCUBA: Salesforce Computer Use Benchmark**|[2509.26506](http://arxiv.org/abs/2509.26506)|null|
@@ -1294,6 +1376,56 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-10-02**|**Clink! Chop! Thud! -- Learning Object Sounds from Real-World Interactions**|[2510.02313](http://arxiv.org/abs/2510.02313)|null|
+|**2025-10-02**|**VideoNSA: Native Sparse Attention Scales Video Understanding**|[2510.02295](http://arxiv.org/abs/2510.02295)|null|
+|**2025-10-02**|**MultiModal Action Conditioned Video Generation**|[2510.02287](http://arxiv.org/abs/2510.02287)|null|
+|**2025-10-02**|**DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing**|[2510.02253](http://arxiv.org/abs/2510.02253)|null|
+|**2025-10-02**|**RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning**|[2510.02240](http://arxiv.org/abs/2510.02240)|null|
+|**2025-10-02**|**Towards fairer public transit: Real-time tensor-based multimodal fare evasion and fraud detection**|[2510.02165](http://arxiv.org/abs/2510.02165)|null|
+|**2025-10-02**|**Do AI Models Perform Human-like Abstract Reasoning Across Modalities?**|[2510.02125](http://arxiv.org/abs/2510.02125)|null|
+|**2025-10-02**|**A Copula-Based Variational Autoencoder for Uncertainty Quantification in Inverse Problems: Application to Damage Identification in an Offshore Wind Turbine**|[2510.02013](http://arxiv.org/abs/2510.02013)|null|
+|**2025-10-02**|**Generating Findings for Jaw Cysts in Dental Panoramic Radiographs Using GPT-4o: Building a Two-Stage Self-Correction Loop with Structured Output (SLSO) Framework**|[2510.02001](http://arxiv.org/abs/2510.02001)|null|
+|**2025-10-02**|**Moon: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection**|[2510.01970](http://arxiv.org/abs/2510.01970)|null|
+|**2025-10-02**|**Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs**|[2510.01954](http://arxiv.org/abs/2510.01954)|**[link](https://github.com/Gorilla-Lab-SCUT/PaDT.)**|
+|**2025-10-02**|**Multimodal Foundation Models for Early Disease Detection**|[2510.01899](http://arxiv.org/abs/2510.01899)|null|
+|**2025-10-02**|**Model Merging to Maintain Language-Only Performance in Developmentally Plausible Multimodal Models**|[2510.01845](http://arxiv.org/abs/2510.01845)|null|
+|**2025-10-02**|**What MLLMs Learn about When they Learn about Multimodal Reasoning: Perception, Reasoning, or their Integration?**|[2510.01719](http://arxiv.org/abs/2510.01719)|null|
+|**2025-10-02**|**Latency-aware Multimodal Federated Learning over UAV Networks**|[2510.01717](http://arxiv.org/abs/2510.01717)|null|
+|**2025-10-02**|**Multimodal Feedback for Task Guidance in Augmented Reality**|[2510.01690](http://arxiv.org/abs/2510.01690)|null|
+|**2025-10-02**|**Look Less, Reason More: Rollout-Guided Adaptive Pixel-Space Reasoning**|[2510.01681](http://arxiv.org/abs/2510.01681)|null|
+|**2025-10-02**|**Beyond Simple Fusion: Adaptive Gated Fusion for Robust Multimodal Sentiment Analysis**|[2510.01677](http://arxiv.org/abs/2510.01677)|null|
+|**2025-10-02**|**MDSEval: A Meta-Evaluation Benchmark for Multimodal Dialogue Summarization**|[2510.01659](http://arxiv.org/abs/2510.01659)|null|
+|**2025-10-02**|**CAT: Curvature-Adaptive Transformers for Geometry-Aware Learning**|[2510.01634](http://arxiv.org/abs/2510.01634)|null|
+|**2025-10-02**|**LLM4Rec: Large Language Models for Multimodal Generative Recommendation with Causal Debiasing**|[2510.01622](http://arxiv.org/abs/2510.01622)|null|
+|**2025-10-02**|**Bridging Collaborative Filtering and Large Language Models with Dynamic Alignment, Multimodal Fusion and Evidence-grounded Explanations**|[2510.01606](http://arxiv.org/abs/2510.01606)|null|
+|**2025-10-02**|**ImageNet-Think-250K: A Large-Scale Synthetic Dataset for Multimodal Reasoning for Vision Language Models**|[2510.01582](http://arxiv.org/abs/2510.01582)|null|
+|**2025-10-02**|**Guiding Multimodal Large Language Models with Blind and Low Vision People Visual Questions for Proactive Visual Interpretations**|[2510.01576](http://arxiv.org/abs/2510.01576)|**[link](https://github.com/rgonzalezp/guiding-multimodal-large-language-models-with-blind-and-low-vision-people-visual-questions)**|
+|**2025-10-02**|**CardioRAG: A Retrieval-Augmented Generation Framework for Multimodal Chagas Disease Detection**|[2510.01558](http://arxiv.org/abs/2510.01558)|null|
+|**2025-10-02**|**IoDResearch: Deep Research on Private Heterogeneous Data via the Internet of Data**|[2510.01553](http://arxiv.org/abs/2510.01553)|null|
+|**2025-10-02**|**Growing Visual Generative Capacity for Pre-Trained MLLMs**|[2510.01546](http://arxiv.org/abs/2510.01546)|null|
+|**2025-10-01**|**From Videos to Indexed Knowledge Graphs -- Framework to Marry Methods for Multimodal Content Analysis and Understanding**|[2510.01513](http://arxiv.org/abs/2510.01513)|null|
+|**2025-10-01**|**Creases as elastocapillary gates for autonomous droplet control**|[2510.01506](http://arxiv.org/abs/2510.01506)|null|
+|**2025-10-01**|**VOGUE: Guiding Exploration with Visual Uncertainty Improves Multimodal Reasoning**|[2510.01444](http://arxiv.org/abs/2510.01444)|null|
+|**2025-10-01**|**Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models**|[2510.01304](http://arxiv.org/abs/2510.01304)|**[link](https://github.com/yuzeng0-0/AGILE)**|
+|**2025-10-01**|**From 2D to 3D, Deep Learning-based Shape Reconstruction in Magnetic Resonance Imaging: A Review**|[2510.01296](http://arxiv.org/abs/2510.01296)|null|
+|**2025-10-01**|**IMAGEdit: Let Any Subject Transform**|[2510.01186](http://arxiv.org/abs/2510.01186)|**[link](https://github.com/XWH-A/IMAGEdit.)**|
+|**2025-10-01**|**Audio Driven Real-Time Facial Animation for Social Telepresence**|[2510.01176](http://arxiv.org/abs/2510.01176)|null|
+|**2025-10-01**|**Backdoor Attacks Against Speech Language Models**|[2510.01157](http://arxiv.org/abs/2510.01157)|null|
+|**2025-10-01**|**ModernVBERT: Towards Smaller Visual Document Retrievers**|[2510.01149](http://arxiv.org/abs/2510.01149)|**[link](https://huggingface.co/ModernVBERT.)**|
+|**2025-10-01**|**Apriel-1.5-15b-Thinker**|[2510.01141](http://arxiv.org/abs/2510.01141)|null|
+|**2025-10-01**|**Uncovering the Computational Ingredients of Human-Like Representations in LLMs**|[2510.01030](http://arxiv.org/abs/2510.01030)|null|
+|**2025-10-01**|**Sequential Bayesian Inference of the GTN Damage Model Using Multimodal Experimental Data**|[2510.01016](http://arxiv.org/abs/2510.01016)|null|
+|**2025-10-01**|**JEPA-T: Joint-Embedding Predictive Architecture with Text Fusion for Image Generation**|[2510.00974](http://arxiv.org/abs/2510.00974)|**[link](https://github.com/justin-herry/JEPA-T.git)**|
+|**2025-10-02**|**Benchmarking Foundation Models with Retrieval-Augmented Generation in Olympic-Level Physics Problem Solving**|[2510.00919](http://arxiv.org/abs/2510.00919)|null|
+|**2025-10-01**|**FusionAdapter for Few-Shot Relation Learning in Multimodal Knowledge Graphs**|[2510.00894](http://arxiv.org/abs/2510.00894)|null|
+|**2025-10-01**|**Can World Models Benefit VLMs for World Dynamics?**|[2510.00855](http://arxiv.org/abs/2510.00855)|null|
+|**2025-10-01**|**PhraseStereo: The First Open-Vocabulary Stereo Image Segmentation Dataset**|[2510.00818](http://arxiv.org/abs/2510.00818)|null|
+|**2025-10-01**|**Datasets for Valence and Arousal Inference: A Survey**|[2510.00738](http://arxiv.org/abs/2510.00738)|null|
+|**2025-10-01**|**Training-free Uncertainty Guidance for Complex Visual Tasks with MLLMs**|[2510.00705](http://arxiv.org/abs/2510.00705)|null|
+|**2025-10-01**|**MultiPhysio-HRC: Multimodal Physiological Signals Dataset for industrial Human-Robot Collaboration**|[2510.00703](http://arxiv.org/abs/2510.00703)|null|
+|**2025-10-01**|**Graph Integrated Multimodal Concept Bottleneck Model**|[2510.00701](http://arxiv.org/abs/2510.00701)|null|
+|**2025-10-01**|**ACPO: Adaptive Curriculum Policy Optimization for Aligning Vision-Language Models in Complex Reasoning**|[2510.00690](http://arxiv.org/abs/2510.00690)|null|
+|**2025-10-01**|**Rethinking Wine Tasting for Chinese Consumers: A Service Design Approach Enhanced by Multimodal Personalization**|[2510.00583](http://arxiv.org/abs/2510.00583)|null|
 |**2025-09-30**|**Stitch: Training-Free Position Control in Multimodal Diffusion Transformers**|[2509.26644](http://arxiv.org/abs/2509.26644)|**[link](https://github.com/ExplainableML/Stitch.)**|
 |**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|[2509.26642](http://arxiv.org/abs/2509.26642)|**[link](https://sites.google.com/view/open-mla)**|
 |**2025-09-30**|**Query-Kontext: An Unified Multimodal Model for Image Generation and Editing**|[2509.26641](http://arxiv.org/abs/2509.26641)|null|
@@ -2076,6 +2208,56 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2025-10-02**|**Tree-based Dialogue Reinforced Policy Optimization for Red-Teaming Attacks**|[2510.02286](http://arxiv.org/abs/2510.02286)|null|
+|**2025-10-02**|**VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL**|[2510.02282](http://arxiv.org/abs/2510.02282)|**[link](https://VidGuard-R1.github.io.)**|
+|**2025-10-02**|**Parallel Scaling Law: Unveiling Reasoning Generalization through A Cross-Linguistic Perspective**|[2510.02272](http://arxiv.org/abs/2510.02272)|null|
+|**2025-10-02**|**How to Combat Reactive and Dynamic Jamming Attacks with Reinforcement Learning**|[2510.02265](http://arxiv.org/abs/2510.02265)|null|
+|**2025-10-02**|**Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking**|[2510.02252](http://arxiv.org/abs/2510.02252)|**[link](https://jaraujo98.github.io/retargeting_matters.)**|
+|**2025-10-02**|**ExGRPO: Learning to Reason from Experience**|[2510.02245](http://arxiv.org/abs/2510.02245)|null|
+|**2025-10-02**|**RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning**|[2510.02240](http://arxiv.org/abs/2510.02240)|null|
+|**2025-10-02**|**The Reasoning Boundary Paradox: How Reinforcement Learning Constrains Language Models**|[2510.02230](http://arxiv.org/abs/2510.02230)|**[link](https://github.com/mail-research/SELF-llm-interference.)**|
+|**2025-10-02**|**More Than One Teacher: Adaptive Multi-Guidance Policy Optimization for Diverse Exploration**|[2510.02227](http://arxiv.org/abs/2510.02227)|**[link](https://github.com/SII-Enigma/AMPO.)**|
+|**2025-10-02**|**Contrastive Retrieval Heads Improve Attention-Based Re-Ranking**|[2510.02219](http://arxiv.org/abs/2510.02219)|null|
+|**2025-10-02**|**DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning**|[2510.02212](http://arxiv.org/abs/2510.02212)|null|
+|**2025-10-02**|**Cross-Breed Pig Identification Using Auricular Vein Pattern Recognition: A Machine Learning Approach for Small-Scale Farming Applications**|[2510.02197](http://arxiv.org/abs/2510.02197)|null|
+|**2025-10-02**|**GRACE: A Language Model Framework for Explainable Inverse Reinforcement Learning**|[2510.02180](http://arxiv.org/abs/2510.02180)|null|
+|**2025-10-02**|**Learning to Reason for Hallucination Span Detection**|[2510.02173](http://arxiv.org/abs/2510.02173)|null|
+|**2025-10-02**|**RESTRAIN: From Spurious Votes to Signals -- Self-Driven RL with Self-Penalization**|[2510.02172](http://arxiv.org/abs/2510.02172)|null|
+|**2025-10-02**|**Reinforcement Learning with Action-Triggered Observations**|[2510.02149](http://arxiv.org/abs/2510.02149)|null|
+|**2025-10-02**|**Policy Gradient Guidance Enables Test Time Control**|[2510.02148](http://arxiv.org/abs/2510.02148)|null|
+|**2025-10-02**|**The Current State of AI Bias Bounties: An Overview of Existing Programmes and Research**|[2510.02036](http://arxiv.org/abs/2510.02036)|null|
+|**2025-10-02**|**Clarifying Semantics of In-Context Examples for Unit Test Generation**|[2510.01994](http://arxiv.org/abs/2510.01994)|null|
+|**2025-10-02**|**$\text{G}^2$ RPO: Granular GRPO for Precise Reward in Flow Models**|[2510.01982](http://arxiv.org/abs/2510.01982)|null|
+|**2025-10-02**|**Veri-R1: Toward Precise and Faithful Claim Verification via Online Reinforcement Learning**|[2510.01932](http://arxiv.org/abs/2510.01932)|null|
+|**2025-10-02**|**Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey**|[2510.01925](http://arxiv.org/abs/2510.01925)|null|
+|**2025-10-02**|**Who is responsible? Social Identity, Robot Errors and Blame Attribution**|[2510.01862](http://arxiv.org/abs/2510.01862)|null|
+|**2025-10-02**|**Learning a Dense Reasoning Reward Model from Expert Demonstration via Inverse Reinforcement Learning**|[2510.01857](http://arxiv.org/abs/2510.01857)|null|
+|**2025-10-02**|**Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots**|[2510.01843](http://arxiv.org/abs/2510.01843)|null|
+|**2025-10-02**|**Plan Then Action:High-Level Planning Guidance Reinforcement Learning for LLM Reasoning**|[2510.01833](http://arxiv.org/abs/2510.01833)|null|
+|**2025-10-02**|**SCRIBES: Web-Scale Script-Based Semi-Structured Data Extraction with Reinforcement Learning**|[2510.01832](http://arxiv.org/abs/2510.01832)|null|
+|**2025-10-02**|**What Matters in RL-Based Methods for Object-Goal Navigation? An Empirical Study and A Unified Framework**|[2510.01830](http://arxiv.org/abs/2510.01830)|null|
+|**2025-10-02**|**Black-Box Combinatorial Optimization with Order-Invariant Reinforcement Learning**|[2510.01824](http://arxiv.org/abs/2510.01824)|null|
+|**2025-10-02**|**Octax: Accelerated CHIP-8 Arcade Environments for Reinforcement Learning in JAX**|[2510.01764](http://arxiv.org/abs/2510.01764)|null|
+|**2025-10-02**|**Finite-Time Bounds for Distributionally Robust TD Learning with Linear Function Approximation**|[2510.01721](http://arxiv.org/abs/2510.01721)|null|
+|**2025-10-02**|**What MLLMs Learn about When they Learn about Multimodal Reasoning: Perception, Reasoning, or their Integration?**|[2510.01719](http://arxiv.org/abs/2510.01719)|null|
+|**2025-10-02**|**PyramidStyler: Transformer-Based Neural Style Transfer with Pyramidal Positional Encoding and Reinforcement Learning**|[2510.01715](http://arxiv.org/abs/2510.01715)|null|
+|**2025-10-02**|**VaPR -- Vision-language Preference alignment for Reasoning**|[2510.01700](http://arxiv.org/abs/2510.01700)|**[link](https://vap-r.github.io)**|
+|**2025-10-02**|**Look Less, Reason More: Rollout-Guided Adaptive Pixel-Space Reasoning**|[2510.01681](http://arxiv.org/abs/2510.01681)|null|
+|**2025-10-02**|**Asymmetric Proximal Policy Optimization: mini-critics boost LLM reasoning**|[2510.01656](http://arxiv.org/abs/2510.01656)|null|
+|**2025-10-02**|**MIMIC: Integrating Diverse Personality Traits for Better Game Testing Using Large Language Model**|[2510.01635](http://arxiv.org/abs/2510.01635)|null|
+|**2025-10-02**|**Quagmires in SFT-RL Post-Training: When High SFT Scores Mislead and What to Use Instead**|[2510.01624](http://arxiv.org/abs/2510.01624)|null|
+|**2025-10-02**|**VLA-R1: Enhancing Reasoning in Vision-Language-Action Models**|[2510.01623](http://arxiv.org/abs/2510.01623)|**[link](https://github.com/GigaAI-research/VLA-R1.)**|
+|**2025-10-02**|**Learning to Decide with Just Enough: Information-Theoretic Context Summarization for CDMPs**|[2510.01620](http://arxiv.org/abs/2510.01620)|null|
+|**2025-10-02**|**Efficient Training of Robust Traditional Chinese LLaMA-1B on a Single Consumer GPU: Continual Pre-training, SFT, and DPO**|[2510.01616](http://arxiv.org/abs/2510.01616)|null|
+|**2025-10-02**|**CLUE: Non-parametric Verification from Experience via Hidden-State Clustering**|[2510.01591](http://arxiv.org/abs/2510.01591)|null|
+|**2025-10-02**|**AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning**|[2510.01586](http://arxiv.org/abs/2510.01586)|null|
+|**2025-10-02**|**Think Right: Learning to Mitigate Under-Over Thinking via Adaptive, Attentive Compression**|[2510.01581](http://arxiv.org/abs/2510.01581)|null|
+|**2025-10-02**|**From Supervision to Exploration: What Does Protein Language Model Learn During Reinforcement Learning?**|[2510.01571](http://arxiv.org/abs/2510.01571)|**[link](https://github.com/chq1155/RL-PLM.)**|
+|**2025-10-02**|**InvThink: Towards AI Safety via Inverse Reasoning**|[2510.01569](http://arxiv.org/abs/2510.01569)|null|
+|**2025-10-02**|**Rethinking KL Regularization in RLHF: From Value Estimation to Gradient Optimization**|[2510.01555](http://arxiv.org/abs/2510.01555)|null|
+|**2025-10-02**|**MIRA: Towards Mitigating Reward Hacking in Inference-Time Alignment of T2I Diffusion Models**|[2510.01549](http://arxiv.org/abs/2510.01549)|null|
+|**2025-10-02**|**Step-Aware Policy Optimization for Reasoning in Diffusion Large Language Models**|[2510.01544](http://arxiv.org/abs/2510.01544)|null|
+|**2025-10-02**|**Towards Better Optimization For Listwise Preference in Diffusion Models**|[2510.01540](http://arxiv.org/abs/2510.01540)|null|
 |**2025-09-30**|**OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction**|[2509.26633](http://arxiv.org/abs/2509.26633)|null|
 |**2025-09-30**|**Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models**|[2509.26628](http://arxiv.org/abs/2509.26628)|null|
 |**2025-09-30**|**TimeRewarder: Learning Dense Reward from Passive Videos via Frame-wise Temporal Distance**|[2509.26627](http://arxiv.org/abs/2509.26627)|null|
