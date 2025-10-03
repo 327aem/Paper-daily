@@ -1,4 +1,4 @@
-## Updated on 2025.10.02
+## Updated on 2025.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -447,7 +447,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## Retrieval
 
@@ -1288,7 +1288,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -1320,12 +1320,12 @@
 |**2025-09-30**|**SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval**|[2509.26012](http://arxiv.org/abs/2509.26012)|null|
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
 |**2025-09-30**|**Boosting Process-Correct CoT Reasoning by Modeling Solvability of Multiple-Choice QA**|[2509.25941](http://arxiv.org/abs/2509.25941)|null|
-|**2025-09-30**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|[2509.25896](http://arxiv.org/abs/2509.25896)|null|
+|**2025-10-01**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|[2509.25896](http://arxiv.org/abs/2509.25896)|null|
 |**2025-10-01**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|[2509.25889](http://arxiv.org/abs/2509.25889)|null|
 |**2025-09-30**|**SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents**|[2509.25885](http://arxiv.org/abs/2509.25885)|null|
 |**2025-09-30**|**DeepSketcher: Internalizing Visual Manipulation for Multimodal Reasoning**|[2509.25866](http://arxiv.org/abs/2509.25866)|null|
 |**2025-09-30**|**MuSLR: Multimodal Symbolic Logical Reasoning**|[2509.25851](http://arxiv.org/abs/2509.25851)|**[link](https://llm-symbol.github.io/MuSLR.)**|
-|**2025-09-30**|**More Thought, Less Accuracy? On the Dual Nature of Reasoning in Vision-Language Models**|[2509.25848](http://arxiv.org/abs/2509.25848)|**[link](https://xytian1008.github.io/VAPO/)**|
+|**2025-10-02**|**More Thought, Less Accuracy? On the Dual Nature of Reasoning in Vision-Language Models**|[2509.25848](http://arxiv.org/abs/2509.25848)|**[link](https://xytian1008.github.io/VAPO/)**|
 |**2025-09-30**|**A Multimode Classical Hierarchical Fokker-Planck Equations Approach to Molecular Vibrations: Simulating Two-Dimensional Spectra**|[2509.25840](http://arxiv.org/abs/2509.25840)|null|
 |**2025-09-30**|**MIDAS: Misalignment-based Data Augmentation Strategy for Imbalanced Multimodal Learning**|[2509.25831](http://arxiv.org/abs/2509.25831)|null|
 |**2025-09-30**|**Integrated Silicon Photonic Multichannel Optical Hybrid for Broadband Parallel Coherent Reception**|[2509.25830](http://arxiv.org/abs/2509.25830)|null|
@@ -2070,7 +2070,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -2096,7 +2096,7 @@
 |**2025-09-30**|**Memory-Driven Self-Improvement for Decision Making with Large Language Models**|[2509.26340](http://arxiv.org/abs/2509.26340)|null|
 |**2025-09-30**|**Latent Thinking Optimization: Your Latent Reasoning Language Model Secretly Encodes Reward Signals in its Latent Thoughts**|[2509.26314](http://arxiv.org/abs/2509.26314)|null|
 |**2025-09-30**|**One-Token Rollout: Guiding Supervised Fine-Tuning of LLMs with Policy Gradient**|[2509.26313](http://arxiv.org/abs/2509.26313)|null|
-|**2025-10-01**|**Interactive Learning for LLM Reasoning**|[2509.26306](http://arxiv.org/abs/2509.26306)|null|
+|**2025-10-02**|**Interactive Learning for LLM Reasoning**|[2509.26306](http://arxiv.org/abs/2509.26306)|null|
 |**2025-10-01**|**PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection**|[2509.26272](http://arxiv.org/abs/2509.26272)|null|
 |**2025-09-30**|**ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm**|[2509.26236](http://arxiv.org/abs/2509.26236)|null|
 |**2025-09-30**|**IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance**|[2509.26231](http://arxiv.org/abs/2509.26231)|**[link](https://github.com/SHI-Labs/IMG-Multimodal-Diffusion-Alignment.)**|
@@ -2122,7 +2122,7 @@
 |**2025-09-30**|**Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation**|[2509.25852](http://arxiv.org/abs/2509.25852)|null|
 |**2025-09-30**|**RL-Guided Data Selection for Language Model Finetuning**|[2509.25850](http://arxiv.org/abs/2509.25850)|null|
 |**2025-09-30**|**Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation**|[2509.25849](http://arxiv.org/abs/2509.25849)|null|
-|**2025-09-30**|**More Thought, Less Accuracy? On the Dual Nature of Reasoning in Vision-Language Models**|[2509.25848](http://arxiv.org/abs/2509.25848)|**[link](https://xytian1008.github.io/VAPO/)**|
+|**2025-10-02**|**More Thought, Less Accuracy? On the Dual Nature of Reasoning in Vision-Language Models**|[2509.25848](http://arxiv.org/abs/2509.25848)|**[link](https://xytian1008.github.io/VAPO/)**|
 |**2025-09-30**|**Training-Free Reward-Guided Image Editing via Trajectory Optimal Control**|[2509.25845](http://arxiv.org/abs/2509.25845)|null|
 |**2025-09-30**|**Overthinking Reduction with Decoupled Rewards and Curriculum Data Scheduling**|[2509.25827](http://arxiv.org/abs/2509.25827)|null|
 |**2025-09-30**|**Decentralized Asynchronous Multi-player Bandits**|[2509.25824](http://arxiv.org/abs/2509.25824)|null|
@@ -2327,7 +2327,7 @@
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
