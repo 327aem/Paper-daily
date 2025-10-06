@@ -1,4 +1,4 @@
-## Updated on 2025.10.05
+## Updated on 2025.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,14 +16,14 @@
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
 |**2025-10-02**|**Drawing Conclusions from Draws: Rethinking Preference Semantics in Arena-Style LLM Evaluation**|[2510.02306](http://arxiv.org/abs/2510.02306)|null|
-|**2025-10-02**|**C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems**|[2510.02215](http://arxiv.org/abs/2510.02215)|null|
+|**2025-10-03**|**C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems**|[2510.02215](http://arxiv.org/abs/2510.02215)|null|
 |**2025-10-02**|**When Tracking Fails: Analyzing Failure Modes of SAM2 for Point-Based Tracking in Surgical Videos**|[2510.02100](http://arxiv.org/abs/2510.02100)|null|
 |**2025-10-02**|**Investigating the need for a robust ultraviolet filter set aboard the Habitable Worlds Observatory**|[2510.02054](http://arxiv.org/abs/2510.02054)|null|
 |**2025-10-02**|**Ranking Items from Discrete Ratings: The Cost of Unknown User Thresholds**|[2510.01871](http://arxiv.org/abs/2510.01871)|null|
 |**2025-10-02**|**Human-AI Teaming Co-Learning in Military Operations**|[2510.01815](http://arxiv.org/abs/2510.01815)|null|
 |**2025-10-02**|**TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling**|[2510.01698](http://arxiv.org/abs/2510.01698)|null|
 |**2025-10-02**|**LLM4Rec: Large Language Models for Multimodal Generative Recommendation with Causal Debiasing**|[2510.01622](http://arxiv.org/abs/2510.01622)|null|
-|**2025-10-02**|**Learning to Decide with Just Enough: Information-Theoretic Context Summarization for CDMPs**|[2510.01620](http://arxiv.org/abs/2510.01620)|null|
+|**2025-10-03**|**Learning to Decide with Just Enough: Information-Theoretic Context Summarization for CMDPs**|[2510.01620](http://arxiv.org/abs/2510.01620)|null|
 |**2025-10-02**|**Automated Genomic Interpretation via Concept Bottleneck Models for Medical Robotics**|[2510.01618](http://arxiv.org/abs/2510.01618)|null|
 |**2025-10-02**|**AgentRec: Next-Generation LLM-Powered Multi-Agent Collaborative Recommendation with Adaptive Intelligence**|[2510.01609](http://arxiv.org/abs/2510.01609)|null|
 |**2025-10-02**|**Bridging Collaborative Filtering and Large Language Models with Dynamic Alignment, Multimodal Fusion and Evidence-grounded Explanations**|[2510.01606](http://arxiv.org/abs/2510.01606)|null|
@@ -479,7 +479,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
 
 ## Retrieval
 
@@ -502,7 +502,7 @@
 |**2025-10-02**|**Topological Hall effect in nonlinear optics**|[2510.01820](http://arxiv.org/abs/2510.01820)|null|
 |**2025-10-02**|**REBot: From RAG to CatRAG with Semantic Enrichment and Graph Routing**|[2510.01800](http://arxiv.org/abs/2510.01800)|null|
 |**2025-10-02**|**Comparison of Unsupervised Metrics for Evaluating Judicial Decision Extraction**|[2510.01792](http://arxiv.org/abs/2510.01792)|null|
-|**2025-10-02**|**Pack and Force Your Memory: Long-form and Consistent Video Generation**|[2510.01784](http://arxiv.org/abs/2510.01784)|null|
+|**2025-10-03**|**Pack and Force Your Memory: Long-form and Consistent Video Generation**|[2510.01784](http://arxiv.org/abs/2510.01784)|null|
 |**2025-10-02**|**PreprintToPaper dataset: connecting bioRxiv preprints with journal publications**|[2510.01783](http://arxiv.org/abs/2510.01783)|null|
 |**2025-10-02**|**MetaboT: AI-based agent for natural language-based interaction with metabolomics knowledge graphs**|[2510.01724](http://arxiv.org/abs/2510.01724)|**[link](https://metabot.holobiomicslab.eu/],)**|
 |**2025-10-02**|**TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling**|[2510.01698](http://arxiv.org/abs/2510.01698)|null|
@@ -1370,7 +1370,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -1382,7 +1382,7 @@
 |**2025-10-02**|**DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing**|[2510.02253](http://arxiv.org/abs/2510.02253)|null|
 |**2025-10-02**|**RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning**|[2510.02240](http://arxiv.org/abs/2510.02240)|null|
 |**2025-10-02**|**Towards fairer public transit: Real-time tensor-based multimodal fare evasion and fraud detection**|[2510.02165](http://arxiv.org/abs/2510.02165)|null|
-|**2025-10-02**|**Do AI Models Perform Human-like Abstract Reasoning Across Modalities?**|[2510.02125](http://arxiv.org/abs/2510.02125)|null|
+|**2025-10-03**|**Do AI Models Perform Human-like Abstract Reasoning Across Modalities?**|[2510.02125](http://arxiv.org/abs/2510.02125)|null|
 |**2025-10-02**|**A Copula-Based Variational Autoencoder for Uncertainty Quantification in Inverse Problems: Application to Damage Identification in an Offshore Wind Turbine**|[2510.02013](http://arxiv.org/abs/2510.02013)|null|
 |**2025-10-02**|**Generating Findings for Jaw Cysts in Dental Panoramic Radiographs Using GPT-4o: Building a Two-Stage Self-Correction Loop with Structured Output (SLSO) Framework**|[2510.02001](http://arxiv.org/abs/2510.02001)|null|
 |**2025-10-02**|**Moon: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection**|[2510.01970](http://arxiv.org/abs/2510.01970)|null|
@@ -2202,7 +2202,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -2229,7 +2229,7 @@
 |**2025-10-02**|**Clarifying Semantics of In-Context Examples for Unit Test Generation**|[2510.01994](http://arxiv.org/abs/2510.01994)|null|
 |**2025-10-02**|**$\text{G}^2$ RPO: Granular GRPO for Precise Reward in Flow Models**|[2510.01982](http://arxiv.org/abs/2510.01982)|null|
 |**2025-10-02**|**Veri-R1: Toward Precise and Faithful Claim Verification via Online Reinforcement Learning**|[2510.01932](http://arxiv.org/abs/2510.01932)|null|
-|**2025-10-02**|**Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey**|[2510.01925](http://arxiv.org/abs/2510.01925)|null|
+|**2025-10-03**|**Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey**|[2510.01925](http://arxiv.org/abs/2510.01925)|null|
 |**2025-10-02**|**Who is responsible? Social Identity, Robot Errors and Blame Attribution**|[2510.01862](http://arxiv.org/abs/2510.01862)|null|
 |**2025-10-02**|**Learning a Dense Reasoning Reward Model from Expert Demonstration via Inverse Reinforcement Learning**|[2510.01857](http://arxiv.org/abs/2510.01857)|null|
 |**2025-10-02**|**Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots**|[2510.01843](http://arxiv.org/abs/2510.01843)|null|
@@ -2237,7 +2237,7 @@
 |**2025-10-02**|**SCRIBES: Web-Scale Script-Based Semi-Structured Data Extraction with Reinforcement Learning**|[2510.01832](http://arxiv.org/abs/2510.01832)|null|
 |**2025-10-02**|**What Matters in RL-Based Methods for Object-Goal Navigation? An Empirical Study and A Unified Framework**|[2510.01830](http://arxiv.org/abs/2510.01830)|null|
 |**2025-10-02**|**Black-Box Combinatorial Optimization with Order-Invariant Reinforcement Learning**|[2510.01824](http://arxiv.org/abs/2510.01824)|null|
-|**2025-10-02**|**Octax: Accelerated CHIP-8 Arcade Environments for Reinforcement Learning in JAX**|[2510.01764](http://arxiv.org/abs/2510.01764)|null|
+|**2025-10-03**|**Octax: Accelerated CHIP-8 Arcade Environments for Reinforcement Learning in JAX**|[2510.01764](http://arxiv.org/abs/2510.01764)|null|
 |**2025-10-02**|**Finite-Time Bounds for Distributionally Robust TD Learning with Linear Function Approximation**|[2510.01721](http://arxiv.org/abs/2510.01721)|null|
 |**2025-10-02**|**What MLLMs Learn about When they Learn about Multimodal Reasoning: Perception, Reasoning, or their Integration?**|[2510.01719](http://arxiv.org/abs/2510.01719)|null|
 |**2025-10-02**|**PyramidStyler: Transformer-Based Neural Style Transfer with Pyramidal Positional Encoding and Reinforcement Learning**|[2510.01715](http://arxiv.org/abs/2510.01715)|null|
@@ -2247,7 +2247,7 @@
 |**2025-10-02**|**MIMIC: Integrating Diverse Personality Traits for Better Game Testing Using Large Language Model**|[2510.01635](http://arxiv.org/abs/2510.01635)|null|
 |**2025-10-02**|**Quagmires in SFT-RL Post-Training: When High SFT Scores Mislead and What to Use Instead**|[2510.01624](http://arxiv.org/abs/2510.01624)|null|
 |**2025-10-02**|**VLA-R1: Enhancing Reasoning in Vision-Language-Action Models**|[2510.01623](http://arxiv.org/abs/2510.01623)|**[link](https://github.com/GigaAI-research/VLA-R1.)**|
-|**2025-10-02**|**Learning to Decide with Just Enough: Information-Theoretic Context Summarization for CDMPs**|[2510.01620](http://arxiv.org/abs/2510.01620)|null|
+|**2025-10-03**|**Learning to Decide with Just Enough: Information-Theoretic Context Summarization for CMDPs**|[2510.01620](http://arxiv.org/abs/2510.01620)|null|
 |**2025-10-02**|**Efficient Training of Robust Traditional Chinese LLaMA-1B on a Single Consumer GPU: Continual Pre-training, SFT, and DPO**|[2510.01616](http://arxiv.org/abs/2510.01616)|null|
 |**2025-10-02**|**CLUE: Non-parametric Verification from Experience via Hidden-State Clustering**|[2510.01591](http://arxiv.org/abs/2510.01591)|null|
 |**2025-10-02**|**AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning**|[2510.01586](http://arxiv.org/abs/2510.01586)|null|
@@ -2509,7 +2509,7 @@
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
