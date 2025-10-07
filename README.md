@@ -1,4 +1,4 @@
-## Updated on 2025.10.06
+## Updated on 2025.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -490,7 +490,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
 
 ## Retrieval
 
@@ -521,7 +521,7 @@
 |**2025-10-03**|**MALF: A Multi-Agent LLM Framework for Intelligent Fuzzing of Industrial Control Protocols**|[2510.02694](http://arxiv.org/abs/2510.02694)|null|
 |**2025-10-03**|**AutoMaAS: Self-Evolving Multi-Agent Architecture Search for Large Language Models**|[2510.02669](http://arxiv.org/abs/2510.02669)|null|
 |**2025-10-03**|**AgenticRAG: Tool-Augmented Foundation Models for Zero-Shot Explainable Recommender Systems**|[2510.02668](http://arxiv.org/abs/2510.02668)|null|
-|**2025-10-03**|**Less LLM, More Documents: Searching for Improved RAG**|[2510.02657](http://arxiv.org/abs/2510.02657)|null|
+|**2025-10-06**|**Less LLM, More Documents: Searching for Improved RAG**|[2510.02657](http://arxiv.org/abs/2510.02657)|null|
 |**2025-10-03**|**A Simple but Effective Elaborative Query Reformulation Approach for Natural Language Recommendation**|[2510.02656](http://arxiv.org/abs/2510.02656)|null|
 |**2025-10-03**|**Geolog-IA: Conversational System for Academic Theses**|[2510.02653](http://arxiv.org/abs/2510.02653)|null|
 |**2025-10-03**|**Automatic Building Code Review: A Case Study**|[2510.02634](http://arxiv.org/abs/2510.02634)|null|
@@ -532,16 +532,16 @@
 |**2025-10-02**|**Study on LLMs for Promptagator-Style Dense Retriever Training**|[2510.02241](http://arxiv.org/abs/2510.02241)|null|
 |**2025-10-02**|**Contrastive Retrieval Heads Improve Attention-Based Re-Ranking**|[2510.02219](http://arxiv.org/abs/2510.02219)|null|
 |**2025-10-02**|**A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports**|[2510.02190](http://arxiv.org/abs/2510.02190)|null|
-|**2025-10-02**|**Comparing Contrastive and Triplet Loss in Audio-Visual Embedding: Intra-Class Variance and Greediness Analysis**|[2510.02161](http://arxiv.org/abs/2510.02161)|null|
+|**2025-10-06**|**Comparing Contrastive and Triplet Loss: Variance Analysis and Optimization Behavior**|[2510.02161](http://arxiv.org/abs/2510.02161)|null|
 |**2025-10-02**|**Demystifying the Roles of LLM Layers in Retrieval, Knowledge, and Reasoning**|[2510.02091](http://arxiv.org/abs/2510.02091)|null|
 |**2025-10-02**|**Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage**|[2510.02044](http://arxiv.org/abs/2510.02044)|null|
 |**2025-10-02**|**Exploring Database Normalization Effects on SQL Generation**|[2510.01989](http://arxiv.org/abs/2510.01989)|null|
-|**2025-10-02**|**Veri-R1: Toward Precise and Faithful Claim Verification via Online Reinforcement Learning**|[2510.01932](http://arxiv.org/abs/2510.01932)|null|
+|**2025-10-04**|**Veri-R1: Toward Precise and Faithful Claim Verification via Online Reinforcement Learning**|[2510.01932](http://arxiv.org/abs/2510.01932)|null|
 |**2025-10-02**|**Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement**|[2510.01910](http://arxiv.org/abs/2510.01910)|null|
-|**2025-10-02**|**Signal-to-noise and spatial resolution in in-line imaging. 3. Optimization using a simple model**|[2510.01892](http://arxiv.org/abs/2510.01892)|null|
+|**2025-10-05**|**Signal-to-noise and spatial resolution in in-line imaging. 3. Optimization using a simple model**|[2510.01892](http://arxiv.org/abs/2510.01892)|null|
 |**2025-10-02**|**Ranking Items from Discrete Ratings: The Cost of Unknown User Thresholds**|[2510.01871](http://arxiv.org/abs/2510.01871)|null|
 |**2025-10-02**|**Fisher information and trajectorial interpretation to the Itô--Langevin relative entropy dissipation**|[2510.01870](http://arxiv.org/abs/2510.01870)|null|
-|**2025-10-02**|**Learning Representations Through Contrastive Neural Model Checking**|[2510.01853](http://arxiv.org/abs/2510.01853)|null|
+|**2025-10-03**|**Learning Representations Through Contrastive Neural Model Checking**|[2510.01853](http://arxiv.org/abs/2510.01853)|null|
 |**2025-10-02**|**Topological Hall effect in nonlinear optics**|[2510.01820](http://arxiv.org/abs/2510.01820)|null|
 |**2025-10-02**|**REBot: From RAG to CatRAG with Semantic Enrichment and Graph Routing**|[2510.01800](http://arxiv.org/abs/2510.01800)|null|
 |**2025-10-02**|**Comparison of Unsupervised Metrics for Evaluating Judicial Decision Extraction**|[2510.01792](http://arxiv.org/abs/2510.01792)|null|
@@ -1413,7 +1413,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -1445,7 +1445,7 @@
 |**2025-10-03**|**ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks**|[2510.02677](http://arxiv.org/abs/2510.02677)|null|
 |**2025-10-03**|**Self-Improvement in Multimodal Large Language Models: A Survey**|[2510.02665](http://arxiv.org/abs/2510.02665)|null|
 |**2025-10-02**|**From Motifs to Lévy Flights: Modeling Urban Mobility in Bogotá's Public Transport System**|[2510.02621](http://arxiv.org/abs/2510.02621)|null|
-|**2025-10-02**|**Mitigating Modal Imbalance in Multimodal Reasoning**|[2510.02608](http://arxiv.org/abs/2510.02608)|null|
+|**2025-10-06**|**Mitigating Modal Imbalance in Multimodal Reasoning**|[2510.02608](http://arxiv.org/abs/2510.02608)|null|
 |**2025-10-02**|**Multimodal Large Language Model Framework for Safe and Interpretable Grid-Integrated EVs**|[2510.02592](http://arxiv.org/abs/2510.02592)|null|
 |**2025-10-02**|**PHORECAST: Enabling AI Understanding of Public Health Outreach Across Populations**|[2510.02535](http://arxiv.org/abs/2510.02535)|null|
 |**2025-10-02**|**Multimodal Function Vectors for Spatial Relations**|[2510.02528](http://arxiv.org/abs/2510.02528)|null|
@@ -2278,7 +2278,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -2627,7 +2627,7 @@
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
