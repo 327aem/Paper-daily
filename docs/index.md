@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.07
+## Updated on 2025.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -32,7 +32,7 @@ layout: default
 |**2025-10-04**|**Cross-Modal Content Optimization for Steering Web Agent Preferences**|[2510.03612](http://arxiv.org/abs/2510.03612)|null|
 |**2025-10-04**|**Can an LLM Induce a Graph? Investigating Memory Drift and Context Length**|[2510.03611](http://arxiv.org/abs/2510.03611)|null|
 |**2025-10-03**|**LLM Agents for Automated Dependency Upgrades**|[2510.03480](http://arxiv.org/abs/2510.03480)|null|
-|**2025-10-03**|**Report of the 2025 Workshop on Next-Generation Ecosystems for Scientific Computing: Harnessing Community, Software, and AI for Cross-Disciplinary Team Science**|[2510.03413](http://arxiv.org/abs/2510.03413)|null|
+|**2025-10-07**|**Report of the 2025 Workshop on Next-Generation Ecosystems for Scientific Computing: Harnessing Community, Software, and AI for Cross-Disciplinary Team Science**|[2510.03413](http://arxiv.org/abs/2510.03413)|null|
 |**2025-10-03**|**Security Analysis and Threat Modeling of Research Management Applications [Extended Version]**|[2510.03407](http://arxiv.org/abs/2510.03407)|null|
 |**2025-10-03**|**Implicit Values Embedded in How Humans and LLMs Complete Subjective Everyday Tasks**|[2510.03384](http://arxiv.org/abs/2510.03384)|null|
 |**2025-10-02**|**How does course recommendation impact student outcomes? Examining directed self-placement with regression discontinuity analysis**|[2510.03350](http://arxiv.org/abs/2510.03350)|null|
@@ -511,7 +511,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
 ## Retrieval
 
@@ -538,7 +538,7 @@ layout: default
 |**2025-10-06**|**Edge-On Disk Study (EODS) II: HCO $^+$ and CO vertical stratification in the disk surrounding SSTTau042021**|[2510.04677](http://arxiv.org/abs/2510.04677)|null|
 |**2025-10-06**|**Watch and Learn: Learning to Use Computers from Online Videos**|[2510.04673](http://arxiv.org/abs/2510.04673)|null|
 |**2025-10-06**|**Topic-Specific Classifiers are Better Relevance Judges than Prompted LLMs**|[2510.04633](http://arxiv.org/abs/2510.04633)|null|
-|**2025-10-06**|**Contrastive Learning Using Graph Embeddings for Domain Adaptation of Language Models in the Process Industry**|[2510.04631](http://arxiv.org/abs/2510.04631)|null|
+|**2025-10-07**|**Contrastive Learning Using Graph Embeddings for Domain Adaptation of Language Models in the Process Industry**|[2510.04631](http://arxiv.org/abs/2510.04631)|null|
 |**2025-10-06**|**Compressed Concatenation of Small Embedding Models**|[2510.04626](http://arxiv.org/abs/2510.04626)|null|
 |**2025-10-06**|**COSMIR: Chain Orchestrated Structured Memory for Iterative Reasoning over Long Context**|[2510.04568](http://arxiv.org/abs/2510.04568)|null|
 |**2025-10-06**|**Conditional Representation Learning for Customized Tasks**|[2510.04564](http://arxiv.org/abs/2510.04564)|**[link](https://github.com/XLearning-SCU/2025-NeurIPS-CRL.)**|
@@ -559,7 +559,7 @@ layout: default
 |**2025-10-05**|**Equipping Retrieval-Augmented Large Language Models with Document Structure Awareness**|[2510.04293](http://arxiv.org/abs/2510.04293)|null|
 |**2025-10-05**|**AgentTypo: Adaptive Typographic Prompt Injection Attacks against Black-box Multimodal Agents**|[2510.04257](http://arxiv.org/abs/2510.04257)|null|
 |**2025-10-05**|**Empowering Denoising Sequential Recommendation with Large Language Model Embeddings**|[2510.04239](http://arxiv.org/abs/2510.04239)|null|
-|**2025-10-05**|**Epistemic Diversity and Knowledge Collapse in Large Language Models**|[2510.04226](http://arxiv.org/abs/2510.04226)|null|
+|**2025-10-07**|**Epistemic Diversity and Knowledge Collapse in Large Language Models**|[2510.04226](http://arxiv.org/abs/2510.04226)|null|
 |**2025-10-05**|**World-To-Image: Grounding Text-to-Image Generation with Agent-Driven World Knowledge**|[2510.04201](http://arxiv.org/abs/2510.04201)|**[link](https://github.com/mhson-kyle/World-To-Image}.)**|
 |**2025-10-05**|**Automating construction safety inspections using a multi-modal vision-language RAG framework**|[2510.04145](http://arxiv.org/abs/2510.04145)|null|
 |**2025-10-05**|**Learning-Based Hashing for ANN Search: Foundations and Early Advances**|[2510.04127](http://arxiv.org/abs/2510.04127)|null|
@@ -1484,7 +1484,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -1497,7 +1497,7 @@ layout: default
 |**2025-10-06**|**Robust multicellular programs dissect the complex tumor microenvironment and track disease progression in colorectal adenocarcinomas**|[2510.05083](http://arxiv.org/abs/2510.05083)|null|
 |**2025-10-06**|**Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization**|[2510.05038](http://arxiv.org/abs/2510.05038)|**[link](https://github.com/IBM/test-time-hybrid-retrieval)**|
 |**2025-10-06**|**Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models**|[2510.05034](http://arxiv.org/abs/2510.05034)|**[link](https://github.com/yunlong10/Awesome-Video-LMM-Post-Training)**|
-|**2025-10-06**|**Large Language Models Achieve Gold Medal Performance at International Astronomy & Astrophysics Olympiad**|[2510.05016](http://arxiv.org/abs/2510.05016)|null|
+|**2025-10-07**|**Large Language Models Achieve Gold Medal Performance at the International Olympiad on Astronomy & Astrophysics (IOAA)**|[2510.05016](http://arxiv.org/abs/2510.05016)|null|
 |**2025-10-06**|**Think Then Embed: Generative Context Improves Multimodal Embedding**|[2510.05014](http://arxiv.org/abs/2510.05014)|null|
 |**2025-10-06**|**Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot**|[2510.05001](http://arxiv.org/abs/2510.05001)|null|
 |**2025-10-06**|**Human Behavior Atlas: Benchmarking Unified Psychological and Social Behavior Understanding**|[2510.04899](http://arxiv.org/abs/2510.04899)|null|
@@ -1525,7 +1525,7 @@ layout: default
 |**2025-10-05**|**WebRenderBench: Enhancing Web Interface Generation through Layout-Style Consistency and Reinforcement Learning**|[2510.04097](http://arxiv.org/abs/2510.04097)|null|
 |**2025-10-05**|**\textsc{GUI-Spotlight}: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding**|[2510.04039](http://arxiv.org/abs/2510.04039)|null|
 |**2025-10-05**|**LLM-Based Data Science Agents: A Survey of Capabilities, Challenges, and Future Directions**|[2510.04023](http://arxiv.org/abs/2510.04023)|null|
-|**2025-10-05**|**AgriGPT-VL: Agricultural Vision-Language Understanding Suite**|[2510.04002](http://arxiv.org/abs/2510.04002)|null|
+|**2025-10-07**|**AgriGPT-VL: Agricultural Vision-Language Understanding Suite**|[2510.04002](http://arxiv.org/abs/2510.04002)|null|
 |**2025-10-04**|**Exploring Instruction Data Quality for Explainable Image Quality Assessment**|[2510.03880](http://arxiv.org/abs/2510.03880)|null|
 |**2025-10-04**|**Multi-Modal Oral Cancer Detection Using Weighted Ensemble Convolutional Neural Networks**|[2510.03878](http://arxiv.org/abs/2510.03878)|null|
 |**2025-10-04**|**DHQA-4D: Perceptual Quality Assessment of Dynamic 4D Digital Human**|[2510.03874](http://arxiv.org/abs/2510.03874)|null|
@@ -2399,7 +2399,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -2415,7 +2415,7 @@ layout: default
 |**2025-10-06**|**Optimización de la Transmisión de Estados Cuánticos en Cadenas de Qubits usando Deep Reinforcement Learning y Algoritmos Genéticos**|[2510.05010](http://arxiv.org/abs/2510.05010)|null|
 |**2025-10-06**|**Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot**|[2510.05001](http://arxiv.org/abs/2510.05001)|null|
 |**2025-10-06**|**Reinforce-Ada: An Adaptive Sampling Framework for Reinforce-Style LLM Training**|[2510.04996](http://arxiv.org/abs/2510.04996)|**[link](https://github.com/RLHFlow/Reinforce-Ada.)**|
-|**2025-10-06**|**Safe and Compliant Cross-Market Trade Execution via Constrained RL and Zero-Knowledge Audits**|[2510.04952](http://arxiv.org/abs/2510.04952)|null|
+|**2025-10-07**|**Safe and Compliant Cross-Market Trade Execution via Constrained RL and Zero-Knowledge Audits**|[2510.04952](http://arxiv.org/abs/2510.04952)|null|
 |**2025-10-06**|**MARS: Optimizing Dual-System Deep Research via Multi-Agent Reinforcement Learning**|[2510.04935](http://arxiv.org/abs/2510.04935)|null|
 |**2025-10-06**|**Focused Skill Discovery: Learning to Control Specific State Variables while Minimizing Side Effects**|[2510.04901](http://arxiv.org/abs/2510.04901)|null|
 |**2025-10-06**|**RL Is a Hammer and LLMs Are Nails: A Simple Reinforcement Learning Recipe for Strong Prompt Injection**|[2510.04885](http://arxiv.org/abs/2510.04885)|**[link](https://github.com/facebookresearch/rl-injector.)**|
@@ -2427,7 +2427,7 @@ layout: default
 |**2025-10-06**|**Learning on the Job: Test-Time Curricula for Targeted Reinforcement Learning**|[2510.04786](http://arxiv.org/abs/2510.04786)|null|
 |**2025-10-06**|**When Do Credal Sets Stabilize? Fixed-Point Theorems for Credal Set Updates**|[2510.04769](http://arxiv.org/abs/2510.04769)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
-|**2025-10-06**|**Finite temperature dopant-induced spin reorganization explored via tensor networks in the two-dimensional $t$-$J$ model**|[2510.04756](http://arxiv.org/abs/2510.04756)|null|
+|**2025-10-07**|**Finite temperature dopant-induced spin reorganization explored via tensor networks in the two-dimensional $t$-$J$ model**|[2510.04756](http://arxiv.org/abs/2510.04756)|null|
 |**2025-10-06**|**A New Digital Divide? Coder Worldviews, the Slop Economy, and Democracy in the Age of AI**|[2510.04755](http://arxiv.org/abs/2510.04755)|null|
 |**2025-10-06**|**Online Multiple Resource Allocation Problems with Departures via the Primal-Dual Approach**|[2510.04737](http://arxiv.org/abs/2510.04737)|null|
 |**2025-10-06**|**EVaR-Optimal Arm Identification in Bandits**|[2510.04728](http://arxiv.org/abs/2510.04728)|null|
@@ -2798,7 +2798,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
