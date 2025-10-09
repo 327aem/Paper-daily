@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.08
+## Updated on 2025.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -14,7 +14,7 @@ layout: default
 |**2025-10-07**|**How public datasets constrain the development of diversity-aware news recommender systems, and what law could do about it**|[2510.05952](http://arxiv.org/abs/2510.05952)|null|
 |**2025-10-07**|**How to model Human Actions distribution with Event Sequence Data**|[2510.05856](http://arxiv.org/abs/2510.05856)|null|
 |**2025-10-07**|**The role of work-life balance in effective business management**|[2510.05783](http://arxiv.org/abs/2510.05783)|null|
-|**2025-10-07**|**OneVision: An End-to-End Generative Framework for Multi-view E-commerce Vision Search**|[2510.05759](http://arxiv.org/abs/2510.05759)|null|
+|**2025-10-08**|**OneVision: An End-to-End Generative Framework for Multi-view E-commerce Vision Search**|[2510.05759](http://arxiv.org/abs/2510.05759)|null|
 |**2025-10-07**|**Neighborhood-Adaptive Generalized Linear Graph Embedding with Latent Pattern Mining**|[2510.05719](http://arxiv.org/abs/2510.05719)|null|
 |**2025-10-07**|**Limitations of Current Evaluation Practices for Conversational Recommender Systems and the Potential of User Simulation**|[2510.05624](http://arxiv.org/abs/2510.05624)|null|
 |**2025-10-07**|**An Empirical Study of Security-Policy Related Issues in Open Source Projects**|[2510.05604](http://arxiv.org/abs/2510.05604)|null|
@@ -527,7 +527,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 ## Retrieval
 
@@ -548,7 +548,7 @@ layout: default
 |**2025-10-07**|**AdProv: A Method for Provenance of Process Adaptations**|[2510.05936](http://arxiv.org/abs/2510.05936)|null|
 |**2025-10-07**|**Evaluating the Sensitivity of LLMs to Harmful Contents in Long Input**|[2510.05864](http://arxiv.org/abs/2510.05864)|null|
 |**2025-10-07**|**ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Programming**|[2510.05774](http://arxiv.org/abs/2510.05774)|**[link](https://github.com/william4s/ConstraintLLM.)**|
-|**2025-10-07**|**OneVision: An End-to-End Generative Framework for Multi-view E-commerce Vision Search**|[2510.05759](http://arxiv.org/abs/2510.05759)|null|
+|**2025-10-08**|**OneVision: An End-to-End Generative Framework for Multi-view E-commerce Vision Search**|[2510.05759](http://arxiv.org/abs/2510.05759)|null|
 |**2025-10-07**|**DecEx-RAG: Boosting Agentic Retrieval-Augmented Generation with Decision and Execution Optimization via Process Supervision**|[2510.05691](http://arxiv.org/abs/2510.05691)|**[link](https://github.com/sdsxdxl/DecEx-RAG.)**|
 |**2025-10-07**|**Limitations of Current Evaluation Practices for Conversational Recommender Systems and the Potential of User Simulation**|[2510.05624](http://arxiv.org/abs/2510.05624)|null|
 |**2025-10-07**|**AgentDR Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents**|[2510.05598](http://arxiv.org/abs/2510.05598)|null|
@@ -561,13 +561,13 @@ layout: default
 |**2025-10-07**|**Automated Research Article Classification and Recommendation Using NLP and ML**|[2510.05495](http://arxiv.org/abs/2510.05495)|null|
 |**2025-10-06**|**AInstein: Assessing the Feasibility of AI-Generated Approaches to Research Problems**|[2510.05432](http://arxiv.org/abs/2510.05432)|null|
 |**2025-10-06**|**Personalizing Retrieval using Joint Embeddings or "the Return of Fluffy"**|[2510.05411](http://arxiv.org/abs/2510.05411)|null|
-|**2025-10-06**|**Scalable In-context Ranking with Generative Models**|[2510.05396](http://arxiv.org/abs/2510.05396)|null|
+|**2025-10-08**|**Scalable In-context Ranking with Generative Models**|[2510.05396](http://arxiv.org/abs/2510.05396)|null|
 |**2025-10-06**|**Context Length Alone Hurts LLM Performance Despite Perfect Retrieval**|[2510.05381](http://arxiv.org/abs/2510.05381)|null|
 |**2025-10-06**|**MHA-RAG: Improving Efficiency, Accuracy, and Consistency by Encoding Exemplars as Soft Prompts**|[2510.05363](http://arxiv.org/abs/2510.05363)|null|
 |**2025-10-06**|**WeatherArchive-Bench: Benchmarking Retrieval-Augmented Reasoning for Historical Weather Archives**|[2510.05336](http://arxiv.org/abs/2510.05336)|**[link](https://anonymous.4open.science/r/WeatherArchive-Bench/.)**|
 |**2025-10-06**|**Biomedical reasoning in action: Multi-agent System for Auditable Biomedical Evidence Synthesis**|[2510.05335](http://arxiv.org/abs/2510.05335)|**[link](https://m-reason.digitalecmt.com.)**|
 |**2025-10-06**|**DeepV: A Model-Agnostic Retrieval-Augmented Framework for Verilog Code Generation with a High-Quality Knowledge Base**|[2510.05327](http://arxiv.org/abs/2510.05327)|**[link](https://huggingface.co/spaces/FICS-LLM/DeepV.)**|
-|**2025-10-06**|**BIRD-INTERACT: Re-imagining Text-to-SQL Evaluation for Large Language Models via Lens of Dynamic Interactions**|[2510.05318](http://arxiv.org/abs/2510.05318)|null|
+|**2025-10-08**|**BIRD-INTERACT: Re-imagining Text-to-SQL Evaluation for Large Language Models via Lens of Dynamic Interactions**|[2510.05318](http://arxiv.org/abs/2510.05318)|null|
 |**2025-10-06**|**RAG Makes Guardrails Unsafe? Investigating Robustness of Guardrails under RAG-style Contexts**|[2510.05310](http://arxiv.org/abs/2510.05310)|null|
 |**2025-10-06**|**Reinforcement Learning for Clinical Reasoning: Aligning LLMs with ACR Imaging Appropriateness Criteria**|[2510.05194](http://arxiv.org/abs/2510.05194)|**[link](https://anonymous.4open.science/r/agentic-imaging-recommender-iclr-877D)**|
 |**2025-10-06**|**Neuroplastic Modular Framework: Cross-Domain Image Classification of Garbage and Industrial Surfaces**|[2510.05071](http://arxiv.org/abs/2510.05071)|null|
@@ -1537,7 +1537,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -1580,7 +1580,7 @@ layout: default
 |**2025-10-06**|**Factuality Matters: When Image Generation and Editing Meet Structured Visuals**|[2510.05091](http://arxiv.org/abs/2510.05091)|null|
 |**2025-10-06**|**Robust multicellular programs dissect the complex tumor microenvironment and track disease progression in colorectal adenocarcinomas**|[2510.05083](http://arxiv.org/abs/2510.05083)|null|
 |**2025-10-06**|**Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization**|[2510.05038](http://arxiv.org/abs/2510.05038)|**[link](https://github.com/IBM/test-time-hybrid-retrieval)**|
-|**2025-10-06**|**Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models**|[2510.05034](http://arxiv.org/abs/2510.05034)|**[link](https://github.com/yunlong10/Awesome-Video-LMM-Post-Training)**|
+|**2025-10-08**|**Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models**|[2510.05034](http://arxiv.org/abs/2510.05034)|**[link](https://github.com/yunlong10/Awesome-Video-LMM-Post-Training)**|
 |**2025-10-07**|**Large Language Models Achieve Gold Medal Performance at the International Olympiad on Astronomy & Astrophysics (IOAA)**|[2510.05016](http://arxiv.org/abs/2510.05016)|null|
 |**2025-10-06**|**Think Then Embed: Generative Context Improves Multimodal Embedding**|[2510.05014](http://arxiv.org/abs/2510.05014)|null|
 |**2025-10-06**|**Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot**|[2510.05001](http://arxiv.org/abs/2510.05001)|null|
@@ -2483,7 +2483,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -2496,14 +2496,14 @@ layout: default
 |**2025-10-07**|**LLMs as Policy-Agnostic Teammates: A Case Study in Human Proxy Design for Heterogeneous Agent Teams**|[2510.06151](http://arxiv.org/abs/2510.06151)|null|
 |**2025-10-07**|**Implicit Updates for Average-Reward Temporal Difference Learning**|[2510.06149](http://arxiv.org/abs/2510.06149)|null|
 |**2025-10-07**|**Multi-Task Reinforcement Learning with Language-Encoded Gated Policy Networks**|[2510.06138](http://arxiv.org/abs/2510.06138)|null|
-|**2025-10-07**|**The Alignment Auditor: A Bayesian Framework for Verifying and Refining LLM Objectives**|[2510.06096](http://arxiv.org/abs/2510.06096)|null|
+|**2025-10-08**|**The Alignment Auditor: A Bayesian Framework for Verifying and Refining LLM Objectives**|[2510.06096](http://arxiv.org/abs/2510.06096)|null|
 |**2025-10-07**|**Learning from Failures: Understanding LLM Alignment through Failure-Aware Inverse RL**|[2510.06092](http://arxiv.org/abs/2510.06092)|null|
 |**2025-10-07**|**When Thinking Drifts: Evidential Grounding for Robust Video Reasoning**|[2510.06077](http://arxiv.org/abs/2510.06077)|null|
 |**2025-10-07**|**Medical Vision Language Models as Policies for Robotic Surgery**|[2510.06064](http://arxiv.org/abs/2510.06064)|null|
 |**2025-10-07**|**ASPO: Asymmetric Importance Sampling Policy Optimization**|[2510.06062](http://arxiv.org/abs/2510.06062)|**[link](https://github.com/wizard-III/Archer2.0.)**|
 |**2025-10-07**|**VideoMiner: Iteratively Grounding Key Frames of Hour-Long Videos via Tree-based Group Relative Policy Optimization**|[2510.06040](http://arxiv.org/abs/2510.06040)|**[link](https://github.com/caoxinye/VideoMiner.)**|
 |**2025-10-07**|**From Learning to Mastery: Achieving Safe and Efficient Real-World Autonomous Driving with Human-In-The-Loop Reinforcement Learning**|[2510.06038](http://arxiv.org/abs/2510.06038)|null|
-|**2025-10-07**|**Optimal Batched Scheduling of Stochastic Processing Networks Using Atomic Action Decomposition**|[2510.06033](http://arxiv.org/abs/2510.06033)|null|
+|**2025-10-08**|**Optimal Batched Scheduling of Stochastic Processing Networks Using Atomic Action Decomposition**|[2510.06033](http://arxiv.org/abs/2510.06033)|null|
 |**2025-10-07**|**Hybrid Quantum-Classical Policy Gradient for Adaptive Control of Cyber-Physical Systems: A Comparative Study of VQC vs. MLP**|[2510.06010](http://arxiv.org/abs/2510.06010)|null|
 |**2025-10-07**|**Information-Theoretic Policy Pre-Training with Empowerment**|[2510.05996](http://arxiv.org/abs/2510.05996)|null|
 |**2025-10-07**|**Learning to Crawl: Latent Model-Based Reinforcement Learning for Soft Robotic Adaptive Locomotion**|[2510.05957](http://arxiv.org/abs/2510.05957)|null|
@@ -2932,7 +2932,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
