@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
-|**2025-10-08**|**Agent Bain vs. Agent McKinsey: A New Text-to-SQL Benchmark for the Business Domain**|[2510.07309](http://arxiv.org/abs/2510.07309)|null|
+|**2025-10-09**|**Agent Bain vs. Agent McKinsey: A New Text-to-SQL Benchmark for the Business Domain**|[2510.07309](http://arxiv.org/abs/2510.07309)|null|
 |**2025-10-08**|**On Assessing Overall Survival (OS) in Oncology Studies**|[2510.07122](http://arxiv.org/abs/2510.07122)|null|
 |**2025-10-08**|**Analysis of managerial behaviors in business management**|[2510.07047](http://arxiv.org/abs/2510.07047)|null|
 |**2025-10-08**|**The role of communication in effective business management**|[2510.07016](http://arxiv.org/abs/2510.07016)|null|
@@ -545,13 +545,13 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## Retrieval
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
-|**2025-10-08**|**Agent Bain vs. Agent McKinsey: A New Text-to-SQL Benchmark for the Business Domain**|[2510.07309](http://arxiv.org/abs/2510.07309)|null|
+|**2025-10-09**|**Agent Bain vs. Agent McKinsey: A New Text-to-SQL Benchmark for the Business Domain**|[2510.07309](http://arxiv.org/abs/2510.07309)|null|
 |**2025-10-08**|**SpecGuard: Spectral Projection-based Advanced Invisible Watermarking**|[2510.07302](http://arxiv.org/abs/2510.07302)|**[link](https://github.com/inzamamulDU/SpecGuard_ICCV_2025}{\textcolor{blue}{\textbf{GitHub}}}.)**|
 |**2025-10-08**|**Evolutionary Profiles for Protein Fitness Prediction**|[2510.07286](http://arxiv.org/abs/2510.07286)|**[link](https://github.com/aim-uofa/EvoIF.)**|
 |**2025-10-08**|**Efficient reductions from a Gaussian source with applications to statistical-computational tradeoffs**|[2510.07250](http://arxiv.org/abs/2510.07250)|null|
@@ -574,7 +574,7 @@ layout: default
 |**2025-10-08**|**Are LLMs Reliable Rankers? Rank Manipulation via Two-Stage Token Optimization**|[2510.06732](http://arxiv.org/abs/2510.06732)|**[link](https://github.com/glad-lab/RAF.)**|
 |**2025-10-08**|**Reproducing and Extending Causal Insights Into Term Frequency Computation in Neural Rankers**|[2510.06728](http://arxiv.org/abs/2510.06728)|null|
 |**2025-10-08**|**Differentially Private Synthetic Text Generation for Retrieval-Augmented Generation (RAG)**|[2510.06719](http://arxiv.org/abs/2510.06719)|null|
-|**2025-10-08**|**Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support**|[2510.06674](http://arxiv.org/abs/2510.06674)|null|
+|**2025-10-09**|**Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support**|[2510.06674](http://arxiv.org/abs/2510.06674)|null|
 |**2025-10-08**|**ToolMem: Enhancing Multimodal Agents with Learnable Tool Capability Memory**|[2510.06664](http://arxiv.org/abs/2510.06664)|null|
 |**2025-10-08**|**Can We Hide Machines in the Crowd? Quantifying Equivalence in LLM-in-the-loop Annotation Tasks**|[2510.06658](http://arxiv.org/abs/2510.06658)|null|
 |**2025-10-08**|**LLM-Powered Nuanced Video Attribute Annotation for Enhanced Recommendations**|[2510.06657](http://arxiv.org/abs/2510.06657)|null|
@@ -1594,7 +1594,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -1610,7 +1610,7 @@ layout: default
 |**2025-10-08**|**Expressive and Scalable Quantum Fusion for Multimodal Learning**|[2510.06938](http://arxiv.org/abs/2510.06938)|null|
 |**2025-10-08**|**M3Retrieve: Benchmarking Multimodal Retrieval for Medicine**|[2510.06888](http://arxiv.org/abs/2510.06888)|**[link](https://github.com/AkashGhosh/M3Retrieve.)**|
 |**2025-10-08**|**Prototyping Multimodal GenAI Real-Time Agents with Counterfactual Replays and Hybrid Wizard-of-Oz**|[2510.06872](http://arxiv.org/abs/2510.06872)|null|
-|**2025-10-08**|**SaFeR-VLM: Toward Safety-aware Fine-grained Reasoning in Multimodal Models**|[2510.06871](http://arxiv.org/abs/2510.06871)|**[link](https://github.com/HarveyYi/SaFeR-VLM.)**|
+|**2025-10-09**|**SaFeR-VLM: Toward Safety-aware Fine-grained Reasoning in Multimodal Models**|[2510.06871](http://arxiv.org/abs/2510.06871)|**[link](https://github.com/HarveyYi/SaFeR-VLM.)**|
 |**2025-10-08**|**SID: Multi-LLM Debate Driven by Self Signals**|[2510.06843](http://arxiv.org/abs/2510.06843)|**[link](https://github.com/xuhang2019/SID}{\texttt{https://github.com/xuhang2019/SID}}.)**|
 |**2025-10-08**|**Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking**|[2510.06820](http://arxiv.org/abs/2510.06820)|null|
 |**2025-10-08**|**Get RICH or Die Scaling: Profitably Trading Inference Compute for Robustness**|[2510.06790](http://arxiv.org/abs/2510.06790)|null|
@@ -1648,7 +1648,7 @@ layout: default
 |**2025-10-07**|**FoleyGRAM: Video-to-Audio Generation with GRAM-Aligned Multimodal Encoders**|[2510.05829](http://arxiv.org/abs/2510.05829)|null|
 |**2025-10-07**|**Early Multimodal Prediction of Cross-Lingual Meme Virality on Reddit: A Time-Window Analysis**|[2510.05761](http://arxiv.org/abs/2510.05761)|null|
 |**2025-10-07**|**MSF-SER: Enriching Acoustic Modeling with Multi-Granularity Semantics for Speech Emotion Recognition**|[2510.05749](http://arxiv.org/abs/2510.05749)|null|
-|**2025-10-07**|**Context Matters: Learning Global Semantics for Visual Reasoning and Comprehension**|[2510.05674](http://arxiv.org/abs/2510.05674)|null|
+|**2025-10-08**|**Context Matters: Learning Global Semantics via Object-Centric Representation**|[2510.05674](http://arxiv.org/abs/2510.05674)|null|
 |**2025-10-07**|**When and How to Cut Classical Concerts? A Multimodal Automated Video Editing Approach**|[2510.05661](http://arxiv.org/abs/2510.05661)|null|
 |**2025-10-07**|**SD-MVSum: Script-Driven Multimodal Video Summarization Method and Datasets**|[2510.05652](http://arxiv.org/abs/2510.05652)|**[link](https://github.com/IDT-ITI/SD-MVSum.)**|
 |**2025-10-07**|**MADIAVE: Multi-Agent Debate for Implicit Attribute Value Extraction**|[2510.05611](http://arxiv.org/abs/2510.05611)|null|
@@ -2572,7 +2572,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -2584,12 +2584,12 @@ layout: default
 |**2025-10-08**|**Online Rubrics Elicitation from Pairwise Comparisons**|[2510.07284](http://arxiv.org/abs/2510.07284)|null|
 |**2025-10-08**|**Dynamic Regret Bounds for Online Omniprediction with Long Term Constraints**|[2510.07266](http://arxiv.org/abs/2510.07266)|null|
 |**2025-10-08**|**Test-Time Graph Search for Goal-Conditioned Reinforcement Learning**|[2510.07257](http://arxiv.org/abs/2510.07257)|null|
-|**2025-10-08**|**Hybrid Reinforcement: When Reward Is Sparse, It's Better to Be Dense**|[2510.07242](http://arxiv.org/abs/2510.07242)|null|
+|**2025-10-09**|**Hybrid Reinforcement: When Reward Is Sparse, It's Better to Be Dense**|[2510.07242](http://arxiv.org/abs/2510.07242)|null|
 |**2025-10-08**|**Red-Bandit: Test-Time Adaptation for LLM Red-Teaming via Bandit-Guided LoRA Experts**|[2510.07239](http://arxiv.org/abs/2510.07239)|null|
 |**2025-10-08**|**Customer-R1: Personalized Simulation of Human Behaviors via RL-based LLM Agent in Online Shopping**|[2510.07230](http://arxiv.org/abs/2510.07230)|null|
 |**2025-10-08**|**HyPlan: Hybrid Learning-Assisted Planning Under Uncertainty for Safe Autonomous Driving**|[2510.07210](http://arxiv.org/abs/2510.07210)|null|
 |**2025-10-08**|**Renormalization of Interacting Random Graph Models**|[2510.07186](http://arxiv.org/abs/2510.07186)|null|
-|**2025-10-08**|**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**|[2510.07181](http://arxiv.org/abs/2510.07181)|null|
+|**2025-10-09**|**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**|[2510.07181](http://arxiv.org/abs/2510.07181)|null|
 |**2025-10-08**|**Bayesian Portfolio Optimization by Predictive Synthesis**|[2510.07180](http://arxiv.org/abs/2510.07180)|null|
 |**2025-10-08**|**Reasoning for Hierarchical Text Classification: The Case of Patents**|[2510.07167](http://arxiv.org/abs/2510.07167)|null|
 |**2025-10-08**|**DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction**|[2510.07152](http://arxiv.org/abs/2510.07152)|null|
@@ -2607,9 +2607,9 @@ layout: default
 |**2025-10-08**|**DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning**|[2510.06913](http://arxiv.org/abs/2510.06913)|null|
 |**2025-10-08**|**Multi-Dimensional Autoscaling of Stream Processing Services on Edge Devices**|[2510.06882](http://arxiv.org/abs/2510.06882)|null|
 |**2025-10-08**|**TGPR: Tree-Guided Policy Refinement for Robust Self-Debugging of LLMs**|[2510.06878](http://arxiv.org/abs/2510.06878)|null|
-|**2025-10-08**|**SaFeR-VLM: Toward Safety-aware Fine-grained Reasoning in Multimodal Models**|[2510.06871](http://arxiv.org/abs/2510.06871)|**[link](https://github.com/HarveyYi/SaFeR-VLM.)**|
-|**2025-10-08**|**$λ$ -GRPO: Unifying the GRPO Frameworks with Learnable Token Preferences**|[2510.06870](http://arxiv.org/abs/2510.06870)|null|
-|**2025-10-08**|**Adaptive Tool Generation with Models as Tools and Reinforcement Learning**|[2510.06825](http://arxiv.org/abs/2510.06825)|null|
+|**2025-10-09**|**SaFeR-VLM: Toward Safety-aware Fine-grained Reasoning in Multimodal Models**|[2510.06871](http://arxiv.org/abs/2510.06871)|**[link](https://github.com/HarveyYi/SaFeR-VLM.)**|
+|**2025-10-09**|**$λ$ -GRPO: Unifying the GRPO Frameworks with Learnable Token Preferences**|[2510.06870](http://arxiv.org/abs/2510.06870)|null|
+|**2025-10-09**|**Adaptive Tool Generation with Models as Tools and Reinforcement Learning**|[2510.06825](http://arxiv.org/abs/2510.06825)|null|
 |**2025-10-08**|**TTRV: Test-Time Reinforcement Learning for Vision Language Models**|[2510.06783](http://arxiv.org/abs/2510.06783)|null|
 |**2025-10-08**|**Transforming Noise Distributions with Histogram Matching: Towards a Single Denoiser for All**|[2510.06757](http://arxiv.org/abs/2510.06757)|null|
 |**2025-10-08**|**Verifying Memoryless Sequential Decision-making of Large Language Models**|[2510.06756](http://arxiv.org/abs/2510.06756)|null|
@@ -2620,7 +2620,7 @@ layout: default
 |**2025-10-08**|**Semantic Segmentation Algorithm Based on Light Field and LiDAR Fusion**|[2510.06687](http://arxiv.org/abs/2510.06687)|null|
 |**2025-10-08**|**Distributed Algorithms for Multi-Agent Multi-Armed Bandits with Collision**|[2510.06683](http://arxiv.org/abs/2510.06683)|null|
 |**2025-10-08**|**REACH: Reinforcement Learning for Adaptive Microservice Rescheduling in the Cloud-Edge Continuum**|[2510.06675](http://arxiv.org/abs/2510.06675)|null|
-|**2025-10-08**|**XRPO: Pushing the limits of GRPO with Targeted Exploration and Exploitation**|[2510.06672](http://arxiv.org/abs/2510.06672)|null|
+|**2025-10-09**|**XRPO: Pushing the limits of GRPO with Targeted Exploration and Exploitation**|[2510.06672](http://arxiv.org/abs/2510.06672)|null|
 |**2025-10-08**|**PIKA: Expert-Level Synthetic Datasets for Post-Training Alignment from Scratch**|[2510.06670](http://arxiv.org/abs/2510.06670)|**[link](https://github.com/SJY8460/PiKa.)**|
 |**2025-10-08**|**Aligning Large Language Models via Fully Self-Synthetic Data**|[2510.06652](http://arxiv.org/abs/2510.06652)|**[link](https://github.com/SJY8460/SAO.)**|
 |**2025-10-08**|**Local Reinforcement Learning with Action-Conditioned Root Mean Squared Q-Functions**|[2510.06649](http://arxiv.org/abs/2510.06649)|**[link](https://github.com/agentic-learning-ai-lab/arq.)**|
@@ -3071,7 +3071,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
