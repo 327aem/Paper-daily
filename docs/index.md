@@ -583,6 +583,7 @@ layout: default
 |**2025-10-09**|**Memory Retrieval and Consolidation in Large Language Models through Function Tokens**|[2510.08203](http://arxiv.org/abs/2510.08203)|null|
 |**2025-10-09**|**MetricalARGS: A Taxonomy for Studying Metrical Poetry with LLMs**|[2510.08188](http://arxiv.org/abs/2510.08188)|null|
 |**2025-10-09**|**Leveraging Whisper Embeddings for Audio-based Lyrics Matching**|[2510.08176](http://arxiv.org/abs/2510.08176)|null|
+|**2025-10-09**|**Prepared mind, fast response: A temporal decoupling framework for adaptive knowledge orchestration in open-domain dialogue**|[2510.08175](http://arxiv.org/abs/2510.08175)|null|
 |**2025-10-09**|**AI Knowledge Assist: An Automated Approach for the Creation of Knowledge Bases for Conversational AI Agents**|[2510.08149](http://arxiv.org/abs/2510.08149)|null|
 |**2025-10-09**|**VersionRAG: Version-Aware Retrieval-Augmented Generation for Evolving Documents**|[2510.08109](http://arxiv.org/abs/2510.08109)|null|
 |**2025-10-09**|**DarkHash: A Data-Free Backdoor Attack Against Deep Hashing**|[2510.08094](http://arxiv.org/abs/2510.08094)|null|
