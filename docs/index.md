@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.13
+## Updated on 2025.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -584,7 +584,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## Retrieval
 
@@ -1724,7 +1724,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -1771,13 +1771,13 @@ layout: default
 |**2025-10-09**|**NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Models under Data Constraints**|[2510.08565](http://arxiv.org/abs/2510.08565)|null|
 |**2025-10-09**|**How to Teach Large Multimodal Models New Skills**|[2510.08564](http://arxiv.org/abs/2510.08564)|**[link](https://github.com/jessemelpolio/LMM_CL)**|
 |**2025-10-09**|**SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models**|[2510.08559](http://arxiv.org/abs/2510.08559)|null|
-|**2025-10-09**|**MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization**|[2510.08540](http://arxiv.org/abs/2510.08540)|null|
+|**2025-10-11**|**MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization**|[2510.08540](http://arxiv.org/abs/2510.08540)|null|
 |**2025-10-09**|**SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models**|[2510.08531](http://arxiv.org/abs/2510.08531)|null|
 |**2025-10-09**|**X2Video: Adapting Diffusion Models for Multimodal Controllable Neural Video Rendering**|[2510.08530](http://arxiv.org/abs/2510.08530)|**[link](https://luckyhzt.github.io/x2video)**|
 |**2025-10-09**|**MoA-VR: A Mixture-of-Agents System Towards All-in-One Video Restoration**|[2510.08508](http://arxiv.org/abs/2510.08508)|null|
 |**2025-10-09**|**Better Together: Leveraging Unpaired Multimodal Data for Stronger Unimodal Models**|[2510.08492](http://arxiv.org/abs/2510.08492)|**[link](https://unpaired-multimodal.github.io/)**|
 |**2025-10-09**|**InstructX: Towards Unified Visual Editing with MLLM Guidance**|[2510.08485](http://arxiv.org/abs/2510.08485)|null|
-|**2025-10-09**|**The Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form-Meaning Mapping**|[2510.08482](http://arxiv.org/abs/2510.08482)|null|
+|**2025-10-11**|**The Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form-Meaning Mapping**|[2510.08482](http://arxiv.org/abs/2510.08482)|null|
 |**2025-10-09**|**Video-STAR: Reinforcing Open-Vocabulary Action Recognition with Tools**|[2510.08480](http://arxiv.org/abs/2510.08480)|null|
 |**2025-10-09**|**Looking to Learn: Token-wise Dynamic Gating for Low-Resource Vision-Language Modelling**|[2510.08470](http://arxiv.org/abs/2510.08470)|null|
 |**2025-10-09**|**ARES: Multimodal Adaptive Reasoning via Difficulty-Aware Token-Level Entropy Shaping**|[2510.08457](http://arxiv.org/abs/2510.08457)|null|
@@ -2786,7 +2786,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -3385,7 +3385,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
