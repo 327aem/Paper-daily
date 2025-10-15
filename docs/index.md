@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.14
+## Updated on 2025.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -38,7 +38,7 @@ layout: default
 |**2025-10-12**|**Does Weighting Improve Matrix Factorization for Recommender Systems?**|[2510.10440](http://arxiv.org/abs/2510.10440)|null|
 |**2025-10-12**|**Hierarchical LoRA MoE for Efficient CTR Model Scaling**|[2510.10432](http://arxiv.org/abs/2510.10432)|null|
 |**2025-10-12**|**LONGQAEVAL: Designing Reliable Evaluations of Long-Form Clinical QA under Resource Constraints**|[2510.10415](http://arxiv.org/abs/2510.10415)|null|
-|**2025-10-12**|**Examining the Interface Design of Tidyverse**|[2510.10382](http://arxiv.org/abs/2510.10382)|null|
+|**2025-10-14**|**Examining the Interface Design of Tidyverse**|[2510.10382](http://arxiv.org/abs/2510.10382)|null|
 |**2025-10-11**|**System Password Security: Attack and Defense Mechanisms**|[2510.10246](http://arxiv.org/abs/2510.10246)|null|
 |**2025-10-11**|**Text2Token: Unsupervised Text Representation Learning with Token Target Prediction**|[2510.10224](http://arxiv.org/abs/2510.10224)|null|
 |**2025-10-11**|**Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model**|[2510.10127](http://arxiv.org/abs/2510.10127)|null|
@@ -626,7 +626,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
 
 ## Retrieval
 
@@ -681,7 +681,7 @@ layout: default
 |**2025-10-13**|**Topological Alignment of Shared Vision-Language Embedding Space**|[2510.10889](http://arxiv.org/abs/2510.10889)|null|
 |**2025-10-12**|**VeritasFi: An Adaptable, Multi-tiered RAG Framework for Multi-modal Financial Question Answering**|[2510.10828](http://arxiv.org/abs/2510.10828)|**[link](https://github.com/simplew4y/VeritasFi.git.)**|
 |**2025-10-12**|**Agentic RAG for Software Testing with Hybrid Vector-Graph and Multi-Agent Orchestration**|[2510.10824](http://arxiv.org/abs/2510.10824)|null|
-|**2025-10-12**|**DRIFT: Decompose, Retrieve, Illustrate, then Formalize Theorems**|[2510.10815](http://arxiv.org/abs/2510.10815)|null|
+|**2025-10-14**|**DRIFT: Decompose, Retrieve, Illustrate, then Formalize Theorems**|[2510.10815](http://arxiv.org/abs/2510.10815)|null|
 |**2025-10-10**|**SpaceVista: All-Scale Visual Spatial Reasoning from mm to km**|[2510.09606](http://arxiv.org/abs/2510.09606)|**[link](https://peiwensun2000.github.io/mm2km)**|
 |**2025-10-10**|**Doc2Query++: Topic-Coverage based Document Expansion and its Application to Dense Retrieval via Dual-Index Fusion**|[2510.09557](http://arxiv.org/abs/2510.09557)|null|
 |**2025-10-10**|**Hierarchical Indexing with Knowledge Enrichment for Multilingual Video Corpus Retrieval**|[2510.09553](http://arxiv.org/abs/2510.09553)|null|
@@ -1816,7 +1816,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -1830,7 +1830,7 @@ layout: default
 |**2025-10-13**|**MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis**|[2510.11579](http://arxiv.org/abs/2510.11579)|**[link](https://github.com/HongyuZhu-s/MS-Mix.)**|
 |**2025-10-13**|**Situat3DChange: Situated 3D Change Understanding Dataset for Multimodal Large Language Model**|[2510.11509](http://arxiv.org/abs/2510.11509)|null|
 |**2025-10-13**|**ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding**|[2510.11498](http://arxiv.org/abs/2510.11498)|null|
-|**2025-10-13**|**AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model**|[2510.11496](http://arxiv.org/abs/2510.11496)|null|
+|**2025-10-14**|**AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model**|[2510.11496](http://arxiv.org/abs/2510.11496)|**[link](https://huggingface.co/OPPOer.)**|
 |**2025-10-13**|**Audio-Maestro: Enhancing Large Audio-Language Models with Tool-Augmented Reasoning**|[2510.11454](http://arxiv.org/abs/2510.11454)|null|
 |**2025-10-13**|**Beyond Survival: Evaluating LLMs in Social Deduction Games with Human-Aligned Strategies**|[2510.11389](http://arxiv.org/abs/2510.11389)|null|
 |**2025-10-13**|**Uncertainty-Aware ControlNet: Bridging Domain Gaps with Synthetic Image Generation**|[2510.11346](http://arxiv.org/abs/2510.11346)|null|
@@ -1840,7 +1840,7 @@ layout: default
 |**2025-10-13**|**CSI Prediction Using Diffusion Models**|[2510.11214](http://arxiv.org/abs/2510.11214)|null|
 |**2025-10-13**|**Class Prototypes based Contrastive Learning for Classifying Multi-Label and Fine-Grained Educational Videos**|[2510.11204](http://arxiv.org/abs/2510.11204)|**[link](https://github.com/rohit-gupta/MMContrast/tree/main/APPROVE)**|
 |**2025-10-13**|**Evaluating Reasoning Faithfulness in Medical Vision-Language Models using Multimodal Perturbations**|[2510.11196](http://arxiv.org/abs/2510.11196)|null|
-|**2025-10-13**|**FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models**|[2510.11190](http://arxiv.org/abs/2510.11190)|**[link](https://github.com/ylhz/FlexAC.)**|
+|**2025-10-14**|**FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models**|[2510.11190](http://arxiv.org/abs/2510.11190)|**[link](https://github.com/ylhz/FlexAC.)**|
 |**2025-10-13**|**BLEnD-Vis: Benchmarking Multimodal Cultural Understanding in Vision Language Models**|[2510.11178](http://arxiv.org/abs/2510.11178)|null|
 |**2025-10-13**|**Quantum Information Processing with Spatially Structured Light**|[2510.11154](http://arxiv.org/abs/2510.11154)|null|
 |**2025-10-13**|**Connecting Giants: Synergistic Knowledge Transfer of Large Multimodal Models for Few-Shot Learning**|[2510.11115](http://arxiv.org/abs/2510.11115)|null|
@@ -1870,7 +1870,7 @@ layout: default
 |**2025-10-12**|**Collaborative Text-to-Image Generation via Multi-Agent Reinforcement Learning and Semantic Fusion**|[2510.10633](http://arxiv.org/abs/2510.10633)|null|
 |**2025-10-12**|**BitMar: Low-Bit Multimodal Fusion with Episodic Memory for Edge Devices**|[2510.10560](http://arxiv.org/abs/2510.10560)|null|
 |**2025-10-12**|**GLOFNet -- A Multimodal Dataset for GLOF Monitoring and Prediction**|[2510.10546](http://arxiv.org/abs/2510.10546)|null|
-|**2025-10-12**|**VR-Thinker: Boosting Video Reward Models through Thinking-with-Image Reasoning**|[2510.10518](http://arxiv.org/abs/2510.10518)|null|
+|**2025-10-14**|**VR-Thinker: Boosting Video Reward Models through Thinking-with-Image Reasoning**|[2510.10518](http://arxiv.org/abs/2510.10518)|null|
 |**2025-10-12**|**MARS-Sep: Multimodal-Aligned Reinforced Sound Separation**|[2510.10509](http://arxiv.org/abs/2510.10509)|**[link](https://anonymous.4open.science/r/MARS-Sep.)**|
 |**2025-10-10**|**VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**|[2510.09607](http://arxiv.org/abs/2510.09607)|null|
 |**2025-10-10**|**Vision Language Models: A Survey of 26K Papers**|[2510.09586](http://arxiv.org/abs/2510.09586)|null|
@@ -2928,7 +2928,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -2939,7 +2939,7 @@ layout: default
 |**2025-10-13**|**QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs**|[2510.11696](http://arxiv.org/abs/2510.11696)|null|
 |**2025-10-13**|**Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation**|[2510.11689](http://arxiv.org/abs/2510.11689)|**[link](https://phys2real.github.io/)**|
 |**2025-10-13**|**Representation-Based Exploration for Language Models: From Test-Time to Post-Training**|[2510.11686](http://arxiv.org/abs/2510.11686)|null|
-|**2025-10-13**|**Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models**|[2510.11683](http://arxiv.org/abs/2510.11683)|null|
+|**2025-10-14**|**Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models**|[2510.11683](http://arxiv.org/abs/2510.11683)|**[link](https://github.com/THU-KEG/BGPO}{https://github.com/THU-KEG/BGPO}.)**|
 |**2025-10-13**|**Ego-Vision World Model for Humanoid Contact Planning**|[2510.11682](http://arxiv.org/abs/2510.11682)|**[link](https://ego-vcp.github.io/)**|
 |**2025-10-13**|**SR-Scientist: Scientific Equation Discovery With Agentic AI**|[2510.11661](http://arxiv.org/abs/2510.11661)|null|
 |**2025-10-13**|**MATH-Beyond: A Benchmark for RL to Expand Beyond the Base Model**|[2510.11653](http://arxiv.org/abs/2510.11653)|**[link](https://huggingface.co/datasets/brendel-group/MATH-Beyond.)**|
@@ -2958,7 +2958,7 @@ layout: default
 |**2025-10-13**|**Unifying Deductive and Abductive Reasoning in Knowledge Graphs with Masked Diffusion Model**|[2510.11462](http://arxiv.org/abs/2510.11462)|null|
 |**2025-10-13**|**From <Answer> to <Think>: Multidimensional Supervision of Reasoning Process for LLM Optimization**|[2510.11457](http://arxiv.org/abs/2510.11457)|null|
 |**2025-10-13**|**What Generative Search Engines Like and How to Optimize Web Content Cooperatively**|[2510.11438](http://arxiv.org/abs/2510.11438)|**[link](https://github.com/cxcscmu/AutoGEO.)**|
-|**2025-10-13**|**Autonomous vehicles need social awareness to find optima in multi-agent reinforcement learning routing games**|[2510.11410](http://arxiv.org/abs/2510.11410)|null|
+|**2025-10-14**|**Autonomous vehicles need social awareness to find optima in multi-agent reinforcement learning routing games**|[2510.11410](http://arxiv.org/abs/2510.11410)|null|
 |**2025-10-13**|**KnowRL: Teaching Language Models to Know What They Know**|[2510.11407](http://arxiv.org/abs/2510.11407)|null|
 |**2025-10-13**|**DocReward: A Document Reward Model for Structuring and Stylizing**|[2510.11391](http://arxiv.org/abs/2510.11391)|null|
 |**2025-10-13**|**Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers**|[2510.11370](http://arxiv.org/abs/2510.11370)|null|
@@ -2980,7 +2980,7 @@ layout: default
 |**2025-10-13**|**A Primer on SO(3) Action Representations in Deep Reinforcement Learning**|[2510.11103](http://arxiv.org/abs/2510.11103)|null|
 |**2025-10-13**|**Stabilizing the Staking Rate, Dynamically Distributed Inflation and Delay Induced Oscillations**|[2510.11065](http://arxiv.org/abs/2510.11065)|null|
 |**2025-10-13**|**Detecting Gender Stereotypes in Scratch Programming Tutorials**|[2510.11064](http://arxiv.org/abs/2510.11064)|null|
-|**2025-10-13**|**Stronger Together: On-Policy Reinforcement Learning for Collaborative LLMs**|[2510.11062](http://arxiv.org/abs/2510.11062)|**[link](https://github.com/pettingllms-ai/PettingLLMs.)**|
+|**2025-10-14**|**Stronger Together: On-Policy Reinforcement Learning for Collaborative LLMs**|[2510.11062](http://arxiv.org/abs/2510.11062)|**[link](https://github.com/pettingllms-ai/PettingLLMs.)**|
 |**2025-10-13**|**From Reasoning LLMs to BERT: A Two-Stage Distillation Framework for Search Relevance**|[2510.11056](http://arxiv.org/abs/2510.11056)|null|
 |**2025-10-13**|**Unveiling Uncertainty-Aware Autonomous Cooperative Learning Based Planning Strategy**|[2510.11041](http://arxiv.org/abs/2510.11041)|null|
 |**2025-10-13**|**GeoVLMath: Enhancing Geometry Reasoning in Vision-Language Models via Cross-Modal Reward for Auxiliary Line Creation**|[2510.11020](http://arxiv.org/abs/2510.11020)|null|
@@ -3577,7 +3577,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
