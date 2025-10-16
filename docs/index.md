@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.15
+## Updated on 2025.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:------|:------|
 |**2025-10-14**|**Content Anonymization for Privacy in Long-form Audio**|[2510.12780](http://arxiv.org/abs/2510.12780)|null|
 |**2025-10-14**|**CTRL-Rec: Controlling Recommender Systems With Natural Language**|[2510.12742](http://arxiv.org/abs/2510.12742)|null|
-|**2025-10-14**|**SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model**|[2510.12709](http://arxiv.org/abs/2510.12709)|null|
+|**2025-10-15**|**SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model**|[2510.12709](http://arxiv.org/abs/2510.12709)|null|
 |**2025-10-14**|**The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented Generation**|[2510.12668](http://arxiv.org/abs/2510.12668)|null|
 |**2025-10-14**|**SMILE: SeMantic Ids Enhanced CoLd Item Representation for Click-through Rate Prediction in E-commerce SEarch**|[2510.12604](http://arxiv.org/abs/2510.12604)|null|
 |**2025-10-14**|**Artificial Intelligence Virtual Cells: From Measurements to Decisions across Modality, Scale, Dynamics, and Evaluation**|[2510.12498](http://arxiv.org/abs/2510.12498)|null|
@@ -54,7 +54,7 @@ layout: default
 |**2025-10-12**|**Does Weighting Improve Matrix Factorization for Recommender Systems?**|[2510.10440](http://arxiv.org/abs/2510.10440)|null|
 |**2025-10-12**|**Hierarchical LoRA MoE for Efficient CTR Model Scaling**|[2510.10432](http://arxiv.org/abs/2510.10432)|null|
 |**2025-10-12**|**LONGQAEVAL: Designing Reliable Evaluations of Long-Form Clinical QA under Resource Constraints**|[2510.10415](http://arxiv.org/abs/2510.10415)|null|
-|**2025-10-14**|**Examining the Interface Design of Tidyverse**|[2510.10382](http://arxiv.org/abs/2510.10382)|null|
+|**2025-10-15**|**Examining the Interface Design of Tidyverse**|[2510.10382](http://arxiv.org/abs/2510.10382)|null|
 |**2025-10-11**|**System Password Security: Attack and Defense Mechanisms**|[2510.10246](http://arxiv.org/abs/2510.10246)|null|
 |**2025-10-11**|**Text2Token: Unsupervised Text Representation Learning with Token Target Prediction**|[2510.10224](http://arxiv.org/abs/2510.10224)|null|
 |**2025-10-11**|**Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model**|[2510.10127](http://arxiv.org/abs/2510.10127)|null|
@@ -642,7 +642,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## Retrieval
 
@@ -650,7 +650,7 @@ layout: default
 |:---------|:-----------------------|:------|:------|
 |**2025-10-14**|**DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search**|[2510.12801](http://arxiv.org/abs/2510.12801)|null|
 |**2025-10-14**|**CTRL-Rec: Controlling Recommender Systems With Natural Language**|[2510.12742](http://arxiv.org/abs/2510.12742)|null|
-|**2025-10-14**|**SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model**|[2510.12709](http://arxiv.org/abs/2510.12709)|null|
+|**2025-10-15**|**SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model**|[2510.12709](http://arxiv.org/abs/2510.12709)|null|
 |**2025-10-14**|**The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented Generation**|[2510.12668](http://arxiv.org/abs/2510.12668)|null|
 |**2025-10-14**|**SMILE: SeMantic Ids Enhanced CoLd Item Representation for Click-through Rate Prediction in E-commerce SEarch**|[2510.12604](http://arxiv.org/abs/2510.12604)|null|
 |**2025-10-14**|**Dominating Hadwiger's Conjecture holds for all $2K_2$ -free graphs**|[2510.12567](http://arxiv.org/abs/2510.12567)|null|
@@ -1869,7 +1869,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -1883,7 +1883,7 @@ layout: default
 |**2025-10-14**|**HYPE: Hybrid Planning with Ego Proposal-Conditioned Predictions**|[2510.12733](http://arxiv.org/abs/2510.12733)|null|
 |**2025-10-14**|**Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception**|[2510.12720](http://arxiv.org/abs/2510.12720)|null|
 |**2025-10-14**|**Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning**|[2510.12712](http://arxiv.org/abs/2510.12712)|null|
-|**2025-10-14**|**SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model**|[2510.12709](http://arxiv.org/abs/2510.12709)|null|
+|**2025-10-15**|**SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model**|[2510.12709](http://arxiv.org/abs/2510.12709)|null|
 |**2025-10-14**|**Decoding Multimode Gottesman-Kitaev-Preskill Codes with Noisy Auxiliary States**|[2510.12677](http://arxiv.org/abs/2510.12677)|null|
 |**2025-10-14**|**Reasoning in the Dark: Interleaved Vision-Text Reasoning in Latent Space**|[2510.12603](http://arxiv.org/abs/2510.12603)|**[link](https://github.com/FYYDCC/IVT-LR.)**|
 |**2025-10-14**|**Artificial Intelligence Virtual Cells: From Measurements to Decisions across Modality, Scale, Dynamics, and Evaluation**|[2510.12498](http://arxiv.org/abs/2510.12498)|null|
@@ -1905,7 +1905,7 @@ layout: default
 |**2025-10-14**|**UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering**|[2510.12174](http://arxiv.org/abs/2510.12174)|null|
 |**2025-10-14**|**MatSciBench: Benchmarking the Reasoning Ability of Large Language Models in Materials Science**|[2510.12171](http://arxiv.org/abs/2510.12171)|null|
 |**2025-10-14**|**SafeMT: Multi-turn Safety for Multimodal Language Models**|[2510.12133](http://arxiv.org/abs/2510.12133)|null|
-|**2025-10-14**|**MetaCaptioner: Towards Generalist Visual Captioning with Open-source Suites**|[2510.12126](http://arxiv.org/abs/2510.12126)|null|
+|**2025-10-15**|**MetaCaptioner: Towards Generalist Visual Captioning with Open-source Suites**|[2510.12126](http://arxiv.org/abs/2510.12126)|null|
 |**2025-10-14**|**IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation**|[2510.12095](http://arxiv.org/abs/2510.12095)|null|
 |**2025-10-13**|**UALM: Unified Audio Language Model for Understanding, Generation and Reasoning**|[2510.12000](http://arxiv.org/abs/2510.12000)|null|
 |**2025-10-13**|**Genomic Influence of a Key Transcription Factor in Male Glandular Malignancy**|[2510.11959](http://arxiv.org/abs/2510.11959)|null|
@@ -3017,7 +3017,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -3064,10 +3064,10 @@ layout: default
 |**2025-10-14**|**EmboMatrix: A Scalable Training-Ground for Embodied Decision-Making**|[2510.12072](http://arxiv.org/abs/2510.12072)|null|
 |**2025-10-14**|**Empowering LLM Agents with Geospatial Awareness: Toward Grounded Reasoning for Wildfire Response**|[2510.12061](http://arxiv.org/abs/2510.12061)|null|
 |**2025-10-14**|**Hierarchical Alignment: Surgical Fine-Tuning via Functional Layer Specialization in Large Language Models**|[2510.12044](http://arxiv.org/abs/2510.12044)|null|
-|**2025-10-14**|**Improving Text-to-Image Generation with Input-Side Inference-Time Scaling**|[2510.12041](http://arxiv.org/abs/2510.12041)|null|
+|**2025-10-15**|**Improving Text-to-Image Generation with Input-Side Inference-Time Scaling**|[2510.12041](http://arxiv.org/abs/2510.12041)|null|
 |**2025-10-13**|**Learning Dynamics of VLM Finetuning**|[2510.11978](http://arxiv.org/abs/2510.11978)|null|
 |**2025-10-13**|**Scaling Long-Horizon LLM Agent via Context-Folding**|[2510.11967](http://arxiv.org/abs/2510.11967)|null|
-|**2025-10-13**|**Y-shaped Generative Flows**|[2510.11955](http://arxiv.org/abs/2510.11955)|null|
+|**2025-10-15**|**Y-shaped Generative Flows**|[2510.11955](http://arxiv.org/abs/2510.11955)|null|
 |**2025-10-13**|**Near the Runaway: The Climate and Habitability of Teegarden's Star b**|[2510.11940](http://arxiv.org/abs/2510.11940)|null|
 |**2025-10-13**|**Efficient Restarts in Non-Stationary Model-Free Reinforcement Learning**|[2510.11933](http://arxiv.org/abs/2510.11933)|null|
 |**2025-10-13**|**ADARL: Adaptive Low-Rank Structures for Robust Policy Learning under Uncertainty**|[2510.11899](http://arxiv.org/abs/2510.11899)|null|
@@ -3716,7 +3716,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
