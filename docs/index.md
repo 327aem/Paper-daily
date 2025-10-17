@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.16
+## Updated on 2025.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -12,7 +12,7 @@ layout: default
 |**2025-10-15**|**HyMiRec: A Hybrid Multi-interest Learning Framework for LLM-based Sequential Recommendation**|[2510.13738](http://arxiv.org/abs/2510.13738)|null|
 |**2025-10-15**|**Smart UX-design for Rescue Operations Wearable - A Knowledge Graph Informed Visualization Approach for Information Retrieval in Emergency Situations**|[2510.13539](http://arxiv.org/abs/2510.13539)|null|
 |**2025-10-15**|**Near-Infrared Hyperspectral Imaging Applications in Food Analysis -- Improving Algorithms and Methodologies**|[2510.13452](http://arxiv.org/abs/2510.13452)|null|
-|**2025-10-15**|**Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps**|[2510.13430](http://arxiv.org/abs/2510.13430)|null|
+|**2025-10-16**|**Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps**|[2510.13430](http://arxiv.org/abs/2510.13430)|null|
 |**2025-10-15**|**MADREC: A Multi-Aspect Driven LLM Agent for Explainable and Adaptive Recommendation**|[2510.13371](http://arxiv.org/abs/2510.13371)|null|
 |**2025-10-15**|**Improving Visual Recommendation on E-commerce Platforms Using Vision-Language Models**|[2510.13359](http://arxiv.org/abs/2510.13359)|null|
 |**2025-10-15**|**Kernel Representation and Similarity Measure for Incomplete Data**|[2510.13352](http://arxiv.org/abs/2510.13352)|**[link](https://anonymous.4open.science/r/proximity-kernel-2289.)**|
@@ -652,7 +652,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Retrieval
 
@@ -660,10 +660,10 @@ layout: default
 |:---------|:-----------------------|:------|:------|
 |**2025-10-15**|**BRIEF-Pro: Universal Context Compression with Short-to-Long Synthesis for Fast and Accurate Multi-Hop Reasoning**|[2510.13799](http://arxiv.org/abs/2510.13799)|null|
 |**2025-10-15**|**Adaptive Visual Conditioning for Semantic Consistency in Diffusion-Based Story Continuation**|[2510.13787](http://arxiv.org/abs/2510.13787)|null|
-|**2025-10-15**|**Confidence-Based Response Abstinence: Improving LLM Trustworthiness via Activation-Based Uncertainty Estimation**|[2510.13750](http://arxiv.org/abs/2510.13750)|null|
+|**2025-10-16**|**Confidence-Based Response Abstinence: Improving LLM Trustworthiness via Activation-Based Uncertainty Estimation**|[2510.13750](http://arxiv.org/abs/2510.13750)|null|
 |**2025-10-15**|**Assessing Web Search Credibility and Response Groundedness in Chat Assistants**|[2510.13749](http://arxiv.org/abs/2510.13749)|null|
 |**2025-10-15**|**HyMiRec: A Hybrid Multi-interest Learning Framework for LLM-based Sequential Recommendation**|[2510.13738](http://arxiv.org/abs/2510.13738)|null|
-|**2025-10-15**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
+|**2025-10-16**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
 |**2025-10-15**|**MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning**|[2510.13614](http://arxiv.org/abs/2510.13614)|null|
 |**2025-10-15**|**Model-assisted estimation for MRV: How to boost the economics of SOC sequestration projects without compromising on scientific integrity**|[2510.13609](http://arxiv.org/abs/2510.13609)|null|
 |**2025-10-15**|**RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge**|[2510.13590](http://arxiv.org/abs/2510.13590)|null|
@@ -685,13 +685,13 @@ layout: default
 |**2025-10-15**|**UniVector: Unified Vector Extraction via Instance-Geometry Interaction**|[2510.13234](http://arxiv.org/abs/2510.13234)|**[link](https://github.com/yyyyll0ss/UniVector.)**|
 |**2025-10-15**|**Beyond Static LLM Policies: Imitation-Enhanced Reinforcement Learning for Recommendation**|[2510.13229](http://arxiv.org/abs/2510.13229)|**[link](https://github.com/ArronDZhang/IL-Rec.)**|
 |**2025-10-15**|**LLM-guided Hierarchical Retrieval**|[2510.13217](http://arxiv.org/abs/2510.13217)|null|
-|**2025-10-15**|**ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG**|[2510.13193](http://arxiv.org/abs/2510.13193)|**[link](https://github.com/kilgrims/ReMindRAG.)**|
+|**2025-10-16**|**ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG**|[2510.13193](http://arxiv.org/abs/2510.13193)|**[link](https://github.com/kilgrims/ReMindRAG.)**|
 |**2025-10-15**|**Grounding Long-Context Reasoning with Contextual Normalization for Retrieval-Augmented Generation**|[2510.13191](http://arxiv.org/abs/2510.13191)|null|
-|**2025-10-15**|**CoT-Evo: Evolutionary Distillation of Chain-of-Thought for Scientific Reasoning**|[2510.13166](http://arxiv.org/abs/2510.13166)|null|
+|**2025-10-16**|**CoT-Evo: Evolutionary Distillation of Chain-of-Thought for Scientific Reasoning**|[2510.13166](http://arxiv.org/abs/2510.13166)|null|
 |**2025-10-15**|**Program of Thoughts for Financial Reasoning: Leveraging Dynamic In-Context Examples and Generative Retrieval**|[2510.13157](http://arxiv.org/abs/2510.13157)|null|
 |**2025-10-15**|**OS-HGAdapter: Open Semantic Hypergraph Adapter for Large Language Models Assisted Entropy-Enhanced Image-Text Alignment**|[2510.13131](http://arxiv.org/abs/2510.13131)|null|
 |**2025-10-15**|**Retrieval-in-the-Chain: Bootstrapping Large Language Models for Generative Retrieval**|[2510.13095](http://arxiv.org/abs/2510.13095)|null|
-|**2025-10-15**|**Unmasking Hiring Bias: Platform Data Analysis and Controlled Experiments on Bias in Online Freelance Marketplaces via RAG-LLM Generated Contents**|[2510.13091](http://arxiv.org/abs/2510.13091)|null|
+|**2025-10-16**|**Unmasking Hiring Bias: Platform Data Analysis and Controlled Experiments on Bias in Online Freelance Marketplaces via RAG-LLM Generated Contents**|[2510.13091](http://arxiv.org/abs/2510.13091)|null|
 |**2025-10-14**|**Actron3D: Learning Actionable Neural Functions from Videos for Transferable Robotic Manipulation**|[2510.12971](http://arxiv.org/abs/2510.12971)|null|
 |**2025-10-14**|**Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering**|[2510.12959](http://arxiv.org/abs/2510.12959)|null|
 |**2025-10-14**|**Epistemic-aware Vision-Language Foundation Model for Fetal Ultrasound Interpretation**|[2510.12953](http://arxiv.org/abs/2510.12953)|**[link](https://hexiao0275.github.io/FetalMind.)**|
@@ -1919,21 +1919,21 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Multi-Modal
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
 |**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|[2510.13804](http://arxiv.org/abs/2510.13804)|null|
-|**2025-10-15**|**The Mechanistic Emergence of Symbol Grounding in Language Models**|[2510.13796](http://arxiv.org/abs/2510.13796)|null|
+|**2025-10-16**|**The Mechanistic Emergence of Symbol Grounding in Language Models**|[2510.13796](http://arxiv.org/abs/2510.13796)|null|
 |**2025-10-15**|**Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs**|[2510.13795](http://arxiv.org/abs/2510.13795)|null|
 |**2025-10-15**|**UrbanFusion: Stochastic Multimodal Fusion for Contrastive Learning of Robust Spatial Representations**|[2510.13774](http://arxiv.org/abs/2510.13774)|**[link](https://github.com/DominikM198/UrbanFusion.)**|
 |**2025-10-15**|**Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark**|[2510.13759](http://arxiv.org/abs/2510.13759)|null|
 |**2025-10-15**|**RECODE: Reasoning Through Code Generation for Visual Question Answering**|[2510.13756](http://arxiv.org/abs/2510.13756)|null|
-|**2025-10-15**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
+|**2025-10-16**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
 |**2025-10-15**|**Risk-adaptive Activation Steering for Safe Multimodal Large Language Models**|[2510.13698](http://arxiv.org/abs/2510.13698)|null|
-|**2025-10-15**|**OmniGaze: Reward-inspired Generalizable Gaze Estimation In The Wild**|[2510.13660](http://arxiv.org/abs/2510.13660)|null|
+|**2025-10-16**|**OmniGaze: Reward-inspired Generalizable Gaze Estimation In The Wild**|[2510.13660](http://arxiv.org/abs/2510.13660)|null|
 |**2025-10-15**|**AVAR-Net: A Lightweight Audio-Visual Anomaly Recognition Framework with a Benchmark Dataset**|[2510.13630](http://arxiv.org/abs/2510.13630)|null|
 |**2025-10-15**|**Fusion Meets Diverse Conditions: A High-diversity Benchmark and Baseline for UAV-based Multimodal Object Detection with Condition Cues**|[2510.13620](http://arxiv.org/abs/2510.13620)|null|
 |**2025-10-15**|**Steer-MoE: Efficient Audio-Language Alignment with a Mixture-of-Experts Steering Module**|[2510.13558](http://arxiv.org/abs/2510.13558)|null|
@@ -1969,7 +1969,7 @@ layout: default
 |**2025-10-14**|**VQArt-Bench: A semantically rich VQA Benchmark for Art and Cultural Heritage**|[2510.12750](http://arxiv.org/abs/2510.12750)|null|
 |**2025-10-14**|**HYPE: Hybrid Planning with Ego Proposal-Conditioned Predictions**|[2510.12733](http://arxiv.org/abs/2510.12733)|null|
 |**2025-10-14**|**Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception**|[2510.12720](http://arxiv.org/abs/2510.12720)|null|
-|**2025-10-14**|**Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning**|[2510.12712](http://arxiv.org/abs/2510.12712)|null|
+|**2025-10-16**|**Beyond Seeing: Evaluating Multimodal LLMs on Tool-Enabled Image Perception, Transformation, and Reasoning**|[2510.12712](http://arxiv.org/abs/2510.12712)|null|
 |**2025-10-15**|**SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model**|[2510.12709](http://arxiv.org/abs/2510.12709)|null|
 |**2025-10-14**|**Decoding Multimode Gottesman-Kitaev-Preskill Codes with Noisy Auxiliary States**|[2510.12677](http://arxiv.org/abs/2510.12677)|null|
 |**2025-10-14**|**Reasoning in the Dark: Interleaved Vision-Text Reasoning in Latent Space**|[2510.12603](http://arxiv.org/abs/2510.12603)|**[link](https://github.com/FYYDCC/IVT-LR.)**|
@@ -3104,7 +3104,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -3112,17 +3112,17 @@ layout: default
 |:---------|:-----------------------|:------|:------|
 |**2025-10-15**|**PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning**|[2510.13809](http://arxiv.org/abs/2510.13809)|null|
 |**2025-10-15**|**Breadcrumbs Reasoning: Memory-Efficient Reasoning with Compression Beacons**|[2510.13797](http://arxiv.org/abs/2510.13797)|null|
-|**2025-10-15**|**MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control**|[2510.13794](http://arxiv.org/abs/2510.13794)|**[link](https://github.com/xbpeng/MimicKit.)**|
+|**2025-10-16**|**MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control**|[2510.13794](http://arxiv.org/abs/2510.13794)|**[link](https://github.com/xbpeng/MimicKit.)**|
 |**2025-10-15**|**Provably Invincible Adversarial Attacks on Reinforcement Learning Systems: A Rate-Distortion Information-Theoretic Approach**|[2510.13792](http://arxiv.org/abs/2510.13792)|null|
 |**2025-10-15**|**The Art of Scaling Reinforcement Learning Compute for LLMs**|[2510.13786](http://arxiv.org/abs/2510.13786)|null|
 |**2025-10-15**|**Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark**|[2510.13759](http://arxiv.org/abs/2510.13759)|null|
 |**2025-10-15**|**Asymptotically optimal reinforcement learning in Block Markov Decision Processes**|[2510.13748](http://arxiv.org/abs/2510.13748)|null|
 |**2025-10-15**|**Hard2Verify: A Step-Level Verification Benchmark for Open-Ended Frontier Math**|[2510.13744](http://arxiv.org/abs/2510.13744)|null|
 |**2025-10-15**|**From Refusal to Recovery: A Control-Theoretic Approach to Generative AI Guardrails**|[2510.13727](http://arxiv.org/abs/2510.13727)|null|
-|**2025-10-15**|**Training LLM Agents to Empower Humans**|[2510.13709](http://arxiv.org/abs/2510.13709)|null|
+|**2025-10-16**|**Training LLM Agents to Empower Humans**|[2510.13709](http://arxiv.org/abs/2510.13709)|null|
 |**2025-10-15**|**Simplicial Embeddings Improve Sample Efficiency in Actor-Critic Agents**|[2510.13704](http://arxiv.org/abs/2510.13704)|null|
 |**2025-10-15**|**Information-Theoretic Reward Modeling for Stable RLHF: Detecting and Mitigating Reward Hacking**|[2510.13694](http://arxiv.org/abs/2510.13694)|null|
-|**2025-10-15**|**OmniGaze: Reward-inspired Generalizable Gaze Estimation In The Wild**|[2510.13660](http://arxiv.org/abs/2510.13660)|null|
+|**2025-10-16**|**OmniGaze: Reward-inspired Generalizable Gaze Estimation In The Wild**|[2510.13660](http://arxiv.org/abs/2510.13660)|null|
 |**2025-10-15**|**What is the objective of reasoning with reinforcement learning?**|[2510.13651](http://arxiv.org/abs/2510.13651)|null|
 |**2025-10-15**|**Attention Illuminates LLM Reasoning: The Preplan-and-Anchor Rhythm Enables Fine-Grained Policy Optimization**|[2510.13554](http://arxiv.org/abs/2510.13554)|null|
 |**2025-10-15**|**Tandem Training for Language Models**|[2510.13551](http://arxiv.org/abs/2510.13551)|null|
@@ -3136,7 +3136,7 @@ layout: default
 |**2025-10-15**|**A New Perspective on Transformers in Online Reinforcement Learning for Continuous Control**|[2510.13367](http://arxiv.org/abs/2510.13367)|null|
 |**2025-10-15**|**Adversarial Fine-tuning in Offline-to-Online Reinforcement Learning for Robust Robot Control**|[2510.13358](http://arxiv.org/abs/2510.13358)|null|
 |**2025-10-15**|**AOAD-MAT: Transformer-based multi-agent deep reinforcement learning model considering agents' order of action decisions**|[2510.13343](http://arxiv.org/abs/2510.13343)|null|
-|**2025-10-15**|**Thompson Sampling via Fine-Tuning of LLMs**|[2510.13328](http://arxiv.org/abs/2510.13328)|null|
+|**2025-10-16**|**Thompson Sampling via Fine-Tuning of LLMs**|[2510.13328](http://arxiv.org/abs/2510.13328)|null|
 |**2025-10-15**|**Isothermal Annealing Effects on $β$ -Relaxations and Crystallization Behaviors in Amorphous GeTe**|[2510.13313](http://arxiv.org/abs/2510.13313)|null|
 |**2025-10-15**|**ChatR1: Reinforcement Learning for Conversational Reasoning and Retrieval Augmented Question Answering**|[2510.13312](http://arxiv.org/abs/2510.13312)|null|
 |**2025-10-15**|**Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation**|[2510.13272](http://arxiv.org/abs/2510.13272)|null|
@@ -3850,7 +3850,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
