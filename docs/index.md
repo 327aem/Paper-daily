@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.20
+## Updated on 2025.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -16,7 +16,7 @@ layout: default
 |**2025-10-17**|**GRATING: Low-Latency and Memory-Efficient Semantic Selection on Device**|[2510.15620](http://arxiv.org/abs/2510.15620)|null|
 |**2025-10-17**|**SpikeVox: Towards Energy-Efficient Speech Therapy Framework with Spike-driven Generative Language Models**|[2510.15566](http://arxiv.org/abs/2510.15566)|null|
 |**2025-10-17**|**Safe, Efficient, and Robust Reinforcement Learning for Ranking and Diffusion Models**|[2510.15429](http://arxiv.org/abs/2510.15429)|null|
-|**2025-10-17**|**Large-scale User Game Lifecycle Representation Learning**|[2510.15412](http://arxiv.org/abs/2510.15412)|null|
+|**2025-10-20**|**Large-scale User Game Lifecycle Representation Learning**|[2510.15412](http://arxiv.org/abs/2510.15412)|null|
 |**2025-10-17**|**Dimension Mask Layer: Optimizing Embedding Efficiency for Scalable ID-based Models**|[2510.15308](http://arxiv.org/abs/2510.15308)|null|
 |**2025-10-17**|**GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework**|[2510.15299](http://arxiv.org/abs/2510.15299)|null|
 |**2025-10-17**|**MTmixAtt: Integrating Mixture-of-Experts with Multi-Mix Attention for Large-Scale Recommendation**|[2510.15286](http://arxiv.org/abs/2510.15286)|null|
@@ -678,13 +678,13 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## Retrieval
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
-|**2025-10-17**|**PokeeResearch: Effective Deep Research via Reinforcement Learning from AI Feedback and Robust Reasoning Scaffold**|[2510.15862](http://arxiv.org/abs/2510.15862)|**[link](https://github.com/Pokee-AI/PokeeResearchOSS.)**|
+|**2025-10-20**|**PokeeResearch: Effective Deep Research via Reinforcement Learning from AI Feedback and Robust Reasoning Scaffold**|[2510.15862](http://arxiv.org/abs/2510.15862)|**[link](https://github.com/Pokee-AI/PokeeResearchOSS.)**|
 |**2025-10-17**|**Memory-SAM: Human-Prompt-Free Tongue Segmentation via Retrieval-to-Prompt**|[2510.15849](http://arxiv.org/abs/2510.15849)|**[link](https://github.com/jw-chae/memory-sam.)**|
 |**2025-10-17**|**GENESIS: A Generative Model of Episodic-Semantic Interaction**|[2510.15828](http://arxiv.org/abs/2510.15828)|null|
 |**2025-10-17**|**Demo: Guide-RAG: Evidence-Driven Corpus Curation for Retrieval-Augmented Generation in Long COVID**|[2510.15782](http://arxiv.org/abs/2510.15782)|null|
@@ -707,7 +707,7 @@ layout: default
 |**2025-10-17**|**Fault Cause Identification across Manufacturing Lines through Ontology-Guided and Process-Aware FMEA Graph Learning with LLMs**|[2510.15428](http://arxiv.org/abs/2510.15428)|null|
 |**2025-10-17**|**Fine-Tuning MedGemma for Clinical Captioning to Enhance Multimodal RAG over Malaysia CPGs**|[2510.15418](http://arxiv.org/abs/2510.15418)|null|
 |**2025-10-17**|**FHE-SQL: Fully Homomorphic Encrypted SQL Database**|[2510.15413](http://arxiv.org/abs/2510.15413)|null|
-|**2025-10-17**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|[2510.15339](http://arxiv.org/abs/2510.15339)|null|
+|**2025-10-20**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|[2510.15339](http://arxiv.org/abs/2510.15339)|null|
 |**2025-10-17**|**Dimension Mask Layer: Optimizing Embedding Efficiency for Scalable ID-based Models**|[2510.15308](http://arxiv.org/abs/2510.15308)|null|
 |**2025-10-17**|**GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework**|[2510.15299](http://arxiv.org/abs/2510.15299)|null|
 |**2025-10-17**|**MTmixAtt: Integrating Mixture-of-Experts with Multi-Mix Attention for Large-Scale Recommendation**|[2510.15286](http://arxiv.org/abs/2510.15286)|null|
@@ -2030,7 +2030,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -2059,7 +2059,7 @@ layout: default
 |**2025-10-17**|**AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory**|[2510.15261](http://arxiv.org/abs/2510.15261)|null|
 |**2025-10-17**|**Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding**|[2510.15253](http://arxiv.org/abs/2510.15253)|null|
 |**2025-10-17**|**Reflections from Research Roundtables at the Conference on Health, Inference, and Learning (CHIL) 2025**|[2510.15217](http://arxiv.org/abs/2510.15217)|null|
-|**2025-10-17**|**CARDIUM: Congenital Anomaly Recognition with Diagnostic Images and Unified Medical records**|[2510.15208](http://arxiv.org/abs/2510.15208)|**[link](https://github.com/BCVUniandes/Cardium,)**|
+|**2025-10-20**|**CARDIUM: Congenital Anomaly Recognition with Diagnostic Images and Unified Medical records**|[2510.15208](http://arxiv.org/abs/2510.15208)|**[link](https://github.com/BCV-Uniandes/Cardium,)**|
 |**2025-10-16**|**Train a Unified Multimodal Data Quality Classifier with Synthetic Data**|[2510.15162](http://arxiv.org/abs/2510.15162)|null|
 |**2025-10-16**|**Sequential Comics for Jailbreaking Multimodal Large Language Models via Structured Visual Storytelling**|[2510.15068](http://arxiv.org/abs/2510.15068)|null|
 |**2025-10-16**|**Directional Reasoning Injection for Fine-Tuning MLLMs**|[2510.15050](http://arxiv.org/abs/2510.15050)|null|
@@ -2079,7 +2079,7 @@ layout: default
 |**2025-10-16**|**WeCKD: Weakly-supervised Chained Distillation Network for Efficient Multimodal Medical Imaging**|[2510.14668](http://arxiv.org/abs/2510.14668)|null|
 |**2025-10-16**|**Towards a Multimodal Stream Processing System**|[2510.14631](http://arxiv.org/abs/2510.14631)|null|
 |**2025-10-16**|**ColorBench: Benchmarking Mobile Agents with Graph-Structured Framework for Complex Long-Horizon Tasks**|[2510.14621](http://arxiv.org/abs/2510.14621)|**[link](https://github.com/MadeAgents/ColorBench.)**|
-|**2025-10-16**|**Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering**|[2510.14605](http://arxiv.org/abs/2510.14605)|**[link](https://github.com/cqu-student/Wiki-PRF)**|
+|**2025-10-20**|**Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering**|[2510.14605](http://arxiv.org/abs/2510.14605)|**[link](https://github.com/cqu-student/Wiki-PRF)**|
 |**2025-10-16**|**Multimodal RAG for Unstructured Data:Leveraging Modality-Aware Knowledge Graphs with Hybrid Retrieval**|[2510.14592](http://arxiv.org/abs/2510.14592)|null|
 |**2025-10-16**|**AudioEval: Automatic Dual-Perspective and Multi-Dimensional Evaluation of Text-to-Audio-Generation**|[2510.14570](http://arxiv.org/abs/2510.14570)|null|
 |**2025-10-16**|**Bloch-Landau-Zener Oscillations in Moiré Lattices**|[2510.14500](http://arxiv.org/abs/2510.14500)|null|
@@ -3277,14 +3277,14 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
 |**2025-10-17**|**OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM**|[2510.15870](http://arxiv.org/abs/2510.15870)|null|
-|**2025-10-17**|**PokeeResearch: Effective Deep Research via Reinforcement Learning from AI Feedback and Robust Reasoning Scaffold**|[2510.15862](http://arxiv.org/abs/2510.15862)|**[link](https://github.com/Pokee-AI/PokeeResearchOSS.)**|
+|**2025-10-20**|**PokeeResearch: Effective Deep Research via Reinforcement Learning from AI Feedback and Robust Reasoning Scaffold**|[2510.15862](http://arxiv.org/abs/2510.15862)|**[link](https://github.com/Pokee-AI/PokeeResearchOSS.)**|
 |**2025-10-17**|**InfiMed-ORBIT: Aligning LLMs on Open-Ended Complex Tasks via Rubric-Based Incremental Training**|[2510.15859](http://arxiv.org/abs/2510.15859)|null|
 |**2025-10-17**|**BLIP3o-NEXT: Next Frontier of Native Image Generation**|[2510.15857](http://arxiv.org/abs/2510.15857)|null|
 |**2025-10-17**|**Learning Correlated Reward Models: Statistical Barriers and Opportunities**|[2510.15839](http://arxiv.org/abs/2510.15839)|null|
@@ -3322,7 +3322,7 @@ layout: default
 |**2025-10-17**|**Towards Automated Chicken Deboning via Learning-based Dynamically-Adaptive 6-DoF Multi-Material Cutting**|[2510.15376](http://arxiv.org/abs/2510.15376)|**[link](https://sites.google.com/view/chickendeboning-2026.)**|
 |**2025-10-17**|**Towards Flash Thinking via Decoupled Advantage Policy Optimization**|[2510.15374](http://arxiv.org/abs/2510.15374)|null|
 |**2025-10-17**|**Infinity Parser: Layout Aware Reinforcement Learning for Scanned Document Parsing**|[2510.15349](http://arxiv.org/abs/2510.15349)|null|
-|**2025-10-17**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|[2510.15339](http://arxiv.org/abs/2510.15339)|null|
+|**2025-10-20**|**AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction**|[2510.15339](http://arxiv.org/abs/2510.15339)|null|
 |**2025-10-17**|**VERITAS: Leveraging Vision Priors and Expert Fusion to Improve Multimodal Data**|[2510.15317](http://arxiv.org/abs/2510.15317)|null|
 |**2025-10-17**|**Foresighted Online Policy Optimization with Interference**|[2510.15273](http://arxiv.org/abs/2510.15273)|null|
 |**2025-10-17**|**Experience-Driven Exploration for Efficient API-Free AI Agents**|[2510.15259](http://arxiv.org/abs/2510.15259)|null|
@@ -4123,7 +4123,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
