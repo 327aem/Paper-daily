@@ -1,4 +1,4 @@
-## Updated on 2025.10.22
+## Updated on 2025.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -37,7 +37,7 @@
 |**2025-10-20**|**SmartSustain Recommender System: Navigating Sustainability Trade-offs in Personalized City Trip Planning**|[2510.17355](http://arxiv.org/abs/2510.17355)|**[link](https://smartsustainrecommender.web.app.)**|
 |**2025-10-20**|**Approximate Nearest Neighbor Search of Large Scale Vectors on Distributed Storage**|[2510.17326](http://arxiv.org/abs/2510.17326)|null|
 |**2025-10-20**|**The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment**|[2510.17311](http://arxiv.org/abs/2510.17311)|null|
-|**2025-10-21**|**On Efficiency-Effectiveness Trade-off of Diffusion-based Recommenders**|[2510.17245](http://arxiv.org/abs/2510.17245)|null|
+|**2025-10-22**|**On Efficiency-Effectiveness Trade-off of Diffusion-based Recommenders**|[2510.17245](http://arxiv.org/abs/2510.17245)|null|
 |**2025-10-20**|**Visibility Allocation Systems: How Algorithmic Design Shapes Online Visibility and Societal Outcomes**|[2510.17241](http://arxiv.org/abs/2510.17241)|null|
 |**2025-10-20**|**HyperSearch: Prediction of New Hyperedges through Unconstrained yet Efficient Search**|[2510.17153](http://arxiv.org/abs/2510.17153)|null|
 |**2025-10-20**|**Do LLMs Recognize Your Latent Preferences? A Benchmark for Latent Information Discovery in Personalized Interaction**|[2510.17132](http://arxiv.org/abs/2510.17132)|null|
@@ -728,7 +728,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
 
 ## Retrieval
 
@@ -744,7 +744,7 @@
 |**2025-10-21**|**Query Decomposition for RAG: Balancing Exploration-Exploitation**|[2510.18633](http://arxiv.org/abs/2510.18633)|null|
 |**2025-10-21**|**CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder**|[2510.18583](http://arxiv.org/abs/2510.18583)|null|
 |**2025-10-21**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|[2510.18546](http://arxiv.org/abs/2510.18546)|null|
-|**2025-10-21**|**LLMs as Sparse Retrievers:A Framework for First-Stage Product Search**|[2510.18527](http://arxiv.org/abs/2510.18527)|null|
+|**2025-10-22**|**LLMs as Sparse Retrievers:A Framework for First-Stage Product Search**|[2510.18527](http://arxiv.org/abs/2510.18527)|null|
 |**2025-10-21**|**RayPose: Ray Bundling Diffusion for Template Views in Unseen 6D Object Pose Estimation**|[2510.18521](http://arxiv.org/abs/2510.18521)|null|
 |**2025-10-21**|**Zero-Shot Vehicle Model Recognition via Text-Based Retrieval-Augmented Generation**|[2510.18502](http://arxiv.org/abs/2510.18502)|null|
 |**2025-10-21**|**DART: A Structured Dataset of Regulatory Drug Documents in Italian for Clinical NLP**|[2510.18475](http://arxiv.org/abs/2510.18475)|**[link](https://github.com/PRAISELab-PicusLab/DART.)**|
@@ -766,7 +766,7 @@
 |**2025-10-21**|**Physics-Informed Parametric Bandits for Beam Alignment in mmWave Communications**|[2510.18299](http://arxiv.org/abs/2510.18299)|null|
 |**2025-10-21**|**From Retrieval to Generation: Unifying External and Parametric Knowledge for Medical Question Answering**|[2510.18297](http://arxiv.org/abs/2510.18297)|**[link](https://anonymous.4open.science/r/MedRGAG)**|
 |**2025-10-21**|**Food4All: A Multi-Agent Framework for Real-time Free Food Discovery with Integrated Nutritional Metadata**|[2510.18289](http://arxiv.org/abs/2510.18289)|null|
-|**2025-10-21**|**Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text Inputs in Multimodal LLMs**|[2510.18279](http://arxiv.org/abs/2510.18279)|null|
+|**2025-10-22**|**Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text Inputs in Multimodal LLMs**|[2510.18279](http://arxiv.org/abs/2510.18279)|null|
 |**2025-10-21**|**Enhancing Hotel Recommendations with AI: LLM-Based Review Summarization and Query-Driven Insights**|[2510.18277](http://arxiv.org/abs/2510.18277)|null|
 |**2025-10-21**|**StreamingTOM: Streaming Token Compression for Efficient Video Understanding**|[2510.18269](http://arxiv.org/abs/2510.18269)|null|
 |**2025-10-21**|**TreeFedDG: Alleviating Global Drift in Federated Domain Generalization for Medical Image Segmentation**|[2510.18268](http://arxiv.org/abs/2510.18268)|null|
@@ -2178,13 +2178,13 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
 
 ## Multi-Modal
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
-|**2025-10-21**|**Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs**|[2510.18876](http://arxiv.org/abs/2510.18876)|null|
+|**2025-10-22**|**Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs**|[2510.18876](http://arxiv.org/abs/2510.18876)|null|
 |**2025-10-21**|**See the Text: From Tokenization to Visual Reading**|[2510.18840](http://arxiv.org/abs/2510.18840)|null|
 |**2025-10-21**|**IF-VidCap: Can Video Caption Models Follow Instructions?**|[2510.18726](http://arxiv.org/abs/2510.18726)|null|
 |**2025-10-21**|**Exploring a Unified Vision-Centric Contrastive Alternatives on Multi-Modal Web Documents**|[2510.18703](http://arxiv.org/abs/2510.18703)|**[link](https://github.com/showlab/VC2L.)**|
@@ -2201,7 +2201,7 @@
 |**2025-10-21**|**The Impact of Image Resolution on Biomedical Multimodal Large Language Models**|[2510.18304](http://arxiv.org/abs/2510.18304)|null|
 |**2025-10-21**|**Proactive Reasoning-with-Retrieval Framework for Medical Multimodal Large Language Models**|[2510.18303](http://arxiv.org/abs/2510.18303)|**[link](https://github.com/xmed-lab/Med-RwR.)**|
 |**2025-10-21**|**Physics-Informed Parametric Bandits for Beam Alignment in mmWave Communications**|[2510.18299](http://arxiv.org/abs/2510.18299)|null|
-|**2025-10-21**|**Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text Inputs in Multimodal LLMs**|[2510.18279](http://arxiv.org/abs/2510.18279)|null|
+|**2025-10-22**|**Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text Inputs in Multimodal LLMs**|[2510.18279](http://arxiv.org/abs/2510.18279)|null|
 |**2025-10-21**|**UWBench: A Comprehensive Vision-Language Benchmark for Underwater Understanding**|[2510.18262](http://arxiv.org/abs/2510.18262)|null|
 |**2025-10-21**|**BlendCLIP: Bridging Synthetic and Real Domains for Zero-Shot 3D Object Classification with Multimodal Pretraining**|[2510.18244](http://arxiv.org/abs/2510.18244)|**[link](https://github.com/kesu1/BlendCLIP.)**|
 |**2025-10-21**|**Robust and Hyper-Efficient Multi-dimensional Optical Fiber Semantic Communication**|[2510.18230](http://arxiv.org/abs/2510.18230)|null|
@@ -3503,7 +3503,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -3531,7 +3531,7 @@
 |**2025-10-21**|**Beyond the Explicit: A Bilingual Dataset for Dehumanization Detection in Social Media**|[2510.18582](http://arxiv.org/abs/2510.18582)|null|
 |**2025-10-21**|**Contextual Search in Principal-Agent Games: The Curse of Degeneracy**|[2510.18567](http://arxiv.org/abs/2510.18567)|null|
 |**2025-10-21**|**Deep Q-Learning Assisted Bandwidth Reservation for Multi-Operator Time-Sensitive Vehicular Networking**|[2510.18553](http://arxiv.org/abs/2510.18553)|null|
-|**2025-10-21**|**LLMs as Sparse Retrievers:A Framework for First-Stage Product Search**|[2510.18527](http://arxiv.org/abs/2510.18527)|null|
+|**2025-10-22**|**LLMs as Sparse Retrievers:A Framework for First-Stage Product Search**|[2510.18527](http://arxiv.org/abs/2510.18527)|null|
 |**2025-10-21**|**Efficient Model-Based Reinforcement Learning for Robot Control via Online Learning**|[2510.18518](http://arxiv.org/abs/2510.18518)|null|
 |**2025-10-21**|**Socialized Learning and Emergent Behaviors in Multi-Agent Systems based on Multimodal Large Language Models**|[2510.18515](http://arxiv.org/abs/2510.18515)|null|
 |**2025-10-21**|**Learning to Navigate Under Imperfect Perception: Conformalised Segmentation for Safe Reinforcement Learning**|[2510.18485](http://arxiv.org/abs/2510.18485)|null|
@@ -3547,16 +3547,16 @@
 |**2025-10-21**|**Why Policy Gradient Algorithms Work for Undiscounted Total-Reward MDPs**|[2510.18340](http://arxiv.org/abs/2510.18340)|null|
 |**2025-10-21**|**InspectCoder: Dynamic Analysis-Enabled Self Repair through interactive LLM-Debugger Collaboration**|[2510.18327](http://arxiv.org/abs/2510.18327)|null|
 |**2025-10-21**|**Higher Embedding Dimension Creates a Stronger World Model for a Simple Sorting Task**|[2510.18315](http://arxiv.org/abs/2510.18315)|null|
-|**2025-10-21**|**OmniNWM: Omniscient Driving Navigation World Models**|[2510.18313](http://arxiv.org/abs/2510.18313)|**[link](https://github.com/Arlo0o/OmniNWM.)**|
+|**2025-10-22**|**OmniNWM: Omniscient Driving Navigation World Models**|[2510.18313](http://arxiv.org/abs/2510.18313)|**[link](https://github.com/Arlo0o/OmniNWM.)**|
 |**2025-10-21**|**Proactive Reasoning-with-Retrieval Framework for Medical Multimodal Large Language Models**|[2510.18303](http://arxiv.org/abs/2510.18303)|**[link](https://github.com/xmed-lab/Med-RwR.)**|
 |**2025-10-21**|**Physics-Informed Parametric Bandits for Beam Alignment in mmWave Communications**|[2510.18299](http://arxiv.org/abs/2510.18299)|null|
 |**2025-10-21**|**Food4All: A Multi-Agent Framework for Real-time Free Food Discovery with Integrated Nutritional Metadata**|[2510.18289](http://arxiv.org/abs/2510.18289)|null|
 |**2025-10-21**|**From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation**|[2510.18263](http://arxiv.org/abs/2510.18263)|null|
 |**2025-10-21**|**NTKMTL: Mitigating Task Imbalance in Multi-Task Learning from Neural Tangent Kernel Perspective**|[2510.18258](http://arxiv.org/abs/2510.18258)|**[link](https://github.com/jianke0604/NTKMTL.)**|
 |**2025-10-21**|**ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control**|[2510.18232](http://arxiv.org/abs/2510.18232)|null|
-|**2025-10-21**|**The Emergence of Complex Behavior in Large-Scale Ecological Environments**|[2510.18221](http://arxiv.org/abs/2510.18221)|**[link](https://github.com/jbejjani2022/ecological-emergent-behavior.)**|
+|**2025-10-22**|**The Emergence of Complex Behavior in Large-Scale Ecological Environments**|[2510.18221](http://arxiv.org/abs/2510.18221)|**[link](https://github.com/jbejjani2022/ecological-emergent-behavior.)**|
 |**2025-10-21**|**Nash Policy Gradient: A Policy Gradient Method with Iteratively Refined Regularization for Finding Nash Equilibria**|[2510.18183](http://arxiv.org/abs/2510.18183)|null|
-|**2025-10-21**|**Adaptive Coopetition: Leveraging Coarse Verifier Signals for Resilient Multi-Agent LLM Reasoning**|[2510.18179](http://arxiv.org/abs/2510.18179)|**[link](https://github.com/AdCo-Research/adaptive-coopetition.)**|
+|**2025-10-22**|**Adaptive Coopetition: Leveraging Coarse Verifier Signals for Resilient Multi-Agent LLM Reasoning**|[2510.18179](http://arxiv.org/abs/2510.18179)|**[link](https://github.com/AdCo-Research/adaptive-coopetition.)**|
 |**2025-10-20**|**Local Coherence or Global Validity? Investigating RLVR Traces in Math Domains**|[2510.18176](http://arxiv.org/abs/2510.18176)|null|
 |**2025-10-20**|**LLMs Encode How Difficult Problems Are**|[2510.18147](http://arxiv.org/abs/2510.18147)|null|
 |**2025-10-20**|**Foundational Automatic Evaluators: Scaling Multi-Task Generative Evaluator Training for Reasoning-Centric Domains**|[2510.17793](http://arxiv.org/abs/2510.17793)|null|
@@ -4449,7 +4449,7 @@
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
