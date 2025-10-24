@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -14,12 +14,12 @@ layout: default
 |**2025-10-22**|**Uncertainty evaluation of segmentation models for Earth observation**|[2510.19586](http://arxiv.org/abs/2510.19586)|null|
 |**2025-10-22**|**Learning Noise-Resilient and Transferable Graph-Text Alignment via Dynamic Quality Assessment**|[2510.19384](http://arxiv.org/abs/2510.19384)|null|
 |**2025-10-22**|**Scalable LinUCB: Low-Rank Design Matrix Updates for Recommenders with Large Action Spaces**|[2510.19349](http://arxiv.org/abs/2510.19349)|null|
-|**2025-10-22**|**FLASH Viterbi: Fast and Adaptive Viterbi Decoding for Modern Data Systems**|[2510.19301](http://arxiv.org/abs/2510.19301)|**[link](https://github.com/Dzh-16/FLASH-Viterbi.)**|
+|**2025-10-23**|**FLASH Viterbi: Fast and Adaptive Viterbi Decoding for Modern Data Systems**|[2510.19301](http://arxiv.org/abs/2510.19301)|**[link](https://github.com/Dzh-16/FLASH-Viterbi.)**|
 |**2025-10-22**|**Code Sharing in Healthcare Research: A Practical Guide and Recommendations for Good Practice**|[2510.19279](http://arxiv.org/abs/2510.19279)|null|
 |**2025-10-22**|**From Newborn to Impact: Bias-Aware Citation Prediction**|[2510.19246](http://arxiv.org/abs/2510.19246)|null|
 |**2025-10-22**|**A General Solution for the Implementation of CI/CD in Embedded Linux Development**|[2510.19240](http://arxiv.org/abs/2510.19240)|null|
 |**2025-10-22**|**Integration of AI in STEM Education, Addressing Ethical Challenges in K-12 Settings**|[2510.19196](http://arxiv.org/abs/2510.19196)|null|
-|**2025-10-21**|**Recommend-to-Match with Random Supply Rejections: Formulation, Approximation, and Analysis**|[2510.19122](http://arxiv.org/abs/2510.19122)|null|
+|**2025-10-23**|**Recommend-to-Match with Random Supply Rejections: Formulation, Approximation, and Analysis**|[2510.19122](http://arxiv.org/abs/2510.19122)|null|
 |**2025-10-21**|**Learning Peer Influence Probabilities with Linear Contextual Bandits**|[2510.19119](http://arxiv.org/abs/2510.19119)|null|
 |**2025-10-21**|**Prior-informed optimization of treatment recommendation via bandit algorithms trained on large language model-processed historical records**|[2510.19014](http://arxiv.org/abs/2510.19014)|null|
 |**2025-10-21**|**A spectral library and census of near-infrared stellar large-amplitude variables from Palomar Gattini-IR**|[2510.18959](http://arxiv.org/abs/2510.18959)|null|
@@ -739,7 +739,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## Retrieval
 
@@ -762,7 +762,7 @@ layout: default
 |**2025-10-22**|**Square root Cox's survival analysis by the fittest linear and neural networks model**|[2510.19374](http://arxiv.org/abs/2510.19374)|null|
 |**2025-10-22**|**The Massive Legal Embedding Benchmark (MLEB)**|[2510.19365](http://arxiv.org/abs/2510.19365)|null|
 |**2025-10-22**|**LoongRL:Reinforcement Learning for Advanced Reasoning over Long Contexts**|[2510.19363](http://arxiv.org/abs/2510.19363)|null|
-|**2025-10-22**|**CoRECT: A Framework for Evaluating Embedding Compression Techniques at Scale**|[2510.19340](http://arxiv.org/abs/2510.19340)|null|
+|**2025-10-23**|**CoRECT: A Framework for Evaluating Embedding Compression Techniques at Scale**|[2510.19340](http://arxiv.org/abs/2510.19340)|null|
 |**2025-10-22**|**Metadata Extraction Leveraging Large Language Models**|[2510.19334](http://arxiv.org/abs/2510.19334)|null|
 |**2025-10-22**|**Algorithmic Fairness in NLP: Persona-Infused LLMs for Human-Centric Hate Speech Detection**|[2510.19331](http://arxiv.org/abs/2510.19331)|null|
 |**2025-10-22**|**JointCQ: Improving Factual Hallucination Detection with Joint Claim and Query Generation**|[2510.19310](http://arxiv.org/abs/2510.19310)|**[link](https://github.com/pku0xff/JointCQ,)**|
@@ -2221,7 +2221,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -2229,7 +2229,7 @@ layout: default
 |:---------|:-----------------------|:------|:------|
 |**2025-10-22**|**Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing**|[2510.19808](http://arxiv.org/abs/2510.19808)|null|
 |**2025-10-22**|**OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation**|[2510.19789](http://arxiv.org/abs/2510.19789)|null|
-|**2025-10-22**|**A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation**|[2510.19755](http://arxiv.org/abs/2510.19755)|null|
+|**2025-10-23**|**A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation**|[2510.19755](http://arxiv.org/abs/2510.19755)|null|
 |**2025-10-22**|**Review of Tools for Zero-Code LLM Based Application Development**|[2510.19747](http://arxiv.org/abs/2510.19747)|null|
 |**2025-10-22**|**Entanglement production in the decay of a metastable state**|[2510.19715](http://arxiv.org/abs/2510.19715)|null|
 |**2025-10-22**|**Addressing spins at the clock transitions with a frequency- and bandwidth-tunable superconducting resonator**|[2510.19684](http://arxiv.org/abs/2510.19684)|null|
@@ -3579,7 +3579,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -3589,7 +3589,7 @@ layout: default
 |**2025-10-22**|**Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing**|[2510.19808](http://arxiv.org/abs/2510.19808)|null|
 |**2025-10-22**|**Scaf-GRPO: Scaffolded Group Relative Policy Optimization for Enhancing LLM Reasoning**|[2510.19807](http://arxiv.org/abs/2510.19807)|null|
 |**2025-10-22**|**The Feasibility of Training Sovereign Language Models in the Global South: A Study of Brazil and Mexico**|[2510.19801](http://arxiv.org/abs/2510.19801)|null|
-|**2025-10-22**|**Benchmarking World-Model Learning**|[2510.19788](http://arxiv.org/abs/2510.19788)|null|
+|**2025-10-23**|**Benchmarking World-Model Learning**|[2510.19788](http://arxiv.org/abs/2510.19788)|null|
 |**2025-10-22**|**SmartSwitch: Advancing LLM Reasoning by Overcoming Underthinking via Promoting Deeper Thought Exploration**|[2510.19767](http://arxiv.org/abs/2510.19767)|null|
 |**2025-10-22**|**SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas**|[2510.19766](http://arxiv.org/abs/2510.19766)|null|
 |**2025-10-22**|**Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning**|[2510.19732](http://arxiv.org/abs/2510.19732)|null|
@@ -3597,7 +3597,7 @@ layout: default
 |**2025-10-22**|**I Spy With My Model's Eye: Visual Search as a Behavioural Test for MLLMs**|[2510.19678](http://arxiv.org/abs/2510.19678)|null|
 |**2025-10-22**|**Policy Learning with Abstention**|[2510.19672](http://arxiv.org/abs/2510.19672)|null|
 |**2025-10-22**|**MedReason-R1: Learning to Reason for CT Diagnosis with Reinforcement Learning and Local Zoom**|[2510.19626](http://arxiv.org/abs/2510.19626)|**[link](https://github.com/Leevan001/MedReason-R1)**|
-|**2025-10-22**|**DAIL: Beyond Task Ambiguity for Language-Conditioned Reinforcement Learning**|[2510.19562](http://arxiv.org/abs/2510.19562)|**[link](https://github.com/RunpengXie/Distributional-Aligned-Learning.)**|
+|**2025-10-23**|**DAIL: Beyond Task Ambiguity for Language-Conditioned Reinforcement Learning**|[2510.19562](http://arxiv.org/abs/2510.19562)|**[link](https://github.com/RunpengXie/Distributional-Aligned-Learning.)**|
 |**2025-10-22**|**The Confusing Instance Principle for Online Linear Quadratic Control**|[2510.19531](http://arxiv.org/abs/2510.19531)|null|
 |**2025-10-22**|**Optimizing the Unknown: Black Box Bayesian Optimization with Energy-Based Model and Reinforcement Learning**|[2510.19530](http://arxiv.org/abs/2510.19530)|null|
 |**2025-10-22**|**Learning Upper Lower Value Envelopes to Shape Online RL: A Principled Approach**|[2510.19528](http://arxiv.org/abs/2510.19528)|null|
@@ -3611,7 +3611,7 @@ layout: default
 |**2025-10-22**|**Autobidding Arena: unified evaluation of the classical and RL-based autobidding algorithms**|[2510.19357](http://arxiv.org/abs/2510.19357)|null|
 |**2025-10-22**|**A Markov Decision Process for Variable Selection in Branch & Bound**|[2510.19348](http://arxiv.org/abs/2510.19348)|null|
 |**2025-10-22**|**To Use or to Refuse? Re-Centering Student Agency with Generative AI in Engineering Design Education**|[2510.19342](http://arxiv.org/abs/2510.19342)|null|
-|**2025-10-22**|**Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning**|[2510.19338](http://arxiv.org/abs/2510.19338)|null|
+|**2025-10-23**|**Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning**|[2510.19338](http://arxiv.org/abs/2510.19338)|null|
 |**2025-10-22**|**Balancing Rewards in Text Summarization: Multi-Objective Reinforcement Learning via HyperVolume Optimization**|[2510.19325](http://arxiv.org/abs/2510.19325)|**[link](https://github.com/ai4business-LiAuto/HVO.git)**|
 |**2025-10-22**|**Continual Knowledge Adaptation for Reinforcement Learning**|[2510.19314](http://arxiv.org/abs/2510.19314)|**[link](https://github.com/Fhujinwu/CKA-RL.)**|
 |**2025-10-22**|**Unified Reinforcement and Imitation Learning for Vision-Language Models**|[2510.19307](http://arxiv.org/abs/2510.19307)|null|
@@ -3626,7 +3626,7 @@ layout: default
 |**2025-10-22**|**RLBoost: Harvesting Preemptible Resources for Cost-Efficient Reinforcement Learning on LLMs**|[2510.19225](http://arxiv.org/abs/2510.19225)|null|
 |**2025-10-22**|**WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation**|[2510.19205](http://arxiv.org/abs/2510.19205)|null|
 |**2025-10-22**|**A Communication-Efficient Decentralized Actor-Critic Algorithm**|[2510.19199](http://arxiv.org/abs/2510.19199)|null|
-|**2025-10-22**|**Video Consistency Distance: Enhancing Temporal Consistency for Image-to-Video Generation via Reward-Based Fine-Tuning**|[2510.19193](http://arxiv.org/abs/2510.19193)|null|
+|**2025-10-23**|**Video Consistency Distance: Enhancing Temporal Consistency for Image-to-Video Generation via Reward-Based Fine-Tuning**|[2510.19193](http://arxiv.org/abs/2510.19193)|null|
 |**2025-10-22**|**Imbalanced Gradients in RL Post-Training of Multi-Task LLMs**|[2510.19178](http://arxiv.org/abs/2510.19178)|null|
 |**2025-10-22**|**News-Aware Direct Reinforcement Trading for Financial Markets**|[2510.19173](http://arxiv.org/abs/2510.19173)|null|
 |**2025-10-21**|**Learning Peer Influence Probabilities with Linear Contextual Bandits**|[2510.19119](http://arxiv.org/abs/2510.19119)|null|
@@ -4575,7 +4575,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
