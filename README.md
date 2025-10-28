@@ -1,4 +1,4 @@
-## Updated on 2025.10.27
+## Updated on 2025.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -785,7 +785,7 @@
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
 
 ## Retrieval
 
@@ -810,11 +810,11 @@
 |**2025-10-24**|**3rd Place Solution to ICCV LargeFineFoodAI Retrieval**|[2510.21198](http://arxiv.org/abs/2510.21198)|null|
 |**2025-10-24**|**VOGUE: A Multimodal Dataset for Conversational Recommendation in Fashion**|[2510.21151](http://arxiv.org/abs/2510.21151)|null|
 |**2025-10-24**|**NeuroGenPoisoning: Neuron-Guided Attacks on Retrieval-Augmented Generation of LLM via Genetic Optimization of External Knowledge**|[2510.21144](http://arxiv.org/abs/2510.21144)|null|
-|**2025-10-24**|**DAO-AI: Evaluating Collective Decision-Making through Agentic AI in Decentralized Governance**|[2510.21117](http://arxiv.org/abs/2510.21117)|null|
+|**2025-10-27**|**DAO-AI: Evaluating Collective Decision-Making through Agentic AI in Decentralized Governance**|[2510.21117](http://arxiv.org/abs/2510.21117)|null|
 |**2025-10-24**|**R2ComSync: Improving Code-Comment Synchronization with In-Context Learning and Reranking**|[2510.21106](http://arxiv.org/abs/2510.21106)|null|
 |**2025-10-24**|**MedAlign: A Synergistic Framework of Multimodal Preference Optimization and Federated Meta-Cognitive Reasoning**|[2510.21093](http://arxiv.org/abs/2510.21093)|null|
 |**2025-10-24**|**Bridging Language Gaps with Adaptive RAG: Improving Indonesian Language Question Answering**|[2510.21068](http://arxiv.org/abs/2510.21068)|null|
-|**2025-10-24**|**Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization**|[2510.21059](http://arxiv.org/abs/2510.21059)|**[link](https://github.com/mwnafee/DR-IKE)**|
+|**2025-10-27**|**Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization**|[2510.21059](http://arxiv.org/abs/2510.21059)|**[link](https://github.com/mwnafee/DR-IKE)**|
 |**2025-10-23**|**From Questions to Queries: An AI-powered Multi-Agent Framework for Spatial Text-to-SQL**|[2510.21045](http://arxiv.org/abs/2510.21045)|null|
 |**2025-10-23**|**Communication Platform for Non-verbal Autistic children in Oman using Android mobile**|[2510.21028](http://arxiv.org/abs/2510.21028)|null|
 |**2025-10-23**|**Gaussian Mixture Flow Matching with Domain Alignment for Multi-Domain Sequential Recommendation**|[2510.21021](http://arxiv.org/abs/2510.21021)|null|
@@ -2342,7 +2342,7 @@
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -3754,7 +3754,7 @@
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -3792,7 +3792,7 @@
 |**2025-10-24**|**Time-varying Gaussian Process Bandit Optimization with Experts: no-regret in logarithmically-many side queries**|[2510.21274](http://arxiv.org/abs/2510.21274)|null|
 |**2025-10-24**|**How Hard is it to Confuse a World Model?**|[2510.21232](http://arxiv.org/abs/2510.21232)|null|
 |**2025-10-24**|**Reducing the Probability of Undesirable Outputs in Language Models Using Probabilistic Inference**|[2510.21184](http://arxiv.org/abs/2510.21184)|null|
-|**2025-10-24**|**RiboPO: Preference Optimization for Structure- and Stability-Aware RNA Design**|[2510.21161](http://arxiv.org/abs/2510.21161)|null|
+|**2025-10-27**|**RiboPO: Preference Optimization for Structure- and Stability-Aware RNA Design**|[2510.21161](http://arxiv.org/abs/2510.21161)|null|
 |**2025-10-24**|**Uncertainty-Aware Multi-Objective Reinforcement Learning-Guided Diffusion Models for 3D De Novo Molecular Design**|[2510.21153](http://arxiv.org/abs/2510.21153)|null|
 |**2025-10-24**|**Hierarchical AI Multi-Agent Fundamental Investing: Evidence from China's A-Share Market**|[2510.21147](http://arxiv.org/abs/2510.21147)|null|
 |**2025-10-24**|**Enhanced Evolutionary Multi-Objective Deep Reinforcement Learning for Reliable and Efficient Wireless Rechargeable Sensor Networks**|[2510.21127](http://arxiv.org/abs/2510.21127)|null|
@@ -3803,7 +3803,7 @@
 |**2025-10-24**|**WaveSeg: Enhancing Segmentation Precision via High-Frequency Prior and Mamba-Driven Spectrum Decomposition**|[2510.21079](http://arxiv.org/abs/2510.21079)|null|
 |**2025-10-24**|**Deep learning-based automated damage detection in concrete structures using images from earthquake events**|[2510.21063](http://arxiv.org/abs/2510.21063)|null|
 |**2025-10-24**|**On the Sample Complexity of Differentially Private Policy Optimization**|[2510.21060](http://arxiv.org/abs/2510.21060)|null|
-|**2025-10-24**|**Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization**|[2510.21059](http://arxiv.org/abs/2510.21059)|**[link](https://github.com/mwnafee/DR-IKE)**|
+|**2025-10-27**|**Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization**|[2510.21059](http://arxiv.org/abs/2510.21059)|**[link](https://github.com/mwnafee/DR-IKE)**|
 |**2025-10-23**|**A Reinforcement Learning Framework for Robust and Secure LLM Watermarking**|[2510.21053](http://arxiv.org/abs/2510.21053)|**[link](https://github.com/UCSB-NLP-Chang/RL-watermark.)**|
 |**2025-10-23**|**Epistemic Deference to AI**|[2510.21043](http://arxiv.org/abs/2510.21043)|null|
 |**2025-10-23**|**Robust Point Cloud Reinforcement Learning via PCA-Based Canonicalization**|[2510.20974](http://arxiv.org/abs/2510.20974)|null|
@@ -4849,7 +4849,7 @@
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
