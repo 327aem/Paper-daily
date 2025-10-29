@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.28
+## Updated on 2025.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -42,7 +42,7 @@ layout: default
 |**2025-10-24**|**CDrugRed: A Chinese Drug Recommendation Dataset for Discharge Medications in Metabolic Diseases**|[2510.21084](http://arxiv.org/abs/2510.21084)|**[link](https://github.com/DUTIR-BioNLP/CDrugRed.)**|
 |**2025-10-23**|**Gaussian Mixture Flow Matching with Domain Alignment for Multi-Domain Sequential Recommendation**|[2510.21021](http://arxiv.org/abs/2510.21021)|null|
 |**2025-10-23**|**Parametrisation of the wave-zonal flow interactions taking into account the full Coriolis acceleration. The necessity of going beyond the traditional approximation in the sub-inertial regime and in weakly stratified regions**|[2510.21013](http://arxiv.org/abs/2510.21013)|null|
-|**2025-10-23**|**What do model reports say about their ChemBio benchmark evaluations? Comparing recent releases to the STREAM framework**|[2510.20927](http://arxiv.org/abs/2510.20927)|null|
+|**2025-10-28**|**What do model reports say about their ChemBio benchmark evaluations? Comparing recent releases to the STREAM framework**|[2510.20927](http://arxiv.org/abs/2510.20927)|null|
 |**2025-10-23**|**Aircraft Collision Avoidance Systems: Technological Challenges and Solutions on the Path to Regulatory Acceptance**|[2510.20916](http://arxiv.org/abs/2510.20916)|null|
 |**2025-10-22**|**FedMicro-IDA: A Federated Learning and Microservices-based Framework for IoT Data Analytics**|[2510.20852](http://arxiv.org/abs/2510.20852)|null|
 |**2025-10-23**|**Generative Reasoning Recommendation via LLMs**|[2510.20815](http://arxiv.org/abs/2510.20815)|null|
@@ -797,7 +797,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
 ## Retrieval
 
@@ -832,7 +832,7 @@ layout: default
 |**2025-10-26**|**Jarvis: Towards Personalized AI Assistant via Personal KV-Cache Retrieval**|[2510.22765](http://arxiv.org/abs/2510.22765)|null|
 |**2025-10-26**|**Beyond Semantics: How Temporal Biases Shape Retrieval in Transformer and State-Space Models**|[2510.22752](http://arxiv.org/abs/2510.22752)|null|
 |**2025-10-26**|**REVISION:Reflective Intent Mining and Online Reasoning Auxiliary for E-commerce Visual Search System Optimization**|[2510.22739](http://arxiv.org/abs/2510.22739)|null|
-|**2025-10-26**|**Cross-view Localization and Synthesis - Datasets, Challenges and Opportunities**|[2510.22736](http://arxiv.org/abs/2510.22736)|**[link](https://github.com/GDAOSU/Awesome-Cross-View-Methods.)**|
+|**2025-10-26**|**Cross-view Localization and Synthesis -- Datasets, Challenges and Opportunities**|[2510.22736](http://arxiv.org/abs/2510.22736)|**[link](https://github.com/GDAOSU/Awesome-Cross-View-Methods.)**|
 |**2025-10-26**|**$\text{E}^2\text{Rank}$ : Your Text Embedding can Also be an Effective and Efficient Listwise Reranker**|[2510.22733](http://arxiv.org/abs/2510.22733)|null|
 |**2025-10-26**|**ATLAS: Actor-Critic Task-Completion with Look-ahead Action Simulation**|[2510.22732](http://arxiv.org/abs/2510.22732)|null|
 |**2025-10-26**|**S-Chain: Structured Visual Chain-of-Thought For Medicine**|[2510.22728](http://arxiv.org/abs/2510.22728)|null|
@@ -2404,14 +2404,14 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
 ## Multi-Modal
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
 |**2025-10-27**|**PixelRefer: A Unified Framework for Spatio-Temporal Object Referring with Arbitrary Granularity**|[2510.23603](http://arxiv.org/abs/2510.23603)|null|
-|**2025-10-27**|**PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error Detection**|[2510.23594](http://arxiv.org/abs/2510.23594)|null|
+|**2025-10-28**|**PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error Detection**|[2510.23594](http://arxiv.org/abs/2510.23594)|null|
 |**2025-10-27**|**EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT**|[2510.23569](http://arxiv.org/abs/2510.23569)|**[link](https://github.com/InternRobotics/EgoThinker.)**|
 |**2025-10-27**|**JanusCoder: Towards a Foundational Visual-Programmatic Interface for Code Intelligence**|[2510.23538](http://arxiv.org/abs/2510.23538)|**[link](https://github.com/InternLM/JanusCoder.)**|
 |**2025-10-27**|**M4FC: a Multimodal, Multilingual, Multicultural, Multitask Real-World Fact-Checking Dataset**|[2510.23508](http://arxiv.org/abs/2510.23508)|null|
@@ -2432,7 +2432,7 @@ layout: default
 |**2025-10-27**|**Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment**|[2510.23224](http://arxiv.org/abs/2510.23224)|null|
 |**2025-10-27**|**Finding 3D Scene Analogies with Multimodal Foundation Models**|[2510.23184](http://arxiv.org/abs/2510.23184)|null|
 |**2025-10-27**|**AG-Fusion: adaptive gated multimodal fusion for 3d object detection in complex scenes**|[2510.23151](http://arxiv.org/abs/2510.23151)|null|
-|**2025-10-27**|**Task-Agnostic Fusion of Time Series and Imagery for Earth Observation**|[2510.23118](http://arxiv.org/abs/2510.23118)|null|
+|**2025-10-28**|**Task-Agnostic Fusion of Time Series and Imagery for Earth Observation**|[2510.23118](http://arxiv.org/abs/2510.23118)|null|
 |**2025-10-27**|**Quantum-Enhanced Multiparameter Sensing via Driven Multi-ensemble Superradiance**|[2510.23110](http://arxiv.org/abs/2510.23110)|null|
 |**2025-10-27**|**Revisiting Multimodal Positional Encoding in Vision-Language Models**|[2510.23095](http://arxiv.org/abs/2510.23095)|**[link](https://github.com/JJJYmmm/Multimodal-RoPEs.)**|
 |**2025-10-27**|**MAP4TS: A Multi-Aspect Prompting Framework for Time-Series Forecasting with Large Language Models**|[2510.23090](http://arxiv.org/abs/2510.23090)|null|
@@ -2455,7 +2455,7 @@ layout: default
 |**2025-10-26**|**LRW-Persian: Lip-reading in the Wild Dataset for Persian Language**|[2510.22716](http://arxiv.org/abs/2510.22716)|**[link](https://lrw-persian.vercel.app.)**|
 |**2025-10-26**|**Windsock is Dancing: Adaptive Multimodal Retrieval-Augmented Generation**|[2510.22694](http://arxiv.org/abs/2510.22694)|null|
 |**2025-10-26**|**RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance**|[2510.22684](http://arxiv.org/abs/2510.22684)|null|
-|**2025-10-26**|**Look and Tell: A Dataset for Multimodal Grounding Across Egocentric and Exocentric Views**|[2510.22672](http://arxiv.org/abs/2510.22672)|null|
+|**2025-10-28**|**Look and Tell: A Dataset for Multimodal Grounding Across Egocentric and Exocentric Views**|[2510.22672](http://arxiv.org/abs/2510.22672)|null|
 |**2025-10-26**|**SARCLIP: A Vision Language Foundation Model for Semantic Understanding and Target Recognition in SAR Imagery**|[2510.22665](http://arxiv.org/abs/2510.22665)|null|
 |**2025-10-26**|**DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection**|[2510.22622](http://arxiv.org/abs/2510.22622)|null|
 |**2025-10-26**|**CLIN-LLM: A Safety-Constrained Hybrid Framework for Clinical Diagnosis and Treatment Generation**|[2510.22609](http://arxiv.org/abs/2510.22609)|null|
@@ -3866,14 +3866,14 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
 |**2025-10-27**|**Think Twice: Branch-and-Rethink Reasoning Reward Model**|[2510.23596](http://arxiv.org/abs/2510.23596)|null|
-|**2025-10-27**|**Multi-Agent Evolve: LLM Self-Improve through Co-evolution**|[2510.23595](http://arxiv.org/abs/2510.23595)|null|
+|**2025-10-28**|**Multi-Agent Evolve: LLM Self-Improve through Co-evolution**|[2510.23595](http://arxiv.org/abs/2510.23595)|null|
 |**2025-10-27**|**Lightweight Robust Direct Preference Optimization**|[2510.23590](http://arxiv.org/abs/2510.23590)|null|
 |**2025-10-27**|**Cosmic magnification on multi-catalogue Herschel submillimetre galaxies**|[2510.23582](http://arxiv.org/abs/2510.23582)|null|
 |**2025-10-27**|**UrbanVLA: A Vision-Language-Action Model for Urban Micromobility**|[2510.23576](http://arxiv.org/abs/2510.23576)|null|
@@ -3881,7 +3881,7 @@ layout: default
 |**2025-10-27**|**Sequential Multi-Agent Dynamic Algorithm Configuration**|[2510.23535](http://arxiv.org/abs/2510.23535)|**[link](https://github.com/lamda-bbo/seq-madac.)**|
 |**2025-10-27**|**Emotion-Coherent Reasoning for Multimodal LLMs via Emotional Rationale Verifier**|[2510.23506](http://arxiv.org/abs/2510.23506)|null|
 |**2025-10-27**|**Bayes-Split-Edge: Bayesian Optimization for Constrained Collaborative Inference in Wireless Edge Systems**|[2510.23503](http://arxiv.org/abs/2510.23503)|null|
-|**2025-10-27**|**VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation**|[2510.23497](http://arxiv.org/abs/2510.23497)|null|
+|**2025-10-28**|**VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation**|[2510.23497](http://arxiv.org/abs/2510.23497)|null|
 |**2025-10-27**|**Learning to Reason Efficiently with Discounted Reinforcement Learning**|[2510.23486](http://arxiv.org/abs/2510.23486)|null|
 |**2025-10-27**|**On the Faithfulness of Visual Thinking: Measurement and Enhancement**|[2510.23482](http://arxiv.org/abs/2510.23482)|**[link](https://github.com/EugeneLiu01/Faithful_Thinking_with_Image.)**|
 |**2025-10-27**|**MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding**|[2510.23479](http://arxiv.org/abs/2510.23479)|null|
@@ -3899,10 +3899,10 @@ layout: default
 |**2025-10-27**|**GRAD: Real-Time Gated Recurrent Anomaly Detection in Autonomous Vehicle Sensors Using Reinforced EMA and Multi-Stage Sliding Window Techniques**|[2510.23327](http://arxiv.org/abs/2510.23327)|null|
 |**2025-10-27**|**CNOT Minimal Circuit Synthesis: A Reinforcement Learning Approach**|[2510.23304](http://arxiv.org/abs/2510.23304)|null|
 |**2025-10-27**|**Code Aesthetics with Agentic Reward Feedback**|[2510.23272](http://arxiv.org/abs/2510.23272)|null|
-|**2025-10-27**|**Spoofing resilience for simple-detection quantum illumination LIDAR**|[2510.23228](http://arxiv.org/abs/2510.23228)|null|
+|**2025-10-28**|**Spoofing resilience for simple-detection quantum illumination LIDAR**|[2510.23228](http://arxiv.org/abs/2510.23228)|null|
 |**2025-10-27**|**Process Reward Models for Sentence-Level Verification of LVLM Radiology Reports**|[2510.23217](http://arxiv.org/abs/2510.23217)|null|
-|**2025-10-27**|**Human-Like Goalkeeping in a Realistic Football Simulation: a Sample-Efficient Reinforcement Learning Approach**|[2510.23216](http://arxiv.org/abs/2510.23216)|null|
-|**2025-10-27**|**AUPO - Abstracted Until Proven Otherwise: A Reward Distribution Based Abstraction Algorithm**|[2510.23214](http://arxiv.org/abs/2510.23214)|null|
+|**2025-10-28**|**Human-Like Goalkeeping in a Realistic Football Simulation: a Sample-Efficient Reinforcement Learning Approach**|[2510.23216](http://arxiv.org/abs/2510.23216)|null|
+|**2025-10-27**|**AUPO -- Abstracted Until Proven Otherwise: A Reward Distribution Based Abstraction Algorithm**|[2510.23214](http://arxiv.org/abs/2510.23214)|null|
 |**2025-10-27**|**If They Disagree, Will You Conform? Exploring the Role of Robots' Value Awareness in a Decision-Making Task**|[2510.23204](http://arxiv.org/abs/2510.23204)|null|
 |**2025-10-27**|**Rate-optimal Design for Anytime Best Arm Identification**|[2510.23199](http://arxiv.org/abs/2510.23199)|null|
 |**2025-10-27**|**TARC: Time-Adaptive Robotic Control**|[2510.23176](http://arxiv.org/abs/2510.23176)|null|
@@ -5011,7 +5011,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
