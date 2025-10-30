@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.29
+## Updated on 2025.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -812,7 +812,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 ## Retrieval
 
@@ -849,7 +849,7 @@ layout: default
 |**2025-10-28**|**M-Eval: A Heterogeneity-Based Framework for Multi-evidence Validation in Medical RAG Systems**|[2510.23995](http://arxiv.org/abs/2510.23995)|null|
 |**2025-10-28**|**Resource-Efficient LLM Application for Structured Transformation of Unstructured Financial Contracts**|[2510.23990](http://arxiv.org/abs/2510.23990)|null|
 |**2025-10-27**|**AfriMTEB and AfriE5: Benchmarking and Adapting Text Embedding Models for African Languages**|[2510.23896](http://arxiv.org/abs/2510.23896)|null|
-|**2025-10-27**|**Why Foundation Models in Pathology Are Failing**|[2510.23807](http://arxiv.org/abs/2510.23807)|null|
+|**2025-10-29**|**Why Foundation Models in Pathology Are Failing**|[2510.23807](http://arxiv.org/abs/2510.23807)|null|
 |**2025-10-27**|**Magrathea v2: A planetary interior modeling platform in C++**|[2510.23733](http://arxiv.org/abs/2510.23733)|null|
 |**2025-10-27**|**Evaluating Long-Term Memory for Long-Context Question Answering**|[2510.23730](http://arxiv.org/abs/2510.23730)|null|
 |**2025-10-27**|**RefleXGen:The unexamined code is not worth using**|[2510.23674](http://arxiv.org/abs/2510.23674)|null|
@@ -2454,7 +2454,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -2483,8 +2483,8 @@ layout: default
 |**2025-10-27**|**MFiSP: A Multimodal Fire Spread Prediction Framework**|[2510.23934](http://arxiv.org/abs/2510.23934)|null|
 |**2025-10-27**|**DynaStride: Dynamic Stride Windowing with MMCoT for Instructional Multi-Scene Captioning**|[2510.23907](http://arxiv.org/abs/2510.23907)|null|
 |**2025-10-27**|**MORA: AI-Mediated Story-Based practice for Speech Sound Disorder from Clinic to Home**|[2510.23887](http://arxiv.org/abs/2510.23887)|null|
-|**2025-10-27**|**Why Foundation Models in Pathology Are Failing**|[2510.23807](http://arxiv.org/abs/2510.23807)|null|
-|**2025-10-27**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
+|**2025-10-29**|**Why Foundation Models in Pathology Are Failing**|[2510.23807](http://arxiv.org/abs/2510.23807)|null|
+|**2025-10-29**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
 |**2025-10-27**|**MUStReason: A Benchmark for Diagnosing Pragmatic Reasoning in Video-LMs for Multimodal Sarcasm Detection**|[2510.23727](http://arxiv.org/abs/2510.23727)|null|
 |**2025-10-27**|**Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents**|[2510.23691](http://arxiv.org/abs/2510.23691)|null|
 |**2025-10-27**|**PixelRefer: A Unified Framework for Spatio-Temporal Object Referring with Arbitrary Granularity**|[2510.23603](http://arxiv.org/abs/2510.23603)|null|
@@ -2509,7 +2509,7 @@ layout: default
 |**2025-10-27**|**Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment**|[2510.23224](http://arxiv.org/abs/2510.23224)|null|
 |**2025-10-27**|**Finding 3D Scene Analogies with Multimodal Foundation Models**|[2510.23184](http://arxiv.org/abs/2510.23184)|null|
 |**2025-10-27**|**AG-Fusion: adaptive gated multimodal fusion for 3d object detection in complex scenes**|[2510.23151](http://arxiv.org/abs/2510.23151)|null|
-|**2025-10-28**|**Task-Agnostic Fusion of Time Series and Imagery for Earth Observation**|[2510.23118](http://arxiv.org/abs/2510.23118)|null|
+|**2025-10-29**|**Quantizing Space and Time: Fusing Time Series and Images for Earth Observation**|[2510.23118](http://arxiv.org/abs/2510.23118)|null|
 |**2025-10-27**|**Quantum-Enhanced Multiparameter Sensing via Driven Multi-ensemble Superradiance**|[2510.23110](http://arxiv.org/abs/2510.23110)|null|
 |**2025-10-27**|**Revisiting Multimodal Positional Encoding in Vision-Language Models**|[2510.23095](http://arxiv.org/abs/2510.23095)|**[link](https://github.com/JJJYmmm/Multimodal-RoPEs.)**|
 |**2025-10-27**|**MAP4TS: A Multi-Aspect Prompting Framework for Time-Series Forecasting with Large Language Models**|[2510.23090](http://arxiv.org/abs/2510.23090)|null|
@@ -3943,7 +3943,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -3957,7 +3957,7 @@ layout: default
 |**2025-10-28**|**Evolving Diagnostic Agents in a Virtual Clinical Environment**|[2510.24654](http://arxiv.org/abs/2510.24654)|null|
 |**2025-10-28**|**Optimizing Retrieval for RAG via Reinforced Contrastive Learning**|[2510.24652](http://arxiv.org/abs/2510.24652)|null|
 |**2025-10-28**|**Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning**|[2510.24650](http://arxiv.org/abs/2510.24650)|**[link](https://github.com/nitin-dominic/AgriPathogenDatabase,)**|
-|**2025-10-28**|**OpenReward: Learning to Reward Long-form Agentic Tasks via Reinforcement Learning**|[2510.24636](http://arxiv.org/abs/2510.24636)|null|
+|**2025-10-29**|**OpenReward: Learning to Reward Long-form Agentic Tasks via Reinforcement Learning**|[2510.24636](http://arxiv.org/abs/2510.24636)|null|
 |**2025-10-28**|**ReForm: Reflective Autoformalization with Prospective Bounded Sequence Optimization**|[2510.24592](http://arxiv.org/abs/2510.24592)|null|
 |**2025-10-28**|**Towards Quadrupedal Jumping and Walking for Dynamic Locomotion using Reinforcement Learning**|[2510.24584](http://arxiv.org/abs/2510.24584)|null|
 |**2025-10-28**|**Dual-Mind World Models: A General Framework for Learning in Dynamic Wireless Networks**|[2510.24546](http://arxiv.org/abs/2510.24546)|null|
@@ -3970,7 +3970,7 @@ layout: default
 |**2025-10-28**|**Adaptive Knowledge Transferring with Switching Dual-Student Framework for Semi-Supervised Medical Image Segmentation**|[2510.24366](http://arxiv.org/abs/2510.24366)|null|
 |**2025-10-28**|**Rewarding Engagement and Personalization in Popularity-Based Rankings Amplifies Extremism and Polarization**|[2510.24354](http://arxiv.org/abs/2510.24354)|null|
 |**2025-10-28**|**Critique-RL: Training Language Models for Critiquing through Two-Stage Reinforcement Learning**|[2510.24320](http://arxiv.org/abs/2510.24320)|null|
-|**2025-10-28**|**Lookahead Tree-Based Rollouts for Enhanced Trajectory-Level Exploration in Reinforcement Learning with Verifiable Rewards**|[2510.24302](http://arxiv.org/abs/2510.24302)|**[link](https://github.com/starreeze/latr.)**|
+|**2025-10-29**|**Lookahead Tree-Based Rollouts for Enhanced Trajectory-Level Exploration in Reinforcement Learning with Verifiable Rewards**|[2510.24302](http://arxiv.org/abs/2510.24302)|**[link](https://github.com/starreeze/latr.)**|
 |**2025-10-28**|**Verifying Large Language Models' Reasoning Paths via Correlation Matrix Rank**|[2510.24299](http://arxiv.org/abs/2510.24299)|null|
 |**2025-10-28**|**ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Model**|[2510.24285](http://arxiv.org/abs/2510.24285)|null|
 |**2025-10-28**|**Survey and Tutorial of Reinforcement Learning Methods in Process Systems Engineering**|[2510.24272](http://arxiv.org/abs/2510.24272)|null|
@@ -3998,7 +3998,7 @@ layout: default
 |**2025-10-27**|**MDP-based Energy-aware Task Scheduling for Battery-less IoT**|[2510.23820](http://arxiv.org/abs/2510.23820)|null|
 |**2025-10-27**|**Debiasing Reward Models by Representation Learning with Guarantees**|[2510.23751](http://arxiv.org/abs/2510.23751)|null|
 |**2025-10-27**|**Multi-Environment POMDPs: Discrete Model Uncertainty Under Partial Observability**|[2510.23744](http://arxiv.org/abs/2510.23744)|null|
-|**2025-10-27**|**AT2025ulz and S250818k: Deep X-ray and radio limits on off-axis afterglow emission and prospects for future discovery**|[2510.23728](http://arxiv.org/abs/2510.23728)|null|
+|**2025-10-29**|**AT2025ulz and S250818k: Deep X-ray and radio limits on off-axis afterglow emission and prospects for future discovery**|[2510.23728](http://arxiv.org/abs/2510.23728)|null|
 |**2025-10-27**|**Think Twice: Branch-and-Rethink Reasoning Reward Model**|[2510.23596](http://arxiv.org/abs/2510.23596)|null|
 |**2025-10-28**|**Multi-Agent Evolve: LLM Self-Improve through Co-evolution**|[2510.23595](http://arxiv.org/abs/2510.23595)|null|
 |**2025-10-27**|**Lightweight Robust Direct Preference Optimization**|[2510.23590](http://arxiv.org/abs/2510.23590)|null|
@@ -5138,7 +5138,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
