@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.30
+## Updated on 2025.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
-|**2025-10-29**|**MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation**|[2510.25622](http://arxiv.org/abs/2510.25622)|null|
+|**2025-10-30**|**MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation**|[2510.25622](http://arxiv.org/abs/2510.25622)|null|
 |**2025-10-29**|**Depth and Autonomy: A Framework for Evaluating LLM Applications in Social Science Research**|[2510.25432](http://arxiv.org/abs/2510.25432)|null|
 |**2025-10-29**|**Alibaba International E-commerce Product Search Competition DcuRAGONs Team Technical Report**|[2510.25428](http://arxiv.org/abs/2510.25428)|**[link](https://alibaba-international-cikm2025.github.io.)**|
 |**2025-10-29**|**Hallucinations in Bibliographic Recommendation: Citation Frequency as a Proxy for Training Data Redundancy**|[2510.25378](http://arxiv.org/abs/2510.25378)|null|
@@ -28,7 +28,7 @@ layout: default
 |**2025-10-28**|**Noise Estimation and Suppression in Quantitative EMCD Measurements**|[2510.24445](http://arxiv.org/abs/2510.24445)|null|
 |**2025-10-28**|**MiniOneRec: An Open-Source Framework for Scaling Generative Recommendation**|[2510.24431](http://arxiv.org/abs/2510.24431)|null|
 |**2025-10-28**|**From Time and Place to Preference: LLM-Driven Geo-Temporal Context in Recommendations**|[2510.24430](http://arxiv.org/abs/2510.24430)|null|
-|**2025-10-28**|**AI for a Planet Under Pressure**|[2510.24373](http://arxiv.org/abs/2510.24373)|null|
+|**2025-10-30**|**AI for a Planet Under Pressure**|[2510.24373](http://arxiv.org/abs/2510.24373)|null|
 |**2025-10-28**|**DUET: Dual Model Co-Training for Entire Space CTR Prediction**|[2510.24369](http://arxiv.org/abs/2510.24369)|null|
 |**2025-10-28**|**Definition and Treatment of Systematic Uncertainties in High Energy Physics and Astrophysics**|[2510.24313](http://arxiv.org/abs/2510.24313)|null|
 |**2025-10-28**|**Quantifying inconsistency in one-stage individual participant data meta-analyses of treatment-covariate interactions: a simulation study**|[2510.24130](http://arxiv.org/abs/2510.24130)|null|
@@ -824,7 +824,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 ## Retrieval
 
@@ -833,15 +833,15 @@ layout: default
 |**2025-10-29**|**Effect of Full Common Randomness Replication in Symmetric PIR on Graph-Based Replicated Systems**|[2510.25736](http://arxiv.org/abs/2510.25736)|null|
 |**2025-10-29**|**BambooKG: A Neurobiologically-inspired Frequency-Weight Knowledge Graph**|[2510.25724](http://arxiv.org/abs/2510.25724)|null|
 |**2025-10-29**|**Retrieval-Augmented Search for Large-Scale Map Collections with ColPali**|[2510.25718](http://arxiv.org/abs/2510.25718)|**[link](http://www.mapras.com.)**|
-|**2025-10-29**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|[2510.25682](http://arxiv.org/abs/2510.25682)|**[link](https://github.com/Haochen-Wang409/PairUni}{github.com/Haochen-Wang409/PairUni})**|
+|**2025-10-30**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|[2510.25682](http://arxiv.org/abs/2510.25682)|**[link](https://github.com/Haochen-Wang409/PairUni.)**|
 |**2025-10-29**|**User Misconceptions of LLM-Based Conversational Programming Assistants**|[2510.25662](http://arxiv.org/abs/2510.25662)|null|
 |**2025-10-29**|**Continuous subsurface property retrieval from sparse radar observations using physics informed neural networks**|[2510.25648](http://arxiv.org/abs/2510.25648)|null|
-|**2025-10-29**|**MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation**|[2510.25622](http://arxiv.org/abs/2510.25622)|null|
+|**2025-10-30**|**MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation**|[2510.25622](http://arxiv.org/abs/2510.25622)|null|
 |**2025-10-29**|**FARSIQA: Faithful and Advanced RAG System for Islamic Question Answering**|[2510.25621](http://arxiv.org/abs/2510.25621)|null|
 |**2025-10-29**|**Retrieval Augmented Generation (RAG) for Fintech: Agentic Design and Evaluation**|[2510.25518](http://arxiv.org/abs/2510.25518)|null|
 |**2025-10-29**|**Generalized Pseudo-Relevance Feedback**|[2510.25488](http://arxiv.org/abs/2510.25488)|null|
 |**2025-10-29**|**Alibaba International E-commerce Product Search Competition DcuRAGONs Team Technical Report**|[2510.25428](http://arxiv.org/abs/2510.25428)|**[link](https://alibaba-international-cikm2025.github.io.)**|
-|**2025-10-29**|**Towards Automated Quality Assurance of Patent Specifications: A Multi-Dimensional LLM Framework**|[2510.25402](http://arxiv.org/abs/2510.25402)|null|
+|**2025-10-30**|**Towards Automated Quality Assurance of Patent Specifications: A Multi-Dimensional LLM Framework**|[2510.25402](http://arxiv.org/abs/2510.25402)|null|
 |**2025-10-29**|**Instance-Level Composed Image Retrieval**|[2510.25387](http://arxiv.org/abs/2510.25387)|**[link](https://vrg.fel.cvut.cz/icir/.)**|
 |**2025-10-29**|**Terahertz Time-Domain Spectroscopy and Density Functional Theory Analysis of Low-Frequency Vibrational Modes of a Benzoxazolium-Coumarin Donor-π-Acceptor Chromophore**|[2510.25365](http://arxiv.org/abs/2510.25365)|null|
 |**2025-10-29**|**GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning**|[2510.25320](http://arxiv.org/abs/2510.25320)|**[link](https://github.com/WJQ7777/Graph-Agent-Planning.)**|
@@ -853,7 +853,7 @@ layout: default
 |**2025-10-29**|**TV-Rec: Time-Variant Convolutional Filter for Sequential Recommendation**|[2510.25259](http://arxiv.org/abs/2510.25259)|null|
 |**2025-10-29**|**GReF: A Unified Generative Framework for Efficient Reranking via Ordered Multi-token Prediction**|[2510.25220](http://arxiv.org/abs/2510.25220)|null|
 |**2025-10-29**|**Optimizing Knowledge Utilization for Multi-Intent Comment Generation with Large Language Models**|[2510.25195](http://arxiv.org/abs/2510.25195)|null|
-|**2025-10-29**|**Model-Document Protocol for AI Search**|[2510.25160](http://arxiv.org/abs/2510.25160)|null|
+|**2025-10-30**|**Model-Document Protocol for AI Search**|[2510.25160](http://arxiv.org/abs/2510.25160)|null|
 |**2025-10-29**|**MMM-Fact: A Multimodal, Multi-Domain Fact-Checking Dataset with Multi-Level Retrieval Difficulty**|[2510.25120](http://arxiv.org/abs/2510.25120)|null|
 |**2025-10-29**|**Visual Diversity and Region-aware Prompt Learning for Zero-shot HOI Detection**|[2510.25094](http://arxiv.org/abs/2510.25094)|**[link](https://github.com/mlvlab/VDRP.)**|
 |**2025-10-29**|**Continual Low-Rank Adapters for LLM-based Generative Recommender Systems**|[2510.25093](http://arxiv.org/abs/2510.25093)|null|
@@ -2496,7 +2496,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -2505,13 +2505,13 @@ layout: default
 |**2025-10-29**|**DiagramEval: Evaluating LLM-Generated Diagrams via Graphs**|[2510.25761](http://arxiv.org/abs/2510.25761)|**[link](https://github.com/ulab-uiuc/diagram-eval.)**|
 |**2025-10-29**|**Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks**|[2510.25760](http://arxiv.org/abs/2510.25760)|**[link](https://github.com/zhengxuJosh/Awesome-Spatial-Reasoning.)**|
 |**2025-10-29**|**Retrieval-Augmented Search for Large-Scale Map Collections with ColPali**|[2510.25718](http://arxiv.org/abs/2510.25718)|**[link](http://www.mapras.com.)**|
-|**2025-10-29**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|[2510.25682](http://arxiv.org/abs/2510.25682)|**[link](https://github.com/Haochen-Wang409/PairUni}{github.com/Haochen-Wang409/PairUni})**|
-|**2025-10-29**|**MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation**|[2510.25622](http://arxiv.org/abs/2510.25622)|null|
+|**2025-10-30**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|[2510.25682](http://arxiv.org/abs/2510.25682)|**[link](https://github.com/Haochen-Wang409/PairUni.)**|
+|**2025-10-30**|**MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation**|[2510.25622](http://arxiv.org/abs/2510.25622)|null|
 |**2025-10-29**|**A Critical Study of Automatic Evaluation in Sign Language Translation**|[2510.25434](http://arxiv.org/abs/2510.25434)|null|
 |**2025-10-29**|**CGM-Led Multimodal Tracking with Chatbot Support: An Autoethnography in Sub-Health**|[2510.25381](http://arxiv.org/abs/2510.25381)|null|
 |**2025-10-29**|**StreamingCoT: A Dataset for Temporal Dynamics and Multimodal Chain-of-Thought Reasoning in Streaming VideoQA**|[2510.25332](http://arxiv.org/abs/2510.25332)|**[link](https://github.com/Fleeting-hyh/StreamingCoT.)**|
-|**2025-10-29**|**Illuminating the lantern: coherent, spectro-polarimetric characterisation of a multimode converter**|[2510.25330](http://arxiv.org/abs/2510.25330)|null|
-|**2025-10-29**|**MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding**|[2510.25327](http://arxiv.org/abs/2510.25327)|null|
+|**2025-10-30**|**Illuminating the lantern: coherent, spectro-polarimetric characterisation of a multimode converter**|[2510.25330](http://arxiv.org/abs/2510.25330)|null|
+|**2025-10-30**|**MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding**|[2510.25327](http://arxiv.org/abs/2510.25327)|null|
 |**2025-10-29**|**Teaching Sarcasm: Few-Shot Multimodal Sarcasm Detection via Distillation to a Parameter-Efficient Student**|[2510.25303](http://arxiv.org/abs/2510.25303)|null|
 |**2025-10-29**|**LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation**|[2510.25263](http://arxiv.org/abs/2510.25263)|null|
 |**2025-10-29**|**VADB: A Large-Scale Video Aesthetic Database with Professional and Multi-Dimensional Annotations**|[2510.25238](http://arxiv.org/abs/2510.25238)|**[link](https://github.com/BestiVictory/VADB.)**|
@@ -4018,7 +4018,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -4026,13 +4026,13 @@ layout: default
 |:---------|:-----------------------|:------|:------|
 |**2025-10-29**|**Decomposition-Enhanced Training for Post-Hoc Attributions In Language Models**|[2510.25766](http://arxiv.org/abs/2510.25766)|null|
 |**2025-10-29**|**MetaLore: Learning to Orchestrate Communication and Computation for Metaverse Synchronization**|[2510.25705](http://arxiv.org/abs/2510.25705)|null|
-|**2025-10-29**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|[2510.25682](http://arxiv.org/abs/2510.25682)|**[link](https://github.com/Haochen-Wang409/PairUni}{github.com/Haochen-Wang409/PairUni})**|
+|**2025-10-30**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|[2510.25682](http://arxiv.org/abs/2510.25682)|**[link](https://github.com/Haochen-Wang409/PairUni.)**|
 |**2025-10-29**|**Navigation in a Three-Dimensional Urban Flow using Deep Reinforcement Learning**|[2510.25679](http://arxiv.org/abs/2510.25679)|null|
 |**2025-10-29**|**ALDEN: Reinforcement Learning for Active Navigation and Evidence Gathering in Long Documents**|[2510.25668](http://arxiv.org/abs/2510.25668)|null|
 |**2025-10-29**|**User Misconceptions of LLM-Based Conversational Programming Assistants**|[2510.25662](http://arxiv.org/abs/2510.25662)|null|
 |**2025-10-29**|**Learning to Plan & Schedule with Reinforcement-Learned Bimanual Robot Skills**|[2510.25634](http://arxiv.org/abs/2510.25634)|null|
 |**2025-10-29**|**EHR-R1: A Reasoning-Enhanced Foundational Language Model for Electronic Health Record Analysis**|[2510.25628](http://arxiv.org/abs/2510.25628)|null|
-|**2025-10-29**|**Evaluating the Role of Verifiers in Test-Time Scaling for Legal Reasoning Tasks**|[2510.25623](http://arxiv.org/abs/2510.25623)|null|
+|**2025-10-30**|**Evaluating the Role of Verifiers in Test-Time Scaling for Legal Reasoning Tasks**|[2510.25623](http://arxiv.org/abs/2510.25623)|null|
 |**2025-10-29**|**On the instability of local learning algorithms: Q-learning can fail in infinite state spaces**|[2510.25572](http://arxiv.org/abs/2510.25572)|null|
 |**2025-10-29**|**Deep Reinforcement Learning-Based Cooperative Rate Splitting for Satellite-to-Underground Communication Networks**|[2510.25562](http://arxiv.org/abs/2510.25562)|null|
 |**2025-10-29**|**Off-policy Reinforcement Learning with Model-based Exploration Augmentation**|[2510.25529](http://arxiv.org/abs/2510.25529)|null|
@@ -4070,7 +4070,7 @@ layout: default
 |**2025-10-28**|**LRT-Diffusion: Calibrated Risk-Aware Guidance for Diffusion Policies**|[2510.24983](http://arxiv.org/abs/2510.24983)|null|
 |**2025-10-28**|**Trichome entanglement enhances damage tolerance in microstructured biocomposites**|[2510.24970](http://arxiv.org/abs/2510.24970)|null|
 |**2025-10-28**|**Finite Population Dynamics Resolve the Central Paradox of the Inspection Game**|[2510.24905](http://arxiv.org/abs/2510.24905)|null|
-|**2025-10-28**|**Random walks with echoed steps I**|[2510.24881](http://arxiv.org/abs/2510.24881)|null|
+|**2025-10-30**|**Random walks with echoed steps I**|[2510.24881](http://arxiv.org/abs/2510.24881)|null|
 |**2025-10-28**|**Deep Reinforcement Learning Approach to QoSAware Load Balancing in 5G Cellular Networks under User Mobility and Observation Uncertainty**|[2510.24869](http://arxiv.org/abs/2510.24869)|null|
 |**2025-10-28**|**Scheduling Your LLM Reinforcement Learning with Reasoning Trees**|[2510.24832](http://arxiv.org/abs/2510.24832)|null|
 |**2025-10-28**|**Greedy Sampling Is Provably Efficient for RLHF**|[2510.24700](http://arxiv.org/abs/2510.24700)|null|
@@ -5262,7 +5262,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
