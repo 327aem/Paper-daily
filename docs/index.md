@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.02
+## Updated on 2025.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -57,7 +57,7 @@ layout: default
 |**2025-10-27**|**Think before Recommendation: Autonomous Reasoning-enhanced Recommender**|[2510.23077](http://arxiv.org/abs/2510.23077)|null|
 |**2025-10-27**|**QoSGMAA: A Robust Multi-Order Graph Attention and Adversarial Framework for Sparse QoS Prediction**|[2510.22982](http://arxiv.org/abs/2510.22982)|null|
 |**2025-10-27**|**GTR-Mamba: Geometry-to-Tangent Routing for Hyperbolic POI Recommendation**|[2510.22942](http://arxiv.org/abs/2510.22942)|null|
-|**2025-10-27**|**Improving Human Verification of LLM Reasoning through Interactive Explanation Interfaces**|[2510.22922](http://arxiv.org/abs/2510.22922)|null|
+|**2025-10-30**|**Improving Human Verification of LLM Reasoning through Interactive Explanation Interfaces**|[2510.22922](http://arxiv.org/abs/2510.22922)|null|
 |**2025-10-27**|**MGFRec: Towards Reinforced Reasoning Recommendation with Multiple Groundings and Feedback**|[2510.22888](http://arxiv.org/abs/2510.22888)|null|
 |**2025-10-26**|**Civic Ground Truth in News Recommenders: A Method for Public Value Scoring**|[2510.22865](http://arxiv.org/abs/2510.22865)|null|
 |**2025-10-26**|**Community Search in Attributed Networks using Dominance Relationships and Random Walks**|[2510.22850](http://arxiv.org/abs/2510.22850)|null|
@@ -841,7 +841,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
 ## Retrieval
 
@@ -2548,7 +2548,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -2577,7 +2577,7 @@ layout: default
 |**2025-10-29**|**Multimodal Bandits: Regret Lower Bounds and Optimal Algorithms**|[2510.25811](http://arxiv.org/abs/2510.25811)|**[link](https://github.com/wilrev/MultimodalBandits)**|
 |**2025-10-29**|**Metis-SPECS: Decoupling Multimodal Learning via Self-distilled Preference-based Cold Start**|[2510.25801](http://arxiv.org/abs/2510.25801)|null|
 |**2025-10-29**|**MemEIC: A Step Toward Continual and Compositional Knowledge Editing**|[2510.25798](http://arxiv.org/abs/2510.25798)|null|
-|**2025-10-29**|**DiagramEval: Evaluating LLM-Generated Diagrams via Graphs**|[2510.25761](http://arxiv.org/abs/2510.25761)|**[link](https://github.com/ulab-uiuc/diagram-eval.)**|
+|**2025-10-31**|**DiagramEval: Evaluating LLM-Generated Diagrams via Graphs**|[2510.25761](http://arxiv.org/abs/2510.25761)|**[link](https://github.com/ulab-uiuc/diagram-eval.)**|
 |**2025-10-29**|**Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks**|[2510.25760](http://arxiv.org/abs/2510.25760)|**[link](https://github.com/zhengxuJosh/Awesome-Spatial-Reasoning.)**|
 |**2025-10-29**|**Retrieval-Augmented Search for Large-Scale Map Collections with ColPali**|[2510.25718](http://arxiv.org/abs/2510.25718)|**[link](http://www.mapras.com.)**|
 |**2025-10-30**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|[2510.25682](http://arxiv.org/abs/2510.25682)|**[link](https://github.com/Haochen-Wang409/PairUni.)**|
@@ -2594,7 +2594,7 @@ layout: default
 |**2025-10-29**|**AI-Powered Early Detection of Critical Diseases using Image Processing and Audio Analysis**|[2510.25199](http://arxiv.org/abs/2510.25199)|null|
 |**2025-10-29**|**Agentic Moderation: Multi-Agent Design for Safer Vision-Language Models**|[2510.25179](http://arxiv.org/abs/2510.25179)|null|
 |**2025-10-29**|**$D^2GS$ : Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction**|[2510.25173](http://arxiv.org/abs/2510.25173)|null|
-|**2025-10-29**|**Transformers in Medicine: Improving Vision-Language Alignment for Medical Image Captioning**|[2510.25164](http://arxiv.org/abs/2510.25164)|null|
+|**2025-10-31**|**Transformers in Medicine: Improving Vision-Language Alignment for Medical Image Captioning**|[2510.25164](http://arxiv.org/abs/2510.25164)|null|
 |**2025-10-29**|**MMM-Fact: A Multimodal, Multi-Domain Fact-Checking Dataset with Multi-Level Retrieval Difficulty**|[2510.25120](http://arxiv.org/abs/2510.25120)|null|
 |**2025-10-29**|**SeeingEye: Agentic Information Flow Unlocks Multimodal Reasoning In Text-only LLMs**|[2510.25092](http://arxiv.org/abs/2510.25092)|**[link](https://github.com/ulab-uiuc/SeeingEye)**|
 |**2025-10-29**|**H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**|[2510.25091](http://arxiv.org/abs/2510.25091)|**[link](https://github.com/PeilinTime/H3M-SSMoEs.)**|
@@ -4093,7 +4093,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -4115,7 +4115,7 @@ layout: default
 |**2025-10-30**|**Emu3.5: Native Multimodal Models are World Learners**|[2510.26583](http://arxiv.org/abs/2510.26583)|**[link](https://github.com/baaivision/Emu3.5)**|
 |**2025-10-30**|**InfoFlow: Reinforcing Search Agent Via Reward Density Optimization**|[2510.26575](http://arxiv.org/abs/2510.26575)|null|
 |**2025-10-30**|**Limits of Absoluteness of Observed Events in Timelike Scenarios: A No-Go Theorem**|[2510.26562](http://arxiv.org/abs/2510.26562)|null|
-|**2025-10-30**|**A Star's Death by a Thousand Cuts: The Runaway Periodic Eruptions of AT2023uqm**|[2510.26561](http://arxiv.org/abs/2510.26561)|null|
+|**2025-10-31**|**A Star's Death by a Thousand Cuts: The Runaway Periodic Eruptions of AT2023uqm**|[2510.26561](http://arxiv.org/abs/2510.26561)|null|
 |**2025-10-30**|**Boosted Trees on a Diet: Compact Models for Resource-Constrained Devices**|[2510.26557](http://arxiv.org/abs/2510.26557)|null|
 |**2025-10-30**|**Adaptive Inverse Kinematics Framework for Learning Variable-Length Tool Manipulation in Robotics**|[2510.26551](http://arxiv.org/abs/2510.26551)|null|
 |**2025-10-30**|**Linear regression with known noise distribution up to a scale: The reward of not using the OLSE**|[2510.26539](http://arxiv.org/abs/2510.26539)|null|
@@ -5387,7 +5387,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
