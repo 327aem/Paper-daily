@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.03
+## Updated on 2025.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -36,7 +36,7 @@ layout: default
 |**2025-10-30**|**OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender**|[2510.26104](http://arxiv.org/abs/2510.26104)|null|
 |**2025-10-30**|**ORBIT -- Open Recommendation Benchmark for Reproducible Research with Hidden Tests**|[2510.26095](http://arxiv.org/abs/2510.26095)|**[link](https://www.open-reco-bench.ai.)**|
 |**2025-10-29**|**The Quest for Reliable Metrics of Responsible AI**|[2510.26007](http://arxiv.org/abs/2510.26007)|null|
-|**2025-10-29**|**AttnCache: Accelerating Self-Attention Inference for LLM Prefill via Attention Cache**|[2510.25979](http://arxiv.org/abs/2510.25979)|null|
+|**2025-10-31**|**AttnCache: Accelerating Self-Attention Inference for LLM Prefill via Attention Cache**|[2510.25979](http://arxiv.org/abs/2510.25979)|null|
 |**2025-10-29**|**Risks and Opportunities in Human-Machine Teaming in Operationalizing Machine Learning Target Variables**|[2510.25974](http://arxiv.org/abs/2510.25974)|null|
 |**2025-10-29**|**FinOps Agent -- A Use-Case for IT Infrastructure and Cost Optimization**|[2510.25914](http://arxiv.org/abs/2510.25914)|null|
 |**2025-10-30**|**MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation**|[2510.25622](http://arxiv.org/abs/2510.25622)|null|
@@ -854,7 +854,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
 
 ## Retrieval
 
@@ -2597,7 +2597,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -4179,7 +4179,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -5519,7 +5519,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
