@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.04
+## Updated on 2025.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -12,7 +12,7 @@ layout: default
 |**2025-10-31**|**Delegate Pricing Decisions to an Algorithm? Experimental Evidence**|[2510.27636](http://arxiv.org/abs/2510.27636)|null|
 |**2025-10-31**|**Back to the Communities: A Mixed-Methods and Community-Driven Evaluation of Cultural Sensitivity in Text-to-Image Models**|[2510.27361](http://arxiv.org/abs/2510.27361)|null|
 |**2025-10-31**|**Pairwise and Attribute-Aware Decision Tree-Based Preference Elicitation for Cold-Start Recommendation**|[2510.27342](http://arxiv.org/abs/2510.27342)|null|
-|**2025-10-31**|**Adaptive Algorithms for Infinitely Many-Armed Bandits: A Unified Framework**|[2510.27319](http://arxiv.org/abs/2510.27319)|null|
+|**2025-11-03**|**Adaptive Algorithms for Infinitely Many-Armed Bandits: A Unified Framework**|[2510.27319](http://arxiv.org/abs/2510.27319)|null|
 |**2025-10-31**|**Traceable Drug Recommendation over Medical Knowledge Graphs**|[2510.27274](http://arxiv.org/abs/2510.27274)|null|
 |**2025-10-31**|**Inferring trust in recommendation systems from brain, behavioural, and physiological data**|[2510.27272](http://arxiv.org/abs/2510.27272)|null|
 |**2025-10-31**|**AGN--Host Galaxy Image Decomposition with JWST**|[2510.27214](http://arxiv.org/abs/2510.27214)|null|
@@ -20,7 +20,7 @@ layout: default
 |**2025-10-31**|**A Survey on Generative Recommendation: Data, Model, and Tasks**|[2510.27157](http://arxiv.org/abs/2510.27157)|null|
 |**2025-10-31**|**Analytical Model of NR-V2X Mode 2 with Re-Evaluation Mechanism**|[2510.27108](http://arxiv.org/abs/2510.27108)|null|
 |**2025-10-30**|**Inconsistency thresholds revisited: The effect of the graph associated with incomplete pairwise comparisons**|[2510.27011](http://arxiv.org/abs/2510.27011)|null|
-|**2025-10-30**|**HADSF: Aspect Aware Semantic Control for Explainable Recommendation**|[2510.26994](http://arxiv.org/abs/2510.26994)|**[link](https://github.com/niez233/HADSF)**|
+|**2025-11-03**|**HADSF: Aspect Aware Semantic Control for Explainable Recommendation**|[2510.26994](http://arxiv.org/abs/2510.26994)|**[link](https://github.com/niez233/HADSF)**|
 |**2025-10-30**|**Using Salient Object Detection to Identify Manipulative Cookie Banners that Circumvent GDPR**|[2510.26967](http://arxiv.org/abs/2510.26967)|null|
 |**2025-10-30**|**Bridging the Gap between Empirical Welfare Maximization and Conditional Average Treatment Effect Estimation in Policy Learning**|[2510.26723](http://arxiv.org/abs/2510.26723)|null|
 |**2025-10-31**|**On the limitation of evaluating machine unlearning using only a single training seed**|[2510.26714](http://arxiv.org/abs/2510.26714)|null|
@@ -854,13 +854,13 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 ## Retrieval
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
-|**2025-10-31**|**Image Hashing via Cross-View Code Alignment in the Age of Foundation Models**|[2510.27584](http://arxiv.org/abs/2510.27584)|null|
+|**2025-11-03**|**Image Hashing via Cross-View Code Alignment in the Age of Foundation Models**|[2510.27584](http://arxiv.org/abs/2510.27584)|null|
 |**2025-10-31**|**Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum**|[2510.27571](http://arxiv.org/abs/2510.27571)|null|
 |**2025-10-31**|**MARAG-R1: Beyond Single Retriever via Reinforcement-Learned Multi-Tool Agentic Retrieval**|[2510.27569](http://arxiv.org/abs/2510.27569)|null|
 |**2025-10-31**|**SIGMA: Search-Augmented On-Demand Knowledge Integration for Agentic Mathematical Reasoning**|[2510.27568](http://arxiv.org/abs/2510.27568)|null|
@@ -894,7 +894,7 @@ layout: default
 |**2025-10-30**|**LLM-based Multi-class Attack Analysis and Mitigation Framework in IoT/IIoT Networks**|[2510.26941](http://arxiv.org/abs/2510.26941)|null|
 |**2025-10-30**|**Integrating Ontologies with Large Language Models for Enhanced Control Systems in Chemical Engineering**|[2510.26898](http://arxiv.org/abs/2510.26898)|null|
 |**2025-10-30**|**Single-Photon-Level Atomic Frequency Comb Storage in Room Temperature Alkali Vapour**|[2510.26870](http://arxiv.org/abs/2510.26870)|null|
-|**2025-10-30**|**Evaluating Perspectival Biases in Cross-Modal Retrieval**|[2510.26861](http://arxiv.org/abs/2510.26861)|null|
+|**2025-11-03**|**Evaluating Perspectival Biases in Cross-Modal Retrieval**|[2510.26861](http://arxiv.org/abs/2510.26861)|null|
 |**2025-10-30**|**Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base**|[2510.26854](http://arxiv.org/abs/2510.26854)|null|
 |**2025-10-30**|**Scaling Image Geo-Localization to Continent Level**|[2510.26795](http://arxiv.org/abs/2510.26795)|**[link](https://scaling-geoloc.github.io.)**|
 |**2025-10-30**|**The Library of Exoplanet Atmospheric Composition Measurements: Population Level Trends in Exoplanet Composition with ExoComp**|[2510.26785](http://arxiv.org/abs/2510.26785)|null|
@@ -2597,7 +2597,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -2609,7 +2609,7 @@ layout: default
 |**2025-10-31**|**Sketch-to-Layout: Sketch-Guided Multimodal Layout Generation**|[2510.27632](http://arxiv.org/abs/2510.27632)|**[link](https://github.com/google-deepmind/sketch_to_layout.)**|
 |**2025-10-31**|**Visual Backdoor Attacks on MLLM Embodied Decision Making via Contrastive Trigger Learning**|[2510.27623](http://arxiv.org/abs/2510.27623)|null|
 |**2025-10-31**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
-|**2025-10-31**|**Image Hashing via Cross-View Code Alignment in the Age of Foundation Models**|[2510.27584](http://arxiv.org/abs/2510.27584)|null|
+|**2025-11-03**|**Image Hashing via Cross-View Code Alignment in the Age of Foundation Models**|[2510.27584](http://arxiv.org/abs/2510.27584)|null|
 |**2025-10-31**|**Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum**|[2510.27571](http://arxiv.org/abs/2510.27571)|null|
 |**2025-10-31**|**Toward Accurate Long-Horizon Robotic Manipulation: Language-to-Action with Foundation Models via Scene Graphs**|[2510.27558](http://arxiv.org/abs/2510.27558)|null|
 |**2025-10-31**|**Context-Gated Cross-Modal Perception with Visual Mamba for PET-CT Lung Tumor Segmentation**|[2510.27508](http://arxiv.org/abs/2510.27508)|**[link](https://github.com/arco-group/vMambaX.)**|
@@ -2639,7 +2639,7 @@ layout: default
 |**2025-10-30**|**GeoPep: A geometry-aware masked language model for protein-peptide binding site prediction**|[2510.27040](http://arxiv.org/abs/2510.27040)|null|
 |**2025-10-30**|**Semantic Frame Aggregation-based Transformer for Live Video Comment Generation**|[2510.26978](http://arxiv.org/abs/2510.26978)|null|
 |**2025-10-30**|**Electromagnetic Investigation of Crosstalk in Bent Microstrip Lines with Partial and Apertured Shielding: Simulations and Measurements**|[2510.26908](http://arxiv.org/abs/2510.26908)|null|
-|**2025-10-30**|**Evaluating Perspectival Biases in Cross-Modal Retrieval**|[2510.26861](http://arxiv.org/abs/2510.26861)|null|
+|**2025-11-03**|**Evaluating Perspectival Biases in Cross-Modal Retrieval**|[2510.26861](http://arxiv.org/abs/2510.26861)|null|
 |**2025-10-30**|**OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes**|[2510.26800](http://arxiv.org/abs/2510.26800)|null|
 |**2025-10-30**|**The Quest for Generalizable Motion Generation: Data, Model, and Evaluation**|[2510.26794](http://arxiv.org/abs/2510.26794)|null|
 |**2025-10-30**|**SteerVLM: Robust Model Control through Lightweight Activation Steering for Vision Language Models**|[2510.26769](http://arxiv.org/abs/2510.26769)|null|
@@ -2648,7 +2648,7 @@ layout: default
 |**2025-10-30**|**All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles**|[2510.26641](http://arxiv.org/abs/2510.26641)|null|
 |**2025-10-30**|**Low-Altitude UAV-Carried Movable Antenna for Joint Wireless Power Transfer and Covert Communications**|[2510.26628](http://arxiv.org/abs/2510.26628)|null|
 |**2025-10-30**|**Emu3.5: Native Multimodal Models are World Learners**|[2510.26583](http://arxiv.org/abs/2510.26583)|**[link](https://github.com/baaivision/Emu3.5)**|
-|**2025-10-30**|**Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition**|[2510.26466](http://arxiv.org/abs/2510.26466)|null|
+|**2025-11-03**|**Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition**|[2510.26466](http://arxiv.org/abs/2510.26466)|null|
 |**2025-10-30**|**Entanglement Certification in Bulk Nonlinear Crystal for Degenerate and Non-degenerate SPDC for Quantum Imaging Application**|[2510.26416](http://arxiv.org/abs/2510.26416)|null|
 |**2025-10-30**|**Generation and detection of squeezed states via a synchronously pumped optical parametric oscillator**|[2510.26414](http://arxiv.org/abs/2510.26414)|null|
 |**2025-10-30**|**AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM**|[2510.26358](http://arxiv.org/abs/2510.26358)|null|
@@ -4179,7 +4179,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -4191,7 +4191,7 @@ layout: default
 |**2025-10-31**|**RDMA Point-to-Point Communication for LLM Systems**|[2510.27656](http://arxiv.org/abs/2510.27656)|null|
 |**2025-10-31**|**Probing cosmic isotropy with Gamma-ray bursts: A dipole and quadrupole analysis of BATSE and Fermi GBM data**|[2510.27644](http://arxiv.org/abs/2510.27644)|null|
 |**2025-10-31**|**Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning**|[2510.27606](http://arxiv.org/abs/2510.27606)|null|
-|**2025-10-31**|**InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research**|[2510.27598](http://arxiv.org/abs/2510.27598)|null|
+|**2025-11-03**|**InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research**|[2510.27598](http://arxiv.org/abs/2510.27598)|null|
 |**2025-10-31**|**MARAG-R1: Beyond Single Retriever via Reinforcement-Learned Multi-Tool Agentic Retrieval**|[2510.27569](http://arxiv.org/abs/2510.27569)|null|
 |**2025-10-31**|**Interact-RAG: Reason and Interact with the Corpus, Beyond Black-Box Retrieval**|[2510.27566](http://arxiv.org/abs/2510.27566)|null|
 |**2025-10-31**|**Risk-constrained stochastic scheduling of multi-market energy storage systems**|[2510.27528](http://arxiv.org/abs/2510.27528)|null|
@@ -4206,7 +4206,7 @@ layout: default
 |**2025-10-31**|**Reasoning Models Sometimes Output Illegible Chains of Thought**|[2510.27338](http://arxiv.org/abs/2510.27338)|null|
 |**2025-10-31**|**When AI Trading Agents Compete: Adverse Selection of Meta-Orders by Reinforcement Learning-Based Market Making**|[2510.27334](http://arxiv.org/abs/2510.27334)|null|
 |**2025-10-31**|**Reinforcement Learning for Long-Horizon Unordered Tasks: From Boolean to Coupled Reward Machines**|[2510.27329](http://arxiv.org/abs/2510.27329)|null|
-|**2025-10-31**|**Adaptive Algorithms for Infinitely Many-Armed Bandits: A Unified Framework**|[2510.27319](http://arxiv.org/abs/2510.27319)|null|
+|**2025-11-03**|**Adaptive Algorithms for Infinitely Many-Armed Bandits: A Unified Framework**|[2510.27319](http://arxiv.org/abs/2510.27319)|null|
 |**2025-10-31**|**A Digital Twin-based Multi-Agent Reinforcement Learning Framework for Vehicle-to-Grid Coordination**|[2510.27289](http://arxiv.org/abs/2510.27289)|null|
 |**2025-10-31**|**Inferring trust in recommendation systems from brain, behavioural, and physiological data**|[2510.27272](http://arxiv.org/abs/2510.27272)|null|
 |**2025-10-31**|**MedCalc-Eval and MedCalc-Env: Advancing Medical Calculation Capabilities of Large Language Models**|[2510.27267](http://arxiv.org/abs/2510.27267)|**[link](https://github.com/maokangkun/MedCalc-Eval.)**|
@@ -5519,7 +5519,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
