@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.06
+## Updated on 2025.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -909,7 +909,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## Retrieval
 
@@ -2733,7 +2733,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -2745,7 +2745,7 @@ layout: default
 |**2025-11-05**|**Enhancing composition-based materials property prediction by cross-modal knowledge transfer**|[2511.03371](http://arxiv.org/abs/2511.03371)|null|
 |**2025-11-05**|**Benchmarking the Thinking Mode of Multimodal Large Language Models in Clinical Tasks**|[2511.03328](http://arxiv.org/abs/2511.03328)|null|
 |**2025-11-05**|**Enhancing Medical Image Segmentation via Heat Conduction Equation**|[2511.03260](http://arxiv.org/abs/2511.03260)|null|
-|**2025-11-05**|**Node-Based Editing for Multimodal Generation of Text, Audio, Image, and Vide**|[2511.03227](http://arxiv.org/abs/2511.03227)|null|
+|**2025-11-06**|**Node-Based Editing for Multimodal Generation of Text, Audio, Image, and Video**|[2511.03227](http://arxiv.org/abs/2511.03227)|null|
 |**2025-11-05**|**Multimodal-Wireless: A Large-Scale Dataset for Sensing and Communication**|[2511.03220](http://arxiv.org/abs/2511.03220)|**[link](https://le-liang.github.io/mmw/.)**|
 |**2025-11-05**|**QG-CoC: Question-Guided Chain-of-Captions for Large Multimodal Models**|[2511.03206](http://arxiv.org/abs/2511.03206)|null|
 |**2025-11-05**|**Cross-Modal Alignment via Variational Copula Modelling**|[2511.03196](http://arxiv.org/abs/2511.03196)|**[link](https://github.com/HKU-MedAI/CMCM.)**|
@@ -2783,7 +2783,7 @@ layout: default
 |**2025-11-03**|**Human-AI Co-Embodied Intelligence for Scientific Experimentation and Manufacturing**|[2511.02071](http://arxiv.org/abs/2511.02071)|null|
 |**2025-11-03**|**Text-VQA Aug: Pipelined Harnessing of Large Multimodal Models for Automated Synthesis**|[2511.02046](http://arxiv.org/abs/2511.02046)|null|
 |**2025-11-03**|**Towards Selection of Large Multimodal Models as Engines for Burned-in Protected Health Information Detection in Medical Images**|[2511.02014](http://arxiv.org/abs/2511.02014)|null|
-|**2025-11-03**|**TIR-Bench: A Comprehensive Benchmark for Agentic Thinking-with-Images Reasoning**|[2511.01833](http://arxiv.org/abs/2511.01833)|null|
+|**2025-11-05**|**TIR-Bench: A Comprehensive Benchmark for Agentic Thinking-with-Images Reasoning**|[2511.01833](http://arxiv.org/abs/2511.01833)|null|
 |**2025-11-03**|**SemBench: A Benchmark for Semantic Query Processing Engines**|[2511.01716](http://arxiv.org/abs/2511.01716)|null|
 |**2025-11-03**|**Z-Dip: a validated generalization of the Dip Test**|[2511.01705](http://arxiv.org/abs/2511.01705)|null|
 |**2025-11-03**|**Bayesian Natural Gradient Fine-Tuning of CLIP Models via Kalman Filtering**|[2511.01694](http://arxiv.org/abs/2511.01694)|null|
@@ -4379,7 +4379,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -4405,7 +4405,7 @@ layout: default
 |**2025-11-05**|**Learning Communication Skills in Multi-task Multi-agent Deep Reinforcement Learning**|[2511.03348](http://arxiv.org/abs/2511.03348)|null|
 |**2025-11-05**|**Diffusion-SDPO: Safeguarded Direct Preference Optimization for Diffusion Models**|[2511.03317](http://arxiv.org/abs/2511.03317)|**[link](https://github.com/AIDC-AI/Diffusion-SDPO.)**|
 |**2025-11-05**|**DRL-Based Robust Multi-Timescale Anti-Jamming Approaches under State Uncertainty**|[2511.03305](http://arxiv.org/abs/2511.03305)|null|
-|**2025-11-05**|**Evolutionary Dynamics in Continuous-time Finite-state Mean Field Games - Part II: Stability**|[2511.03297](http://arxiv.org/abs/2511.03297)|null|
+|**2025-11-05**|**Evolutionary Dynamics in Continuous-time Finite-state Mean Field Games -- Part II: Stability**|[2511.03297](http://arxiv.org/abs/2511.03297)|null|
 |**2025-11-05**|**Multi-Objective Adaptive Rate Limiting in Microservices Using Deep Reinforcement Learning**|[2511.03279](http://arxiv.org/abs/2511.03279)|null|
 |**2025-11-05**|**Decoupled Entropy Minimization**|[2511.03256](http://arxiv.org/abs/2511.03256)|null|
 |**2025-11-05**|**Climate Adaptation with Reinforcement Learning: Economic vs. Quality of Life Adaptation Pathways**|[2511.03243](http://arxiv.org/abs/2511.03243)|**[link](https://github.com/MLSM-at-DTU/maat_qol_framework.)**|
@@ -5807,7 +5807,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
