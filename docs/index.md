@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.09
+## Updated on 2025.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -922,7 +922,7 @@ layout: default
 |**2025-08-25**|**DenseRec: Revisiting Dense Content Embeddings for Sequential Transformer-based Recommendation**|[2508.18442](http://arxiv.org/abs/2508.18442)|null|
 |**2025-08-25**|**Can Out-of-Distribution Evaluations Uncover Reliance on Shortcuts? A Case Study in Question Answering**|[2508.18407](http://arxiv.org/abs/2508.18407)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Retrieval
 
@@ -2785,7 +2785,7 @@ layout: default
 |**2025-08-27**|**Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning**|[2508.20083](http://arxiv.org/abs/2508.20083)|null|
 |**2025-08-27**|**DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis**|[2508.20033](http://arxiv.org/abs/2508.20033)|**[link](https://github.com/guestrin-lab/deepscholar-bench.)**|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -2800,7 +2800,7 @@ layout: default
 |**2025-11-06**|**Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm**|[2511.04570](http://arxiv.org/abs/2511.04570)|null|
 |**2025-11-06**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|[2511.04555](http://arxiv.org/abs/2511.04555)|null|
 |**2025-11-06**|**CardioPHON: Quality assessment and self-supervised pretraining for screening of cardiac function based on phonocardiogram recordings**|[2511.04533](http://arxiv.org/abs/2511.04533)|null|
-|**2025-11-06**|**ThaiOCRBench: A Task-Diverse Benchmark for Vision-Language Understanding in Thai**|[2511.04479](http://arxiv.org/abs/2511.04479)|null|
+|**2025-11-07**|**ThaiOCRBench: A Task-Diverse Benchmark for Vision-Language Understanding in Thai**|[2511.04479](http://arxiv.org/abs/2511.04479)|null|
 |**2025-11-06**|**V-Thinker: Interactive Thinking with Images**|[2511.04460](http://arxiv.org/abs/2511.04460)|null|
 |**2025-11-06**|**Multi-Task Learning for Visually Grounded Reasoning in Gastrointestinal VQA**|[2511.04384](http://arxiv.org/abs/2511.04384)|null|
 |**2025-11-06**|**Towards Aligning Multimodal LLMs with Human Experts: A Focus on Parent-Child Interaction**|[2511.04366](http://arxiv.org/abs/2511.04366)|null|
@@ -4462,7 +4462,7 @@ layout: default
 |**2025-08-27**|**Multimodal Prototype Alignment for Semi-supervised Pathology Image Segmentation**|[2508.19574](http://arxiv.org/abs/2508.19574)|null|
 |**2025-08-27**|**Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning**|[2508.19567](http://arxiv.org/abs/2508.19567)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -5933,7 +5933,7 @@ layout: default
 |**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
 |**2025-09-23**|**DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions**|[2509.19538](http://arxiv.org/abs/2509.19538)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
