@@ -1,4 +1,4 @@
-## Updated on 2025.11.12
+## Updated on 2025.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1022,7 +1022,7 @@
 |**2018-08-06**|**Causal Embeddings for Recommendation**|[1706.07639](http://arxiv.org/abs/1706.07639)|null|
 |**2012-12-11**|**Collaborative Competitive filtering II: Optimal Recommendation and Collaborative Games**|[1212.2150](http://arxiv.org/abs/1212.2150)|null|
 
-<p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251113>back to top</a>)</p>
 
 ## Retrieval
 
@@ -3018,7 +3018,7 @@
 |**2014-04-29**|**Editorial for the Bibliometric-enhanced Information Retrieval Workshop at ECIR 2014**|[1404.7099](http://arxiv.org/abs/1404.7099)|null|
 |**2014-04-08**|**Icon Based Information Retrieval and Disease Identification in Agriculture**|[1404.1664](http://arxiv.org/abs/1404.1664)|null|
 
-<p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251113>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -4807,6 +4807,7 @@
 |**2020-10-27**|**Introducing Representations of Facial Affect in Automated Multimodal Deception Detection**|[2008.13369](http://arxiv.org/abs/2008.13369)|null|
 |**2020-07-07**|**Low Rank Fusion based Transformers for Multimodal Sequences**|[2007.02038](http://arxiv.org/abs/2007.02038)|null|
 |**2020-04-21**|**Multi-Modal Face Anti-Spoofing Based on Central Difference Networks**|[2004.08388](http://arxiv.org/abs/2004.08388)|**[link](https://github.com/ZitongYu/CDCN}.)**|
+|**2020-07-09**|**Multimodal Shape Completion via Conditional Generative Adversarial Networks**|[2003.07717](http://arxiv.org/abs/2003.07717)|null|
 |**2020-08-25**|**Time-Domain Multi-modal Bone/air Conducted Speech Enhancement**|[1911.09847](http://arxiv.org/abs/1911.09847)|null|
 |**2021-09-06**|**Liver Segmentation from Multimodal Images using HED-Mask R-CNN**|[1910.10504](http://arxiv.org/abs/1910.10504)|null|
 |**2019-04-23**|**Multi-modal gated recurrent units for image description**|[1904.09421](http://arxiv.org/abs/1904.09421)|null|
@@ -4814,7 +4815,7 @@
 |**2018-09-14**|**Multimodal Local-Global Ranking Fusion for Emotion Recognition**|[1809.04931](http://arxiv.org/abs/1809.04931)|null|
 |**2016-05-18**|**Multimodal Sparse Coding for Event Detection**|[1605.05212](http://arxiv.org/abs/1605.05212)|null|
 
-<p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251113>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -6409,7 +6410,7 @@
 |**2019-01-29**|**Designing a Multi-Objective Reward Function for Creating Teams of Robotic Bodyguards Using Deep Reinforcement Learning**|[1901.09837](http://arxiv.org/abs/1901.09837)|null|
 |**2018-07-16**|**Exploring Hierarchy-Aware Inverse Reinforcement Learning**|[1807.05037](http://arxiv.org/abs/1807.05037)|null|
 
-<p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
