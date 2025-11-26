@@ -10,6 +10,20 @@ layout: default
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
 |**2005-09-17**|**A Connection-Centric Survey of Recommender Systems Research**|[cs/0205059](http://arxiv.org/abs/cs/0205059)|null|
+|**2025-11-25**|**The Driver-Blindness Phenomenon: Why Deep Sequence Models Default to Autocorrelation in Blood Glucose Forecasting**|[2511.20601](http://arxiv.org/abs/2511.20601)|null|
+|**2025-11-25**|**E2E-GRec: An End-to-End Joint Training Framework for Graph Neural Networks and Recommender Systems**|[2511.20564](http://arxiv.org/abs/2511.20564)|null|
+|**2025-11-25**|**Extreme Ultraviolet Spectroscopy of Highly Charged Lu and Yb Ions for Nuclear Charge Radius Determination**|[2511.20537](http://arxiv.org/abs/2511.20537)|null|
+|**2025-11-25**|**GUIDAETA -- A Versatile Interactions Dataset with extensive Context Information and Metadata**|[2511.20328](http://arxiv.org/abs/2511.20328)|null|
+|**2025-11-25**|**Lower Bias, Higher Welfare: How Creator Competition Reshapes Bias-Variance Tradeoff in Recommendation Platforms?**|[2511.20289](http://arxiv.org/abs/2511.20289)|null|
+|**2025-11-25**|**HHFT: Hierarchical Heterogeneous Feature Transformer for Recommendation Systems**|[2511.20235](http://arxiv.org/abs/2511.20235)|null|
+|**2025-11-25**|**Decoupling and Damping: Structurally-Regularized Gradient Matching for Multimodal Graph Condensation**|[2511.20222](http://arxiv.org/abs/2511.20222)|null|
+|**2025-11-25**|**Enhancing Sequential Recommendation with World Knowledge from Large Language Models**|[2511.20177](http://arxiv.org/abs/2511.20177)|**[link](https://anonymous.4open.science/r/GRASP-SRS.)**|
+|**2025-11-25**|**Towards A Tri-View Diffusion Framework for Recommendation**|[2511.20122](http://arxiv.org/abs/2511.20122)|null|
+|**2025-11-25**|**The 2nd Workshop on Human-Centered Recommender Systems**|[2511.19979](http://arxiv.org/abs/2511.19979)|null|
+|**2025-11-25**|**LLM-EDT: Large Language Model Enhanced Cross-domain Sequential Recommendation with Dual-phase Training**|[2511.19931](http://arxiv.org/abs/2511.19931)|**[link](https://anonymous.4open.science/r/LLM-EDT-583F}.)**|
+|**2025-11-24**|**Scaling Item-to-Standard Alignment with Large Language Models: Accuracy, Limits, and Solutions**|[2511.19749](http://arxiv.org/abs/2511.19749)|null|
+|**2025-11-24**|**TREASURE: A Transformer-Based Foundation Model for High-Volume Transaction Understanding**|[2511.19693](http://arxiv.org/abs/2511.19693)|null|
+|**2025-11-24**|**SCoTER: Structured Chain-of-Thought Transfer for Enhanced Recommendation**|[2511.19514](http://arxiv.org/abs/2511.19514)|null|
 |**2025-11-24**|**Puzzling Isotonic Odd-Even Staggering of Charge Radii in Deformed Rare Earth Nuclei**|[2511.19395](http://arxiv.org/abs/2511.19395)|null|
 |**2025-11-24**|**Black-Box Lifting and Robustness Theorems for Multi-Agent Contracts**|[2511.19358](http://arxiv.org/abs/2511.19358)|null|
 |**2025-11-24**|**Disc Game Dynamics: A Latent Space Perspective on Selection and Learning in Games**|[2511.19346](http://arxiv.org/abs/2511.19346)|null|
@@ -1191,7 +1205,43 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
-|**2025-11-24**|**Cloud4D**|[2511.19431](http://arxiv.org/abs/2511.19431)|**[link](https://cloud4d.jacob-lin.com/.)**|
+|**2025-11-25**|**Adaptive Hopfield Network: Rethinking Similarities in Associative Memory**|[2511.20609](http://arxiv.org/abs/2511.20609)|null|
+|**2025-11-25**|**Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward**|[2511.20561](http://arxiv.org/abs/2511.20561)|**[link](https://github.com/PKU-YuanGroup/UniSandBox)**|
+|**2025-11-25**|**New York Smells: A Large Multimodal Dataset for Olfaction**|[2511.20544](http://arxiv.org/abs/2511.20544)|null|
+|**2025-11-25**|**Kleinkram: Open Robotic Data Management**|[2511.20492](http://arxiv.org/abs/2511.20492)|null|
+|**2025-11-25**|**NNGPT: Rethinking AutoML with Large Language Models**|[2511.20333](http://arxiv.org/abs/2511.20333)|null|
+|**2025-11-25**|**GUIDAETA -- A Versatile Interactions Dataset with extensive Context Information and Metadata**|[2511.20328](http://arxiv.org/abs/2511.20328)|null|
+|**2025-11-25**|**Improving Language Agents through BREW**|[2511.20297](http://arxiv.org/abs/2511.20297)|null|
+|**2025-11-25**|**Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations**|[2511.20295](http://arxiv.org/abs/2511.20295)|null|
+|**2025-11-25**|**SMoG: Schema Matching on Graph**|[2511.20285](http://arxiv.org/abs/2511.20285)|null|
+|**2025-11-25**|**LLM-Driven Transient Stability Assessment: From Automated Simulation to Neural Architecture Design**|[2511.20276](http://arxiv.org/abs/2511.20276)|null|
+|**2025-11-25**|**ScenarioCLIP: Pretrained Transferable Visual Language Models and Action-Genome Dataset for Natural Scene Analysis**|[2511.20274](http://arxiv.org/abs/2511.20274)|**[link](https://github.com/scenario-clip/ScenarioCLIP)**|
+|**2025-11-25**|**HHFT: Hierarchical Heterogeneous Feature Transformer for Recommendation Systems**|[2511.20235](http://arxiv.org/abs/2511.20235)|null|
+|**2025-11-25**|**HKRAG: Holistic Knowledge Retrieval-Augmented Generation Over Visually-Rich Documents**|[2511.20227](http://arxiv.org/abs/2511.20227)|null|
+|**2025-11-25**|**Enhancing Sequential Recommendation with World Knowledge from Large Language Models**|[2511.20177](http://arxiv.org/abs/2511.20177)|**[link](https://anonymous.4open.science/r/GRASP-SRS.)**|
+|**2025-11-25**|**SEDA: A Self-Adapted Entity-Centric Data Augmentation for Boosting Gird-based Discontinuous NER Models**|[2511.20143](http://arxiv.org/abs/2511.20143)|null|
+|**2025-11-25**|**Towards A Tri-View Diffusion Framework for Recommendation**|[2511.20122](http://arxiv.org/abs/2511.20122)|null|
+|**2025-11-25**|**Mispronunciation Detection and Diagnosis Without Model Training: A Retrieval-Based Approach**|[2511.20107](http://arxiv.org/abs/2511.20107)|null|
+|**2025-11-25**|**MTA: A Merge-then-Adapt Framework for Personalized Large Language Model**|[2511.20072](http://arxiv.org/abs/2511.20072)|null|
+|**2025-11-25**|**Online-PVLM: Advancing Personalized VLMs with Online Concept Learning**|[2511.20056](http://arxiv.org/abs/2511.20056)|null|
+|**2025-11-25**|**Invisible in Search? Auditing Aesthetic Bias in the Visual Representation of Holocaust Victims on Google**|[2511.20036](http://arxiv.org/abs/2511.20036)|null|
+|**2025-11-25**|**Adaptive Knowledge Transfer for Cross-Disciplinary Cold-Start Knowledge Tracing**|[2511.20009](http://arxiv.org/abs/2511.20009)|null|
+|**2025-11-25**|**Popularity Bias Alignment Estimates**|[2511.19999](http://arxiv.org/abs/2511.19999)|null|
+|**2025-11-25**|**REWA: Witness-Overlap Theory -- Foundations for Composable Binary Similarity Systems**|[2511.19998](http://arxiv.org/abs/2511.19998)|null|
+|**2025-11-25**|**$\text{R}^2\text{R}$ : A Route-to-Rerank Post-Training Framework for Multi-Domain Decoder-Only Rerankers**|[2511.19987](http://arxiv.org/abs/2511.19987)|null|
+|**2025-11-25**|**The 2nd Workshop on Human-Centered Recommender Systems**|[2511.19979](http://arxiv.org/abs/2511.19979)|null|
+|**2025-11-25**|**M $^3$ Prune: Hierarchical Communication Graph Pruning for Efficient Multi-Modal Multi-Agent Retrieval-Augmented Generation**|[2511.19969](http://arxiv.org/abs/2511.19969)|null|
+|**2025-11-25**|**AppSelectBench: Application-Level Tool Selection Benchmark**|[2511.19957](http://arxiv.org/abs/2511.19957)|**[link](https://github.com/microsoft/appselectbench.)**|
+|**2025-11-25**|**LLM-EDT: Large Language Model Enhanced Cross-domain Sequential Recommendation with Dual-phase Training**|[2511.19931](http://arxiv.org/abs/2511.19931)|**[link](https://anonymous.4open.science/r/LLM-EDT-583F}.)**|
+|**2025-11-25**|**Intelligent Image Search Algorithms Fusing Visual Large Models**|[2511.19920](http://arxiv.org/abs/2511.19920)|null|
+|**2025-11-25**|**RPM-MCTS: Knowledge-Retrieval as Process Reward Model with Monte Carlo Tree Search for Code Generation**|[2511.19895](http://arxiv.org/abs/2511.19895)|null|
+|**2025-11-25**|**A Systematic Analysis of Large Language Models with RAG-enabled Dynamic Prompting for Medical Error Detection and Correction**|[2511.19858](http://arxiv.org/abs/2511.19858)|null|
+|**2025-11-25**|**Large Language Model Aided Birt-Hogg-Dube Syndrome Diagnosis with Multimodal Retrieval-Augmented Generation**|[2511.19834](http://arxiv.org/abs/2511.19834)|null|
+|**2025-11-24**|**NOEM $^{3}$ A: A Neuro-Symbolic Ontology-Enhanced Method for Multi-Intent Understanding in Mobile Agents**|[2511.19780](http://arxiv.org/abs/2511.19780)|null|
+|**2025-11-24**|**IRSDA: An Agent-Orchestrated Framework for Enterprise Intrusion Response**|[2511.19644](http://arxiv.org/abs/2511.19644)|null|
+|**2025-11-24**|**Chemical and Isotopic Homogeneity Between the L Dwarf CD-35 2722 B and its Early M Host Star**|[2511.19588](http://arxiv.org/abs/2511.19588)|null|
+|**2025-11-24**|**Think First, Assign Next (ThiFAN-VQA): A Two-stage Chain-of-Thought Framework for Post-Disaster Damage Assessment**|[2511.19557](http://arxiv.org/abs/2511.19557)|null|
+|**2025-11-25**|**Cloud4D: Estimating Cloud Properties at a High Spatial and Temporal Resolution**|[2511.19431](http://arxiv.org/abs/2511.19431)|**[link](https://cloud4d.jacob-lin.com/.)**|
 |**2025-11-24**|**Beyond Protein Language Models: An Agentic LLM Framework for Mechanistic Enzyme Design**|[2511.19423](http://arxiv.org/abs/2511.19423)|null|
 |**2025-11-24**|**UISearch: Graph-Based Embeddings for Multimodal Enterprise UI Screenshots Retrieval**|[2511.19380](http://arxiv.org/abs/2511.19380)|null|
 |**2025-11-24**|**Revisiting Feedback Models for HyDE**|[2511.19349](http://arxiv.org/abs/2511.19349)|null|
@@ -1202,7 +1252,7 @@ layout: default
 |**2025-11-24**|**ReMatch: Boosting Representation through Matching for Multimodal Retrieval**|[2511.19278](http://arxiv.org/abs/2511.19278)|null|
 |**2025-11-24**|**Medusa: Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation**|[2511.19257](http://arxiv.org/abs/2511.19257)|**[link](https://anonymous.4open.science/r/MMed-RAG-Attack-F05A.)**|
 |**2025-11-24**|**ReAlign: Text-to-Motion Generation via Step-Aware Reward-Guided Alignment**|[2511.19217](http://arxiv.org/abs/2511.19217)|null|
-|**2025-11-24**|**Can Modern Vision Models Understand the Difference Between an Object and a Look-alike?**|[2511.19200](http://arxiv.org/abs/2511.19200)|null|
+|**2025-11-25**|**Can Modern Vision Models Understand the Difference Between an Object and a Look-alike?**|[2511.19200](http://arxiv.org/abs/2511.19200)|null|
 |**2025-11-24**|**From Raw Features to Effective Embeddings: A Three-Stage Approach for Multimodal Recipe Recommendation**|[2511.19176](http://arxiv.org/abs/2511.19176)|null|
 |**2025-11-24**|**Information Physics of Intelligence: Unifying Logical Depth and Entropy under Thermodynamic Constraints**|[2511.19156](http://arxiv.org/abs/2511.19156)|null|
 |**2025-11-24**|**From Pixels to Posts: Retrieval-Augmented Fashion Captioning and Hashtag Generation**|[2511.19149](http://arxiv.org/abs/2511.19149)|null|
@@ -3515,6 +3565,56 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-11-25**|**RubricRL: Simple Generalizable Rewards for Text-to-Image Generation**|[2511.20651](http://arxiv.org/abs/2511.20651)|null|
+|**2025-11-25**|**MedROV: Towards Real-Time Open-Vocabulary Detection Across Diverse Medical Imaging Modalities**|[2511.20650](http://arxiv.org/abs/2511.20650)|**[link](https://github.com/toobatehreem/MedROV.)**|
+|**2025-11-25**|**Unleashing the Power of Vision-Language Models for Long-Tailed Multi-Label Visual Recognition**|[2511.20641](http://arxiv.org/abs/2511.20641)|null|
+|**2025-11-25**|**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**|[2511.20629](http://arxiv.org/abs/2511.20629)|null|
+|**2025-11-25**|**Fighting AI with AI: Leveraging Foundation Models for Assuring AI-Enabled Safety-Critical Systems**|[2511.20627](http://arxiv.org/abs/2511.20627)|null|
+|**2025-11-25**|**Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward**|[2511.20561](http://arxiv.org/abs/2511.20561)|**[link](https://github.com/PKU-YuanGroup/UniSandBox)**|
+|**2025-11-25**|**New York Smells: A Large Multimodal Dataset for Olfaction**|[2511.20544](http://arxiv.org/abs/2511.20544)|null|
+|**2025-11-25**|**Beyond Generation: Multi-Hop Reasoning for Factual Accuracy in Vision-Language Models**|[2511.20531](http://arxiv.org/abs/2511.20531)|null|
+|**2025-11-25**|**HBridge: H-Shape Bridging of Heterogeneous Experts for Unified Multimodal Understanding and Generation**|[2511.20520](http://arxiv.org/abs/2511.20520)|null|
+|**2025-11-25**|**Adversarial Confusion Attack: Disrupting Multimodal Large Language Models**|[2511.20494](http://arxiv.org/abs/2511.20494)|null|
+|**2025-11-25**|**MTBBench: A Multimodal Sequential Clinical Decision-Making Benchmark in Oncology**|[2511.20490](http://arxiv.org/abs/2511.20490)|null|
+|**2025-11-25**|**Modular Deep Learning Framework for Assistive Perception: Gaze, Affect, and Speaker Identification**|[2511.20474](http://arxiv.org/abs/2511.20474)|null|
+|**2025-11-25**|**Advances and Challenges in Solar Flare Prediction: A Review**|[2511.20465](http://arxiv.org/abs/2511.20465)|null|
+|**2025-11-25**|**Estimating the triaxiality of massive clusters from 2D observables in MillenniumTNG with machine learning**|[2511.20429](http://arxiv.org/abs/2511.20429)|null|
+|**2025-11-25**|**VibraVerse: A Large-Scale Geometry-Acoustics Alignment Dataset for Physically-Consistent Multimodal Learning**|[2511.20422](http://arxiv.org/abs/2511.20422)|null|
+|**2025-11-25**|**MajutsuCity: Language-driven Aesthetic-adaptive City Generation with Controllable 3D Assets and Layouts**|[2511.20415](http://arxiv.org/abs/2511.20415)|**[link](https://github.com/LongHZ140516/MajutsuCity.)**|
+|**2025-11-25**|**MoRE: Batch-Robust Multi-Omics Representations from Frozen Pre-trained Transformers**|[2511.20382](http://arxiv.org/abs/2511.20382)|null|
+|**2025-11-25**|**ArtiBench and ArtiBrain: Benchmarking Generalizable Vision-Language Articulated Object Manipulation**|[2511.20330](http://arxiv.org/abs/2511.20330)|null|
+|**2025-11-25**|**APT-CGLP: Advanced Persistent Threat Hunting via Contrastive Graph-Language Pre-Training**|[2511.20290](http://arxiv.org/abs/2511.20290)|null|
+|**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
+|**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
+|**2025-11-25**|**Modality-Balanced Collaborative Distillation for Multi-Modal Domain Generalization**|[2511.20258](http://arxiv.org/abs/2511.20258)|null|
+|**2025-11-25**|**HistoSpeckle-Net: Mutual Information-Guided Deep Learning for high-fidelity reconstruction of complex OrganAMNIST images via perturbed Multimode Fibers**|[2511.20245](http://arxiv.org/abs/2511.20245)|null|
+|**2025-11-25**|**HKRAG: Holistic Knowledge Retrieval-Augmented Generation Over Visually-Rich Documents**|[2511.20227](http://arxiv.org/abs/2511.20227)|null|
+|**2025-11-25**|**Decoupling and Damping: Structurally-Regularized Gradient Matching for Multimodal Graph Condensation**|[2511.20222](http://arxiv.org/abs/2511.20222)|null|
+|**2025-11-25**|**Towards Benign Memory Forgetting for Selective Multimodal Large Language Model Unlearning**|[2511.20196](http://arxiv.org/abs/2511.20196)|null|
+|**2025-11-25**|**In-Context Compositional Learning via Sparse Coding Transformer**|[2511.20194](http://arxiv.org/abs/2511.20194)|null|
+|**2025-11-25**|**ADNet: A Large-Scale and Extensible Multi-Domain Benchmark for Anomaly Detection Across 380 Real-World Categories**|[2511.20169](http://arxiv.org/abs/2511.20169)|**[link](https://grainnet.github.io/ADNet)**|
+|**2025-11-25**|**FINE: Factorized multimodal sentiment analysis via mutual INformation Estimation**|[2511.20167](http://arxiv.org/abs/2511.20167)|null|
+|**2025-11-25**|**While recognizing actions, LMMs struggle to detect core interaction events**|[2511.20162](http://arxiv.org/abs/2511.20162)|null|
+|**2025-11-25**|**Harmonious Parameter Adaptation in Continual Visual Instruction Tuning for Safety-Aligned MLLMs**|[2511.20158](http://arxiv.org/abs/2511.20158)|null|
+|**2025-11-25**|**Map-World: Masked Action planning and Path-Integral World Model for Autonomous Driving**|[2511.20156](http://arxiv.org/abs/2511.20156)|null|
+|**2025-11-25**|**Vision-Language Models for Automated 3D PET/CT Report Generation**|[2511.20145](http://arxiv.org/abs/2511.20145)|null|
+|**2025-11-25**|**LungEvaty: A Scalable, Open-Source Transformer-based Deep Learning Model for Lung Cancer Risk Prediction in LDCT Screening**|[2511.20116](http://arxiv.org/abs/2511.20116)|null|
+|**2025-11-25**|**VICoT-Agent: A Vision-Interleaved Chain-of-Thought Framework for Interpretable Multimodal Reasoning and Scalable Remote Sensing Analysis**|[2511.20085](http://arxiv.org/abs/2511.20085)|null|
+|**2025-11-25**|**Cross-Contrastive Clustering for Multimodal Attributed Graphs with Dual Graph Filtering**|[2511.20030](http://arxiv.org/abs/2511.20030)|null|
+|**2025-11-25**|**WaymoQA: A Multi-View Visual Question Answering Dataset for Safety-Critical Reasoning in Autonomous Driving**|[2511.20022](http://arxiv.org/abs/2511.20022)|null|
+|**2025-11-25**|**ACIT: Attention-Guided Cross-Modal Interaction Transformer for Pedestrian Crossing Intention Prediction**|[2511.20020](http://arxiv.org/abs/2511.20020)|null|
+|**2025-11-25**|**Pedestrian Crossing Intention Prediction Using Multimodal Fusion Network**|[2511.20008](http://arxiv.org/abs/2511.20008)|null|
+|**2025-11-25**|**On the Feasibility of Hijacking MLLMs' Decision Chain via One Perturbation**|[2511.20002](http://arxiv.org/abs/2511.20002)|null|
+|**2025-11-25**|**GazeProphetV2: Head-Movement-Based Gaze Prediction Enabling Efficient Foveated Rendering on Mobile VR**|[2511.19988](http://arxiv.org/abs/2511.19988)|null|
+|**2025-11-25**|**Boosting Reasoning in Large Multimodal Models via Activation Replay**|[2511.19972](http://arxiv.org/abs/2511.19972)|null|
+|**2025-11-25**|**M $^3$ Prune: Hierarchical Communication Graph Pruning for Efficient Multi-Modal Multi-Agent Retrieval-Augmented Generation**|[2511.19969](http://arxiv.org/abs/2511.19969)|null|
+|**2025-11-25**|**Towards Edge General Intelligence: Knowledge Distillation for Mobile Agentic AI**|[2511.19947](http://arxiv.org/abs/2511.19947)|null|
+|**2025-11-25**|**CounterVQA: Evaluating and Improving Counterfactual Reasoning in Vision-Language Models for Video Understanding**|[2511.19923](http://arxiv.org/abs/2511.19923)|null|
+|**2025-11-25**|**Coupled Physics-Gated Adaptation: Spatially Decoding Volumetric Photochemical Conversion in Complex 3D-Printed Objects**|[2511.19913](http://arxiv.org/abs/2511.19913)|null|
+|**2025-11-25**|**MHB: Multimodal Handshape-aware Boundary Detection for Continuous Sign Language Recognition**|[2511.19907](http://arxiv.org/abs/2511.19907)|null|
+|**2025-11-25**|**Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning**|[2511.19900](http://arxiv.org/abs/2511.19900)|**[link](https://github.com/aiming-lab/Agent0/Agent0-VL}{this)**|
+|**2025-11-25**|**ChessMamba: Structure-Aware Interleaving of State Spaces for Change Detection in Remote Sensing Images**|[2511.19882](http://arxiv.org/abs/2511.19882)|null|
+|**2025-11-25**|**It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models**|[2511.19877](http://arxiv.org/abs/2511.19877)|null|
 |**2025-11-24**|**Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution**|[2511.19430](http://arxiv.org/abs/2511.19430)|**[link](https://github.com/H-EmbodVis/GRANT)**|
 |**2025-11-24**|**Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens**|[2511.19418](http://arxiv.org/abs/2511.19418)|null|
 |**2025-11-24**|**Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration**|[2511.19417](http://arxiv.org/abs/2511.19417)|null|
@@ -5698,6 +5798,56 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2025-11-25**|**RubricRL: Simple Generalizable Rewards for Text-to-Image Generation**|[2511.20651](http://arxiv.org/abs/2511.20651)|null|
+|**2025-11-25**|**Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization**|[2511.20647](http://arxiv.org/abs/2511.20647)|null|
+|**2025-11-25**|**Reinforcing Action Policies by Prophesying**|[2511.20633](http://arxiv.org/abs/2511.20633)|null|
+|**2025-11-25**|**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**|[2511.20629](http://arxiv.org/abs/2511.20629)|null|
+|**2025-11-25**|**Attention Trajectories as a Diagnostic Axis for Deep Reinforcement Learning**|[2511.20591](http://arxiv.org/abs/2511.20591)|null|
+|**2025-11-25**|**A Reason-then-Describe Instruction Interpreter for Controllable Video Generation**|[2511.20563](http://arxiv.org/abs/2511.20563)|**[link](https://sqwu.top/ReaDe/.)**|
+|**2025-11-25**|**Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning**|[2511.20549](http://arxiv.org/abs/2511.20549)|null|
+|**2025-11-25**|**Assessing LLMs' Performance: Insights from the Chinese Pharmacist Exam**|[2511.20526](http://arxiv.org/abs/2511.20526)|null|
+|**2025-11-25**|**Physically Interpretable Interatomic Potentials via Symbolic Regression and Reinforcement Learning**|[2511.20506](http://arxiv.org/abs/2511.20506)|null|
+|**2025-11-25**|**DRAFT-RL: Multi-Agent Chain-of-Draft Reasoning for Reinforcement Learning-Enhanced LLMs**|[2511.20468](http://arxiv.org/abs/2511.20468)|null|
+|**2025-11-25**|**BRIC: Bridging Kinematic Plans and Physical Control at Test Time**|[2511.20431](http://arxiv.org/abs/2511.20431)|null|
+|**2025-11-25**|**Complexity Reduction Study Based on RD Costs Approximation for VVC Intra Partitioning**|[2511.20349](http://arxiv.org/abs/2511.20349)|null|
+|**2025-11-25**|**Soft Adaptive Policy Optimization**|[2511.20347](http://arxiv.org/abs/2511.20347)|null|
+|**2025-11-25**|**NNGPT: Rethinking AutoML with Large Language Models**|[2511.20333](http://arxiv.org/abs/2511.20333)|null|
+|**2025-11-25**|**AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models**|[2511.20325](http://arxiv.org/abs/2511.20325)|null|
+|**2025-11-25**|**Pseudo-strata learning via maximizing misclassification reward**|[2511.20318](http://arxiv.org/abs/2511.20318)|null|
+|**2025-11-25**|**Improving Language Agents through BREW**|[2511.20297](http://arxiv.org/abs/2511.20297)|null|
+|**2025-11-25**|**HAFO: Humanoid Force-Adaptive Control for Intense External Force Interaction Environments**|[2511.20275](http://arxiv.org/abs/2511.20275)|null|
+|**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
+|**2025-11-25**|**DRL-Guided Neural Batch Sampling for Semi-Supervised Pixel-Level Anomaly Detection**|[2511.20270](http://arxiv.org/abs/2511.20270)|null|
+|**2025-11-25**|**The Image as Its Own Reward: Reinforcement Learning with Adversarial Reward for Image Generation**|[2511.20256](http://arxiv.org/abs/2511.20256)|null|
+|**2025-11-25**|**Quantum-Enhanced Reinforcement Learning for Accelerating Newton-Raphson Convergence with Ising Machines: A Case Study for Power Flow Analysis**|[2511.20237](http://arxiv.org/abs/2511.20237)|null|
+|**2025-11-25**|**Leveraging weights signals -- Predicting and improving generalizability in reinforcement learning**|[2511.20234](http://arxiv.org/abs/2511.20234)|null|
+|**2025-11-25**|**Interactive AI NPCs Powered by LLMs: Technical Report for the CPDC Challenge 2025**|[2511.20200](http://arxiv.org/abs/2511.20200)|**[link](https://gitlab.aicrowd.com/nikoo_yu/cpdc-2025-winning-solution)**|
+|**2025-11-25**|**Rotation of flux ropes in the low corona**|[2511.20199](http://arxiv.org/abs/2511.20199)|null|
+|**2025-11-25**|**Map-World: Masked Action planning and Path-Integral World Model for Autonomous Driving**|[2511.20156](http://arxiv.org/abs/2511.20156)|null|
+|**2025-11-25**|**From data to concepts via wiring diagrams**|[2511.20138](http://arxiv.org/abs/2511.20138)|null|
+|**2025-11-25**|**One Action Too Many: Inapproximability of Budgeted Combinatorial Contracts**|[2511.20110](http://arxiv.org/abs/2511.20110)|null|
+|**2025-11-25**|**QiMeng-Kernel: Macro-Thinking Micro-Coding Paradigm for LLM-Based High-Performance GPU Kernel Generation**|[2511.20100](http://arxiv.org/abs/2511.20100)|null|
+|**2025-11-25**|**WPT: World-to-Policy Transfer via Online World Model Distillation**|[2511.20095](http://arxiv.org/abs/2511.20095)|null|
+|**2025-11-25**|**SOMBRL: Scalable and Optimistic Model-Based RL**|[2511.20066](http://arxiv.org/abs/2511.20066)|null|
+|**2025-11-25**|**On the differentiability of the value function of switched linear systems under arbitrary and controlled switching**|[2511.20037](http://arxiv.org/abs/2511.20037)|null|
+|**2025-11-25**|**Energy Costs and Neural Complexity Evolution in Changing Environments**|[2511.20018](http://arxiv.org/abs/2511.20018)|null|
+|**2025-11-25**|**CREward: A Type-Specific Creativity Reward Model**|[2511.19995](http://arxiv.org/abs/2511.19995)|null|
+|**2025-11-25**|**OmniRefiner: Reinforcement-Guided Local Diffusion Refinement**|[2511.19990](http://arxiv.org/abs/2511.19990)|null|
+|**2025-11-25**|**EmoFeedback2: Reinforcement of Continuous Emotional Image Generation via LVLM-based Reward and Textual Feedback**|[2511.19982](http://arxiv.org/abs/2511.19982)|null|
+|**2025-11-25**|**Boosting Reasoning in Large Multimodal Models via Activation Replay**|[2511.19972](http://arxiv.org/abs/2511.19972)|null|
+|**2025-11-25**|**HiCoGen: Hierarchical Compositional Text-to-Image Generation in Diffusion Models via Reinforcement Learning**|[2511.19965](http://arxiv.org/abs/2511.19965)|null|
+|**2025-11-25**|**Toward Trustworthy Digital Twins in Agentic AI-based Wireless Network Optimization: Challenges, Solutions, and Opportunities**|[2511.19961](http://arxiv.org/abs/2511.19961)|null|
+|**2025-11-25**|**Differential Smoothing Mitigates Sharpening and Improves LLM Reasoning**|[2511.19942](http://arxiv.org/abs/2511.19942)|null|
+|**2025-11-25**|**Optimize Flip Angle Schedules In MR Fingerprinting Using Reinforcement Learning**|[2511.19941](http://arxiv.org/abs/2511.19941)|null|
+|**2025-11-25**|**Collaborate sim and real: Robot Bin Packing Learning in Real-world and Physical Engine**|[2511.19932](http://arxiv.org/abs/2511.19932)|null|
+|**2025-11-25**|**Designing Reputation Systems for Manufacturing Data Trading Markets: A Multi-Agent Evaluation with Q-Learning and IRL-Estimated Utilities**|[2511.19930](http://arxiv.org/abs/2511.19930)|null|
+|**2025-11-25**|**Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving**|[2511.19912](http://arxiv.org/abs/2511.19912)|null|
+|**2025-11-25**|**Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning**|[2511.19900](http://arxiv.org/abs/2511.19900)|**[link](https://github.com/aiming-lab/Agent0/Agent0-VL}{this)**|
+|**2025-11-25**|**RPM-MCTS: Knowledge-Retrieval as Process Reward Model with Monte Carlo Tree Search for Code Generation**|[2511.19895](http://arxiv.org/abs/2511.19895)|null|
+|**2025-11-25**|**Joint Classification and Regression Deep Learning Model for Universal Phase-based Ranging in Multiple Environments**|[2511.19891](http://arxiv.org/abs/2511.19891)|null|
+|**2025-11-25**|**Complex Instruction Following with Diverse Style Policies in Football Games**|[2511.19885](http://arxiv.org/abs/2511.19885)|null|
+|**2025-11-25**|**Reinforcement Learning with $ω$ -Regular Objectives and Constraints**|[2511.19849](http://arxiv.org/abs/2511.19849)|null|
+|**2025-11-25**|**Dynamic Reward Design**|[2511.19838](http://arxiv.org/abs/2511.19838)|null|
 |**2025-11-24**|**SLMFix: Leveraging Small Language Models for Error Fixing with Reinforcement Learning**|[2511.19422](http://arxiv.org/abs/2511.19422)|null|
 |**2025-11-24**|**Learning Robust Social Strategies with Large Language Models**|[2511.19405](http://arxiv.org/abs/2511.19405)|null|
 |**2025-11-24**|**DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research**|[2511.19399](http://arxiv.org/abs/2511.19399)|null|
