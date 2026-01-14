@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -1634,7 +1634,7 @@ layout: default
 |**2018-08-06**|**Causal Embeddings for Recommendation**|[1706.07639](http://arxiv.org/abs/1706.07639)|null|
 |**2012-12-11**|**Collaborative Competitive filtering II: Optimal Recommendation and Collaborative Games**|[1212.2150](http://arxiv.org/abs/1212.2150)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 ## Retrieval
 
@@ -1653,7 +1653,7 @@ layout: default
 |**2026-01-12**|**ES-Mem: Event Segmentation-Based Memory for Long-Term Dialogue Agents**|[2601.07582](http://arxiv.org/abs/2601.07582)|null|
 |**2026-01-12**|**Loci Similes: A Benchmark for Extracting Intertextualities in Latin Literature**|[2601.07533](http://arxiv.org/abs/2601.07533)|null|
 |**2026-01-12**|**From RAG to Agentic RAG for Faithful Islamic Question Answering**|[2601.07528](http://arxiv.org/abs/2601.07528)|null|
-|**2026-01-12**|**FROAV: A Framework for RAG Observation and Agent Verification - Lowering the Barrier to LLM Agent Research**|[2601.07504](http://arxiv.org/abs/2601.07504)|null|
+|**2026-01-12**|**FROAV: A Framework for RAG Observation and Agent Verification -- Lowering the Barrier to LLM Agent Research**|[2601.07504](http://arxiv.org/abs/2601.07504)|null|
 |**2026-01-12**|**Task Prototype-Based Knowledge Retrieval for Multi-Task Learning from Partially Annotated Data**|[2601.07474](http://arxiv.org/abs/2601.07474)|null|
 |**2026-01-12**|**Beyond Dialogue Time: Temporal Semantic Memory for Personalized LLM Agents**|[2601.07468](http://arxiv.org/abs/2601.07468)|null|
 |**2026-01-12**|**RLPO: Residual Listwise Preference Optimization for Long-Context Review Ranking**|[2601.07449](http://arxiv.org/abs/2601.07449)|null|
@@ -1683,7 +1683,7 @@ layout: default
 |**2026-01-11**|**MemTrust: A Zero-Trust Architecture for Unified AI Memory System**|[2601.07004](http://arxiv.org/abs/2601.07004)|null|
 |**2026-01-11**|**FinCARDS: Card-Based Analyst Reranking for Financial Document Question Answering**|[2601.06992](http://arxiv.org/abs/2601.06992)|**[link](https://github.com/XanderZhou2022/FINCARDS.)**|
 |**2026-01-11**|**MedTutor: A Retrieval-Augmented LLM System for Case-Based Medical Education**|[2601.06979](http://arxiv.org/abs/2601.06979)|null|
-|**2026-01-11**|**UETQuintet at BioCreative IX - MedHopQA: Enhancing Biomedical QA with Selective Multi-hop Reasoning and Contextual Retrieval**|[2601.06974](http://arxiv.org/abs/2601.06974)|null|
+|**2026-01-11**|**UETQuintet at BioCreative IX -- MedHopQA: Enhancing Biomedical QA with Selective Multi-hop Reasoning and Contextual Retrieval**|[2601.06974](http://arxiv.org/abs/2601.06974)|null|
 |**2026-01-11**|**LLMs Can't Play Hangman: On the Necessity of a Private Working Memory for Language Agents**|[2601.06973](http://arxiv.org/abs/2601.06973)|null|
 |**2026-01-11**|**Unified Personalized Understanding, Generating and Editing**|[2601.06965](http://arxiv.org/abs/2601.06965)|null|
 |**2026-01-11**|**Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning**|[2601.06943](http://arxiv.org/abs/2601.06943)|null|
@@ -5054,14 +5054,14 @@ layout: default
 |**2014-04-29**|**Editorial for the Bibliometric-enhanced Information Retrieval Workshop at ECIR 2014**|[1404.7099](http://arxiv.org/abs/1404.7099)|null|
 |**2014-04-08**|**Icon Based Information Retrieval and Disease Identification in Agriculture**|[1404.1664](http://arxiv.org/abs/1404.1664)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 ## Multi-Modal
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
 |**2026-01-12**|**Histopathology-centered Computational Evolution of Spatial Omics: Integration, Mapping, and Foundation Models**|[2601.07826](http://arxiv.org/abs/2601.07826)|null|
-|**2026-01-12**|**Video Generation Models in Robotics - Applications, Research Challenges, Future Directions**|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
+|**2026-01-12**|**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
 |**2026-01-12**|**OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent**|[2601.07779](http://arxiv.org/abs/2601.07779)|null|
 |**2026-01-12**|**DT-ICU: Towards Explainable Digital Twins for ICU Patient Monitoring via Multi-Modal and Multi-Task Iterative Inference**|[2601.07778](http://arxiv.org/abs/2601.07778)|**[link](https://github.com/GUO-W/DT-ICU-release.)**|
 |**2026-01-12**|**Evaluating Impacts of Traffic Regulations in Complex Mobility Systems Using Scenario-Based Simulations**|[2601.07735](http://arxiv.org/abs/2601.07735)|null|
@@ -8547,13 +8547,13 @@ layout: default
 |**2018-09-14**|**Multimodal Local-Global Ranking Fusion for Emotion Recognition**|[1809.04931](http://arxiv.org/abs/1809.04931)|null|
 |**2016-05-18**|**Multimodal Sparse Coding for Event Detection**|[1605.05212](http://arxiv.org/abs/1605.05212)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
-|**2026-01-12**|**Video Generation Models in Robotics - Applications, Research Challenges, Future Directions**|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
+|**2026-01-12**|**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
 |**2026-01-12**|**Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation**|[2601.07821](http://arxiv.org/abs/2601.07821)|**[link](https://failure-aware-rl.github.io.)**|
 |**2026-01-12**|**Data-driven control of hydraulic impact hammers under strict operational and control constraints**|[2601.07813](http://arxiv.org/abs/2601.07813)|**[link](https://youtu.be/e-7tDhZ4ZgA.)**|
 |**2026-01-12**|**Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning**|[2601.07782](http://arxiv.org/abs/2601.07782)|null|
@@ -11827,7 +11827,7 @@ layout: default
 |**2019-01-29**|**Designing a Multi-Objective Reward Function for Creating Teams of Robotic Bodyguards Using Deep Reinforcement Learning**|[1901.09837](http://arxiv.org/abs/1901.09837)|null|
 |**2018-07-16**|**Exploring Hierarchy-Aware Inverse Reinforcement Learning**|[1807.05037](http://arxiv.org/abs/1807.05037)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
