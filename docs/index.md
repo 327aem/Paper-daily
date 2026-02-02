@@ -10,6 +10,8 @@ layout: default
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
 |**2005-09-17**|**A Connection-Centric Survey of Recommender Systems Research**|[cs/0205059](http://arxiv.org/abs/cs/0205059)|null|
+|**2026-01-30**|**Hybrid physics-data-driven modeling for sea ice thermodynamics and transfer learning**|[2601.23190](http://arxiv.org/abs/2601.23190)|null|
+|**2026-01-30**|**How should AI Safety Benchmarks Benchmark Safety?**|[2601.23112](http://arxiv.org/abs/2601.23112)|null|
 |**2026-01-30**|**WiFiPenTester: Advancing Wireless Ethical Hacking with Governed GenAI**|[2601.23092](http://arxiv.org/abs/2601.23092)|null|
 |**2026-01-30**|**BEAR: Towards Beam-Search-Aware Optimization for Recommendation with Large Language Models**|[2601.22925](http://arxiv.org/abs/2601.22925)|null|
 |**2026-01-30**|**LLMDR: Large language model driven framework for missing data recovery in mixed data under low resource regime**|[2601.22916](http://arxiv.org/abs/2601.22916)|null|
@@ -1887,6 +1889,14 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-01-30**|**PaperBanana: Automating Academic Illustration for AI Scientists**|[2601.23265](http://arxiv.org/abs/2601.23265)|null|
+|**2026-01-30**|**GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion**|[2601.23254](http://arxiv.org/abs/2601.23254)|null|
+|**2026-01-30**|**ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search**|[2601.23232](http://arxiv.org/abs/2601.23232)|null|
+|**2026-01-30**|**Disentangling multispecific antibody function with graph neural networks**|[2601.23212](http://arxiv.org/abs/2601.23212)|null|
+|**2026-01-30**|**Large Language Models for Patent Classification: Strengths, Trade-offs, and the Long Tail Effect**|[2601.23200](http://arxiv.org/abs/2601.23200)|null|
+|**2026-01-30**|**Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience**|[2601.23188](http://arxiv.org/abs/2601.23188)|null|
+|**2026-01-30**|**Beyond Fixed Frames: Dynamic Character-Aligned Speech Tokenization**|[2601.23174](http://arxiv.org/abs/2601.23174)|null|
+|**2026-01-30**|**Evaluating the Utility of Grounding Documents with Reference-Free LLM-based Metrics**|[2601.23129](http://arxiv.org/abs/2601.23129)|null|
 |**2026-01-30**|**OrLog: Resolving Complex Queries with LLMs and Probabilistic Reasoning**|[2601.23085](http://arxiv.org/abs/2601.23085)|null|
 |**2026-01-30**|**HierLoc: Hyperbolic Entity Embeddings for Hierarchical Visual Geolocation**|[2601.23064](http://arxiv.org/abs/2601.23064)|null|
 |**2026-01-30**|**MedMCP-Calc: Benchmarking LLMs for Realistic Medical Calculator Scenarios via MCP Integration**|[2601.23049](http://arxiv.org/abs/2601.23049)|**[link](https://github.com/SPIRAL-MED/MedMCP-Calc.)**|
@@ -5864,6 +5874,15 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-01-30**|**Nested Slice Sampling: Vectorized Nested Sampling for GPU-Accelerated Inference**|[2601.23252](http://arxiv.org/abs/2601.23252)|null|
+|**2026-01-30**|**Structured Over Scale: Learning Spatial Reasoning from Educational Video**|[2601.23251](http://arxiv.org/abs/2601.23251)|null|
+|**2026-01-30**|**ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search**|[2601.23232](http://arxiv.org/abs/2601.23232)|null|
+|**2026-01-30**|**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**|[2601.23224](http://arxiv.org/abs/2601.23224)|null|
+|**2026-01-30**|**Med-Scout: Curing MLLMs' Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training**|[2601.23220](http://arxiv.org/abs/2601.23220)|null|
+|**2026-01-30**|**ReGuLaR: Variational Latent Reasoning Guided by Rendered Chain-of-Thought**|[2601.23184](http://arxiv.org/abs/2601.23184)|**[link](https://github.com/FanmengWang/ReGuLaR.)**|
+|**2026-01-30**|**Make Anything Match Your Target: Universal Adversarial Perturbations against Closed-Source MLLMs via Multi-Crop Routed Meta Optimization**|[2601.23179](http://arxiv.org/abs/2601.23179)|null|
+|**2026-01-30**|**An Automatic Deep Learning Approach for Trailer Generation through Large Language Models**|[2601.23121](http://arxiv.org/abs/2601.23121)|null|
+|**2026-01-30**|**Vision-Language Controlled Deep Unfolding for Joint Medical Image Restoration and Segmentation**|[2601.23103](http://arxiv.org/abs/2601.23103)|**[link](https://github.com/cipi666/VLDUN.)**|
 |**2026-01-30**|**Temporally Coherent Imitation Learning via Latent Action Flow Matching for Robotic Manipulation**|[2601.23087](http://arxiv.org/abs/2601.23087)|null|
 |**2026-01-30**|**One-shot Optimized Steering Vector for Hallucination Mitigation for VLMs**|[2601.23041](http://arxiv.org/abs/2601.23041)|null|
 |**2026-01-30**|**Layer-Aware Early Fusion of Acoustic and Linguistic Embeddings for Cognitive Status Classification**|[2601.23004](http://arxiv.org/abs/2601.23004)|null|
@@ -9888,6 +9907,21 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-01-30**|**VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation**|[2601.23286](http://arxiv.org/abs/2601.23286)|null|
+|**2026-01-30**|**End-to-end Optimization of Belief and Policy Learning in Shared Autonomy Paradigms**|[2601.23285](http://arxiv.org/abs/2601.23285)|null|
+|**2026-01-30**|**UPA: Unsupervised Prompt Agent via Tree-Based Search and Selection**|[2601.23273](http://arxiv.org/abs/2601.23273)|null|
+|**2026-01-30**|**IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models**|[2601.23266](http://arxiv.org/abs/2601.23266)|null|
+|**2026-01-30**|**Structured Over Scale: Learning Spatial Reasoning from Educational Video**|[2601.23251](http://arxiv.org/abs/2601.23251)|null|
+|**2026-01-30**|**Scaling Multiagent Systems with Process Rewards**|[2601.23228](http://arxiv.org/abs/2601.23228)|null|
+|**2026-01-30**|**Agile Reinforcement Learning through Separable Neural Architecture**|[2601.23225](http://arxiv.org/abs/2601.23225)|null|
+|**2026-01-30**|**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**|[2601.23224](http://arxiv.org/abs/2601.23224)|null|
+|**2026-01-30**|**Region-Normalized DPO for Medical Image Segmentation under Noisy Judges**|[2601.23222](http://arxiv.org/abs/2601.23222)|null|
+|**2026-01-30**|**Med-Scout: Curing MLLMs' Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training**|[2601.23220](http://arxiv.org/abs/2601.23220)|null|
+|**2026-01-30**|**Stochastic Linear Bandits with Parameter Noise**|[2601.23164](http://arxiv.org/abs/2601.23164)|null|
+|**2026-01-30**|**Unsupervised Hierarchical Skill Discovery**|[2601.23156](http://arxiv.org/abs/2601.23156)|null|
+|**2026-01-30**|**On Safer Reinforcement Learning Policies for Sedation and Analgesia in Intensive Care**|[2601.23154](http://arxiv.org/abs/2601.23154)|null|
+|**2026-01-30**|**THINKSAFE: Self-Generated Safety Alignment for Reasoning Models**|[2601.23143](http://arxiv.org/abs/2601.23143)|**[link](https://github.com/seanie12/ThinkSafe.git.)**|
+|**2026-01-30**|**Why GRPO Needs Normalization: A Local-Curvature Perspective on Adaptive Gradients**|[2601.23135](http://arxiv.org/abs/2601.23135)|null|
 |**2026-01-30**|**CATTO: Balancing Preferences and Confidence in Language Models**|[2601.23096](http://arxiv.org/abs/2601.23096)|null|
 |**2026-01-30**|**WiFiPenTester: Advancing Wireless Ethical Hacking with Governed GenAI**|[2601.23092](http://arxiv.org/abs/2601.23092)|null|
 |**2026-01-30**|**Chain-of-thought obfuscation learned from output supervision can generalise to unseen tasks**|[2601.23086](http://arxiv.org/abs/2601.23086)|null|
