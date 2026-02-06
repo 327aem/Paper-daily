@@ -10,6 +10,21 @@ layout: default
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
 |**2005-09-17**|**A Connection-Centric Survey of Recommender Systems Research**|[cs/0205059](http://arxiv.org/abs/cs/0205059)|null|
+|**2026-02-05**|**AgenticTagger: Structured Item Representation for Recommendation with LLM Agents**|[2602.05945](http://arxiv.org/abs/2602.05945)|null|
+|**2026-02-05**|**CFRecs: Counterfactual Recommendations on Real Estate User Listing Interaction Graphs**|[2602.05861](http://arxiv.org/abs/2602.05861)|null|
+|**2026-02-05**|**GLASS: A Generative Recommender for Long-sequence Modeling via SID-Tier and Semantic Search**|[2602.05663](http://arxiv.org/abs/2602.05663)|null|
+|**2026-02-05**|**Reasoning-guided Collaborative Filtering with Language Models for Explainable Recommendation**|[2602.05544](http://arxiv.org/abs/2602.05544)|null|
+|**2026-02-05**|**SDFP: Speculative Decoding with FIT-Pruned Models for Training-Free and Plug-and-Play LLM Acceleration**|[2602.05499](http://arxiv.org/abs/2602.05499)|null|
+|**2026-02-05**|**LMMRec: LLM-driven Motivation-aware Multimodal Recommendation**|[2602.05474](http://arxiv.org/abs/2602.05474)|null|
+|**2026-02-05**|**Thermodynamic Limits of Physical Intelligence**|[2602.05463](http://arxiv.org/abs/2602.05463)|null|
+|**2026-02-05**|**Co-Designing Collaborative Generative AI Tools for Freelancers**|[2602.05299](http://arxiv.org/abs/2602.05299)|null|
+|**2026-02-05**|**Aspect-Aware MOOC Recommendation in a Heterogeneous Network**|[2602.05297](http://arxiv.org/abs/2602.05297)|null|
+|**2026-02-05**|**ORACL: Optimized Reasoning for Autoscaling via Chain of Thought with LLMs for Microservices**|[2602.05292](http://arxiv.org/abs/2602.05292)|null|
+|**2026-02-05**|**FATe of Bots: Ethical Considerations of Social Bot Detection**|[2602.05200](http://arxiv.org/abs/2602.05200)|null|
+|**2026-02-04**|**Adaptive Exploration for Latent-State Bandits**|[2602.05139](http://arxiv.org/abs/2602.05139)|null|
+|**2026-02-04**|**Towards Advancing Research with Workflows: A perspective from the Workflows Community Summit -- Amsterdam, 2025**|[2602.05131](http://arxiv.org/abs/2602.05131)|null|
+|**2026-02-04**|**Autodiscover: A reinforcement learning recommendation system for the cold-start imbalance challenge in active learning, powered by graph-aware thompson sampling**|[2602.05087](http://arxiv.org/abs/2602.05087)|null|
+|**2026-02-04**|**Quantile-Physics Hybrid Framework for Safe-Speed Recommendation under Diverse Weather Conditions Leveraging Connected Vehicle and Road Weather Information Systems Data**|[2602.05053](http://arxiv.org/abs/2602.05053)|null|
 |**2026-02-04**|**How to Stop Playing Whack-a-Mole: Mapping the Ecosystem of Technologies Facilitating AI-Generated Non-Consensual Intimate Images**|[2602.04759](http://arxiv.org/abs/2602.04759)|null|
 |**2026-02-04**|**Comparative Insights on Adversarial Machine Learning from Industry and Academia: A User-Study Approach**|[2602.04753](http://arxiv.org/abs/2602.04753)|null|
 |**2026-02-04**|**Multiple Imputation Methods under Extreme Values**|[2602.04751](http://arxiv.org/abs/2602.04751)|null|
@@ -1967,6 +1982,56 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-02-05**|**Thinking with Geometry: Active Geometry Integration for Spatial Reasoning**|[2602.06037](http://arxiv.org/abs/2602.06037)|**[link](https://github.com/Li-Hao-yuan/GeoThinker.)**|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**SAGE: Benchmarking and Improving Retrieval for Deep Research Agents**|[2602.05975](http://arxiv.org/abs/2602.05975)|null|
+|**2026-02-05**|**Characterizing Human Semantic Navigation in Concept Production as Trajectories in Embedding Space**|[2602.05971](http://arxiv.org/abs/2602.05971)|null|
+|**2026-02-05**|**AgenticTagger: Structured Item Representation for Recommendation with LLM Agents**|[2602.05945](http://arxiv.org/abs/2602.05945)|null|
+|**2026-02-05**|**CLIP-Map: Structured Matrix Mapping for Parameter-Efficient CLIP Compression**|[2602.05909](http://arxiv.org/abs/2602.05909)|null|
+|**2026-02-05**|**ContextBench: A Benchmark for Context Retrieval in Coding Agents**|[2602.05892](http://arxiv.org/abs/2602.05892)|**[link](https://cioutn.github.io/context-bench/.)**|
+|**2026-02-05**|**Persistent Human Feedback, LLMs, and Static Analyzers for Secure Code Generation and Vulnerability Detection**|[2602.05868](http://arxiv.org/abs/2602.05868)|null|
+|**2026-02-05**|**TKG-Thinker: Towards Dynamic Reasoning over Temporal Knowledge Graphs via Agentic Reinforcement Learning**|[2602.05818](http://arxiv.org/abs/2602.05818)|null|
+|**2026-02-05**|**Bagging-Based Model Merging for Robust General Text Embeddings**|[2602.05787](http://arxiv.org/abs/2602.05787)|null|
+|**2026-02-05**|**Automated Customization of LLMs for Enterprise Code Repositories Using Semantic Scopes**|[2602.05780](http://arxiv.org/abs/2602.05780)|null|
+|**2026-02-05**|**Retrieval of the nuclear motion in a molecule from photoelectron momentum distributions using non-Born-Oppenheimer quantum dynamics and deep learning**|[2602.05763](http://arxiv.org/abs/2602.05763)|null|
+|**2026-02-05**|**Task-Oriented Robot-Human Handovers on Legged Manipulators**|[2602.05760](http://arxiv.org/abs/2602.05760)|null|
+|**2026-02-05**|**CSRv2: Unlocking Ultra-Sparse Embeddings**|[2602.05735](http://arxiv.org/abs/2602.05735)|null|
+|**2026-02-05**|**Evaluating the impact of word embeddings on similarity scoring in practical information retrieval**|[2602.05734](http://arxiv.org/abs/2602.05734)|null|
+|**2026-02-05**|**CompactRAG: Reducing LLM Calls and Token Overhead in Multi-Hop Question Answering**|[2602.05728](http://arxiv.org/abs/2602.05728)|null|
+|**2026-02-05**|**Muon in Associative Memory Learning: Training Dynamics and Scaling Laws**|[2602.05725](http://arxiv.org/abs/2602.05725)|null|
+|**2026-02-05**|**Mitigating Hallucination in Financial Retrieval-Augmented Generation via Fine-Grained Knowledge Verification**|[2602.05723](http://arxiv.org/abs/2602.05723)|null|
+|**2026-02-05**|**Cost-Efficient RAG for Entity Matching with LLMs: A Blocking-based Exploration**|[2602.05708](http://arxiv.org/abs/2602.05708)|null|
+|**2026-02-05**|**Graph-based Agent Memory: Taxonomy, Techniques, and Applications**|[2602.05665](http://arxiv.org/abs/2602.05665)|**[link](https://github.com/DEEP-PolyU/Awesome-GraphMemory.)**|
+|**2026-02-05**|**GLASS: A Generative Recommender for Long-sequence Modeling via SID-Tier and Semantic Search**|[2602.05663](http://arxiv.org/abs/2602.05663)|null|
+|**2026-02-05**|**Generative Ontology: When Structured Knowledge Learns to Create**|[2602.05636](http://arxiv.org/abs/2602.05636)|null|
+|**2026-02-05**|**ArkTS-CodeSearch: A Open-Source ArkTS Dataset for Code Retrieval**|[2602.05550](http://arxiv.org/abs/2602.05550)|**[link](https://huggingface.co/hreyulog/embedinggemma_arkts)**|
+|**2026-02-05**|**AI Agent Systems for Supply Chains: Structured Decision Prompts and Memory Retrieval**|[2602.05524](http://arxiv.org/abs/2602.05524)|null|
+|**2026-02-05**|**A Human-in-the-Loop, LLM-Centered Architecture for Knowledge-Graph Question Answering**|[2602.05512](http://arxiv.org/abs/2602.05512)|null|
+|**2026-02-05**|**Relying on LLMs: Student Practices and Instructor Norms are Changing in Computer Science Education**|[2602.05506](http://arxiv.org/abs/2602.05506)|null|
+|**2026-02-05**|**SDFP: Speculative Decoding with FIT-Pruned Models for Training-Free and Plug-and-Play LLM Acceleration**|[2602.05499](http://arxiv.org/abs/2602.05499)|null|
+|**2026-02-05**|**LinguistAgent: A Reflective Multi-Model Platform for Automated Linguistic Annotation**|[2602.05493](http://arxiv.org/abs/2602.05493)|**[link](https://github.com/Bingru-Li/LinguistAgent.)**|
+|**2026-02-05**|**Clouding the Mirror: Stealthy Prompt Injection Attacks Targeting LLM-based Phishing Detection**|[2602.05484](http://arxiv.org/abs/2602.05484)|null|
+|**2026-02-05**|**LMMRec: LLM-driven Motivation-aware Multimodal Recommendation**|[2602.05474](http://arxiv.org/abs/2602.05474)|null|
+|**2026-02-05**|**Can We Classify Flaky Tests Using Only Test Code? An LLM-Based Empirical Study**|[2602.05465](http://arxiv.org/abs/2602.05465)|null|
+|**2026-02-05**|**Refine and Purify: Orthogonal Basis Optimization with Null-Space Denoising for Conditional Representation Learning**|[2602.05464](http://arxiv.org/abs/2602.05464)|null|
+|**2026-02-05**|**BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs**|[2602.05448](http://arxiv.org/abs/2602.05448)|null|
+|**2026-02-05**|**Structured Context Engineering for File-Native Agentic Systems: Evaluating Schema Accuracy, Format Effectiveness, and Multi-File Navigation at Scale**|[2602.05447](http://arxiv.org/abs/2602.05447)|null|
+|**2026-02-05**|**Forward Index Compression for Learned Sparse Retrieval**|[2602.05445](http://arxiv.org/abs/2602.05445)|null|
+|**2026-02-05**|**SciDef: Automating Definition Extraction from Academic Literature with Large Language Models**|[2602.05413](http://arxiv.org/abs/2602.05413)|**[link](https://github.com/Media-Bias-Group/SciDef.)**|
+|**2026-02-05**|**Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search**|[2602.05408](http://arxiv.org/abs/2602.05408)|null|
+|**2026-02-05**|**Multi-Field Tool Retrieval**|[2602.05366](http://arxiv.org/abs/2602.05366)|null|
+|**2026-02-05**|**PATHWAYS: Evaluating Investigation and Context Discovery in AI Web Agents**|[2602.05354](http://arxiv.org/abs/2602.05354)|null|
+|**2026-02-05**|**NeuCLIRTech: Chinese Monolingual and Cross-Language Information Retrieval Evaluation in a Challenging Domain**|[2602.05334](http://arxiv.org/abs/2602.05334)|null|
+|**2026-02-05**|**Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs**|[2602.05275](http://arxiv.org/abs/2602.05275)|null|
+|**2026-02-05**|**FedMosaic: Federated Retrieval-Augmented Generation via Parametric Adapters**|[2602.05235](http://arxiv.org/abs/2602.05235)|null|
+|**2026-02-05**|**Semantic Search over 9 Million Mathematical Theorems**|[2602.05216](http://arxiv.org/abs/2602.05216)|**[link](https://huggingface.co/spaces/uw-math-ai/theorem-search}{this)**|
+|**2026-02-05**|**STFT Phase Retrieval with Two Window Functions**|[2602.05210](http://arxiv.org/abs/2602.05210)|null|
+|**2026-02-05**|**Traceable Cross-Source RAG for Chinese Tibetan Medicine Question Answering**|[2602.05195](http://arxiv.org/abs/2602.05195)|null|
+|**2026-02-05**|**RAG without Forgetting: Continual Query-Infused Key Memory**|[2602.05152](http://arxiv.org/abs/2602.05152)|null|
+|**2026-02-04**|**HugRAG: Hierarchical Causal Knowledge Graph Design for RAG**|[2602.05143](http://arxiv.org/abs/2602.05143)|null|
+|**2026-02-04**|**Autodiscover: A reinforcement learning recommendation system for the cold-start imbalance challenge in active learning, powered by graph-aware thompson sampling**|[2602.05087](http://arxiv.org/abs/2602.05087)|null|
+|**2026-02-04**|**Scaling Laws for Embedding Dimension in Information Retrieval**|[2602.05062](http://arxiv.org/abs/2602.05062)|null|
+|**2026-02-04**|**DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search**|[2602.05014](http://arxiv.org/abs/2602.05014)|null|
 |**2026-02-04**|**Decomposed Prompting Does Not Fix Knowledge Gaps, But Helps Models Say "I Don't Know"**|[2602.04853](http://arxiv.org/abs/2602.04853)|null|
 |**2026-02-04**|**The Key to State Reduction in Linear Attention: A Rank-based Perspective**|[2602.04852](http://arxiv.org/abs/2602.04852)|**[link](https://github.com/camail-official/LinearAttentionPruning.)**|
 |**2026-02-04**|**A-Graph: A Unified Graph Representation for At-Will Simulation across System Stacks**|[2602.04847](http://arxiv.org/abs/2602.04847)|null|
@@ -6130,6 +6195,56 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
+|**2026-02-05**|**SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs**|[2602.06040](http://arxiv.org/abs/2602.06040)|null|
+|**2026-02-05**|**Thinking with Geometry: Active Geometry Integration for Spatial Reasoning**|[2602.06037](http://arxiv.org/abs/2602.06037)|**[link](https://github.com/Li-Hao-yuan/GeoThinker.)**|
+|**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling**|[2602.06030](http://arxiv.org/abs/2602.06030)|null|
+|**2026-02-05**|**Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold**|[2602.06021](http://arxiv.org/abs/2602.06021)|null|
+|**2026-02-05**|**VisRefiner: Learning from Visual Differences for Screenshot-to-Code Generation**|[2602.05998](http://arxiv.org/abs/2602.05998)|null|
+|**2026-02-05**|**Layer-wise LoRA fine-tuning: a similarity metric approach**|[2602.05988](http://arxiv.org/abs/2602.05988)|**[link](https://github.com/c2d-usp/Layer-wise-LoRA-with-CKA)**|
+|**2026-02-05**|**RISE-Video: Can Video Generators Decode Implicit World Rules?**|[2602.05986](http://arxiv.org/abs/2602.05986)|null|
+|**2026-02-05**|**Constrained Group Relative Policy Optimization**|[2602.05863](http://arxiv.org/abs/2602.05863)|null|
+|**2026-02-05**|**A Hybrid Autoencoder for Robust Heightmap Generation from Fused Lidar and Depth Data for Humanoid Robot Locomotion**|[2602.05855](http://arxiv.org/abs/2602.05855)|null|
+|**2026-02-05**|**RRAttention: Dynamic Block Sparse Attention via Per-Head Round-Robin Shifts for Long-Context Inference**|[2602.05853](http://arxiv.org/abs/2602.05853)|null|
+|**2026-02-05**|**Weaver: End-to-End Agentic System Training for Video Interleaved Reasoning**|[2602.05829](http://arxiv.org/abs/2602.05829)|null|
+|**2026-02-05**|**ToMigo: Interpretable Design Concept Graphs for Aligning Generative AI with Creative Intent**|[2602.05825](http://arxiv.org/abs/2602.05825)|null|
+|**2026-02-05**|**ReText: Text Boosts Generalization in Image-Based Person Re-identification**|[2602.05785](http://arxiv.org/abs/2602.05785)|null|
+|**2026-02-05**|**Adaptive Global and Fine-Grained Perceptual Fusion for MLLM Embeddings Compatible with Hard Negative Amplification**|[2602.05729](http://arxiv.org/abs/2602.05729)|null|
+|**2026-02-05**|**Exploring AI-Augmented Sensemaking of Patient-Generated Health Data: A Mixed-Method Study with Healthcare Professionals in Cardiac Risk Reduction**|[2602.05687](http://arxiv.org/abs/2602.05687)|null|
+|**2026-02-05**|**(Computer) Vision in Action: Comparing Remote Sighted Assistance and a Multimodal Voice Agent in Inspection Sequences**|[2602.05671](http://arxiv.org/abs/2602.05671)|null|
+|**2026-02-05**|**Empowering Time Series Analysis with Large-Scale Multimodal Pretraining**|[2602.05646](http://arxiv.org/abs/2602.05646)|null|
+|**2026-02-05**|**Deep Learning for Contextualized NetFlow-Based Network Intrusion Detection: Methods, Data, Evaluation and Deployment**|[2602.05594](http://arxiv.org/abs/2602.05594)|null|
+|**2026-02-05**|**EgoPoseVR: Spatiotemporal Multi-Modal Reasoning for Egocentric Full-Body Pose in Virtual Reality**|[2602.05590](http://arxiv.org/abs/2602.05590)|null|
+|**2026-02-05**|**OpenMAG: A Comprehensive Benchmark for Multimodal-Attributed Graph**|[2602.05576](http://arxiv.org/abs/2602.05576)|**[link](https://github.com/YUKI-N810/OpenMAG.)**|
+|**2026-02-05**|**A Hybrid CNN and ML Framework for Multi-modal Classification of Movement Disorders Using MRI and Brain Structural Features**|[2602.05574](http://arxiv.org/abs/2602.05574)|null|
+|**2026-02-05**|**VLN-Pilot: Large Vision-Language Model as an Autonomous Indoor Drone Operator**|[2602.05552](http://arxiv.org/abs/2602.05552)|null|
+|**2026-02-05**|**Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification**|[2602.05535](http://arxiv.org/abs/2602.05535)|**[link](https://github.com/HT86159/EUQ.)**|
+|**2026-02-05**|**Assessing Problem-Solving in HR Contexts: A Comparison Between Game-Based and Self-Report Measures**|[2602.05525](http://arxiv.org/abs/2602.05525)|null|
+|**2026-02-05**|**A Unified Multimodal Framework for Dataset Construction and Model-Based Diagnosis of Ameloblastoma**|[2602.05515](http://arxiv.org/abs/2602.05515)|null|
+|**2026-02-05**|**Detecting Information Channels in Congressional Trading via Temporal Graph Learning**|[2602.05514](http://arxiv.org/abs/2602.05514)|null|
+|**2026-02-05**|**DECO: Decoupled Multimodal Diffusion Transformer for Bimanual Dexterous Manipulation with a Plugin Tactile Adapter**|[2602.05513](http://arxiv.org/abs/2602.05513)|null|
+|**2026-02-05**|**XEmoGPT: An Explainable Multimodal Emotion Recognition Framework with Cue-Level Perception and Reasoning**|[2602.05496](http://arxiv.org/abs/2602.05496)|null|
+|**2026-02-05**|**Clouding the Mirror: Stealthy Prompt Injection Attacks Targeting LLM-based Phishing Detection**|[2602.05484](http://arxiv.org/abs/2602.05484)|null|
+|**2026-02-05**|**SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing**|[2602.05480](http://arxiv.org/abs/2602.05480)|**[link](https://github.com/PeihaoWu/SOMA-1M.)**|
+|**2026-02-05**|**LMMRec: LLM-driven Motivation-aware Multimodal Recommendation**|[2602.05474](http://arxiv.org/abs/2602.05474)|null|
+|**2026-02-05**|**Once Correct, Still Wrong: Counterfactual Hallucination in Multilingual Vision-Language Models**|[2602.05437](http://arxiv.org/abs/2602.05437)|null|
+|**2026-02-05**|**VRIQ: Benchmarking and Analyzing Visual-Reasoning IQ of VLMs**|[2602.05382](http://arxiv.org/abs/2602.05382)|null|
+|**2026-02-05**|**Hybrid Quantum-Classical Optimization for Multi-Objective Supply Chain Logistics**|[2602.05364](http://arxiv.org/abs/2602.05364)|null|
+|**2026-02-05**|**Multimodal Latent Reasoning via Hierarchical Visual Cues Injection**|[2602.05359](http://arxiv.org/abs/2602.05359)|null|
+|**2026-02-05**|**Consistency-Preserving Concept Erasure via Unsafe-Safe Pairing and Directional Fisher-weighted Adaptation**|[2602.05339](http://arxiv.org/abs/2602.05339)|null|
+|**2026-02-05**|**RoboPaint: From Human Demonstration to Any Robot and Any View**|[2602.05325](http://arxiv.org/abs/2602.05325)|null|
+|**2026-02-05**|**Accelerated Sequential Flow Matching: A Bayesian Filtering Perspective**|[2602.05319](http://arxiv.org/abs/2602.05319)|null|
+|**2026-02-05**|**Fast-SAM3D: 3Dfy Anything in Images but Faster**|[2602.05293](http://arxiv.org/abs/2602.05293)|**[link](https://github.com/wlfeng0509/Fast-SAM3D.)**|
+|**2026-02-05**|**Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs**|[2602.05275](http://arxiv.org/abs/2602.05275)|null|
+|**2026-02-05**|**Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR**|[2602.05261](http://arxiv.org/abs/2602.05261)|null|
+|**2026-02-05**|**TADS: Task-Aware Data Selection for Multi-Task Multimodal Pre-Training**|[2602.05251](http://arxiv.org/abs/2602.05251)|null|
+|**2026-02-05**|**MobileManiBench: Simplifying Model Verification for Mobile Manipulation**|[2602.05233](http://arxiv.org/abs/2602.05233)|null|
+|**2026-02-05**|**Context-Aware Asymmetric Ensembling for Interpretable Retinopathy of Prematurity Screening via Active Query and Vascular Attention**|[2602.05208](http://arxiv.org/abs/2602.05208)|null|
+|**2026-02-05**|**Broadband Population Transfer Based on Suture Adiabatic Pulses**|[2602.05199](http://arxiv.org/abs/2602.05199)|null|
+|**2026-02-04**|**Multilingual Extraction and Recognition of Implicit Discourse Relations in Speech and Text**|[2602.05107](http://arxiv.org/abs/2602.05107)|null|
+|**2026-02-04**|**Visual concept ranking uncovers medical shortcuts used by large multimodal models**|[2602.05096](http://arxiv.org/abs/2602.05096)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning**|[2602.04872](http://arxiv.org/abs/2602.04872)|null|
 |**2026-02-04**|**El Agente Estructural: An Artificially Intelligent Molecular Editor**|[2602.04849](http://arxiv.org/abs/2602.04849)|null|
@@ -10363,6 +10478,56 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**Can vision language models learn intuitive physics from interaction?**|[2602.06033](http://arxiv.org/abs/2602.06033)|null|
+|**2026-02-05**|**Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory**|[2602.06025](http://arxiv.org/abs/2602.06025)|null|
+|**2026-02-05**|**Optimism Stabilizes Thompson Sampling for Adaptive Inference**|[2602.06014](http://arxiv.org/abs/2602.06014)|null|
+|**2026-02-05**|**On Computation and Reinforcement Learning**|[2602.05999](http://arxiv.org/abs/2602.05999)|null|
+|**2026-02-05**|**VisRefiner: Learning from Visual Differences for Screenshot-to-Code Generation**|[2602.05998](http://arxiv.org/abs/2602.05998)|null|
+|**2026-02-05**|**Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps**|[2602.05993](http://arxiv.org/abs/2602.05993)|null|
+|**2026-02-05**|**Learning to Share: Selective Memory for Efficient Parallel Agentic Systems**|[2602.05965](http://arxiv.org/abs/2602.05965)|**[link](https://joefioresi718.github.io/LTS_webpage/)**|
+|**2026-02-05**|**$f$ -GRPO and Beyond: Divergence-Based Reinforcement Learning Algorithms for General LLM Alignment**|[2602.05946](http://arxiv.org/abs/2602.05946)|null|
+|**2026-02-05**|**Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training**|[2602.05933](http://arxiv.org/abs/2602.05933)|**[link](https://github.com/horizon-rl/OpenKimi.)**|
+|**2026-02-05**|**Quantum Reinforcement Learning with Transformers for the Capacitated Vehicle Routing Problem**|[2602.05920](http://arxiv.org/abs/2602.05920)|null|
+|**2026-02-05**|**Stop Rewarding Hallucinated Steps: Faithfulness-Aware Step-Level Reinforcement Learning for Small Reasoning Models**|[2602.05897](http://arxiv.org/abs/2602.05897)|**[link](https://github.com/Easy195/FaithRL.)**|
+|**2026-02-05**|**Residual Reinforcement Learning for Waste-Container Lifting Using Large-Scale Cranes with Underactuated Tools**|[2602.05895](http://arxiv.org/abs/2602.05895)|null|
+|**2026-02-05**|**DFPO: Scaling Value Modeling via Distributional Flow towards Robust and Generalizable LLM Post-Training**|[2602.05890](http://arxiv.org/abs/2602.05890)|null|
+|**2026-02-05**|**Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations**|[2602.05885](http://arxiv.org/abs/2602.05885)|**[link](https://www.github.com/hkust-nlp/KernelGYM.)**|
+|**2026-02-05**|**Pathwise Test-Time Correction for Autoregressive Long Video Generation**|[2602.05871](http://arxiv.org/abs/2602.05871)|null|
+|**2026-02-05**|**Constrained Group Relative Policy Optimization**|[2602.05863](http://arxiv.org/abs/2602.05863)|null|
+|**2026-02-05**|**OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention**|[2602.05847](http://arxiv.org/abs/2602.05847)|null|
+|**2026-02-05**|**Reinforcement World Model Learning for LLM-based Agents**|[2602.05842](http://arxiv.org/abs/2602.05842)|null|
+|**2026-02-05**|**UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents**|[2602.05832](http://arxiv.org/abs/2602.05832)|**[link](https://ui-mem.github.io)**|
+|**2026-02-05**|**Weaver: End-to-End Agentic System Training for Video Interleaved Reasoning**|[2602.05829](http://arxiv.org/abs/2602.05829)|null|
+|**2026-02-05**|**TKG-Thinker: Towards Dynamic Reasoning over Temporal Knowledge Graphs via Agentic Reinforcement Learning**|[2602.05818](http://arxiv.org/abs/2602.05818)|null|
+|**2026-02-05**|**Distributional Reinforcement Learning with Diffusion Bridge Critics**|[2602.05783](http://arxiv.org/abs/2602.05783)|null|
+|**2026-02-05**|**Cross-Domain Offline Policy Adaptation via Selective Transition Correction**|[2602.05776](http://arxiv.org/abs/2602.05776)|null|
+|**2026-02-05**|**PMT Waveform Simulation and Reconstruction with Conditional Diffusion Network**|[2602.05767](http://arxiv.org/abs/2602.05767)|null|
+|**2026-02-05**|**RL-VLA $^3$ : Reinforcement Learning VLA Accelerating via Full Asynchronism**|[2602.05765](http://arxiv.org/abs/2602.05765)|null|
+|**2026-02-05**|**LongR: Unleashing Long-Context Reasoning via Reinforcement Learning with Dense Utility Rewards**|[2602.05758](http://arxiv.org/abs/2602.05758)|null|
+|**2026-02-05**|**Learning to Inject: Automated Prompt Injection via Reinforcement Learning**|[2602.05746](http://arxiv.org/abs/2602.05746)|null|
+|**2026-02-05**|**Mitigating Hallucination in Financial Retrieval-Augmented Generation via Fine-Grained Knowledge Verification**|[2602.05723](http://arxiv.org/abs/2602.05723)|null|
+|**2026-02-05**|**Anchored Policy Optimization: Mitigating Exploration Collapse Via Support-Constrained Rectification**|[2602.05717](http://arxiv.org/abs/2602.05717)|null|
+|**2026-02-05**|**UAV Trajectory Optimization via Improved Noisy Deep Q-Network**|[2602.05644](http://arxiv.org/abs/2602.05644)|null|
+|**2026-02-05**|**Rewards as Labels: Revisiting RLVR from a Classification Perspective**|[2602.05630](http://arxiv.org/abs/2602.05630)|null|
+|**2026-02-05**|**ROMAN: Reward-Orchestrated Multi-Head Attention Network for Autonomous Driving System Testing**|[2602.05629](http://arxiv.org/abs/2602.05629)|null|
+|**2026-02-05**|**Mode-Dependent Rectification for Stable PPO Training**|[2602.05619](http://arxiv.org/abs/2602.05619)|null|
+|**2026-02-05**|**HiCrowd: Hierarchical Crowd Flow Alignment for Dense Human Environments**|[2602.05608](http://arxiv.org/abs/2602.05608)|null|
+|**2026-02-05**|**TOLEBI: Learning Fault-Tolerant Bipedal Locomotion via Online Status Estimation and Fallibility Rewards**|[2602.05596](http://arxiv.org/abs/2602.05596)|null|
+|**2026-02-05**|**A Mixed Reality System for Robust Manikin Localization in Childbirth Training**|[2602.05588](http://arxiv.org/abs/2602.05588)|null|
+|**2026-02-05**|**TangramSR: Can Vision-Language Models Reason in Continuous Geometric Space?**|[2602.05570](http://arxiv.org/abs/2602.05570)|**[link](https://anonymous.4open.science/r/TangramVLM-F582/.)**|
+|**2026-02-05**|**Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation**|[2602.05548](http://arxiv.org/abs/2602.05548)|null|
+|**2026-02-05**|**Multi-Task GRPO: Reliable LLM Reasoning Across Tasks**|[2602.05547](http://arxiv.org/abs/2602.05547)|null|
+|**2026-02-05**|**Conditional Diffusion Guidance under Hard Constraint: A Stochastic Analysis Approach**|[2602.05533](http://arxiv.org/abs/2602.05533)|null|
+|**2026-02-05**|**Split Personality Training: Revealing Latent Knowledge Through Alternate Personalities**|[2602.05532](http://arxiv.org/abs/2602.05532)|null|
+|**2026-02-05**|**A Unified Framework for Rethinking Policy Divergence Measures in GRPO**|[2602.05494](http://arxiv.org/abs/2602.05494)|null|
+|**2026-02-05**|**ALIVE: Awakening LLM Reasoning via Adversarial Learning and Instructive Verbal Evaluation**|[2602.05472](http://arxiv.org/abs/2602.05472)|null|
+|**2026-02-05**|**Optimization is Not Enough: Why Problem Formulation Deserves Equal Attention**|[2602.05466](http://arxiv.org/abs/2602.05466)|null|
+|**2026-02-05**|**When Are RL Hyperparameters Benign? A Study in Offline Goal-Conditioned RL**|[2602.05459](http://arxiv.org/abs/2602.05459)|null|
+|**2026-02-05**|**DistillER: Knowledge Distillation in Entity Resolution with Large Language Models**|[2602.05452](http://arxiv.org/abs/2602.05452)|null|
+|**2026-02-05**|**Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search**|[2602.05408](http://arxiv.org/abs/2602.05408)|null|
+|**2026-02-05**|**SAIL: Self-Amplified Iterative Learning for Diffusion Model Alignment with Minimal Human Feedback**|[2602.05380](http://arxiv.org/abs/2602.05380)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
