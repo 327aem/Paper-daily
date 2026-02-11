@@ -10,6 +10,9 @@ layout: default
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
 |**2005-09-17**|**A Connection-Centric Survey of Recommender Systems Research**|[cs/0205059](http://arxiv.org/abs/cs/0205059)|null|
+|**2026-02-10**|**Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design**|[2602.10016](http://arxiv.org/abs/2602.10016)|null|
+|**2026-02-10**|**Efficient Learning of Sparse Representations from Interactions**|[2602.09935](http://arxiv.org/abs/2602.09935)|**[link](https://github.com/zombak79/compressed_elsa)**|
+|**2026-02-10**|**The Need for Standardized Evidence Sampling in CMMC Assessments: A Survey-Based Analysis of Assessor Practices**|[2602.09905](http://arxiv.org/abs/2602.09905)|null|
 |**2026-02-10**|**Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation**|[2602.09829](http://arxiv.org/abs/2602.09829)|null|
 |**2026-02-10**|**DiffuReason: Bridging Latent Reasoning and Generative Refinement for Sequential Recommendation**|[2602.09744](http://arxiv.org/abs/2602.09744)|null|
 |**2026-02-10**|**UniShare: A Unified Framework for Joint Video and Receiver Recommendation in Social Sharing**|[2602.09618](http://arxiv.org/abs/2602.09618)|null|
@@ -2054,6 +2057,17 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-02-10**|**Anagent For Enhancing Scientific Table & Figure Analysis**|[2602.10081](http://arxiv.org/abs/2602.10081)|**[link](https://xhguo7.github.io/Anagent/.)**|
+|**2026-02-10**|**Overview of the TREC 2025 RAGTIME Track**|[2602.10024](http://arxiv.org/abs/2602.10024)|null|
+|**2026-02-10**|**MEVER: Multi-Modal and Explainable Claim Verification with Graph-based Evidence Retrieval**|[2602.10023](http://arxiv.org/abs/2602.10023)|null|
+|**2026-02-10**|**Decoupled Reasoning with Implicit Fact Tokens (DRIFT): A Dual-Model Framework for Efficient Long-Context Inference**|[2602.10021](http://arxiv.org/abs/2602.10021)|**[link](https://github.com/Lancelot-Xie/DRIFT.)**|
+|**2026-02-10**|**SCORE: Specificity, Context Utilization, Robustness, and Relevance for Reference-Free LLM Evaluation**|[2602.10017](http://arxiv.org/abs/2602.10017)|null|
+|**2026-02-10**|**Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design**|[2602.10016](http://arxiv.org/abs/2602.10016)|null|
+|**2026-02-10**|**Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning**|[2602.09945](http://arxiv.org/abs/2602.09945)|null|
+|**2026-02-10**|**Probing Internal Dynamics of Spatiotemporal Optical Vortex Strings: Spatiotemporal Attraction and Filament Stretching**|[2602.09941](http://arxiv.org/abs/2602.09941)|null|
+|**2026-02-10**|**Efficient Learning of Sparse Representations from Interactions**|[2602.09935](http://arxiv.org/abs/2602.09935)|**[link](https://github.com/zombak79/compressed_elsa)**|
+|**2026-02-10**|**AmharicIR+Instr: A Two-Dataset Resource for Neural Retrieval and Instruction Tuning**|[2602.09914](http://arxiv.org/abs/2602.09914)|null|
+|**2026-02-10**|**QP-OneModel: A Unified Generative LLM for Multi-Task Query Understanding in Xiaohongshu Search**|[2602.09901](http://arxiv.org/abs/2602.09901)|null|
 |**2026-02-10**|**Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection**|[2602.09850](http://arxiv.org/abs/2602.09850)|**[link](https://github.com/chenpeng052/Reason-IAD.)**|
 |**2026-02-10**|**ARK: A Dual-Axis Multimodal Retrieval Benchmark along Reasoning and Knowledge**|[2602.09839](http://arxiv.org/abs/2602.09839)|null|
 |**2026-02-10**|**Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation**|[2602.09829](http://arxiv.org/abs/2602.09829)|null|
@@ -6428,6 +6442,13 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-02-10**|**ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation**|[2602.10113](http://arxiv.org/abs/2602.10113)|**[link](https://myangwu.github.io/ConsID-Gen.)**|
+|**2026-02-10**|**ST4VLA: Spatially Guided Training for Vision-Language-Action Models**|[2602.10109](http://arxiv.org/abs/2602.10109)|**[link](https://internrobotics.github.io/internvla-m1.github.io/)**|
+|**2026-02-10**|**Anagent For Enhancing Scientific Table & Figure Analysis**|[2602.10081](http://arxiv.org/abs/2602.10081)|**[link](https://xhguo7.github.io/Anagent/.)**|
+|**2026-02-10**|**AIDED: Augmenting Interior Design with Human Experience Data for Designer-AI Co-Design**|[2602.10054](http://arxiv.org/abs/2602.10054)|null|
+|**2026-02-10**|**MEVER: Multi-Modal and Explainable Claim Verification with Graph-based Evidence Retrieval**|[2602.10023](http://arxiv.org/abs/2602.10023)|null|
+|**2026-02-10**|**Stability and bifurcation analysis in a mechanochemical model of pattern formation**|[2602.09998](http://arxiv.org/abs/2602.09998)|null|
+|**2026-02-10**|**VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization**|[2602.09934](http://arxiv.org/abs/2602.09934)|null|
 |**2026-02-10**|**MVISTA-4D: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation**|[2602.09878](http://arxiv.org/abs/2602.09878)|null|
 |**2026-02-10**|**Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection**|[2602.09850](http://arxiv.org/abs/2602.09850)|**[link](https://github.com/chenpeng052/Reason-IAD.)**|
 |**2026-02-10**|**BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation**|[2602.09849](http://arxiv.org/abs/2602.09849)|null|
@@ -10886,6 +10907,25 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-02-10**|**Quantum-Audit: Evaluating the Reasoning Limits of LLMs on Quantum Computing**|[2602.10092](http://arxiv.org/abs/2602.10092)|null|
+|**2026-02-10**|**Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning**|[2602.10090](http://arxiv.org/abs/2602.10090)|**[link](https://github.com/Snowflake-Labs/agent-world-model.)**|
+|**2026-02-10**|**CODE-SHARP: Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs**|[2602.10085](http://arxiv.org/abs/2602.10085)|**[link](https://sites.google.com/view/code-sharp/homepage}{here}$.)**|
+|**2026-02-10**|**Anagent For Enhancing Scientific Table & Figure Analysis**|[2602.10081](http://arxiv.org/abs/2602.10081)|**[link](https://xhguo7.github.io/Anagent/.)**|
+|**2026-02-10**|**Features as Rewards: Scalable Supervision for Open-Ended Tasks via Interpretability**|[2602.10067](http://arxiv.org/abs/2602.10067)|null|
+|**2026-02-10**|**Long Chain-of-Thought Compression via Fine-Grained Group Policy Optimization**|[2602.10048](http://arxiv.org/abs/2602.10048)|null|
+|**2026-02-10**|**Optimistic World Models: Efficient Exploration in Model-Based Deep Reinforcement Learning**|[2602.10044](http://arxiv.org/abs/2602.10044)|null|
+|**2026-02-10**|**Fake-HR1: Rethinking reasoning of vision language model for synthetic image detection**|[2602.10042](http://arxiv.org/abs/2602.10042)|null|
+|**2026-02-10**|**Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure**|[2602.10029](http://arxiv.org/abs/2602.10029)|null|
+|**2026-02-10**|**ADORA: Training Reasoning Models with Dynamic Advantage Estimation on Reinforcement Learning**|[2602.10019](http://arxiv.org/abs/2602.10019)|null|
+|**2026-02-10**|**A Task-Centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula**|[2602.10014](http://arxiv.org/abs/2602.10014)|null|
+|**2026-02-10**|**Discovering High Level Patterns from Simulation Traces**|[2602.10009](http://arxiv.org/abs/2602.10009)|null|
+|**2026-02-10**|**A Collaborative Safety Shield for Safe and Efficient CAV Lane Changes in Congested On-Ramp Merging**|[2602.10007](http://arxiv.org/abs/2602.10007)|**[link](https://github.com/hkbharath/MARL-MASS)**|
+|**2026-02-10**|**Answer First, Reason Later: Aligning Search Relevance via Mode-Balanced Reinforcement Learning**|[2602.10006](http://arxiv.org/abs/2602.10006)|null|
+|**2026-02-10**|**ESTAR: Early-Stopping Token-Aware Reasoning For Efficient Inference**|[2602.10004](http://arxiv.org/abs/2602.10004)|null|
+|**2026-02-10**|**ORCHID: Fairness-Aware Orchestration in Mission-Critical Air-Ground Integrated Networks**|[2602.09994](http://arxiv.org/abs/2602.09994)|null|
+|**2026-02-10**|**SCOPE: A Training-Free Online 3D Deployment for UAV-BSs with Theoretical Analysis and Comparative Study**|[2602.09971](http://arxiv.org/abs/2602.09971)|null|
+|**2026-02-10**|**ATTNPO: Attention-Guided Process Supervision for Efficient Reasoning**|[2602.09953](http://arxiv.org/abs/2602.09953)|null|
+|**2026-02-10**|**QP-OneModel: A Unified Generative LLM for Multi-Task Query Understanding in Xiaohongshu Search**|[2602.09901](http://arxiv.org/abs/2602.09901)|null|
 |**2026-02-10**|**Code2World: A GUI World Model via Renderable Code Generation**|[2602.09856](http://arxiv.org/abs/2602.09856)|**[link](https://github.com/AMAP-ML/Code2World.)**|
 |**2026-02-10**|**Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection**|[2602.09850](http://arxiv.org/abs/2602.09850)|**[link](https://github.com/chenpeng052/Reason-IAD.)**|
 |**2026-02-10**|**A Controlled Study of Double DQN and Dueling DQN Under Cross-Environment Transfer**|[2602.09810](http://arxiv.org/abs/2602.09810)|null|
