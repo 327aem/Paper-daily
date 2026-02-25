@@ -16,6 +16,7 @@
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
 |**2005-09-17**|**A Connection-Centric Survey of Recommender Systems Research**|[cs/0205059](http://arxiv.org/abs/cs/0205059)|null|
+|**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|[2602.21099](http://arxiv.org/abs/2602.21099)|**[link](https://anonymous.4open.science/r/AGCF-2441353190/.)**|
 |**2026-02-24**|**Position-Aware Sequential Attention for Accurate Next Item Recommendations**|[2602.21052](http://arxiv.org/abs/2602.21052)|null|
 |**2026-02-24**|**HiSAC: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommenders**|[2602.21009](http://arxiv.org/abs/2602.21009)|null|
 |**2026-02-24**|**Generative Pseudo-Labeling for Pre-Ranking with LLMs**|[2602.20995](http://arxiv.org/abs/2602.20995)|null|
@@ -2254,6 +2255,11 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-02-24**|**Multi-Vector Index Compression in Any Modality**|[2602.21202](http://arxiv.org/abs/2602.21202)|null|
+|**2026-02-24**|**Seeing Through Words: Controlling Visual Retrieval Quality with Language Models**|[2602.21175](http://arxiv.org/abs/2602.21175)|**[link](https://github.com/Jianglin954/QCQC.)**|
+|**2026-02-24**|**A Benchmark for Deep Information Synthesis**|[2602.21143](http://arxiv.org/abs/2602.21143)|null|
+|**2026-02-24**|**Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning**|[2602.21103](http://arxiv.org/abs/2602.21103)|null|
+|**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|[2602.21099](http://arxiv.org/abs/2602.21099)|**[link](https://anonymous.4open.science/r/AGCF-2441353190/.)**|
 |**2026-02-24**|**Position-Aware Sequential Attention for Accurate Next Item Recommendations**|[2602.21052](http://arxiv.org/abs/2602.21052)|null|
 |**2026-02-24**|**HiSAC: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommenders**|[2602.21009](http://arxiv.org/abs/2602.21009)|null|
 |**2026-02-24**|**Generative Pseudo-Labeling for Pre-Ranking with LLMs**|[2602.20995](http://arxiv.org/abs/2602.20995)|null|
@@ -7026,6 +7032,12 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-02-24**|**Multi-Vector Index Compression in Any Modality**|[2602.21202](http://arxiv.org/abs/2602.21202)|null|
+|**2026-02-24**|**Spa3R: Predictive Spatial Field Modeling for 3D Visual Reasoning**|[2602.21186](http://arxiv.org/abs/2602.21186)|**[link](https://github.com/hustvl/Spa3R.)**|
+|**2026-02-24**|**HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning**|[2602.21157](http://arxiv.org/abs/2602.21157)|null|
+|**2026-02-24**|**CG-DMER: Hybrid Contrastive-Generative Framework for Disentangled Multimodal ECG Representation Learning**|[2602.21154](http://arxiv.org/abs/2602.21154)|null|
+|**2026-02-24**|**LUMEN: Longitudinal Multi-Modal Radiology Model for Prognosis and Diagnosis**|[2602.21142](http://arxiv.org/abs/2602.21142)|null|
+|**2026-02-24**|**UDVideoQA: A Traffic Video Question Answering Dataset for Multi-Object Spatio-Temporal Reasoning in Urban Dynamics**|[2602.21137](http://arxiv.org/abs/2602.21137)|**[link](https://ud-videoqa.github.io/UD-VideoQA/UD-VideoQA/.)**|
 |**2026-02-24**|**OmniOCR: Generalist OCR for Ethnic Minority Languages**|[2602.21042](http://arxiv.org/abs/2602.21042)|**[link](https://github.com/AIGeeksGroup/OmniOCR.)**|
 |**2026-02-24**|**Multimodal MRI Report Findings Supervised Brain Lesion Segmentation with Substructures**|[2602.20994](http://arxiv.org/abs/2602.20994)|null|
 |**2026-02-24**|**Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models**|[2602.20981](http://arxiv.org/abs/2602.20981)|null|
@@ -11875,6 +11887,10 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-02-24**|**Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics**|[2602.21203](http://arxiv.org/abs/2602.21203)|null|
+|**2026-02-24**|**NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning**|[2602.21172](http://arxiv.org/abs/2602.21172)|null|
+|**2026-02-24**|**SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards**|[2602.21158](http://arxiv.org/abs/2602.21158)|null|
+|**2026-02-24**|**Cooperative-Competitive Team Play of Real-World Craft Robots**|[2602.21119](http://arxiv.org/abs/2602.21119)|null|
 |**2026-02-24**|**Validation of an analyzability model for quantum software: a family of experiments**|[2602.21074](http://arxiv.org/abs/2602.21074)|null|
 |**2026-02-24**|**Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning**|[2602.21072](http://arxiv.org/abs/2602.21072)|null|
 |**2026-02-24**|**Motivation is Something You Need**|[2602.21064](http://arxiv.org/abs/2602.21064)|null|
