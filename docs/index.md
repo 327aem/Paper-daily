@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.01
+## Updated on 2026.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -2273,7 +2273,7 @@ layout: default
 |**2018-08-06**|**Causal Embeddings for Recommendation**|[1706.07639](http://arxiv.org/abs/1706.07639)|null|
 |**2012-12-11**|**Collaborative Competitive filtering II: Optimal Recommendation and Collaborative Games**|[1212.2150](http://arxiv.org/abs/1212.2150)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## Retrieval
 
@@ -7124,7 +7124,7 @@ layout: default
 |**2014-04-29**|**Editorial for the Bibliometric-enhanced Information Retrieval Workshop at ECIR 2014**|[1404.7099](http://arxiv.org/abs/1404.7099)|null|
 |**2014-04-08**|**Icon Based Information Retrieval and Disease Identification in Agriculture**|[1404.1664](http://arxiv.org/abs/1404.1664)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## Multi-Modal
 
@@ -12079,12 +12079,38 @@ layout: default
 |**2018-09-14**|**Multimodal Local-Global Ranking Fusion for Emotion Recognition**|[1809.04931](http://arxiv.org/abs/1809.04931)|null|
 |**2016-05-18**|**Multimodal Sparse Coding for Event Detection**|[1605.05212](http://arxiv.org/abs/1605.05212)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-02-27**|**SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems**|[2602.24235](http://arxiv.org/abs/2602.24235)|null|
+|**2026-02-27**|**Enhancing Spatial Understanding in Image Generation via Reward Modeling**|[2602.24233](http://arxiv.org/abs/2602.24233)|null|
+|**2026-02-27**|**Adaptive Combinatorial Experimental Design: Pareto Optimality for Decision-Making and Inference**|[2602.24231](http://arxiv.org/abs/2602.24231)|null|
+|**2026-02-27**|**First spectroscopic identification of the main sequence in Westerlund 1**|[2602.24218](http://arxiv.org/abs/2602.24218)|null|
+|**2026-02-27**|**Discovery of a nearby radio relic in the low-mass, merging cluster Abell 4067**|[2602.24206](http://arxiv.org/abs/2602.24206)|null|
+|**2026-02-27**|**Multi-Objective Reinforcement Learning for Large-Scale Tote Allocation in Human-Robot Collaborative Fulfillment Centers**|[2602.24182](http://arxiv.org/abs/2602.24182)|null|
+|**2026-02-27**|**Learning Flexible Job Shop Scheduling under Limited Buffers and Material Kitting Constraints**|[2602.24180](http://arxiv.org/abs/2602.24180)|null|
+|**2026-02-27**|**Advanced Scheduling Strategies for Distributed Quantum Computing Jobs**|[2602.24152](http://arxiv.org/abs/2602.24152)|null|
+|**2026-02-27**|**CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning**|[2602.24142](http://arxiv.org/abs/2602.24142)|null|
+|**2026-02-27**|**Planning from Observation and Interaction**|[2602.24121](http://arxiv.org/abs/2602.24121)|**[link](https://uwrobotlearning.github.io/mpail2/.)**|
+|**2026-02-27**|**Temporal Evolution of Sunspot Groups and Increase in the Open flux During Solar Maximum in Cycle 24**|[2602.24118](http://arxiv.org/abs/2602.24118)|null|
+|**2026-02-27**|**Recycling Failures: Salvaging Exploration in RLVR via Fine-Grained Off-Policy Guidance**|[2602.24110](http://arxiv.org/abs/2602.24110)|null|
+|**2026-02-27**|**Bi-level RL-Heuristic Optimization for Real-world Winter Road Maintenance**|[2602.24097](http://arxiv.org/abs/2602.24097)|null|
+|**2026-02-27**|**Preference Packing: Efficient Preference Optimization for Large Language Models**|[2602.24082](http://arxiv.org/abs/2602.24082)|null|
+|**2026-02-27**|**Adaptive Correlation-Weighted Intrinsic Rewards for Reinforcement Learning**|[2602.24081](http://arxiv.org/abs/2602.24081)|null|
+|**2026-02-27**|**Sharing is caring: data sharing in multi-agent supply chains**|[2602.24074](http://arxiv.org/abs/2602.24074)|null|
+|**2026-02-27**|**Task Complexity Matters: An Empirical Study of Reasoning in LLMs for Sentiment Analysis**|[2602.24060](http://arxiv.org/abs/2602.24060)|null|
+|**2026-02-27**|**Look Carefully: Adaptive Visual Reinforcements in Multimodal Large Language Models for Hallucination Mitigation**|[2602.24041](http://arxiv.org/abs/2602.24041)|null|
+|**2026-02-27**|**RewardUQ: A Unified Framework for Uncertainty-Aware Reward Models**|[2602.24040](http://arxiv.org/abs/2602.24040)|**[link](https://github.com/lasgroup/rewarduq.)**|
+|**2026-02-27**|**Portfolio Reinforcement Learning with Scenario-Context Rollout**|[2602.24037](http://arxiv.org/abs/2602.24037)|null|
+|**2026-02-27**|**Curriculum Reinforcement Learning for Quadrotor Racing with Random Obstacles**|[2602.24030](http://arxiv.org/abs/2602.24030)|**[link](https://github.com/SJTU-ViSYS-team/CRL-Drone-Racing.)**|
+|**2026-02-27**|**Comparison of symbolic regression algorithms in Star/galaxy/quasar separation**|[2602.24022](http://arxiv.org/abs/2602.24022)|null|
+|**2026-02-27**|**Foundation World Models for Agents that Learn, Verify, and Adapt Reliably Beyond Static Environments**|[2602.23997](http://arxiv.org/abs/2602.23997)|null|
+|**2026-02-27**|**Green or Fast? Learning to Balance Cold Starts and Idle Carbon in Serverless Computing**|[2602.23935](http://arxiv.org/abs/2602.23935)|null|
+|**2026-02-27**|**Learning to Build: Autonomous Robotic Assembly of Stable Structures Without Predefined Plans**|[2602.23934](http://arxiv.org/abs/2602.23934)|null|
+|**2026-02-27**|**Learning to maintain safety through expert demonstrations in settings with unknown constraints: A Q-learning perspective**|[2602.23816](http://arxiv.org/abs/2602.23816)|null|
 |**2026-02-26**|**MediX-R1: Open Ended Medical Reinforcement Learning**|[2602.23363](http://arxiv.org/abs/2602.23363)|**[link](https://medix.cvmbzuai.com)**|
 |**2026-02-26**|**Impacts of Aggregation on Model Diversity and Consumer Utility**|[2602.23293](http://arxiv.org/abs/2602.23293)|null|
 |**2026-02-26**|**Simple Models, Real Swimming: Digital Twins for Tendon-Driven Underwater Robots**|[2602.23283](http://arxiv.org/abs/2602.23283)|null|
@@ -16975,7 +17001,7 @@ layout: default
 |**2019-01-29**|**Designing a Multi-Objective Reward Function for Creating Teams of Robotic Bodyguards Using Deep Reinforcement Learning**|[1901.09837](http://arxiv.org/abs/1901.09837)|null|
 |**2018-07-16**|**Exploring Hierarchy-Aware Inverse Reinforcement Learning**|[1807.05037](http://arxiv.org/abs/1807.05037)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
