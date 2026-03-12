@@ -16,6 +16,8 @@
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
 |**2005-09-17**|**A Connection-Centric Survey of Recommender Systems Research**|[cs/0205059](http://arxiv.org/abs/cs/0205059)|null|
+|**2026-03-11**|**LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce**|[2603.11025](http://arxiv.org/abs/2603.11025)|null|
+|**2026-03-11**|**Report for NSF Workshop on Algorithm-Hardware Co-design for Medical Applications**|[2603.10976](http://arxiv.org/abs/2603.10976)|**[link](https://sites.google.com/view/nsfworkshop.)**|
 |**2026-03-11**|**TOI-4616 b: a benchmark Earth-sized planet transiting a nearby M4 dwarf**|[2603.10905](http://arxiv.org/abs/2603.10905)|null|
 |**2026-03-11**|**Investigations of Heterogeneity in Diagnostic Test Accuracy Meta-Analysis: A Methodological Review**|[2603.10686](http://arxiv.org/abs/2603.10686)|null|
 |**2026-03-11**|**Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation**|[2603.10673](http://arxiv.org/abs/2603.10673)|**[link](https://github.com/Marfekey/TriRec.)**|
@@ -2421,6 +2423,12 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-11**|**Agentar-Fin-OCR**|[2603.11044](http://arxiv.org/abs/2603.11044)|null|
+|**2026-03-11**|**Chasing RATs: Tracing Reading for and as Creative Activity**|[2603.11031](http://arxiv.org/abs/2603.11031)|null|
+|**2026-03-11**|**LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce**|[2603.11025](http://arxiv.org/abs/2603.11025)|null|
+|**2026-03-11**|**A Systematic Study of Pseudo-Relevance Feedback with LLMs**|[2603.11008](http://arxiv.org/abs/2603.11008)|null|
+|**2026-03-11**|**Contact Coverage-Guided Exploration for General-Purpose Dexterous Manipulation**|[2603.10971](http://arxiv.org/abs/2603.10971)|**[link](https://contact-coverage-guided-exploration.github.io.)**|
+|**2026-03-11**|**When should we trust the annotation? Selective prediction for molecular structure retrieval from mass spectra**|[2603.10950](http://arxiv.org/abs/2603.10950)|null|
 |**2026-03-11**|**LLM2Vec-Gen: Generative Embeddings from Large Language Models**|[2603.10913](http://arxiv.org/abs/2603.10913)|null|
 |**2026-03-11**|**A Hybrid Knowledge-Grounded Framework for Safety and Traceability in Prescription Verification**|[2603.10891](http://arxiv.org/abs/2603.10891)|null|
 |**2026-03-11**|**An Extreme Multi-label Text Classification (XMTC) Library Dataset: What if we took "Use of Practical AI in Digital Libraries" seriously?**|[2603.10876](http://arxiv.org/abs/2603.10876)|null|
@@ -7745,6 +7753,10 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-11**|**Too Vivid to Be Real? Benchmarking and Calibrating Generative Color Fidelity**|[2603.10990](http://arxiv.org/abs/2603.10990)|**[link](https://github.com/ZhengyaoFang/CFM.)**|
+|**2026-03-11**|**PPGuide: Steering Diffusion Policies with Performance Predictive Guidance**|[2603.10980](http://arxiv.org/abs/2603.10980)|null|
+|**2026-03-11**|**Med-DualLoRA: Local Adaptation of Foundation Models for 3D Cardiac MRI**|[2603.10967](http://arxiv.org/abs/2603.10967)|null|
+|**2026-03-11**|**Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment**|[2603.10929](http://arxiv.org/abs/2603.10929)|**[link](https://github.com/yfqi/lifelong_mlr_ifa.)**|
 |**2026-03-11**|**GLM-OCR Technical Report**|[2603.10910](http://arxiv.org/abs/2603.10910)|null|
 |**2026-03-11**|**From Images to Words: Efficient Cross-Modal Knowledge Distillation to Language Models from Black-box Teachers**|[2603.10877](http://arxiv.org/abs/2603.10877)|null|
 |**2026-03-11**|**FG-CLTP: Fine-Grained Contrastive Language Tactile Pretraining for Robotic Manipulation**|[2603.10871](http://arxiv.org/abs/2603.10871)|null|
@@ -13202,6 +13214,10 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-11**|**Beyond the Illusion of Consensus: From Surface Heuristics to Knowledge-Grounded Evaluation in LLM-as-a-Judge**|[2603.11027](http://arxiv.org/abs/2603.11027)|null|
+|**2026-03-11**|**Learning Adaptive Force Control for Contact-Rich Sample Scraping with Heterogeneous Materials**|[2603.10979](http://arxiv.org/abs/2603.10979)|null|
+|**2026-03-11**|**Contact Coverage-Guided Exploration for General-Purpose Dexterous Manipulation**|[2603.10971](http://arxiv.org/abs/2603.10971)|**[link](https://contact-coverage-guided-exploration.github.io.)**|
+|**2026-03-11**|**Safe RLHF Beyond Expectation: Stochastic Dominance for Universal Spectral Risk Control**|[2603.10938](http://arxiv.org/abs/2603.10938)|null|
 |**2026-03-11**|**Ergodicity in reinforcement learning**|[2603.10895](http://arxiv.org/abs/2603.10895)|null|
 |**2026-03-11**|**Dynamics-Predictive Sampling for Active RL Finetuning of Large Reasoning Models**|[2603.10887](http://arxiv.org/abs/2603.10887)|null|
 |**2026-03-11**|**Continuous Diffusion Transformers for Designing Synthetic Regulatory Elements**|[2603.10885](http://arxiv.org/abs/2603.10885)|null|
