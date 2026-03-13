@@ -16,6 +16,7 @@
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
 |**2005-09-17**|**A Connection-Centric Survey of Recommender Systems Research**|[cs/0205059](http://arxiv.org/abs/cs/0205059)|null|
+|**2026-03-12**|**Security Considerations for Artificial Intelligence Agents**|[2603.12230](http://arxiv.org/abs/2603.12230)|null|
 |**2026-03-12**|**Human-Centred LLM Privacy Audits: Findings and Frictions**|[2603.12094](http://arxiv.org/abs/2603.12094)|null|
 |**2026-03-12**|**Fair Learning for Bias Mitigation and Quality Optimization in Paper Recommendation**|[2603.11936](http://arxiv.org/abs/2603.11936)|null|
 |**2026-03-12**|**FlexRec: Adapting LLM-based Recommenders for Flexible Needs via Reinforcement Learning**|[2603.11901](http://arxiv.org/abs/2603.11901)|null|
@@ -2439,6 +2440,8 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-12**|**Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration**|[2603.12226](http://arxiv.org/abs/2603.12226)|null|
+|**2026-03-12**|**Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections**|[2603.12180](http://arxiv.org/abs/2603.12180)|null|
 |**2026-03-12**|**A Multi-Label Temporal Convolutional Framework for Transcription Factor Binding Characterization**|[2603.12073](http://arxiv.org/abs/2603.12073)|null|
 |**2026-03-12**|**XSkill: Continual Learning from Experience and Skills in Multimodal Agents**|[2603.12056](http://arxiv.org/abs/2603.12056)|null|
 |**2026-03-12**|**Prototype-Based Knowledge Guidance for Fine-Grained Structured Radiology Reporting**|[2603.11938](http://arxiv.org/abs/2603.11938)|null|
@@ -7801,6 +7804,18 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-12**|**MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning**|[2603.12266](http://arxiv.org/abs/2603.12266)|null|
+|**2026-03-12**|**GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing**|[2603.12264](http://arxiv.org/abs/2603.12264)|null|
+|**2026-03-12**|**Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing**|[2603.12254](http://arxiv.org/abs/2603.12254)|**[link](https://autogaze.github.io/.)**|
+|**2026-03-12**|**EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models**|[2603.12252](http://arxiv.org/abs/2603.12252)|null|
+|**2026-03-12**|**SciMDR: Benchmarking and Advancing Scientific Multimodal Document Reasoning**|[2603.12249](http://arxiv.org/abs/2603.12249)|null|
+|**2026-03-12**|**ForensicZip: More Tokens are Better but Not Necessary in Forensic Vision-Language Models**|[2603.12208](http://arxiv.org/abs/2603.12208)|null|
+|**2026-03-12**|**Optimal Discrimination of Gaussian States by Gaussian Measurements**|[2603.12182](http://arxiv.org/abs/2603.12182)|null|
+|**2026-03-12**|**Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections**|[2603.12180](http://arxiv.org/abs/2603.12180)|null|
+|**2026-03-12**|**Simultaneous Multi-Modal Covert Communications: Analysis and Optimization**|[2603.12172](http://arxiv.org/abs/2603.12172)|null|
+|**2026-03-12**|**LatentGeo: Learnable Auxiliary Constructions in Latent Space for Multimodal Geometric Reasoning**|[2603.12166](http://arxiv.org/abs/2603.12166)|null|
+|**2026-03-12**|**Linking Perception, Confidence and Accuracy in MLLMs**|[2603.12149](http://arxiv.org/abs/2603.12149)|null|
+|**2026-03-12**|**EgoIntent: An Egocentric Step-level Benchmark for Understanding What, Why, and Next**|[2603.12147](http://arxiv.org/abs/2603.12147)|null|
 |**2026-03-12**|**Hoi3DGen: Generating High-Quality Human-Object-Interactions in 3D**|[2603.12126](http://arxiv.org/abs/2603.12126)|null|
 |**2026-03-12**|**Cornserve: A Distributed Serving System for Any-to-Any Multimodal Models**|[2603.12118](http://arxiv.org/abs/2603.12118)|null|
 |**2026-03-12**|**EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation**|[2603.12108](http://arxiv.org/abs/2603.12108)|null|
@@ -13312,6 +13327,19 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-12**|**DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning**|[2603.12257](http://arxiv.org/abs/2603.12257)|null|
+|**2026-03-12**|**Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing**|[2603.12254](http://arxiv.org/abs/2603.12254)|**[link](https://autogaze.github.io/.)**|
+|**2026-03-12**|**Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation**|[2603.12247](http://arxiv.org/abs/2603.12247)|**[link](https://firm-reward.github.io.)**|
+|**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|[2603.12246](http://arxiv.org/abs/2603.12246)|null|
+|**2026-03-12**|**Separable neural architectures as a primitive for unified predictive and generative intelligence**|[2603.12244](http://arxiv.org/abs/2603.12244)|null|
+|**2026-03-12**|**HandelBot: Real-World Piano Playing via Fast Adaptation of Dexterous Robot Policies**|[2603.12243](http://arxiv.org/abs/2603.12243)|null|
+|**2026-03-12**|**Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights**|[2603.12228](http://arxiv.org/abs/2603.12228)|null|
+|**2026-03-12**|**Integrated Online Monitoring and Adaption of Process Model Predictive Controllers**|[2603.12187](http://arxiv.org/abs/2603.12187)|null|
+|**2026-03-12**|**LatentGeo: Learnable Auxiliary Constructions in Latent Space for Multimodal Geometric Reasoning**|[2603.12166](http://arxiv.org/abs/2603.12166)|null|
+|**2026-03-12**|**IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL**|[2603.12151](http://arxiv.org/abs/2603.12151)|null|
+|**2026-03-12**|**Linking Perception, Confidence and Accuracy in MLLMs**|[2603.12149](http://arxiv.org/abs/2603.12149)|null|
+|**2026-03-12**|**Automatic Generation of High-Performance RL Environments**|[2603.12145](http://arxiv.org/abs/2603.12145)|null|
+|**2026-03-12**|**Increasing intelligence in AI agents can worsen collective outcomes**|[2603.12129](http://arxiv.org/abs/2603.12129)|null|
 |**2026-03-12**|**Taming the Adversary: Stable Minimax Deep Deterministic Policy Gradient via Fractional Objectives**|[2603.12110](http://arxiv.org/abs/2603.12110)|null|
 |**2026-03-12**|**On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents**|[2603.12109](http://arxiv.org/abs/2603.12109)|null|
 |**2026-03-12**|**A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control**|[2603.12096](http://arxiv.org/abs/2603.12096)|null|
