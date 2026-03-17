@@ -16,6 +16,10 @@
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
 |**2005-09-17**|**A Connection-Centric Survey of Recommender Systems Research**|[cs/0205059](http://arxiv.org/abs/cs/0205059)|null|
+|**2026-03-16**|**Multi-Scenario User Profile Construction via Recommendation Lists**|[2603.15357](http://arxiv.org/abs/2603.15357)|null|
+|**2026-03-16**|**Towards Foundation Models for Consensus Rank Aggregation**|[2603.15218](http://arxiv.org/abs/2603.15218)|null|
+|**2026-03-16**|**Indirect Question Answering in English, German and Bavarian: A Challenging Task for High- and Low-Resource Languages Alike**|[2603.15130](http://arxiv.org/abs/2603.15130)|null|
+|**2026-03-16**|**Sampling-guided exploration of active feature selection policies**|[2603.15110](http://arxiv.org/abs/2603.15110)|null|
 |**2026-03-16**|**Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks**|[2603.14864](http://arxiv.org/abs/2603.14864)|null|
 |**2026-03-16**|**Realization of the SI Second Defined by Geometric Mean of Multiple Clock Transitions**|[2603.14858](http://arxiv.org/abs/2603.14858)|null|
 |**2026-03-15**|**Argumentation for Explainable and Globally Contestable Decision Support with LLMs**|[2603.14643](http://arxiv.org/abs/2603.14643)|null|
@@ -2464,6 +2468,31 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-16**|**SmartSearch: How Ranking Beats Structure for Conversational Memory Retrieval**|[2603.15599](http://arxiv.org/abs/2603.15599)|null|
+|**2026-03-16**|**Grounding World Simulation Models in a Real-World Metropolis**|[2603.15583](http://arxiv.org/abs/2603.15583)|null|
+|**2026-03-16**|**Mamba-3: Improved Sequence Modeling using State Space Principles**|[2603.15569](http://arxiv.org/abs/2603.15569)|null|
+|**2026-03-16**|**QiboAgent: a practitioner's guideline to open source assistants for Quantum Computing code development**|[2603.15538](http://arxiv.org/abs/2603.15538)|null|
+|**2026-03-16**|**Cavity elimination in cavity-QED: a self-consistent input-output approach**|[2603.15508](http://arxiv.org/abs/2603.15508)|null|
+|**2026-03-16**|**RSGen: Enhancing Layout-Driven Remote Sensing Image Generation with Diverse Edge Guidance**|[2603.15484](http://arxiv.org/abs/2603.15484)|**[link](https://github.com/D-Robotics-AI-Lab/RSGen)**|
+|**2026-03-16**|**Financial Transaction Retrieval and Contextual Evidence for Knowledge-Grounded Reasoning**|[2603.15459](http://arxiv.org/abs/2603.15459)|null|
+|**2026-03-16**|**Unlocking the Value of Text: Event-Driven Reasoning and Multi-Level Alignment for Time Series Forecasting**|[2603.15452](http://arxiv.org/abs/2603.15452)|**[link](https://github.com/decisionintelligence/VoT.)**|
+|**2026-03-16**|**Music Genre Classification: A Comparative Analysis of Classical Machine Learning and Deep Learning Approaches**|[2603.15440](http://arxiv.org/abs/2603.15440)|null|
+|**2026-03-16**|**CLAG: Adaptive Memory Organization via Agent-Driven Clustering for Small Language Model Agents**|[2603.15421](http://arxiv.org/abs/2603.15421)|null|
+|**2026-03-16**|**Estimating Absolute Web Crawl Coverage From Longitudinal Set Intersections**|[2603.15416](http://arxiv.org/abs/2603.15416)|null|
+|**2026-03-16**|**AI Evasion and Impersonation Attacks on Facial Re-Identification with Activation Map Explanations**|[2603.15396](http://arxiv.org/abs/2603.15396)|null|
+|**2026-03-16**|**Multi-Scenario User Profile Construction via Recommendation Lists**|[2603.15357](http://arxiv.org/abs/2603.15357)|null|
+|**2026-03-16**|**Intelligent Co-Design: An Interactive LLM Framework for Interior Spatial Design via Multi-Modal Agents**|[2603.15341](http://arxiv.org/abs/2603.15341)|**[link](https://rsigktyper.github.io/AICodesign/)**|
+|**2026-03-16**|**Phase retrieval technique from regions of unresolvable fringe density using Phase Shifting Interferometry and Liquid Crystal on Silicon (LCOS) Spatial Light Modulator (SLM)**|[2603.15318](http://arxiv.org/abs/2603.15318)|null|
+|**2026-03-16**|**Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory**|[2603.15280](http://arxiv.org/abs/2603.15280)|null|
+|**2026-03-16**|**Probe-then-Plan: Environment-Aware Planning for Industrial E-commerce Search**|[2603.15262](http://arxiv.org/abs/2603.15262)|null|
+|**2026-03-16**|**Molecular gas and star formation in GASP jellyfish galaxies**|[2603.15239](http://arxiv.org/abs/2603.15239)|null|
+|**2026-03-16**|**HindSight: Evaluating Research Idea Generation via Future Impact**|[2603.15164](http://arxiv.org/abs/2603.15164)|null|
+|**2026-03-16**|**To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation**|[2603.15159](http://arxiv.org/abs/2603.15159)|**[link](https://github.com/contact-eniacode/PriCoder.)**|
+|**2026-03-16**|**From Storage to Steering: Memory Control Flow Attacks on LLM Agents**|[2603.15125](http://arxiv.org/abs/2603.15125)|null|
+|**2026-03-16**|**Bridging National and International Legal Data: Two Projects Based on the Japanese Legal Standard XML Schema for Comparative Law Studies**|[2603.15094](http://arxiv.org/abs/2603.15094)|null|
+|**2026-03-16**|**ReactMotion: Generating Reactive Listener Motions from Speaker Utterance**|[2603.15083](http://arxiv.org/abs/2603.15083)|null|
+|**2026-03-16**|**Empowering Chemical Structures with Biological Insights for Scalable Phenotypic Virtual Screening**|[2603.15006](http://arxiv.org/abs/2603.15006)|**[link](https://github.com/lian-xiao/DECODE.)**|
+|**2026-03-16**|**OrgForge: A Multi-Agent Simulation Framework for Verifiable Synthetic Corporate Corpora**|[2603.14997](http://arxiv.org/abs/2603.14997)|null|
 |**2026-03-16**|**Relevance Feedback in Text-to-Image Diffusion: A Training-Free And Model-Agnostic Interactive Framework**|[2603.14936](http://arxiv.org/abs/2603.14936)|null|
 |**2026-03-16**|**Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks**|[2603.14864](http://arxiv.org/abs/2603.14864)|null|
 |**2026-03-16**|**The Impact of Ideological Discourses in RAG: A Case Study with COVID-19 Treatments**|[2603.14838](http://arxiv.org/abs/2603.14838)|null|
@@ -7916,6 +7945,37 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-16**|**Evaluating Time Awareness and Cross-modal Active Perception of Large Models via 4D Escape Room Task**|[2603.15467](http://arxiv.org/abs/2603.15467)|null|
+|**2026-03-16**|**Unlocking the Value of Text: Event-Driven Reasoning and Multi-Level Alignment for Time Series Forecasting**|[2603.15452](http://arxiv.org/abs/2603.15452)|**[link](https://github.com/decisionintelligence/VoT.)**|
+|**2026-03-16**|**MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings**|[2603.15418](http://arxiv.org/abs/2603.15418)|null|
+|**2026-03-16**|**SEA-Vision: A Multilingual Benchmark for Comprehensive Document and Scene Text Understanding in Southeast Asia**|[2603.15409](http://arxiv.org/abs/2603.15409)|null|
+|**2026-03-16**|**Spatial Characterization of Sub-Synchronous Oscillations Using Black-Box IBR Models**|[2603.15399](http://arxiv.org/abs/2603.15399)|null|
+|**2026-03-16**|**Multimodal Cyber-physical Interaction in XR: Hybrid Doctoral Thesis Defense**|[2603.15392](http://arxiv.org/abs/2603.15392)|null|
+|**2026-03-16**|**Intelligent Co-Design: An Interactive LLM Framework for Interior Spatial Design via Multi-Modal Agents**|[2603.15341](http://arxiv.org/abs/2603.15341)|**[link](https://rsigktyper.github.io/AICodesign/)**|
+|**2026-03-16**|**Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory**|[2603.15280](http://arxiv.org/abs/2603.15280)|null|
+|**2026-03-16**|**Flash-Unified: A Training-Free and Task-Aware Acceleration Framework for Native Unified Models**|[2603.15271](http://arxiv.org/abs/2603.15271)|**[link](https://github.com/Rirayh/FlashU.)**|
+|**2026-03-16**|**AGCD: Agent-Guided Cross-Modal Decoding for Weather Forecasting**|[2603.15260](http://arxiv.org/abs/2603.15260)|null|
+|**2026-03-16**|**Directional Embedding Smoothing for Robust Vision Language Models**|[2603.15259](http://arxiv.org/abs/2603.15259)|null|
+|**2026-03-16**|**Gaussian superpositions for bosonic encodings**|[2603.15258](http://arxiv.org/abs/2603.15258)|null|
+|**2026-03-16**|**HalDec-Bench: Benchmarking Hallucination Detector in Image Captioning**|[2603.15253](http://arxiv.org/abs/2603.15253)|**[link](https://dahlian00.github.io/HalDec-Bench-Page/.)**|
+|**2026-03-16**|**HYDRA: Unifying Multi-modal Generation and Understanding via Representation-Harmonized Tokenization**|[2603.15228](http://arxiv.org/abs/2603.15228)|null|
+|**2026-03-16**|**Multimodal Connectome Fusion via Cross-Attention for Autism Spectrum Disorder Classification Using Graph Learning**|[2603.15168](http://arxiv.org/abs/2603.15168)|null|
+|**2026-03-16**|**Question-guided Visual Compression with Memory Feedback for Long-Term Video Understanding**|[2603.15167](http://arxiv.org/abs/2603.15167)|null|
+|**2026-03-16**|**DAIT: Distillation from Vision-Language Models to Lightweight Classifiers with Adaptive Intermediate Teacher Transfer**|[2603.15166](http://arxiv.org/abs/2603.15166)|null|
+|**2026-03-16**|**VAREX: A Benchmark for Multi-Modal Structured Extraction from Documents**|[2603.15118](http://arxiv.org/abs/2603.15118)|null|
+|**2026-03-16**|**MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge**|[2603.15117](http://arxiv.org/abs/2603.15117)|null|
+|**2026-03-16**|**Learning from Limited and Incomplete Data: A Multimodal Framework for Predicting Pathological Response in NSCLC**|[2603.15100](http://arxiv.org/abs/2603.15100)|null|
+|**2026-03-16**|**Beam Prediction Based on Multimodal Large Language Models**|[2603.15093](http://arxiv.org/abs/2603.15093)|null|
+|**2026-03-16**|**AnoleVLA: Lightweight Vision-Language-Action Model with Deep State Space Models for Mobile Manipulation**|[2603.15046](http://arxiv.org/abs/2603.15046)|null|
+|**2026-03-16**|**GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents**|[2603.15039](http://arxiv.org/abs/2603.15039)|null|
+|**2026-03-16**|**VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining**|[2603.15030](http://arxiv.org/abs/2603.15030)|null|
+|**2026-03-16**|**MER-Bench: A Comprehensive Benchmark for Multimodal Meme Reappraisal**|[2603.15020](http://arxiv.org/abs/2603.15020)|**[link](https://github.com/one-seven17/MER-Bench.)**|
+|**2026-03-16**|**Clue Matters: Leveraging Latent Visual Clues to Empower Video Reasoning**|[2603.15008](http://arxiv.org/abs/2603.15008)|null|
+|**2026-03-16**|**TriFusion-LLM: Prior-Guided Multimodal Fusion with LLM Arbitration for Fine-grained Code Clone Detection**|[2603.15004](http://arxiv.org/abs/2603.15004)|null|
+|**2026-03-16**|**Exposing Cross-Modal Consistency for Fake News Detection in Short-Form Videos**|[2603.14992](http://arxiv.org/abs/2603.14992)|null|
+|**2026-03-16**|**MMSpec: Benchmarking Speculative Decoding for Vision-Language Models**|[2603.14989](http://arxiv.org/abs/2603.14989)|null|
+|**2026-03-16**|**ReMAP-DP: Reprojected Multi-view Aligned PointMaps for Diffusion Policy**|[2603.14977](http://arxiv.org/abs/2603.14977)|**[link](https://icr-lab.github.io/ReMAP-DP/)**|
+|**2026-03-16**|**Anchoring Emotions in Text: Robust Multimodal Fusion for Mimicry Intensity Estimation**|[2603.14976](http://arxiv.org/abs/2603.14976)|null|
 |**2026-03-16**|**Learning Question-Aware Keyframe Selection with Synthetic Supervision for Video Question Answering**|[2603.14953](http://arxiv.org/abs/2603.14953)|null|
 |**2026-03-16**|**GT-PCQA: Geometry-Texture Decoupled Point Cloud Quality Assessment with MLLM**|[2603.14951](http://arxiv.org/abs/2603.14951)|null|
 |**2026-03-16**|**Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**|[2603.14948](http://arxiv.org/abs/2603.14948)|null|
@@ -13539,6 +13599,44 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-03-16**|**Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**|[2603.15618](http://arxiv.org/abs/2603.15618)|null|
+|**2026-03-16**|**GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering**|[2603.15616](http://arxiv.org/abs/2603.15616)|null|
+|**2026-03-16**|**HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions**|[2603.15612](http://arxiv.org/abs/2603.15612)|null|
+|**2026-03-16**|**Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning**|[2603.15611](http://arxiv.org/abs/2603.15611)|null|
+|**2026-03-16**|**From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation**|[2603.15600](http://arxiv.org/abs/2603.15600)|null|
+|**2026-03-16**|**Unbiased and Biased Variance-Reduced Forward-Reflected-Backward Splitting Methods for Stochastic Composite Inclusions**|[2603.15576](http://arxiv.org/abs/2603.15576)|null|
+|**2026-03-16**|**Learning Latent Proxies for Controllable Single-Image Relighting**|[2603.15555](http://arxiv.org/abs/2603.15555)|null|
+|**2026-03-16**|**Deep Reinforcement Learning for Fano Hypersurfaces**|[2603.15437](http://arxiv.org/abs/2603.15437)|null|
+|**2026-03-16**|**Listening to the Echo: User-Reaction Aware Policy Optimization via Scalar-Verbal Hybrid Reinforcement Learning**|[2603.15434](http://arxiv.org/abs/2603.15434)|null|
+|**2026-03-16**|**Gym-V: A Unified Vision Environment System for Agentic Vision Research**|[2603.15432](http://arxiv.org/abs/2603.15432)|null|
+|**2026-03-16**|**MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings**|[2603.15418](http://arxiv.org/abs/2603.15418)|null|
+|**2026-03-16**|**Amplification Effects in Test-Time Reinforcement Learning: Safety and Reasoning Vulnerabilities**|[2603.15417](http://arxiv.org/abs/2603.15417)|null|
+|**2026-03-16**|**RESQ: A Unified Framework for REliability- and Security Enhancement of Quantized Deep Neural Networks**|[2603.15413](http://arxiv.org/abs/2603.15413)|null|
+|**2026-03-16**|**Fusian: Multi-LoRA Fusion for Fine-Grained Continuous MBTI Personality Control in Large Language Models**|[2603.15405](http://arxiv.org/abs/2603.15405)|null|
+|**2026-03-16**|**Efficient Morphology-Control Co-Design via Stackelberg Proximal Policy Optimization**|[2603.15388](http://arxiv.org/abs/2603.15388)|null|
+|**2026-03-16**|**Trajectory-Diversity-Driven Robust Vision-and-Language Navigation**|[2603.15370](http://arxiv.org/abs/2603.15370)|null|
+|**2026-03-16**|**A PPO-Based Bitrate Allocation Conditional Diffusion Model for Remote Sensing Image Compression**|[2603.15365](http://arxiv.org/abs/2603.15365)|null|
+|**2026-03-16**|**NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation**|[2603.15359](http://arxiv.org/abs/2603.15359)|**[link](https://github.com/hutslib/NavThinker.)**|
+|**2026-03-16**|**Evaluating the Robustness of Reinforcement Learning based Adaptive Traffic Signal Control**|[2603.15283](http://arxiv.org/abs/2603.15283)|null|
+|**2026-03-16**|**Probe-then-Plan: Environment-Aware Planning for Industrial E-commerce Search**|[2603.15262](http://arxiv.org/abs/2603.15262)|null|
+|**2026-03-16**|**HapticVLA: Contact-Rich Manipulation via Vision-Language-Action Model without Inference-Time Tactile Sensing**|[2603.15257](http://arxiv.org/abs/2603.15257)|null|
+|**2026-03-16**|**SAGE: Multi-Agent Self-Evolution for LLM Reasoning**|[2603.15255](http://arxiv.org/abs/2603.15255)|null|
+|**2026-03-16**|**SliceMapper: Intelligent Mapping of O-CU and O-DU onto O-Cloud Sites in 6G O-RAN**|[2603.15242](http://arxiv.org/abs/2603.15242)|null|
+|**2026-03-16**|**Towards Foundation Models for Consensus Rank Aggregation**|[2603.15218](http://arxiv.org/abs/2603.15218)|null|
+|**2026-03-16**|**Iterative Learning Control-Informed Reinforcement Learning for Batch Process Control**|[2603.15180](http://arxiv.org/abs/2603.15180)|null|
+|**2026-03-16**|**KiRAS: Keyframe Guided Self-Imitation for Robust and Adaptive Skill Learning in Quadruped Robots**|[2603.15179](http://arxiv.org/abs/2603.15179)|null|
+|**2026-03-16**|**Multi-Scale Control of Large Agent Populations: From Density Dynamics to Individual Actuation**|[2603.15160](http://arxiv.org/abs/2603.15160)|null|
+|**2026-03-16**|**Safe Flow Q-Learning: Offline Safe Reinforcement Learning with Reachability-Based Flow Policies**|[2603.15136](http://arxiv.org/abs/2603.15136)|null|
+|**2026-03-16**|**MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge**|[2603.15117](http://arxiv.org/abs/2603.15117)|null|
+|**2026-03-16**|**Sampling-guided exploration of active feature selection policies**|[2603.15110](http://arxiv.org/abs/2603.15110)|null|
+|**2026-03-16**|**Persistent incommensurate amorphous/crystalline meta-interfaces enable engineering-grade superlubricity**|[2603.15089](http://arxiv.org/abs/2603.15089)|null|
+|**2026-03-16**|**HALO:Closing Sim-to-Real Gap for Heavy-loaded Humanoid Agile Motion Skills via Differentiable Simulation**|[2603.15084](http://arxiv.org/abs/2603.15084)|**[link](https://mwondering.github.io/halo-humanoid/)**|
+|**2026-03-16**|**Writer-R1: Enhancing Generative Writing in LLMs via Memory-augmented Replay Policy Optimization**|[2603.15061](http://arxiv.org/abs/2603.15061)|null|
+|**2026-03-16**|**Interference-Aware K-Step Reachable Communication in Multi-Agent Reinforcement Learning**|[2603.15054](http://arxiv.org/abs/2603.15054)|null|
+|**2026-03-16**|**Consequentialist Objectives and Catastrophe**|[2603.15017](http://arxiv.org/abs/2603.15017)|null|
+|**2026-03-16**|**CycleRL: Sim-to-Real Deep Reinforcement Learning for Robust Autonomous Bicycle Control**|[2603.15013](http://arxiv.org/abs/2603.15013)|**[link](https://anony6f05.github.io/CycleRL/.)**|
+|**2026-03-16**|**Molecular Identifier Visual Prompt and Verifiable Reinforcement Learning for Chemical Reaction Diagram Parsing**|[2603.15011](http://arxiv.org/abs/2603.15011)|null|
+|**2026-03-16**|**Learning from Mistakes: Post-Training for Driving VLA with Takeover Data**|[2603.14972](http://arxiv.org/abs/2603.14972)|null|
 |**2026-03-16**|**CyCLeGen: Cycle-Consistent Layout Prediction and Image Generation in Vision Foundation Models**|[2603.14957](http://arxiv.org/abs/2603.14957)|null|
 |**2026-03-16**|**Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**|[2603.14948](http://arxiv.org/abs/2603.14948)|null|
 |**2026-03-16**|**RS-WorldModel: a Unified Model for Remote Sensing Understanding and Future Sense Forecasting**|[2603.14941](http://arxiv.org/abs/2603.14941)|null|
