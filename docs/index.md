@@ -10,6 +10,10 @@ layout: default
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
 |**2005-09-17**|**A Connection-Centric Survey of Recommender Systems Research**|[cs/0205059](http://arxiv.org/abs/cs/0205059)|null|
+|**2026-03-19**|**Synthetic Control Misconceptions: Recommendations for Practice**|[2603.19211](http://arxiv.org/abs/2603.19211)|null|
+|**2026-03-19**|**Man and machine: artificial intelligence and judicial decision making**|[2603.19042](http://arxiv.org/abs/2603.19042)|null|
+|**2026-03-19**|**Best-of-Both-Worlds Multi-Dueling Bandits: Unified Algorithms for Stochastic and Adversarial Preferences under Condorcet and Borda Objectives**|[2603.18972](http://arxiv.org/abs/2603.18972)|null|
+|**2026-03-19**|**Terms of (Ab)Use: An Analysis of GenAI Services**|[2603.18964](http://arxiv.org/abs/2603.18964)|null|
 |**2026-03-19**|**Implicit Grading Bias in Large Language Models: How Writing Style Affects Automated Assessment Across Math, Programming, and Essay Tasks**|[2603.18765](http://arxiv.org/abs/2603.18765)|null|
 |**2026-03-19**|**Off-Policy Learning with Limited Supply**|[2603.18702](http://arxiv.org/abs/2603.18702)|null|
 |**2026-03-19**|**OCP: Orthogonal Constrained Projection for Sparse Scaling in Industrial Commodity Recommendation**|[2603.18697](http://arxiv.org/abs/2603.18697)|null|
@@ -2502,6 +2506,16 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-03-19**|**MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**|[2603.19231](http://arxiv.org/abs/2603.19231)|null|
+|**2026-03-19**|**FinTradeBench: A Financial Reasoning Benchmark for LLMs**|[2603.19225](http://arxiv.org/abs/2603.19225)|null|
+|**2026-03-19**|**Few-shot Acoustic Synthesis with Multimodal Flow Matching**|[2603.19176](http://arxiv.org/abs/2603.19176)|null|
+|**2026-03-19**|**Mobile Radio Networks and Weather Radars Dualism: Rainfall Measurement Revolution in Densely Populated Areas**|[2603.19153](http://arxiv.org/abs/2603.19153)|null|
+|**2026-03-19**|**GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning**|[2603.19137](http://arxiv.org/abs/2603.19137)|null|
+|**2026-03-19**|**DaPT: A Dual-Path Framework for Multilingual Multi-hop Question Answering**|[2603.19097](http://arxiv.org/abs/2603.19097)|null|
+|**2026-03-19**|**SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models**|[2603.19028](http://arxiv.org/abs/2603.19028)|null|
+|**2026-03-19**|**Hypothesis-Conditioned Query Rewriting for Decision-Useful Retrieval**|[2603.19008](http://arxiv.org/abs/2603.19008)|**[link](https://anonymous.4open.science/r/HCQR-1C2E.)**|
+|**2026-03-19**|**GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting**|[2603.18912](http://arxiv.org/abs/2603.18912)|**[link](https://github.com/ATAboukhadra/GHOST.)**|
+|**2026-03-19**|**Comparative Analysis of Large Language Models in Generating Telugu Responses for Maternal Health Queries**|[2603.18898](http://arxiv.org/abs/2603.18898)|null|
 |**2026-03-19**|**PromptHub: Enhancing Multi-Prompt Visual In-Context Learning with Locality-Aware Fusion, Concentration and Alignment**|[2603.18891](http://arxiv.org/abs/2603.18891)|**[link](https://github.com/luotc-why/ICLR26-PromptHub.)**|
 |**2026-03-19**|**Physics-grounded Mechanism Design for Spectrum Sharing between Passive and Active Users**|[2603.18776](http://arxiv.org/abs/2603.18776)|null|
 |**2026-03-19**|**MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**|[2603.18718](http://arxiv.org/abs/2603.18718)|**[link](https://github.com/ventr1c/memma.)**|
@@ -8104,6 +8118,28 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|[2603.19235](http://arxiv.org/abs/2603.19235)|**[link](https://github.com/H-EmbodVis/VEGA-3D.)**|
+|**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|[2603.19233](http://arxiv.org/abs/2603.19233)|**[link](https://action-atlas.com))**|
+|**2026-03-19**|**Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens**|[2603.19232](http://arxiv.org/abs/2603.19232)|**[link](https://github.com/YuqingWang1029/CubiD.)**|
+|**2026-03-19**|**DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**|[2603.19219](http://arxiv.org/abs/2603.19219)|null|
+|**2026-03-19**|**LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs**|[2603.19217](http://arxiv.org/abs/2603.19217)|null|
+|**2026-03-19**|**Few-shot Acoustic Synthesis with Multimodal Flow Matching**|[2603.19176](http://arxiv.org/abs/2603.19176)|null|
+|**2026-03-19**|**Introducing M: A Modular, Modifiable Social Robot**|[2603.19134](http://arxiv.org/abs/2603.19134)|null|
+|**2026-03-19**|**On Optimizing Multimodal Jailbreaks for Spoken Language Models**|[2603.19127](http://arxiv.org/abs/2603.19127)|**[link](https://repos.lsv.uni-saarland.de/akrishnan/multimodal-jailbreak-slm)**|
+|**2026-03-19**|**SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues**|[2603.19092](http://arxiv.org/abs/2603.19092)|null|
+|**2026-03-19**|**Multi-Modal Building Change Detection for Large-Scale Small Changes: Benchmark and Baseline**|[2603.19077](http://arxiv.org/abs/2603.19077)|**[link](https://github.com/AeroVILab-AHU/LSMD)**|
+|**2026-03-19**|**Communication-Efficient and Robust Multi-Modal Federated Learning via Latent-Space Consensus**|[2603.19067](http://arxiv.org/abs/2603.19067)|null|
+|**2026-03-19**|**Photon-echo synchronization and quantum state transfer in short quantum links**|[2603.19064](http://arxiv.org/abs/2603.19064)|null|
+|**2026-03-19**|**Fire as a Service: Augmenting Robot Simulators with Thermally and Visually Accurate Fire Dynamics**|[2603.19063](http://arxiv.org/abs/2603.19063)|null|
+|**2026-03-19**|**SignAgent: Agentic LLMs for Linguistically-Grounded Sign Language Annotation and Dataset Curation**|[2603.19059](http://arxiv.org/abs/2603.19059)|null|
+|**2026-03-19**|**SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation**|[2603.19053](http://arxiv.org/abs/2603.19053)|null|
+|**2026-03-19**|**TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation**|[2603.19039](http://arxiv.org/abs/2603.19039)|null|
+|**2026-03-19**|**ATG-MoE: Autoregressive trajectory generation with mixture-of-experts for assembly skill learning**|[2603.19029](http://arxiv.org/abs/2603.19029)|**[link](https://hwh23.github.io/ATG-MoE)**|
+|**2026-03-19**|**SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models**|[2603.19028](http://arxiv.org/abs/2603.19028)|null|
+|**2026-03-19**|**Rethinking MLLM Itself as a Segmenter with a Single Segmentation Token**|[2603.19026](http://arxiv.org/abs/2603.19026)|**[link](https://github.com/ANDYZAQ/SELF1E.)**|
+|**2026-03-19**|**Exact Law of Quantum Reversibility under Gaussian Pure Loss**|[2603.19024](http://arxiv.org/abs/2603.19024)|null|
+|**2026-03-19**|**Generalized Hand-Object Pose Estimation with Occlusion Awareness**|[2603.19013](http://arxiv.org/abs/2603.19013)|null|
+|**2026-03-19**|**Translating MRI to PET through Conditional Diffusion Models with Enhanced Pathology Awareness**|[2603.18896](http://arxiv.org/abs/2603.18896)|**[link](https://github.com/ai-med/PASTA.)**|
 |**2026-03-19**|**"You've got a friend in me": Co-Designing a Peer Social Robot for Young Newcomers' Language and Cultural Learning**|[2603.18804](http://arxiv.org/abs/2603.18804)|null|
 |**2026-03-19**|**SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction**|[2603.18774](http://arxiv.org/abs/2603.18774)|**[link](https://www.github.com/Schindler-EPFL-Lab/SEAR.)**|
 |**2026-03-19**|**Empathetic Motion Generation for Humanoid Educational Robots via Reasoning-Guided Vision--Language--Motion Diffusion Architecture**|[2603.18771](http://arxiv.org/abs/2603.18771)|null|
@@ -13889,6 +13925,28 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-03-19**|**Exploring the Role of Interaction Data to Empower End-User Decision-Making In UI Personalization**|[2603.19196](http://arxiv.org/abs/2603.19196)|null|
+|**2026-03-19**|**OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards**|[2603.19191](http://arxiv.org/abs/2603.19191)|null|
+|**2026-03-19**|**Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving**|[2603.19188](http://arxiv.org/abs/2603.19188)|null|
+|**2026-03-19**|**Box Maze: A Process-Control Architecture for Reliable LLM Reasoning**|[2603.19182](http://arxiv.org/abs/2603.19182)|null|
+|**2026-03-19**|**SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits**|[2603.19173](http://arxiv.org/abs/2603.19173)|null|
+|**2026-03-19**|**ARIADNE: A Perception-Reasoning Synergy Framework for Trustworthy Coronary Angiography Analysis**|[2603.19169](http://arxiv.org/abs/2603.19169)|null|
+|**2026-03-19**|**VEPO: Variable Entropy Policy Optimization for Low-Resource Language Foundation Models**|[2603.19152](http://arxiv.org/abs/2603.19152)|null|
+|**2026-03-19**|**Adaptive Regime-Aware Stock Price Prediction Using Autoencoder-Gated Dual Node Transformers with Reinforcement Learning Control**|[2603.19136](http://arxiv.org/abs/2603.19136)|null|
+|**2026-03-19**|**Variational and Annealing-Based Approaches to Quantum Combinatorial Optimization**|[2603.19117](http://arxiv.org/abs/2603.19117)|null|
+|**2026-03-19**|**TAU-R1: Visual Language Model for Traffic Anomaly Understanding**|[2603.19098](http://arxiv.org/abs/2603.19098)|**[link](https://github.com/siri-rouser/TAU-R1)**|
+|**2026-03-19**|**Analysis of Io's tidal response as a function of the properties of the partially molten layer**|[2603.19095](http://arxiv.org/abs/2603.19095)|null|
+|**2026-03-19**|**Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning**|[2603.19078](http://arxiv.org/abs/2603.19078)|null|
+|**2026-03-19**|**CAMO: A Conditional Neural Solver for the Multi-objective Multiple Traveling Salesman Problem**|[2603.19074](http://arxiv.org/abs/2603.19074)|null|
+|**2026-03-19**|**MoRI: Learning Motivation-Grounded Reasoning for Scientific Ideation in Large Language Models**|[2603.19044](http://arxiv.org/abs/2603.19044)|**[link](https://github.com/ECNU-Text-Computing/IdeaGeneration}{GitHub}.)**|
+|**2026-03-19**|**Evaluating Game Difficulty in Tetris Block Puzzle**|[2603.18994](http://arxiv.org/abs/2603.18994)|null|
+|**2026-03-19**|**CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think**|[2603.18991](http://arxiv.org/abs/2603.18991)|null|
+|**2026-03-19**|**PRIOR: Perceptive Learning for Humanoid Locomotion with Reference Gait Priors**|[2603.18979](http://arxiv.org/abs/2603.18979)|null|
+|**2026-03-19**|**Maximum-Entropy Exploration with Future State-Action Visitation Measures**|[2603.18965](http://arxiv.org/abs/2603.18965)|null|
+|**2026-03-19**|**Context Bootstrapped Reinforcement Learning**|[2603.18953](http://arxiv.org/abs/2603.18953)|null|
+|**2026-03-19**|**Kernel Single-Index Bandits: Estimation, Inference, and Learning**|[2603.18938](http://arxiv.org/abs/2603.18938)|null|
+|**2026-03-19**|**Progressive Training for Explainable Citation-Grounded Dialogue: Reducing Hallucination to Zero in English-Hindi LLMs**|[2603.18911](http://arxiv.org/abs/2603.18911)|null|
+|**2026-03-19**|**Optimal strategies for controlled growth in metastable Kawasaki dynamics**|[2603.18903](http://arxiv.org/abs/2603.18903)|null|
 |**2026-03-19**|**MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model**|[2603.18892](http://arxiv.org/abs/2603.18892)|null|
 |**2026-03-19**|**PromptHub: Enhancing Multi-Prompt Visual In-Context Learning with Locality-Aware Fusion, Concentration and Alignment**|[2603.18891](http://arxiv.org/abs/2603.18891)|**[link](https://github.com/luotc-why/ICLR26-PromptHub.)**|
 |**2026-03-19**|**Reasoning over mathematical objects: on-policy reward modeling and test time aggregation**|[2603.18886](http://arxiv.org/abs/2603.18886)|null|
