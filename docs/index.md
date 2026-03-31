@@ -10,6 +10,7 @@ layout: default
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
 |**2005-09-17**|**A Connection-Centric Survey of Recommender Systems Research**|[cs/0205059](http://arxiv.org/abs/cs/0205059)|null|
+|**2026-03-30**|**Teaching AI Interactively: A Case Study in Higher Education**|[2603.28679](http://arxiv.org/abs/2603.28679)|null|
 |**2026-03-30**|**TIEG-Youpu Solution for NeurIPS 2022 WikiKG90Mv2-LSC**|[2603.28512](http://arxiv.org/abs/2603.28512)|null|
 |**2026-03-30**|**With a Little Help From My Friends: Collective Manipulation in Risk-Controlling Recommender Systems**|[2603.28476](http://arxiv.org/abs/2603.28476)|null|
 |**2026-03-30**|**Time Series Correlations and Kolmogorov Complexity: A Hausdorff Dimension Perspective**|[2603.28375](http://arxiv.org/abs/2603.28375)|null|
@@ -2625,6 +2626,11 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-03-30**|**Graphilosophy: Graph-Based Digital Humanities Computing with The Four Books**|[2603.28755](http://arxiv.org/abs/2603.28755)|**[link](https://github.com/ThuDoMinh1102/confucian-texts-knowledge-graph.)**|
+|**2026-03-30**|**ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining**|[2603.28737](http://arxiv.org/abs/2603.28737)|**[link](https://github.com/ajd12342/paraspeechclap)**|
+|**2026-03-30**|**Pandora: Articulated 3D Scene Graphs from Egocentric Vision**|[2603.28732](http://arxiv.org/abs/2603.28732)|null|
+|**2026-03-30**|**Dynamic Dual-Granularity Skill Bank for Agentic RL**|[2603.28716](http://arxiv.org/abs/2603.28716)|null|
+|**2026-03-30**|**Learning a dynamic four-chamber shape model of the human heart for 95,695 UK Biobank participants**|[2603.28711](http://arxiv.org/abs/2603.28711)|null|
 |**2026-03-30**|**ELViS: Efficient Visual Similarity from Local Descriptors that Generalizes Across Domains**|[2603.28603](http://arxiv.org/abs/2603.28603)|**[link](https://github.com/pavelsuma/ELViS/)**|
 |**2026-03-30**|**CirrusBench: Evaluating LLM-based Agents Beyond Correctness in Real-World Cloud Service Environments**|[2603.28569](http://arxiv.org/abs/2603.28569)|**[link](https://github.com/CirrusAI)**|
 |**2026-03-30**|**Hydra: Unifying Document Retrieval and Generation in a Single Vision-Language Model**|[2603.28554](http://arxiv.org/abs/2603.28554)|null|
@@ -8547,6 +8553,10 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-03-30**|**On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers**|[2603.28762](http://arxiv.org/abs/2603.28762)|null|
+|**2026-03-30**|**Can Hierarchical Cross-Modal Fusion Predict Human Perception of AI Dubbed Content?**|[2603.28717](http://arxiv.org/abs/2603.28717)|null|
+|**2026-03-30**|**VAANI: Capturing the language landscape for an inclusive digital India**|[2603.28714](http://arxiv.org/abs/2603.28714)|null|
+|**2026-03-30**|**AdaptToken: Entropy-based Adaptive Token Selection for MLLM Long Video Understanding**|[2603.28696](http://arxiv.org/abs/2603.28696)|**[link](https://haozheqi.github.io/adapt-token)**|
 |**2026-03-30**|**Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning**|[2603.28618](http://arxiv.org/abs/2603.28618)|null|
 |**2026-03-30**|**ResAdapt: Adaptive Resolution for Efficient Multimodal Reasoning**|[2603.28610](http://arxiv.org/abs/2603.28610)|**[link](https://github.com/Xnhyacinth/ResAdapt.)**|
 |**2026-03-30**|**Unsafe2Safe: Controllable Image Anonymization for Downstream Utility**|[2603.28605](http://arxiv.org/abs/2603.28605)|null|
@@ -14691,6 +14701,12 @@ layout: default
 
 | Publish Date | Title |  PDF | Code |
 |:---------|:-----------------------|:------|:------|
+|**2026-03-30**|**Gen-Searcher: Reinforcing Agentic Search for Image Generation**|[2603.28767](http://arxiv.org/abs/2603.28767)|null|
+|**2026-03-30**|**ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining**|[2603.28737](http://arxiv.org/abs/2603.28737)|**[link](https://github.com/ajd12342/paraspeechclap)**|
+|**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|[2603.28730](http://arxiv.org/abs/2603.28730)|null|
+|**2026-03-30**|**Stepwise Credit Assignment for GRPO on Flow-Matching Models**|[2603.28718](http://arxiv.org/abs/2603.28718)|null|
+|**2026-03-30**|**Dynamic Dual-Granularity Skill Bank for Agentic RL**|[2603.28716](http://arxiv.org/abs/2603.28716)|null|
+|**2026-03-30**|**DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing**|[2603.28713](http://arxiv.org/abs/2603.28713)|null|
 |**2026-03-30**|**Mitigating Backdoor Attacks in Federated Learning Using PPA and MiniMax Game Theory**|[2603.28652](http://arxiv.org/abs/2603.28652)|null|
 |**2026-03-30**|**Dynamic Lookahead Distance via Reinforcement Learning-Based Pure Pursuit for Autonomous Racing**|[2603.28625](http://arxiv.org/abs/2603.28625)|null|
 |**2026-03-30**|**Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning**|[2603.28618](http://arxiv.org/abs/2603.28618)|null|
