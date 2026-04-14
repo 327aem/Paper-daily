@@ -16,6 +16,8 @@
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
 |**2005-09-17**|**A Connection-Centric Survey of Recommender Systems Research**|[cs/0205059](http://arxiv.org/abs/cs/0205059)|null|
+|**2026-04-13**|**Predicting User Satisfaction in Online Education Platforms: A Large Language Model Based Multi-Modal Review Mining Framework**|[2604.11723](http://arxiv.org/abs/2604.11723)|null|
+|**2026-04-13**|**DreamKG: A KG-Augmented Conversational System for People Experiencing Homelessness**|[2604.11703](http://arxiv.org/abs/2604.11703)|null|
 |**2026-04-13**|**Decomposing and Reducing Hidden Measurement Error in LLM Evaluation Pipelines**|[2604.11581](http://arxiv.org/abs/2604.11581)|null|
 |**2026-04-13**|**Functional Misalignment in Human-AI Interactions on Digital Platforms**|[2604.11459](http://arxiv.org/abs/2604.11459)|null|
 |**2026-04-13**|**An Empirical Comparison of Methods for Quantifying the Similarity of Categorical Datasets**|[2604.11458](http://arxiv.org/abs/2604.11458)|null|
@@ -2796,6 +2798,14 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-13**|**Retrieval Is Not Enough: Why Organizational AI Needs Epistemic Infrastructure**|[2604.11759](http://arxiv.org/abs/2604.11759)|null|
+|**2026-04-13**|**The GAPS Programme at TNG. LXXIII. Confirmation of the hot sub-Neptune TOI-4602 b (HD 25295 b), a key target for future atmospheric characterization**|[2604.11728](http://arxiv.org/abs/2604.11728)|null|
+|**2026-04-13**|**Legal2LogicICL: Improving Generalization in Transforming Legal Cases to Logical Formulas via Diverse Few-Shot Learning**|[2604.11699](http://arxiv.org/abs/2604.11699)|**[link](https://github.com/yingjie7/Legal2LogicICL.)**|
+|**2026-04-13**|**EA-Agent: A Structured Multi-Step Reasoning Agent for Entity Alignment**|[2604.11686](http://arxiv.org/abs/2604.11686)|**[link](https://github.com/YXNan0110/EA-Agent.)**|
+|**2026-04-13**|**UNIGEOCLIP: Unified Geospatial Contrastive Learning**|[2604.11668](http://arxiv.org/abs/2604.11668)|**[link](https://gastruc.github.io/unigeoclip.)**|
+|**2026-04-13**|**Beyond LLMs, Sparse Distributed Memory, and Neuromorphics <A Hyper-Dimensional SRAM-CAM "VaCoAl" for Ultra-High Speed, Ultra-Low Power, and Low Cost>**|[2604.11665](http://arxiv.org/abs/2604.11665)|null|
+|**2026-04-13**|**Towards Autonomous Mechanistic Reasoning in Virtual Cells**|[2604.11661](http://arxiv.org/abs/2604.11661)|null|
+|**2026-04-13**|**Back to Basics: Let Conversational Agents Remember with Just Retrieval and Generation**|[2604.11628](http://arxiv.org/abs/2604.11628)|null|
 |**2026-04-13**|**Synthius-Mem: Brain-Inspired Hallucination-Resistant Persona Memory Achieving 94.4% Memory Accuracy and 99.6% Adversarial Robustness on LoCoMo**|[2604.11563](http://arxiv.org/abs/2604.11563)|null|
 |**2026-04-13**|**NovBench: Evaluating Large Language Models on Academic Paper Novelty Assessment**|[2604.11543](http://arxiv.org/abs/2604.11543)|null|
 |**2026-04-13**|**CLAY: Conditional Visual Similarity Modulation in Vision-Language Embedding Space**|[2604.11539](http://arxiv.org/abs/2604.11539)|null|
@@ -9173,6 +9183,22 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-13**|**Who Handles Orientation? Investigating Invariance in Feature Matching**|[2604.11809](http://arxiv.org/abs/2604.11809)|**[link](https://github.com/davnords/loma.)**|
+|**2026-04-13**|**OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation**|[2604.11804](http://arxiv.org/abs/2604.11804)|null|
+|**2026-04-13**|**Disentangled Point Diffusion for Precise Object Placement**|[2604.11793](http://arxiv.org/abs/2604.11793)|null|
+|**2026-04-13**|**LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**|[2604.11792](http://arxiv.org/abs/2604.11792)|null|
+|**2026-04-13**|**LMMs Meet Object-Centric Vision: Understanding, Segmentation, Editing and Generation**|[2604.11789](http://arxiv.org/abs/2604.11789)|null|
+|**2026-04-13**|**Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games**|[2604.11741](http://arxiv.org/abs/2604.11741)|null|
+|**2026-04-13**|**Multi-ORFT: Stable Online Reinforcement Fine-Tuning for Multi-Agent Diffusion Planning in Cooperative Driving**|[2604.11734](http://arxiv.org/abs/2604.11734)|null|
+|**2026-04-13**|**Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions**|[2604.11730](http://arxiv.org/abs/2604.11730)|null|
+|**2026-04-13**|**Predicting User Satisfaction in Online Education Platforms: A Large Language Model Based Multi-Modal Review Mining Framework**|[2604.11723](http://arxiv.org/abs/2604.11723)|null|
+|**2026-04-13**|**Koopman Representations for Non-Vanishing Time Intervals: An Optimization Approach and Sampling Effects**|[2604.11715](http://arxiv.org/abs/2604.11715)|null|
+|**2026-04-13**|**A Mamba-Based Multimodal Network for Multiscale Blast-Induced Rapid Structural Damage Assessment**|[2604.11709](http://arxiv.org/abs/2604.11709)|**[link](https://github.com/IMPACTSquad/Blast-Mamba)**|
+|**2026-04-13**|**Geometry-controlled magnon-polariton excitations in a bilayer planar cavity**|[2604.11690](http://arxiv.org/abs/2604.11690)|null|
+|**2026-04-13**|**UNIGEOCLIP: Unified Geospatial Contrastive Learning**|[2604.11668](http://arxiv.org/abs/2604.11668)|**[link](https://gastruc.github.io/unigeoclip.)**|
+|**2026-04-13**|**GazeVaLM: A Multi-Observer Eye-Tracking Benchmark for Evaluating Clinical Realism in AI-Generated X-Rays**|[2604.11653](http://arxiv.org/abs/2604.11653)|**[link](https://huggingface.co/datasets/davidcwong/GazeVaLM.)**|
+|**2026-04-13**|**POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs**|[2604.11627](http://arxiv.org/abs/2604.11627)|null|
+|**2026-04-13**|**Geoparsing: Diagram Parsing for Plane and Solid Geometry with a Unified Formal Language**|[2604.11600](http://arxiv.org/abs/2604.11600)|null|
 |**2026-04-13**|**HumDial-EIBench: A Human-Recorded Multi-Turn Emotional Intelligence Benchmark for Audio Language Models**|[2604.11594](http://arxiv.org/abs/2604.11594)|null|
 |**2026-04-13**|**MLLM-as-a-Judge Exhibits Model Preference Bias**|[2604.11589](http://arxiv.org/abs/2604.11589)|null|
 |**2026-04-13**|**GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth**|[2604.11585](http://arxiv.org/abs/2604.11585)|null|
@@ -15815,6 +15841,19 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-04-13**|**Detecting Safety Violations Across Many Agent Traces**|[2604.11806](http://arxiv.org/abs/2604.11806)|null|
+|**2026-04-13**|**Solving Physics Olympiad via Reinforcement Learning on Physics Simulators**|[2604.11805](http://arxiv.org/abs/2604.11805)|**[link](https://sim2reason.github.io/.)**|
+|**2026-04-13**|**ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents**|[2604.11784](http://arxiv.org/abs/2604.11784)|null|
+|**2026-04-13**|**Autonomous Diffractometry Enabled by Visual Reinforcement Learning**|[2604.11773](http://arxiv.org/abs/2604.11773)|null|
+|**2026-04-13**|**Discourse Diversity in Multi-Turn Empathic Dialogue**|[2604.11742](http://arxiv.org/abs/2604.11742)|null|
+|**2026-04-13**|**Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games**|[2604.11741](http://arxiv.org/abs/2604.11741)|null|
+|**2026-04-13**|**Multi-ORFT: Stable Online Reinforcement Fine-Tuning for Multi-Agent Diffusion Planning in Cooperative Driving**|[2604.11734](http://arxiv.org/abs/2604.11734)|null|
+|**2026-04-13**|**Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind**|[2604.11666](http://arxiv.org/abs/2604.11666)|null|
+|**2026-04-13**|**Back to Basics: Let Conversational Agents Remember with Just Retrieval and Generation**|[2604.11628](http://arxiv.org/abs/2604.11628)|null|
+|**2026-04-13**|**RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time**|[2604.11626](http://arxiv.org/abs/2604.11626)|null|
+|**2026-04-13**|**Identifying Disruptive Models in the Open-Source LLM Community**|[2604.11618](http://arxiv.org/abs/2604.11618)|null|
+|**2026-04-13**|**Utilizing and Calibrating Hindsight Process Rewards via Reinforcement with Mutual Information Self-Evaluation**|[2604.11611](http://arxiv.org/abs/2604.11611)|null|
+|**2026-04-13**|**Geoparsing: Diagram Parsing for Plane and Solid Geometry with a Unified Formal Language**|[2604.11600](http://arxiv.org/abs/2604.11600)|null|
 |**2026-04-13**|**Relax: An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale**|[2604.11554](http://arxiv.org/abs/2604.11554)|**[link](https://github.com/rednote-ai/Relax.)**|
 |**2026-04-13**|**Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach**|[2604.11547](http://arxiv.org/abs/2604.11547)|**[link](https://github.com/tdlhl/MedSSR.)**|
 |**2026-04-13**|**RLSpoofer: A Lightweight Evaluator for LLM Watermark Spoofing Resilience**|[2604.11546](http://arxiv.org/abs/2604.11546)|null|
