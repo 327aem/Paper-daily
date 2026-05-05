@@ -3072,6 +3072,7 @@
 
 |Publish Date|Title|PDF|Code|
 |---|---|---|---|
+|**2026-05-04**|**AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion**|[2605.02892](http://arxiv.org/abs/2605.02892)|**[link](https://liagm.github.io/AlbumFill/)**|
 |**2026-05-04**|**FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents**|[2605.02815](http://arxiv.org/abs/2605.02815)|**[link](https://github.com/StringNLPLAB/FlexSQL)**|
 |**2026-05-04**|**Multi-Axis Speech Similarity via Factor-Partitioned Embeddings**|[2605.02804](http://arxiv.org/abs/2605.02804)|null|
 |**2026-05-04**|**JWST high-contrast spectroscopy with speckle modelling: Atmospheric retrievals of the T dwarf companion HD 19467 B**|[2605.02769](http://arxiv.org/abs/2605.02769)|null|
